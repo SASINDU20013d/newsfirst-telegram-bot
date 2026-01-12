@@ -6,6 +6,9 @@ on:
     - cron: "5 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape-and-send:
     runs-on: ubuntu-latest
@@ -32,3 +35,25 @@ jobs:
           # TARGET_DATE: "2026-01-11"
         run: |
           python news_scraper.py
+
+      - name: Commit and push sent articles tracking file
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add sent_articles.json if it exists and has changes
+          if [ -f sent_articles.json ]; then
+            git add sent_articles.json
+            
+            # Only commit if there are changes
+            if ! git diff --cached --quiet; then
+              CURRENT_DATE=$(date -u +"%Y-%m-%d")
+              git commit -m "Update sent articles tracking - $CURRENT_DATE"
+              git push
+            else
+              echo "No changes to sent_articles.json, skipping commit"
+            fi
+          else
+            echo "sent_articles.json not found, skipping commit"
+          fi
+
