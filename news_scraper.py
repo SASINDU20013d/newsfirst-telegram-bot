@@ -53,8 +53,14 @@ def cleanup_old_articles(sent_data: dict) -> dict:
     
     cleaned_articles = {}
     for url, metadata in sent_data.get("articles", {}).items():
+        sent_timestamp_str = metadata.get("sent_timestamp", "")
+        if not sent_timestamp_str:
+            # Keep articles with missing timestamps to be safe
+            cleaned_articles[url] = metadata
+            continue
+            
         try:
-            sent_timestamp = dt.datetime.fromisoformat(metadata.get("sent_timestamp", ""))
+            sent_timestamp = dt.datetime.fromisoformat(sent_timestamp_str)
             if sent_timestamp >= cutoff_date:
                 cleaned_articles[url] = metadata
         except (ValueError, TypeError):
