@@ -9,6 +9,8 @@ on:
 jobs:
   scrape-and-send:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -32,3 +34,16 @@ jobs:
           # TARGET_DATE: "2026-01-11"
         run: |
           python news_scraper.py
+
+      - name: Commit and push sent_articles.json (if changed)
+        run: |
+          if git diff --quiet -- sent_articles.json; then
+            echo "No changes in sent_articles.json; skipping commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            DATE=$(date -u +"%Y-%m-%d")
+            git add sent_articles.json
+            git commit -m "Update sent_articles.json [${DATE}]"
+            git push
+          fi
