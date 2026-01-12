@@ -242,7 +242,7 @@ def main(argv: list[str]) -> None:
             if is_sent:
                 # Truncate title for display
                 display_title = title[:50] + "..." if len(title) > 50 else title
-                print(f"⏭️  [{idx}/{len(article_links)}] SKIP: {display_title} ({reason})")
+                print(f"⏭ [{idx}/{len(article_links)}] SKIP: {display_title} ({reason})")
                 skipped_count += 1
                 continue
             
@@ -264,7 +264,7 @@ def main(argv: list[str]) -> None:
             error_count += 1
 
     # Print summary
-    print(f"\n📤 Sent: {sent_count} | ⏭️  Skipped: {skipped_count} | ❌ Errors: {error_count}")
+    print(f"\n📤 Sent: {sent_count} | ⏭ Skipped: {skipped_count} | ❌ Errors: {error_count}")
     
     if sent_count > 0:
         print(f"✅ Updated sent_articles.json with {sent_count} new articles")
