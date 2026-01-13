@@ -89,14 +89,7 @@ def extract_article_content(article_url: str) -> Tuple[str, str]:
 
 
 def build_message(title: str, body: str, url: str) -> str:
-        """Build the Telegram message including a send timestamp.
-
-    Uses current UTC time so you can see when each article
-    was sent by the bot.
-    """
-
-    sent_time = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    return f"{title}\n\nTime: {sent_time}\n\n{body}\n\nRead more: {url}"
+  return f"{title}\n\n{body}\n\nRead more: {url}"
 
 
 def generate_content_hash(title: str, body: str) -> str:
@@ -325,5 +318,6 @@ def main(argv: list[str]) -> None:
 
 if __name__ == "__main__":  # pragma: no cover
     main(sys.argv)
+
 
 
