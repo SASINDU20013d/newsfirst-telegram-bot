@@ -2,9 +2,11 @@ import datetime as dt
 import hashlib
 import json
 import os
+import re
 import sys
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
+
 from urllib.parse import urljoin
 
 import requests
@@ -51,47 +53,147 @@ def extract_article_links(archive_url: str, target_date: dt.date) -> List[str]:
     return sorted(links)
 
 
+def normalize_published_time(raw: str | None) -> str | None:
+    """Try to parse and normalize a raw published time string into a friendly format."""
+    if not raw:
+        return None
+    raw = raw.strip()
+
+    # Try dateutil if available (best effort)
+    try:
+        from dateutil import parser as dateparser  # type: ignore
+    except Exception:
+        dateparser = None  # type: ignore
+
+    if dateparser:
+        try:
+            dtobj = dateparser.parse(raw)
+            if dtobj.tzinfo is None:
+                return dtobj.strftime("%d %b %Y, %I:%M %p")
+            else:
+                dt_utc = dtobj.astimezone(dt.timezone.utc)
+                return dt_utc.strftime("%d %b %Y, %I:%M %p UTC")
+        except Exception:
+            # fall through to manual parsing
+            pass
+
+    # Try a few explicit formats (including the site format: 13-01-2026 | 10:59 AM)
+    formats = [
+        "%d-%m-%Y | %I:%M %p",
+        "%d-%m-%Y | %H:%M",
+        "%d-%m-%Y %I:%M %p",
+        "%d-%m-%Y %H:%M",
+        "%d/%m/%Y | %I:%M %p",
+        "%Y-%m-%dT%H:%M:%S",  # ISO-ish fallback
+        "%Y-%m-%d %H:%M:%S",
+        "%Y-%m-%d %H:%M",
+    ]
+    for fmt in formats:
+        try:
+            dtobj = dt.datetime.strptime(raw, fmt)
+            return dtobj.strftime("%d %b %Y, %I:%M %p")
+        except Exception:
+            continue
+
+    # Fallback: try strict ISO parsing
+    try:
+        ts = raw.rstrip("Z")
+        dtobj = dt.datetime.fromisoformat(ts)
+        return dtobj.strftime("%d %b %Y, %I:%M %p")
+    except Exception:
+        pass
+
+    # Last resort: return the raw string
+    return raw
+
+
 def extract_published_time(soup: BeautifulSoup) -> str | None:
-    """Attempt to extract a published time string from common places in the page."""
-    # 1) <time datetime="..."> or <time>text</time>
-    time_tag = soup.find("time")
-    if time_tag is not None:
-        # Prefer a datetime attribute if present
+    """Attempt to extract a published time string from common places in the page.
+
+    This is best-effort. It includes special handling for patterns like:
+      <span ...>13-01-2026 | 10:59 AM</span>
+    """
+    # 0) Direct match of the common site pattern anywhere in text nodes
+    dt_pattern = re.compile(r"\b\d{2}-\d{2}-\d{4}\s*\|\s*\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)?\b")
+    for text_node in soup.find_all(string=dt_pattern):
+        candidate = text_node.strip()
+        if candidate:
+            return candidate
+
+    # 0b) Look specifically for spans with style="display: block" (site example)
+    for span in soup.find_all("span", attrs={"style": re.compile(r"display\s*:\s*block", re.I)}):
+        txt = span.get_text(" ", strip=True)
+        if txt and dt_pattern.search(txt):
+            return txt
+
+    # 1) Look through all <time> tags (prefer datetime attribute)
+    for time_tag in soup.find_all("time"):
         dt_attr = time_tag.get("datetime")
-        if dt_attr:
+        if dt_attr and isinstance(dt_attr, str) and dt_attr.strip():
             return dt_attr.strip()
         text = time_tag.get_text(" ", strip=True)
-        if text:
+        if text and re.search(r"\d{4}|\d{1,2}:\d{2}", text):
             return text.strip()
 
-    # 2) Common meta tags
-    meta_keys = {
-        "property": [
-            "article:published_time",
-            "og:published_time",
-            "og:updated_time",
-        ],
-        "name": [
-            "pubdate",
-            "publishdate",
-            "timestamp",
-            "date",
-            "publication_date",
-        ],
-        "itemprop": [
-            "datePublished",
-            "datecreated",
-        ],
-    }
+    # 2) JSON-LD: look for datePublished / dateCreated recursively
+    for script in soup.find_all("script", type="application/ld+json"):
+        script_text = script.string or script.get_text()
+        if not script_text:
+            continue
+        try:
+            data = json.loads(script_text)
+        except Exception:
+            continue
 
-    for attr, keys in meta_keys.items():
+        def find_date_in_json(obj):
+            if isinstance(obj, dict):
+                for k, v in obj.items():
+                    if k in ("datePublished", "dateCreated", "date"):
+                        if isinstance(v, str) and v.strip():
+                            return v.strip()
+                    res = find_date_in_json(v)
+                    if res:
+                        return res
+            elif isinstance(obj, list):
+                for item in obj:
+                    res = find_date_in_json(item)
+                    if res:
+                        return res
+            return None
+
+        found = find_date_in_json(data)
+        if found:
+            return found
+
+    # 3) Common meta tags
+    meta_checks = [
+        ("property", ["article:published_time", "og:published_time", "og:updated_time", "article:modified_time"]),
+        ("name", ["pubdate", "publishdate", "timestamp", "date", "publication_date", "Date", "dc.date", "dc.date.issued"]),
+        ("itemprop", ["datePublished", "datecreated"]),
+    ]
+    for attr, keys in meta_checks:
         for key in keys:
             tag = soup.find("meta", attrs={attr: key})
             if tag and tag.get("content"):
                 return tag["content"].strip()
 
-    # 3) Schema / JSON-LD might include datePublished, but parsing JSON-LD is more involved.
-    # For now, return None when not found via the above heuristics.
+    # 4) Heuristic: search elements whose class or id suggests they contain a date/time
+    selector = re.compile(r"(date|time|published|posted|timestamp)", re.I)
+    candidates: List[str] = []
+    for el in soup.find_all(attrs={"class": selector}):
+        text = el.get_text(" ", strip=True)
+        if text:
+            candidates.append(text)
+    for el in soup.find_all(attrs={"id": selector}):
+        text = el.get_text(" ", strip=True)
+        if text:
+            candidates.append(text)
+
+    for text in candidates:
+        if re.search(r"\d{4}|\d{1,2}:\d{2}", text) or dt_pattern.search(text):
+            return text
+
+    # Nothing found
     return None
 
 
@@ -124,19 +226,21 @@ def extract_article_content(article_url: str) -> Tuple[str, str, str]:
 
     body = "\n\n".join(paragraphs[:4])  # Limit number of paragraphs
 
-    # Telegram hard limit is 4096 characters
+    # Telegram hard limit is 4096 characters; use a safe maximum for message body
     max_len = 3500
     if len(body) > max_len:
         body = body[:max_len].rstrip() + "..."
 
-    # Published time extraction (best-effort)
+    # Published time extraction (best-effort) + normalization
     published_raw = extract_published_time(soup)
-    published = published_raw if published_raw else "Unknown"
+    published_norm = normalize_published_time(published_raw)
+    published = published_norm if published_norm else "Unknown"
 
     return title, body, published
 
 
 def build_message(title: str, body: str, url: str, published: str) -> str:
+    # Simple message layout; adjust placement/format as desired
     return f"{title}\n\nPublished: {published}\n\n{body}\n\nRead more: {url}"
 
 
@@ -145,7 +249,6 @@ def generate_content_hash(title: str, body: str) -> str:
 
     We combine title and body to detect duplicates even if the URL changes.
     """
-
     normalized = (title or "").strip() + "\n\n" + (body or "").strip()
     return hashlib.sha256(normalized.encode("utf-8", errors="ignore")).hexdigest()
 
@@ -159,7 +262,6 @@ def load_sent_articles(path: Path = SENT_ARTICLES_PATH) -> Dict[str, List[Dict[s
 
     The file is auto-created later when we first persist data.
     """
-
     if not path.exists():
         return _empty_store()
 
@@ -188,7 +290,6 @@ def cleanup_old_articles(
 
     Any malformed timestamps are skipped but do not cause the script to fail.
     """
-
     cutoff = dt.datetime.utcnow() - dt.timedelta(days=retention_days)
     cleaned: List[Dict[str, Any]] = []
 
@@ -229,7 +330,6 @@ def is_article_sent(
 
     Returns (True, reason) if duplicate, else (False, None).
     """
-
     for article in store.get("articles", []):
         stored_url = article.get("url")
         stored_hash = article.get("content_hash")
@@ -256,7 +356,6 @@ def save_sent_article(
     store: Dict[str, List[Dict[str, Any]]],
 ) -> None:
     """Append a newly sent article to the in-memory store."""
-
     now = dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
     store.setdefault("articles", []).append(
         {
@@ -273,7 +372,6 @@ def save_sent_articles_to_file(
     path: Path = SENT_ARTICLES_PATH,
 ) -> None:
     """Persist tracking data to disk as pretty-printed JSON."""
-
     try:
         path.write_text(json.dumps(store, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     except OSError as exc:
