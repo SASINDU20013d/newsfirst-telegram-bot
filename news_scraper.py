@@ -88,8 +88,19 @@ def extract_article_content(article_url: str) -> Tuple[str, str]:
     return title, body
 
 
-def build_message(title: str, body: str, url: str) -> str:
-    return f"{title}\n\n{body}\n\nRead more: {url}"
+def build_message(title: str, body: str, url: str, sent_at_display: str | None = None) -> str:
+    """Build the Telegram message text.
+
+    If ``sent_at_display`` is provided, it is included as a human-readable
+    timestamp under the title (for example "2026-01-13 10:15 UTC").
+    """
+
+    if sent_at_display:
+        header = f"{title}\n🕒 {sent_at_display}"
+    else:
+        header = title
+
+    return f"{header}\n\n{body}\n\nRead more: {url}"
 
 
 def generate_content_hash(title: str, body: str) -> str:
@@ -206,16 +217,24 @@ def save_sent_article(
     content_hash: str,
     title: str,
     store: Dict[str, List[Dict[str, Any]]],
+    *,
+    sent_at: str | None = None,
 ) -> None:
-    """Append a newly sent article to the in-memory store."""
+    """Append a newly sent article to the in-memory store.
 
-    now = dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+    ``sent_at`` should be an ISO-8601 timestamp string in UTC with a trailing
+    ``"Z"`` (for example ``"2026-01-13T05:29:46Z"``). If not provided, the
+    current UTC time is used.
+    """
+
+    if sent_at is None:
+        sent_at = dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
     store.setdefault("articles", []).append(
         {
             "url": url,
             "content_hash": content_hash,
             "title": title,
-            "sent_at": now,
+            "sent_at": sent_at,
         }
     )
 
@@ -290,6 +309,13 @@ def main(argv: list[str]) -> None:
             title, body = extract_article_content(article_url)
             content_hash = generate_content_hash(title, body)
 
+            # Single source of truth for the send time: use this both for the
+            # human-readable time in the Telegram message and for the ISO
+            # timestamp stored in sent_articles.json.
+            sent_at_dt = dt.datetime.utcnow().replace(microsecond=0)
+            sent_at_iso = sent_at_dt.isoformat() + "Z"
+            sent_at_display = sent_at_dt.strftime("%Y-%m-%d %H:%M UTC")
+
             is_sent, reason = is_article_sent(article_url, content_hash, sent_store)
             if is_sent:
                 skipped_count += 1
@@ -297,10 +323,10 @@ def main(argv: list[str]) -> None:
                 print(f"⏭ [{idx}/{total}] SKIP: {title}{extra}")
                 continue
 
-            message = build_message(title, body, article_url)
+            message = build_message(title, body, article_url, sent_at_display)
             send_telegram_message(bot_token, chat_id, message)
 
-            save_sent_article(article_url, content_hash, title, sent_store)
+            save_sent_article(article_url, content_hash, title, sent_store, sent_at=sent_at_iso)
             save_sent_articles_to_file(sent_store)
 
             sent_count += 1
