@@ -1,1 +1,46 @@
-
+{
+  "articles": [
+    {
+      "url": "https://english.newsfirst.lk/2026/01/13/%e2%80%9crebuilding-sri-lanka%e2%80%9d-national-programme-to-be-launched-today-under-the-patronage-of-president-akd",
+      "content_hash": "b3efd5813de3299f448576361f680a00701929210cf79cf4bf435a1f9a12757e",
+      "title": "“Rebuilding Sri Lanka” National Programme To Be Launched Today Under the Patronage of President AKD",
+      "sent_at": "2026-01-13T06:04:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/13/48-of-archaeological-sites-yet-to-be-gazetted-says-copa",
+      "content_hash": "1c385f4cef0652a8460bf482784f026575e602fe710985856e86d14b1d5fa0cb",
+      "title": "48% of Archaeological Sites Yet to Be Gazetted, says COPA",
+      "sent_at": "2026-01-13T06:04:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/13/agreement-on-sinopec-hambantota-oil-refinery-to-be-finalized-in-early-2026-says-minister-of-foreign-affairs",
+      "content_hash": "cc728e094c168119843cc664e8a2c4ce8196431f218d798c996a405e06733809",
+      "title": "Agreement on SINOPEC Hambantota Oil Refinery to Be Finalized in Early 2026, Says Minister of Foreign Affairs",
+      "sent_at": "2026-01-13T06:04:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/13/imf-delegation-to-visit-sri-lanka-on-22nd-for-talks-says-deputy-finance-minister",
+      "content_hash": "b2e9e73bdfe19e9540eb44abb9c59641c02859be1a8a79f97449c8b97d73cd52",
+      "title": "IMF Delegation to Visit Sri Lanka on 22nd for Talks, says Deputy Finance Minister",
+      "sent_at": "2026-01-13T06:04:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/13/police-appoints-asp-to-probe-fatal-police-shooting-in-welikanda",
+      "content_hash": "c04154c89562a51e10420102eb32a81ea20f7b3dcdee9e3c5c3cf4074c5d5ac8",
+      "title": "Police Appoints ASP to Probe Fatal Police Shooting in Welikanda",
+      "sent_at": "2026-01-13T06:04:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/13/ten-indian-fishermen-detained-for-illegal-fishing-near-delft-island",
+      "content_hash": "10caaf54b2d94a90a25fbe014956270ec3a5781cfea4db3aef75c9afd35e306f",
+      "title": "Ten Indian Fishermen Detained for Illegal Fishing near Delft Island",
+      "sent_at": "2026-01-13T06:04:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/13/us-envoy-julie-chung-bids-farewell-to-sri-lanka-s-president",
+      "content_hash": "134bda6a99828c696aadf26cf296f93c8de513656abca7808c2507779e422ffa",
+      "title": "US Envoy Julie Chung Bids Farewell to Sri Lanka's President",
+      "sent_at": "2026-01-13T06:04:14Z"
+    }
+  ]
+}
