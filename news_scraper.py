@@ -51,7 +51,51 @@ def extract_article_links(archive_url: str, target_date: dt.date) -> List[str]:
     return sorted(links)
 
 
-def extract_article_content(article_url: str) -> Tuple[str, str]:
+def extract_published_time(soup: BeautifulSoup) -> str | None:
+    """Attempt to extract a published time string from common places in the page."""
+    # 1) <time datetime="..."> or <time>text</time>
+    time_tag = soup.find("time")
+    if time_tag is not None:
+        # Prefer a datetime attribute if present
+        dt_attr = time_tag.get("datetime")
+        if dt_attr:
+            return dt_attr.strip()
+        text = time_tag.get_text(" ", strip=True)
+        if text:
+            return text.strip()
+
+    # 2) Common meta tags
+    meta_keys = {
+        "property": [
+            "article:published_time",
+            "og:published_time",
+            "og:updated_time",
+        ],
+        "name": [
+            "pubdate",
+            "publishdate",
+            "timestamp",
+            "date",
+            "publication_date",
+        ],
+        "itemprop": [
+            "datePublished",
+            "datecreated",
+        ],
+    }
+
+    for attr, keys in meta_keys.items():
+        for key in keys:
+            tag = soup.find("meta", attrs={attr: key})
+            if tag and tag.get("content"):
+                return tag["content"].strip()
+
+    # 3) Schema / JSON-LD might include datePublished, but parsing JSON-LD is more involved.
+    # For now, return None when not found via the above heuristics.
+    return None
+
+
+def extract_article_content(article_url: str) -> Tuple[str, str, str]:
     html = fetch_html(article_url)
     soup = BeautifulSoup(html, "html.parser")
 
@@ -85,11 +129,15 @@ def extract_article_content(article_url: str) -> Tuple[str, str]:
     if len(body) > max_len:
         body = body[:max_len].rstrip() + "..."
 
-    return title, body
+    # Published time extraction (best-effort)
+    published_raw = extract_published_time(soup)
+    published = published_raw if published_raw else "Unknown"
+
+    return title, body, published
 
 
-def build_message(title: str, body: str, url: str) -> str:
-  return f"{title}\n\n{body}\n\nRead more: {url}"
+def build_message(title: str, body: str, url: str, published: str) -> str:
+    return f"{title}\n\nPublished: {published}\n\n{body}\n\nRead more: {url}"
 
 
 def generate_content_hash(title: str, body: str) -> str:
@@ -287,7 +335,7 @@ def main(argv: list[str]) -> None:
 
     for idx, article_url in enumerate(article_links, start=1):
         try:
-            title, body = extract_article_content(article_url)
+            title, body, published = extract_article_content(article_url)
             content_hash = generate_content_hash(title, body)
 
             is_sent, reason = is_article_sent(article_url, content_hash, sent_store)
@@ -297,7 +345,7 @@ def main(argv: list[str]) -> None:
                 print(f"⏭ [{idx}/{total}] SKIP: {title}{extra}")
                 continue
 
-            message = build_message(title, body, article_url)
+            message = build_message(title, body, article_url, published)
             send_telegram_message(bot_token, chat_id, message)
 
             save_sent_article(article_url, content_hash, title, sent_store)
@@ -318,6 +366,3 @@ def main(argv: list[str]) -> None:
 
 if __name__ == "__main__":  # pragma: no cover
     main(sys.argv)
-
-
-
