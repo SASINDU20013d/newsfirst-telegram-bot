@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/13/bold-housing-plan-to-rebuild-lives-after-disaster",
-      "content_hash": "ee1d4783c5e78c5083a97195ceca2636ac924275420e0bf9697a16b41d4650fa",
-      "title": "Bold Housing Plan to Rebuild Lives After Disaster",
-      "sent_at": "2026-01-13T13:45:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/cid-foils-suspected-plot-army-says-training-drill",
-      "content_hash": "a76101310447e16a34241246b3e87db5d8bfd00680c48e1cbab9c4969533178a",
-      "title": "CID Foils Suspected Plot? Army Says Training Drill",
-      "sent_at": "2026-01-13T13:45:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/two-day-debate-on-no-confidence-against-pm-harini",
-      "content_hash": "8bf73c0744c38496abd67408b77774b37d93b289f2c06797aa80701be2bbecdf",
-      "title": "Two-Day Debate on No-Confidence Against PM Harini",
-      "sent_at": "2026-01-13T13:45:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/wimal-ends-%e2%80%98harini-go-home%e2%80%99-satyagraha",
-      "content_hash": "ae52554b8fa4531ac54b0cfa0f40f8d1d431374a2ce9cf23c278aa27de0ab540",
-      "title": "Wimal Ends ‘Harini Go Home’ Satyagraha",
-      "sent_at": "2026-01-13T13:45:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/14/police-probe-over-1-000-financial-fraud-complaints",
       "content_hash": "9879676a2c132154c76986d59d2f218125ed969b8b0768377be40d23776d7ca6",
       "title": "Police Probe Over 1,000 Financial Fraud Complaints",
@@ -809,6 +785,12 @@
       "content_hash": "6e6e679a701e03e3eee23f08458366d5d8d391bbebe505c4a7fa2f419c55f7cd",
       "title": "NCM Against PM Set to Receive Two Days of Parliamentary Debate",
       "sent_at": "2026-01-20T09:37:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/20/ai-vs-old-school-mps-clash-over-future-of-education",
+      "content_hash": "8b0bd406050cd51a592043d7022c1b5140578b9064d4a502b9498cd1a9d10686",
+      "title": "AI vs. Old School: MPs Clash Over Future of Education",
+      "sent_at": "2026-01-20T13:50:44Z"
     }
   ]
 }
