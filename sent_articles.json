@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/13/education-reforms-for-grade-6-shifted-to-next-year",
-      "content_hash": "1cdb60eb63a9aecfc3a4a2b331ab7e6ec37a51d67e6e943b303281d8c6821fd7",
-      "title": "Education Reforms for Grade 6 Shifted to Next Year",
-      "sent_at": "2026-01-13T09:32:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/13/court-blocks-suspension-of-zohara%e2%80%99s-slmc-membership",
       "content_hash": "ecd76256726b96337b368996f0b103c4450248e8f070628845f474c14d793c4c",
       "title": "Court Blocks Suspension of Zohara’s SLMC Membership",
@@ -803,6 +797,36 @@
       "content_hash": "2db3cda34eb5dac0ad618c46940476f7fb0b99aa12305fa3dfed46c9067da4f9",
       "title": "Ex ‑ Army Captain Linked to Notorious ‘Karandeniya Sudda’",
       "sent_at": "2026-01-20T07:32:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/20/daily-attendance-incentive-for-estate-workers-from-jan",
+      "content_hash": "c8db7eaed14605d6351a86ec3d7a06016498e2d4ac47352c8fc5187696032c1c",
+      "title": "Daily Attendance Incentive for Estate Workers From Jan",
+      "sent_at": "2026-01-20T09:37:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/20/govt-moves-to-recruit-26-assistant-analysts",
+      "content_hash": "8814d425431ab21be817323406646d7a26faab230496232bccd639b7f41538e0",
+      "title": "Govt Moves to Recruit 26 Assistant Analysts",
+      "sent_at": "2026-01-20T09:37:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/20/lonely-planet-names-sri-lanka%e2%80%99s-top-beaches-here-are-the-13-picks",
+      "content_hash": "b041d5a8e8850c5260e484918afcbd6e526e6e1a0716c083ac4bd980741bfdc6",
+      "title": "Lonely Planet Names Sri Lanka’s Top Beaches - Here Are the 13 Picks",
+      "sent_at": "2026-01-20T09:37:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/20/malaysia-to-colombo-drug-run-ends-in-arrest-at-bia",
+      "content_hash": "2cb819d85b4252023ec908621634d2176f6a7b356f335fe02adb38a62011c5cc",
+      "title": "Malaysia to Colombo Drug Run Ends in Arrest at BIA",
+      "sent_at": "2026-01-20T09:37:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/20/ncm-against-pm-set-to-receive-two-days-of-parliamentary-debate",
+      "content_hash": "6e6e679a701e03e3eee23f08458366d5d8d391bbebe505c4a7fa2f419c55f7cd",
+      "title": "NCM Against PM Set to Receive Two Days of Parliamentary Debate",
+      "sent_at": "2026-01-20T09:37:33Z"
     }
   ]
 }
