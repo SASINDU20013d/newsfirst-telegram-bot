@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/13/%e2%80%9crebuilding-sri-lanka%e2%80%9d-national-programme-to-be-launched-today-under-the-patronage-of-president-akd",
-      "content_hash": "b3efd5813de3299f448576361f680a00701929210cf79cf4bf435a1f9a12757e",
-      "title": "“Rebuilding Sri Lanka” National Programme To Be Launched Today Under the Patronage of President AKD",
-      "sent_at": "2026-01-13T06:14:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/48-of-archaeological-sites-yet-to-be-gazetted-says-copa",
-      "content_hash": "1c385f4cef0652a8460bf482784f026575e602fe710985856e86d14b1d5fa0cb",
-      "title": "48% of Archaeological Sites Yet to Be Gazetted, says COPA",
-      "sent_at": "2026-01-13T06:14:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/agreement-on-sinopec-hambantota-oil-refinery-to-be-finalized-in-early-2026-says-minister-of-foreign-affairs",
-      "content_hash": "cc728e094c168119843cc664e8a2c4ce8196431f218d798c996a405e06733809",
-      "title": "Agreement on SINOPEC Hambantota Oil Refinery to Be Finalized in Early 2026, Says Minister of Foreign Affairs",
-      "sent_at": "2026-01-13T06:14:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/imf-delegation-to-visit-sri-lanka-on-22nd-for-talks-says-deputy-finance-minister",
-      "content_hash": "b2e9e73bdfe19e9540eb44abb9c59641c02859be1a8a79f97449c8b97d73cd52",
-      "title": "IMF Delegation to Visit Sri Lanka on 22nd for Talks, says Deputy Finance Minister",
-      "sent_at": "2026-01-13T06:14:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/police-appoints-asp-to-probe-fatal-police-shooting-in-welikanda",
-      "content_hash": "c04154c89562a51e10420102eb32a81ea20f7b3dcdee9e3c5c3cf4074c5d5ac8",
-      "title": "Police Appoints ASP to Probe Fatal Police Shooting in Welikanda",
-      "sent_at": "2026-01-13T06:14:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/ten-indian-fishermen-detained-for-illegal-fishing-near-delft-island",
-      "content_hash": "10caaf54b2d94a90a25fbe014956270ec3a5781cfea4db3aef75c9afd35e306f",
-      "title": "Ten Indian Fishermen Detained for Illegal Fishing near Delft Island",
-      "sent_at": "2026-01-13T06:14:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/us-envoy-julie-chung-bids-farewell-to-sri-lanka-s-president",
-      "content_hash": "134bda6a99828c696aadf26cf296f93c8de513656abca7808c2507779e422ffa",
-      "title": "US Envoy Julie Chung Bids Farewell to Sri Lanka's President",
-      "sent_at": "2026-01-13T06:14:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/13/veteran-journalist-iqbal-athas-passes-away-at-81",
-      "content_hash": "3281c3885a8f34b3d0c057ba5c357f595cdcc8fa96802fa5814f0e86c2a3af75",
-      "title": "Veteran Journalist Iqbal Athas Passes Away at 81",
-      "sent_at": "2026-01-13T06:40:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/13/asp-appointed-to-investigate-welikanda-shooting",
       "content_hash": "2f6903b554accc75de36f4dcbac325aee1e625888daa7e147bfcde3d6fb74a10",
       "title": "ASP Appointed to Investigate Welikanda Shooting",
@@ -863,6 +815,18 @@
       "content_hash": "38ab3e96161348a132c05ff0eaa8f36ba5fa2f6afd6f178c2d380657ae21305d",
       "title": "Sri Lanka’s New Envoy To Russia Meets Putin | Fresh Momentum for Colombo–Moscow Ties at Kremlin",
       "sent_at": "2026-01-20T04:50:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/20/australia-backs-sri-lanka%e2%80%99s-food-security-drive-and-rcep-membership-plan",
+      "content_hash": "3a71ce54fdd9957d17d67fd6aa93708a01e020e4b411a11d7e269d1de5feba8c",
+      "title": "Australia Backs Sri Lanka’s Food Security Drive and RCEP Membership Plan",
+      "sent_at": "2026-01-20T06:42:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/20/sri-lanka%e2%80%99s-speaker-joins-global-leaders-at-commonwealth-summit",
+      "content_hash": "05665e34423262365fec43ed3703320e02337a0e4f111a4fd35a9601f8659485",
+      "title": "Sri Lanka’s Speaker Joins Global Leaders at Commonwealth Summit",
+      "sent_at": "2026-01-20T06:42:54Z"
     }
   ]
 }
