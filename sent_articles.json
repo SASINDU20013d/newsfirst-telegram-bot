@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/14/financial-aid-for-students-affected-by-cyclone",
-      "content_hash": "c2e40dfe91f33c1d708b4d1b6dad70e56ee1f11a3a4ab9a6c9cc2251a36da274",
-      "title": "Financial Aid for Students Affected by Cyclone",
-      "sent_at": "2026-01-14T06:40:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/14/sri-lanka-arrests-chinese-man-for-robbery-in-flight",
-      "content_hash": "9a1138d43f33be591860cf1f9c779d5ad8e4a511312163fb14da8d2e655f0c83",
-      "title": "Sri Lanka Arrests Chinese Man For Robbery in Flight",
-      "sent_at": "2026-01-14T06:40:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/14/suspicious-bank-transfers-lead-to-drug-arrests",
-      "content_hash": "e73d395480614eca3521df74dcf1be7a2aa464931abd1648b12027cad3b4a743",
-      "title": "Suspicious Bank Transfers Lead to Drug Arrests",
-      "sent_at": "2026-01-14T06:40:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/14/suspect-arrested-in-kalubowila-with-foreign-manufactured-firearm",
       "content_hash": "5636b3d074c1993f81028ce0c3f46cbf96896c5e0efa5996b7dff621f75dd0c8",
       "title": "Suspect Arrested in Kalubowila with Foreign-Manufactured Firearm",
@@ -821,6 +803,30 @@
       "content_hash": "6b19d16a204d7ab9f66301ca7064be8d33265ad27145f74d4cfe8777eb976f25",
       "title": "Parliamentary Adjournment Debate on Post-Cyclone Ditwah Set for Today",
       "sent_at": "2026-01-21T04:07:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/at-davos-2026-imf-reaffirms-commitment-to-sri-lanka%e2%80%99s-economic-comeback",
+      "content_hash": "a2094e76907f41ee35d548220618e8e5422b34aac1826ab2a62630af4d0bb6f1",
+      "title": "At Davos 2026, IMF Reaffirms Commitment to Sri Lanka’s Economic Comeback",
+      "sent_at": "2026-01-21T06:43:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/canada-s-carney-warns-against-%e2%80%98living-within-the-lie%e2%80%99",
+      "content_hash": "12ad8ef3411f3b97fd69a7abb9278b9282a5c0fa6c932a5005e194a1f502b086",
+      "title": "Canada's Carney Warns Against ‘Living Within the Lie’",
+      "sent_at": "2026-01-21T06:43:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/trump%e2%80%99s-air-force-one-turns-back-to-washington-after-%e2%80%98minor-electrical-issue%e2%80%99",
+      "content_hash": "3013b1864b17fb2c3a637739ef31d91c83be42aefb1973d490c5cfb7a57542f6",
+      "title": "Trump’s Air Force One Turns Back to Washington After ‘Minor Electrical Issue’",
+      "sent_at": "2026-01-21T06:43:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/we-take-pride-in-being-sri-lanka%e2%80%99s-most-reliable-friend-indian-envoy",
+      "content_hash": "a5f2dd52d8951b4aa4f2885c2b5d190c275dd4292df2c9fa98e4347fb8c257ef",
+      "title": "We Take Pride in Being Sri Lanka’s Most Reliable Friend - Indian Envoy",
+      "sent_at": "2026-01-21T06:43:17Z"
     }
   ]
 }
