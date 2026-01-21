@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/14/73-deaths-in-14-days-sri-lanka%e2%80%99s-roads-turn-deadly-in-2026",
-      "content_hash": "e06e6bc93281b3747af7d948f564f928ee4dd7aa777c6a4fb327e49baf7a2daf",
-      "title": "73 Deaths in 14 Days: Sri Lanka’s Roads Turn Deadly in 2026",
-      "sent_at": "2026-01-14T08:36:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/14/amarakeerthi-athukorala-murder-verdict-deferred",
-      "content_hash": "a91743dc9b3dab99646a027f7f716be09aa38e5411b0dc9b750ab254d70e8c52",
-      "title": "Amarakeerthi Athukorala Murder Verdict Deferred",
-      "sent_at": "2026-01-14T08:36:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/14/cabinet-approves-festival-advance-hike-for-public-servants",
-      "content_hash": "d5b7ec8abf0817fa846a8486760762b84a7d1e1c757c24b819011b0254b9af8a",
-      "title": "Cabinet Approves Festival Advance Hike For Public Servants",
-      "sent_at": "2026-01-14T08:36:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/14/six-month-ban-for-fishermen-who-disable-vms-or-cross-foreign-waters",
-      "content_hash": "99533143a6e72132d328af5173839921a618f481ed36a06c3779b7afeaf1f582",
-      "title": "Six-Month Ban for Fishermen Who Disable VMS or Cross Foreign Waters",
-      "sent_at": "2026-01-14T08:36:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/14/sri-lanka-to-deploy-elephant-monitoring-units",
-      "content_hash": "684957b5d237dcfae2a0c8110f9063b182bd35ff3fe18b61fd0978cf640593b9",
-      "title": "Sri Lanka To Deploy Elephant Monitoring Units",
-      "sent_at": "2026-01-14T08:36:54Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/14/sri-lanka-faces-slower-growth-amid-global-headwinds-warns-world-bank",
       "content_hash": "4d2ae22e9b4a4a952fc0d8fb62fc84091b7a4fddc7bf9f977ae570cdd302479c",
       "title": "Sri Lanka Faces Slower Growth Amid Global Headwinds, Warns World Bank",
@@ -821,6 +791,12 @@
       "content_hash": "a5f2dd52d8951b4aa4f2885c2b5d190c275dd4292df2c9fa98e4347fb8c257ef",
       "title": "We Take Pride in Being Sri Lanka’s Most Reliable Friend - Indian Envoy",
       "sent_at": "2026-01-21T06:43:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/south-korea-jails-ex-pm-han-duck-soo-for-23-years-over-martial-law-crisis",
+      "content_hash": "2adc94c4d69130a2e7fc65ef10d19315a88e912f4352011ff4804498b9812b9e",
+      "title": "South Korea Jails ex-PM Han Duck-soo For 23 Years Over Martial Law Crisis",
+      "sent_at": "2026-01-21T08:37:49Z"
     }
   ]
 }
