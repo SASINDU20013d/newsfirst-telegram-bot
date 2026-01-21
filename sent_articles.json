@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/14/produce-johnston-at-next-hearing-if-still-in-remand-court",
-      "content_hash": "1ebcf6dff018bf48a110ca8ca8332e50bb5ade818f9cbab3532c995ca7761999",
-      "title": "Produce Johnston At Next Hearing if Still in Remand - Court",
-      "sent_at": "2026-01-14T12:56:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/14/rs-6-2m-sniper-rifle-released-to-army-on-rs-200k-bond",
-      "content_hash": "f02a9bfe75648bcae516e920cfb8e0b8fd03898eae2fcdcffea5a5c54ed52ba8",
-      "title": "Rs. 6.2M Sniper Rifle Released to Army on Rs. 200K Bond",
-      "sent_at": "2026-01-14T12:56:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/14/balangoda-kassapa-thero-among-nine-remanded",
       "content_hash": "00e9b280cceb1f44d7920f44b22f265b049229845ed9c4480f6a4a1cb6ad7da7",
       "title": "Balangoda Kassapa Thero Among Nine Remanded",
@@ -827,6 +815,12 @@
       "content_hash": "a6d47e01fe8c50d12677c7f9cc96639c0a874838677abfce86c7aa2a116746fc",
       "title": "Tishan Subasinghe Assumes Presidency of CA Sri Lanka",
       "sent_at": "2026-01-21T11:28:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/police-freeze-rs-32-mn-property-linked-to-liquor-smuggler",
+      "content_hash": "9579cf3907159260d96318689a8d95f341a414d84c919b6549b241640ab5e6e3",
+      "title": "Police Freeze Rs. 32 Mn Property Linked to Liquor Smuggler",
+      "sent_at": "2026-01-21T12:59:03Z"
     }
   ]
 }
