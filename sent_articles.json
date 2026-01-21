@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/14/police-probe-over-1-000-financial-fraud-complaints",
-      "content_hash": "9879676a2c132154c76986d59d2f218125ed969b8b0768377be40d23776d7ca6",
-      "title": "Police Probe Over 1,000 Financial Fraud Complaints",
-      "sent_at": "2026-01-14T02:06:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/14/education-ministry-to-recruit-23-344-graduates-for-the-teaching-service",
       "content_hash": "c314118bd4c1ea7822620ed87df5b8d6b9e3220eda5b57a5c40d87cab7ee1101",
       "title": "Education Ministry to Recruit 23,344 Graduates for the Teaching Service",
@@ -839,6 +833,18 @@
       "content_hash": "dcd939219626db4c25ab3430996123ee4b6db94bc720fa9e55f24adc4943129f",
       "title": "Second Phase of First School Term Begins Today",
       "sent_at": "2026-01-21T02:05:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/over-6-000-acres-of-land-released-to-rebuild-houses-destroyed-by-ditwah",
+      "content_hash": "33e95aac1e97b73fb3249bd270b67100809e9f702173dcabafb2af4ee2267321",
+      "title": "Over 6,000 Acres of Land Released to Rebuild Houses Destroyed by Ditwah",
+      "sent_at": "2026-01-21T04:07:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/parliamentary-adjournment-debate-on-post-cyclone-ditwah-set-for-today",
+      "content_hash": "6b19d16a204d7ab9f66301ca7064be8d33265ad27145f74d4cfe8777eb976f25",
+      "title": "Parliamentary Adjournment Debate on Post-Cyclone Ditwah Set for Today",
+      "sent_at": "2026-01-21T04:07:54Z"
     }
   ]
 }
