@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/14/big-drop-in-milk-powder-prices-from-jan-16",
-      "content_hash": "b5846d404e6c4902d61646922022e8d0b8d5ec3995ff42eb8a982a4ab830ff99",
-      "title": "Big Drop in Milk Powder Prices from Jan 16",
-      "sent_at": "2026-01-14T16:36:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/15/big-drop-in-milk-powder-prices-starting-tomorrow",
       "content_hash": "9f2e1365e36606d69facb3626d166a96b989b6b4e0713bfafac0e0563798f8b8",
       "title": "Big Drop in Milk Powder Prices Starting Tomorrow",
@@ -815,6 +809,18 @@
       "content_hash": "db563dc6e2a7c1f634ef3b311ae356b2b82bd18f7750d6350ad8954cb6f099ba",
       "title": "ICC Upholds Current Match Schedule For Men’s T20 World Cup 2026",
       "sent_at": "2026-01-21T13:50:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/harini-calls-for-recognising-unpaid-care-labour",
+      "content_hash": "75ce45740e0d11e99f6d6a5029e48cc6cccde90e49fa46f6c1915e8cda61b48c",
+      "title": "Harini Calls For Recognising Unpaid Care Labour",
+      "sent_at": "2026-01-21T16:58:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/wef-2026-sri-lanka-pm-harini-calls-for-recognising-unpaid-care-labour",
+      "content_hash": "6430df369d9d61f936b6cdd60b4160b9a104aa71db24bf6c1818220526f04d41",
+      "title": "WEF 2026: Sri Lanka PM Harini Calls For Recognising Unpaid Care Labour",
+      "sent_at": "2026-01-21T16:59:02Z"
     }
   ]
 }
