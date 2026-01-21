@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/14/sri-lanka-faces-slower-growth-amid-global-headwinds-warns-world-bank",
-      "content_hash": "4d2ae22e9b4a4a952fc0d8fb62fc84091b7a4fddc7bf9f977ae570cdd302479c",
-      "title": "Sri Lanka Faces Slower Growth Amid Global Headwinds, Warns World Bank",
-      "sent_at": "2026-01-14T10:30:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/14/produce-johnston-at-next-hearing-if-still-in-remand-court",
       "content_hash": "1ebcf6dff018bf48a110ca8ca8332e50bb5ade818f9cbab3532c995ca7761999",
       "title": "Produce Johnston At Next Hearing if Still in Remand - Court",
@@ -821,6 +815,12 @@
       "content_hash": "919ebff68aea1850ea0ce371b2b2ce57dfd8ee13463c695a899b8554e7478192",
       "title": "STF Arrests Suspects with Large Consignments of Ice and Heroin",
       "sent_at": "2026-01-21T09:37:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/21/shinzo-abe-s-assassin-gets-life-sentence",
+      "content_hash": "86202c58ac21c5f3bb7c3788d97f83a2ce1fb22a57ecb77e61560af35caece1c",
+      "title": "Shinzo Abe's Assassin Gets Life Sentence",
+      "sent_at": "2026-01-21T10:34:39Z"
     }
   ]
 }
