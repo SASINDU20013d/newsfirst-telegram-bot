@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/15/big-drop-in-milk-powder-prices-starting-tomorrow",
-      "content_hash": "9f2e1365e36606d69facb3626d166a96b989b6b4e0713bfafac0e0563798f8b8",
-      "title": "Big Drop in Milk Powder Prices Starting Tomorrow",
-      "sent_at": "2026-01-15T03:45:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/15/decrease-in-rainfall-expected-starting-today",
-      "content_hash": "25fd966f8727f9127ae9e24425a4be9783990bd8ed05a7f022f6be6ec80c9730",
-      "title": "Decrease in Rainfall Expected Starting Today",
-      "sent_at": "2026-01-15T03:45:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/15/hindu-communities-worldwide-celebrate-thai-pongal",
-      "content_hash": "41fc6cd3900e7d5985184d4f51724599972de8ee59f291d9a6b1890636445686",
-      "title": "Hindu Communities Worldwide Celebrate Thai Pongal",
-      "sent_at": "2026-01-15T03:46:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/15/over-69-000-suspects-arrested-in-a-nation-united-national-operation",
-      "content_hash": "d4ed5b53d84c17361ad5704014f16cce71033f050f27bb4b66c48ed639dfd3b5",
-      "title": "Over 69,000 Suspects Arrested in 'A Nation United' National Operation",
-      "sent_at": "2026-01-15T03:46:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/15/pm-stresses-gratitude-to-nature-and-dignity-of-labour",
       "content_hash": "6ca1dba09e5dcf9fefd576c945d2d7642c9aeb37f3c6fc404d7d5016792e22b1",
       "title": "PM Stresses Gratitude To Nature And Dignity of Labour",
@@ -845,6 +821,30 @@
       "content_hash": "bae7dfd84628ad668abf5370321364316853d73d4c0a08066859cd343df77116",
       "title": "Sri Lanka Unveils ICC T20 World Cup Trophy Tour",
       "sent_at": "2026-01-21T17:57:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/22/ceb-unions-warn-of-strikes-amid-restructuring",
+      "content_hash": "402983d230aef3669009cb66bebcc76d2214e1561e33f6f83c6c909a81d90b91",
+      "title": "CEB Unions Warn of Strikes Amid Restructuring",
+      "sent_at": "2026-01-22T04:11:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/22/national-eye-hospital-doctors-launch-24-hour-token-strike",
+      "content_hash": "e870c439bdac02be9325335f38aaafafbda19ed9c21ae53015f04924f180e94e",
+      "title": "National Eye Hospital Doctors Launch 24-Hour Token Strike",
+      "sent_at": "2026-01-22T04:11:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/22/parliament-to-convene-today-for-debate-on-education",
+      "content_hash": "6fa9f9cee7776da9af68c40527948ef0eb7a4dec0005bc51674fbb9a4869ce3a",
+      "title": "Parliament to Convene Today for Debate on Education",
+      "sent_at": "2026-01-22T04:11:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/22/raids-intensified-on-illicit-tendu-leaf-imports",
+      "content_hash": "45dfef5437de4a98dcf94240231559d832084c67c504a7187d121c4fcecfb638",
+      "title": "Raids Intensified on Illicit Tendu Leaf Imports",
+      "sent_at": "2026-01-22T04:11:46Z"
     }
   ]
 }
