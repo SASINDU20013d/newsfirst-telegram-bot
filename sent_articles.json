@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/15/pm-stresses-gratitude-to-nature-and-dignity-of-labour",
-      "content_hash": "6ca1dba09e5dcf9fefd576c945d2d7642c9aeb37f3c6fc404d7d5016792e22b1",
-      "title": "PM Stresses Gratitude To Nature And Dignity of Labour",
-      "sent_at": "2026-01-15T04:45:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/15/president-calls-for-unity-and-determination",
-      "content_hash": "46ea7226f46ea470ece9acc6f7228ba8c4e3b6176db7d4be56d9bae23a743fd0",
-      "title": "President Calls for Unity and Determination",
-      "sent_at": "2026-01-15T04:45:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/15/president-to-launch-the-inaugural-nationwide-housing-program-today",
-      "content_hash": "21eabfa66e5157ef0f3117b2d1465703f1ac44bdb002718274b58d18addb4172",
-      "title": "President to Launch the Inaugural Nationwide Housing Program Today",
-      "sent_at": "2026-01-15T04:45:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/15/fao-seeks-usd-16-5-million-as-cyclone-ditwah-pushes-sri-lanka-into-deepening-food-crisis",
       "content_hash": "3e80ec9bb27b9536bf83b7029a03e676a5c1cdd8b3e5da11b89da369d96cdc43",
       "title": "FAO Seeks USD 16.5 Million as Cyclone Ditwah Pushes Sri Lanka into Deepening Food Crisis",
@@ -845,6 +827,12 @@
       "content_hash": "45dfef5437de4a98dcf94240231559d832084c67c504a7187d121c4fcecfb638",
       "title": "Raids Intensified on Illicit Tendu Leaf Imports",
       "sent_at": "2026-01-22T04:11:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/22/prime-minister-holds-high-level-meetings-with-eu-undp-and-corporate-leadership-at-world-economic-forum",
+      "content_hash": "8cfb4b0b7db3c527332696549f20f89292161dfd7ab63c899e840b3dae02fc72",
+      "title": "Prime Minister Holds High-Level Meetings with EU, UNDP, and Corporate Leadership at World Economic Forum",
+      "sent_at": "2026-01-22T05:32:55Z"
     }
   ]
 }
