@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/15/tragedy-in-weligama-one-dead-one-injured-by-illegal-power-line",
-      "content_hash": "a7d05a7ee5640e6bfbdcc8b09973c4cdda04a28dd5f2f92bbba33fd1f5b6f215",
-      "title": "Tragedy in Weligama: One Dead, One Injured by Illegal Power Line",
-      "sent_at": "2026-01-15T09:33:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/15/moved-by-their-holiday-experience-british-couple-helps-cyclone%e2%80%91hit-sri-lankans",
       "content_hash": "865c2099827b7da10ad4844ebac3e70dbfb7aaaf638f1506211069d43133bdae",
       "title": "Moved by Their Holiday Experience, British Couple Helps Cyclone‑Hit Sri Lankans",
@@ -827,6 +821,18 @@
       "content_hash": "0be3a5470a5f943744a4f07b77ec49fd6237bb020f1bfb30e2b925bf18ac2df7",
       "title": "IMF Fact-Finding Mission In Sri Lanka to Measure Cyclone Devastation",
       "sent_at": "2026-01-22T08:38:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/22/offshore-wind-could-transform-indiasri-lanka-relations-former-chief-economic-advisor-of-india",
+      "content_hash": "95a6a3b2428365054d5e1bd12082a081173d5ab1b296142f5c3f4cdf9342ad21",
+      "title": "Offshore Wind Could Transform India–Sri Lanka Relations, Former Chief Economic Advisor Of India",
+      "sent_at": "2026-01-22T09:37:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/22/sri-lanka-switches-on-cropix-a-national-brain-for-agriculture-goes-live",
+      "content_hash": "31b4bbb2be574cb8c3715441c72a3f865dc9f7e725505e9ed509396e7aba5d60",
+      "title": "Sri Lanka Switches On CROPIX: A National Brain for Agriculture Goes Live",
+      "sent_at": "2026-01-22T09:37:27Z"
     }
   ]
 }
