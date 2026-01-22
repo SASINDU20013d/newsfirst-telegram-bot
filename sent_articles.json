@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/15/moved-by-their-holiday-experience-british-couple-helps-cyclone%e2%80%91hit-sri-lankans",
-      "content_hash": "865c2099827b7da10ad4844ebac3e70dbfb7aaaf638f1506211069d43133bdae",
-      "title": "Moved by Their Holiday Experience, British Couple Helps Cyclone‑Hit Sri Lankans",
-      "sent_at": "2026-01-15T10:30:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/15/trump-administration-pauses-immigrant-visa-processing-for-75-countries",
-      "content_hash": "266b341f219e79e03ff83ae6a82a7e615f410fcb2a84ae22d76cdedac65bf5df",
-      "title": "Trump Administration Pauses Immigrant Visa Processing for 75 Countries",
-      "sent_at": "2026-01-15T10:30:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/15/state-pharmaceuticals-corporation-records-landmark-173-growth-in-government-contribution",
       "content_hash": "5647f14787dae83f2627dcb77948460573b3b554a5f1fe816581b8d6e41d7cdb",
       "title": "State Pharmaceuticals Corporation Records Landmark 173% Growth in Government Contribution",
@@ -833,6 +821,12 @@
       "content_hash": "31b4bbb2be574cb8c3715441c72a3f865dc9f7e725505e9ed509396e7aba5d60",
       "title": "Sri Lanka Switches On CROPIX: A National Brain for Agriculture Goes Live",
       "sent_at": "2026-01-22T09:37:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/22/two-arrested-in-madampitiya-with-ice",
+      "content_hash": "0de64c11023c6190f9e2ea132d2cdea00b18cc0828dbb687752dde77631b6316",
+      "title": "Two Arrested in Madampitiya With ICE",
+      "sent_at": "2026-01-22T10:33:31Z"
     }
   ]
 }
