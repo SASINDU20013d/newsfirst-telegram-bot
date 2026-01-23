@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/16/government-completes-education-aid-payments",
-      "content_hash": "13ee7e47d3bb1c9e7dfac55dd5d3e5e8029d8bc665a22842de7be95c6cb16bb5",
-      "title": "Government Completes Education Aid Payments",
-      "sent_at": "2026-01-16T08:35:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/police-reveal-explosive-details-of-extradited-fugitives",
-      "content_hash": "6260fa039fbd11db88ca1c16b5b03cc2b50e0732e42e3fbf7144bb1cc7d0909f",
-      "title": "Police Reveal Explosive Details Of Extradited Fugitives",
-      "sent_at": "2026-01-16T08:35:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/president-outlines-major-social-priorities-in-jaffna",
-      "content_hash": "83226cfbe38cd8dfeccac1bfb04d07cf86c3db0e33cc94bb8f95a11d58233516",
-      "title": "President Outlines Major Social Priorities in Jaffna",
-      "sent_at": "2026-01-16T08:35:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/trial-on-alleged-apartment-benefit-to-resume-next-month",
-      "content_hash": "56c0986dd9c706698670daafc55f73081ca28da02e006588a55e567e0c371462",
-      "title": "Trial on Alleged Apartment Benefit to Resume Next Month",
-      "sent_at": "2026-01-16T08:36:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/16/8-2-million-checked-in-2025-crime-crackdown",
       "content_hash": "ef3d31babbf08c0c8efd0831b2d28c4f7f16425983d8188240f878ff8aaf7494",
       "title": "8.2 Million Checked In 2025 Crime Crackdown",
@@ -851,6 +827,24 @@
       "content_hash": "2fbc837eeec01fbc62bcccf7bab49a1b4ad68ce7b9722ee28d5e3a492f99f801",
       "title": "Prime Minister Returns After Talks at World Economic Forum",
       "sent_at": "2026-01-23T07:30:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/court-temporarily-lifts-foreign-travel-ban-on-prasanna-ranatunga",
+      "content_hash": "cae89ad882653c4eec59daa409f351cac8908645d059a3d2a23dbea35dd2e7c6",
+      "title": "Court Temporarily Lifts Foreign Travel Ban On Prasanna Ranatunga",
+      "sent_at": "2026-01-23T08:36:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/high-court-filed-against-chamara-sampath",
+      "content_hash": "4fd2ca21a815fcfcc996660f7310ed5b65152d43cdb6eea4f18827ac784605f1",
+      "title": "High Court Filed Against Chamara Sampath",
+      "sent_at": "2026-01-23T08:36:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/insurance-payouts-inject-billions-back-into-economy",
+      "content_hash": "434f71cef1df97cb2ff70651ed1c69e57938928ca5a4dc230b2b75ab2b646394",
+      "title": "Insurance Payouts Inject Billions Back into Economy",
+      "sent_at": "2026-01-23T08:36:17Z"
     }
   ]
 }
