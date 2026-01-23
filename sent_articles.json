@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/16/8-2-million-checked-in-2025-crime-crackdown",
-      "content_hash": "ef3d31babbf08c0c8efd0831b2d28c4f7f16425983d8188240f878ff8aaf7494",
-      "title": "8.2 Million Checked In 2025 Crime Crackdown",
-      "sent_at": "2026-01-16T09:31:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/16/special-traffic-plan-in-colombo-for-england-cricket-tour",
       "content_hash": "25fc59117255145f311a53b7a0891a703dc9f8215052075da6fe3cb30e724e71",
       "title": "Special Traffic Plan in Colombo For England Cricket Tour",
@@ -845,6 +839,12 @@
       "content_hash": "434f71cef1df97cb2ff70651ed1c69e57938928ca5a4dc230b2b75ab2b646394",
       "title": "Insurance Payouts Inject Billions Back into Economy",
       "sent_at": "2026-01-23T08:36:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/cid-records-statements-from-15-over-grade-6-module",
+      "content_hash": "02381ab707f7354abefc6834159272402ce89dbd73329d4e413f87aabd2a83c2",
+      "title": "CID Records Statements from 15 Over Grade 6 Module",
+      "sent_at": "2026-01-23T09:35:14Z"
     }
   ]
 }
