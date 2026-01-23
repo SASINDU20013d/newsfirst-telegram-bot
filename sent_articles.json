@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/16/80-year-old-woman-killed-in-brutal-attack",
-      "content_hash": "fa168ac61a6862e49edef31bcec839b5be58d677ce4a7f5878caf59565fdb471",
-      "title": "80-Year-Old Woman Killed in Brutal Attack",
-      "sent_at": "2026-01-16T05:29:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/three-more-arrested-for-aiding-and-abetting-shooting-of-16-year-old-girl-in-dehiwala",
-      "content_hash": "c9b8c0f44fe338daa9907313fd73cc711b6d154dc22f75bad4d9493fadffcf41",
-      "title": "Three More Arrested for Aiding and Abetting Shooting of 16-Year-Old Girl in Dehiwala",
-      "sent_at": "2026-01-16T05:29:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/16/president-launches-housing-drive-for-31-218-families",
       "content_hash": "f697b0fd6be6f91ff8dd09e2ef4b5a70b5f6c2abf033ad9711be4ec321ddb598",
       "title": "President Launches Housing Drive for 31,218 Families",
@@ -827,6 +815,24 @@
       "content_hash": "f5ca5b639b4dcd782c2d4edf5e5f5b30b69dc31995ba6de3010876d72a127d6e",
       "title": "CMC to Begin Appointing Chairpersons for 23 Standing Committees Today",
       "sent_at": "2026-01-23T04:48:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/new-prison-in-welisara-to-ease-overcrowding-justice-ministry",
+      "content_hash": "2d2b95649dcc0992f97984db5ad0c85ef68e30f33d4dee12575a382a24a0a21c",
+      "title": "New Prison in Welisara to Ease Overcrowding - Justice Ministry",
+      "sent_at": "2026-01-23T05:32:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/surgeries-restart-in-chilaw-after-cyclone-damage",
+      "content_hash": "eac46ba5ded8387e075ad22a353a2b5aed7830427162f91f45ca19eed950d11e",
+      "title": "Surgeries Restart in Chilaw After Cyclone Damage",
+      "sent_at": "2026-01-23T05:32:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/suspect-arrested-in-shooting-in-jinthupitiya",
+      "content_hash": "a8cb6da2a8c91115e7c84ea578a48174a9270e2a1ef8fba51fa392cf4197c5b1",
+      "title": "Suspect Arrested in Shooting in Jinthupitiya",
+      "sent_at": "2026-01-23T05:32:22Z"
     }
   ]
 }
