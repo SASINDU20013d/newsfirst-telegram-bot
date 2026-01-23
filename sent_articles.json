@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/16/army-cyclist-sandaruwan-pinthu-wins-opening-stage-of-lanka-ride-2026",
-      "content_hash": "7865b05205d400c3003f7de637ededc08006126d07aa52e579593c1ab03e0a8a",
-      "title": "Army Cyclist Sandaruwan Pinthu Wins Opening Stage of Lanka Ride 2026",
-      "sent_at": "2026-01-16T14:28:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/fr-filed-over-cyclone-ditwah-disaster-response",
-      "content_hash": "7d27ed59f83da0db6fb0277ce5607a37f90eaad6fb50d39125418e9e0cd713f8",
-      "title": "FR Filed Over Cyclone Ditwah Disaster Response",
-      "sent_at": "2026-01-16T14:28:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/mahinda-s-security-head-appears-in-court-inquiry-to-continue",
-      "content_hash": "cd0d33833c5877a7e1dc7b9a9ffc5dbaf152ca8667ce941fe3a88ce2acc8b74b",
-      "title": "Mahinda's Security Head Appears in Court; Inquiry to Continue",
-      "sent_at": "2026-01-16T14:28:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/never-again-racism-rejected-in-jaffna",
-      "content_hash": "d8203d78a266029d707a0972bbe14628f53b592550bee2c149cdec7bf088fd03",
-      "title": "Never Again: Racism Rejected In Jaffna",
-      "sent_at": "2026-01-16T14:28:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/zero-tolerance-approach-to-drug-traffickers-and-criminal-networks",
-      "content_hash": "79bce78a5ba848831edfd99535bba1a7fcb791c116d0966baeaedca934baa491",
-      "title": "Zero-Tolerance Approach to Drug Traffickers and Criminal Networks",
-      "sent_at": "2026-01-16T14:28:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/17/boossa-prison-unrest-inmates-involved-to-be-transferred-to-other-prisons",
       "content_hash": "75f4036190089cac5fe65221e94c0599fcd5d8b0a8dea3b40787989e9d9fbe0c",
       "title": "Boossa Prison Unrest: Inmates Involved to Be Transferred to other Prisons",
@@ -887,6 +857,12 @@
       "content_hash": "f5031fd30220da5fdc65f860772f8c32276149231d3ef28526fddf923af2c4d1",
       "title": "New Civil Society Members Appointed to Constitutional Council",
       "sent_at": "2026-01-23T13:46:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/us-officially-withdraws-from-who",
+      "content_hash": "71d42982a84395f3ade64ca77efb2adbd77cbc8daa26d22b2b77e81b24947d78",
+      "title": "US Officially Withdraws From WHO",
+      "sent_at": "2026-01-23T14:30:15Z"
     }
   ]
 }
