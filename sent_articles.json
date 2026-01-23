@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/16/cid-extradites-three-fugitives-from-dubai-including-two-hitmen-and-former-embassy-official",
-      "content_hash": "64a3034fc535dbb62b3a1204d94089849978ac637414611e85217e270686668b",
-      "title": "CID Extradites Three Fugitives from Dubai Including Two Hitmen and Former Embassy Official",
-      "sent_at": "2026-01-16T04:43:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/16/police-seize-ammo-cache-and-knives-in-ratmalana-two-suspects-in-custody",
-      "content_hash": "cd6b86d80ac0ee8c6c2c7ed92d307a5da8520396d73d36c636d5aa627bba135b",
-      "title": "Police Seize Ammo Cache and Knives in Ratmalana; Two Suspects in Custody",
-      "sent_at": "2026-01-16T04:43:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/16/80-year-old-woman-killed-in-brutal-attack",
       "content_hash": "fa168ac61a6862e49edef31bcec839b5be58d677ce4a7f5878caf59565fdb471",
       "title": "80-Year-Old Woman Killed in Brutal Attack",
@@ -833,6 +821,12 @@
       "content_hash": "e0a6cad1117f8a9aabdb4fe80bfaa97abfad808fd513c341d47f9d0464fb56c6",
       "title": "GMOA Launches 48-Hour Strike",
       "sent_at": "2026-01-23T02:03:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/23/cmc-to-begin-appointing-chairpersons-for-23-standing-committees-today",
+      "content_hash": "f5ca5b639b4dcd782c2d4edf5e5f5b30b69dc31995ba6de3010876d72a127d6e",
+      "title": "CMC to Begin Appointing Chairpersons for 23 Standing Committees Today",
+      "sent_at": "2026-01-23T04:48:07Z"
     }
   ]
 }
