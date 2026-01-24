@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/17/more-sajiths-gammanpilas-if-we-don-t-reform-education-the-people-can-decide-nalinda-jayatissa",
-      "content_hash": "05b783f180036e09150c61c9413967b81393549d4a4003e5d7117e8c57b211ab",
-      "title": "\"More Sajiths & Gammanpilas If We Don't Reform Education. The People Can Decide\" - Nalinda Jayatissa",
-      "sent_at": "2026-01-17T15:24:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/pro-educational-reforms-protests-spread-across-sri-lanka",
-      "content_hash": "9d4d850e10929770342df3d2052a7c9523cafca21763b761750c6c1750bbd013",
-      "title": "Pro 'Educational Reforms' Protests Spread Across Sri Lanka",
-      "sent_at": "2026-01-17T15:24:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/18/dmt-set-to-clear-backlog-of-500-000-driving-licenses-in-march",
       "content_hash": "9aaed4f0b93d001de1748f63284e0261f9e237f32f4e05c4da1c44c5c2a9dd98",
       "title": "DMT Set to Clear Backlog of 500,000 Driving Licenses in March",
@@ -833,6 +821,12 @@
       "content_hash": "b46966384f8cddb8d93320b2f7866268a0a54a66ea3e2c677dee90fdb3aba830",
       "title": "Second Most Senior Parliamentary Official Suspended",
       "sent_at": "2026-01-24T13:33:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/icc-replaces-bangladesh-with-scotland-for-2026-t20-wc",
+      "content_hash": "45fd29d1d3bf59de7a1970b3dd63791384f18e43db5e4300b4570b335eb2d5d7",
+      "title": "ICC Replaces Bangladesh with Scotland for 2026 T20 WC",
+      "sent_at": "2026-01-24T15:24:47Z"
     }
   ]
 }
