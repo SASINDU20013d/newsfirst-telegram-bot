@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/17/grade-six-reforms-delayed-until-2027-textbooks-to-remain-same",
-      "content_hash": "b5065303d43b0b8501ad456f7adbfd8c7b8e9ba77bc984569091a18c4fa0d3ec",
-      "title": "Grade Six Reforms Delayed Until 2027, Textbooks To Remain Same",
-      "sent_at": "2026-01-17T12:49:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/17/sarvanna-relics-from-india-to-be-exhibited-at-gangaramaya-temple-from-february-4",
       "content_hash": "f7142bc75f58e4908b7413c9ba8a7209f9ae42d6a386fe0bed0f292878f1edfe",
       "title": "Sarvanna Relics From India To Be Exhibited At Gangaramaya Temple From February 4",
@@ -827,6 +821,12 @@
       "content_hash": "d6bbaa195bd55767a6e2cfec30b27a5ea179a9b5c8336a4321436246d368d92a",
       "title": "UN Reaffirms Support for ‘Rebuilding Sri Lanka’ Programme",
       "sent_at": "2026-01-24T09:25:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/new-circular-grants-relief-to-disaster-affected-businesses",
+      "content_hash": "994f33fea44d4d6e8302499b65875a3b1cbe92503875957b8a6eba77be56c3c8",
+      "title": "New Circular Grants Relief to Disaster-Affected Businesses",
+      "sent_at": "2026-01-24T12:50:12Z"
     }
   ]
 }
