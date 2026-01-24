@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/17/police-arrest-suspect-for-aiding-nawagamuwa-shooting",
-      "content_hash": "e0cfed68ef6252fa50b81e0a0732cbb3e6d555a0b27423721dfa5e31d4a0203f",
-      "title": "Police Arrest Suspect for Aiding Nawagamuwa Shooting",
-      "sent_at": "2026-01-17T04:35:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/17/131-898-tourists-arrived-in-sri-lanka-in-the-first-15-days-of-january",
       "content_hash": "7e8b1aaf9a2544db33c7cef10c9e7429745300e748766047a77253fc233b34ac",
       "title": "131,898 Tourists Arrived in Sri Lanka in the First 15 Days of January",
@@ -857,6 +851,18 @@
       "content_hash": "bb5cb0f55266549f9996d53a96ce328077693490c031cf01087316cdf2de789e",
       "title": "Special Traffic Plan in Colombo Today for Sri Lanka–England Match",
       "sent_at": "2026-01-24T03:39:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/480-drug-impaired-drivers-arrested-in-22-days",
+      "content_hash": "29d3aea871fee1453f91096f153ec2575220ecc8c48c0b3c74bb40cf9a1b7ee9",
+      "title": "480 Drug-Impaired Drivers Arrested in 22 Days",
+      "sent_at": "2026-01-24T04:38:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/suspect-arrested-in-dehiwala-shooting-with-foreign-manufactured-revolver",
+      "content_hash": "98f21312fced565193cb76795944dd4566126f395147d08e6e7c66ae789ad7fc",
+      "title": "Suspect Arrested in Dehiwala Shooting With Foreign-manufactured Revolver",
+      "sent_at": "2026-01-24T04:38:28Z"
     }
   ]
 }
