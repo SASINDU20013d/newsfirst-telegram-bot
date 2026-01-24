@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/17/final-rites-of-singer-raju-bandara-held-today",
-      "content_hash": "fba4e6905362c394601417b7cc6036ac5dc185a7b65952d57f28e7ba437f5be8",
-      "title": "Final Rites Of Singer Raju Bandara Held Today",
-      "sent_at": "2026-01-17T07:23:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/man-killed-and-children-injured-in-colombo-shooting",
-      "content_hash": "41aa8888ceac48b7373ffb97a877e5fe6ca400430e9eca178ca1e923bb5482cd",
-      "title": "Man Killed And Children Injured In Colombo Shooting",
-      "sent_at": "2026-01-17T07:23:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/organized-crime-figure-gampaha-baba-detained-until-january-28",
-      "content_hash": "8faa4647e2d894a4c82b4c6dea27dbdf411918836ee0d1e07a8512cb0f9a0c6a",
-      "title": "Organized Crime Figure Gampaha Baba Detained Until January 28",
-      "sent_at": "2026-01-17T07:23:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/train-services-to-resume-from-20th-northern-line-closed-for-renovation",
-      "content_hash": "75e4c103adb2e7892201574b6de02705f0436db3b23ff6a1354036ae220d5113",
-      "title": "Train Services To Resume From 20th; Northern Line Closed For Renovation",
-      "sent_at": "2026-01-17T07:23:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/western-province-police-intensify-drug-driving-raids",
-      "content_hash": "4b59cdb7f917edb4c7db72c6381847caaf81cb0d6f16e461fcd9bb623976a7ea",
-      "title": "Western Province Police Intensify Drug-Driving Raids",
-      "sent_at": "2026-01-17T07:23:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/17/eric-meyer-nominated-as-next-u-s-ambassador-to-sri-lanka",
       "content_hash": "6d0d87ae2d9a30f90da03272f3542349b177a508f4043b8c4550f8f39b78015e",
       "title": "Eric Meyer Nominated as Next U.S. Ambassador to Sri Lanka",
@@ -857,6 +827,18 @@
       "content_hash": "98f21312fced565193cb76795944dd4566126f395147d08e6e7c66ae789ad7fc",
       "title": "Suspect Arrested in Dehiwala Shooting With Foreign-manufactured Revolver",
       "sent_at": "2026-01-24T04:38:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/42-health-and-wellness-centers-open-to-public-across-21-districts",
+      "content_hash": "d7fa198022f560a4c0c03e144ec1a696d482d1cc61d7718dcde6dc435c249355",
+      "title": "42 Health and Wellness Centers Open to Public Across 21 Districts",
+      "sent_at": "2026-01-24T07:23:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/sri-lanka-navy-seizes-two-fishing-trawlers-11-suspects-in-narcotics-operation",
+      "content_hash": "24d70fc6f69beb9c5fec451c5c9fefb24f04a676244c62890d053ff9b282fc4e",
+      "title": "Sri Lanka Navy Seizes Two Fishing Trawlers, 11 Suspects in Narcotics Operation",
+      "sent_at": "2026-01-24T07:24:03Z"
     }
   ]
 }
