@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/17/boossa-prison-unrest-inmates-involved-to-be-transferred-to-other-prisons",
-      "content_hash": "75f4036190089cac5fe65221e94c0599fcd5d8b0a8dea3b40787989e9d9fbe0c",
-      "title": "Boossa Prison Unrest: Inmates Involved to Be Transferred to other Prisons",
-      "sent_at": "2026-01-17T03:26:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/cope-to-introduce-new-law-for-fishermen-to-hand-over-fish-byproducts",
-      "content_hash": "3704144d64d1fff7a1690fe43c8f74d3214a48df2fa96949e3031650b2178d71",
-      "title": "COPE to Introduce New Law for Fishermen to Hand Over Fish Byproducts",
-      "sent_at": "2026-01-17T03:26:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/one-dead-in-jinthupitiya-shooting-two-hospitalized",
-      "content_hash": "d85a2957b8c77dcb4d3b9d71a0ba75076cb80e42b95321cb0023fad89ff8f2ee",
-      "title": "One Dead In Jinthupitiya Shooting, Two Hospitalized",
-      "sent_at": "2026-01-17T03:26:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/police-launch-new-drug-test-to-detect-drug-impaired-drivers",
-      "content_hash": "36b14c9fdbb526e172bb63d8fc5d46add6790453e539b6fcb9827d58a06b158b",
-      "title": "Police Launch New Drug Test to Detect Drug-Impaired Drivers",
-      "sent_at": "2026-01-17T03:26:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/17/southern-coastal-development-to-follow-yearly-plan-no-construction-during-tourist-season",
-      "content_hash": "16e94d298e893ce91cc9cd4fba71bde9db7ee205af80ceed9200e0245d19d83f",
-      "title": "Southern Coastal Development to Follow Yearly Plan, No Construction During Tourist Season",
-      "sent_at": "2026-01-17T03:26:14Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/17/police-arrest-suspect-for-aiding-nawagamuwa-shooting",
       "content_hash": "e0cfed68ef6252fa50b81e0a0732cbb3e6d555a0b27423721dfa5e31d4a0203f",
       "title": "Police Arrest Suspect for Aiding Nawagamuwa Shooting",
@@ -869,6 +839,24 @@
       "content_hash": "8aaeec1b36c64ff7ed82f09bba20ae1b2bbb195a11221f38bb180da2d07e7017",
       "title": "GMOA Strike Continues for Second Day - Patients Face Severe Inconvenience",
       "sent_at": "2026-01-24T01:59:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/child-abuse-cases-in-high-courts-cross-4-200-ncpa-report",
+      "content_hash": "672c7f64d1ea249a0a82c43447be519653a55de80561676847af07c4447a80c0",
+      "title": "Child Abuse Cases in High Courts Cross 4,200 - NCPA Report",
+      "sent_at": "2026-01-24T03:39:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/gammadda-%e2%80%98care-dare%e2%80%99-phase-2-in-badulla",
+      "content_hash": "671ff56ad76cb98fc0df229a2df29dc5afd731dd2983b38d5c41ff63c1862b57",
+      "title": "Gammadda ‘Care & Dare’ Phase 2 in Badulla",
+      "sent_at": "2026-01-24T03:39:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/24/special-traffic-plan-in-colombo-today-for-sri-lankaengland-match",
+      "content_hash": "bb5cb0f55266549f9996d53a96ce328077693490c031cf01087316cdf2de789e",
+      "title": "Special Traffic Plan in Colombo Today for Sri Lanka–England Match",
+      "sent_at": "2026-01-24T03:39:32Z"
     }
   ]
 }
