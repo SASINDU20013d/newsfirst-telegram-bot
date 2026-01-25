@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/18/five-police-teams-deployed-to-investigate-jinthupitiya-shooting",
-      "content_hash": "8260e0f18605b532a5b194ac906c4021736fbb2d2afd7999f5a9d3b7fe13ed33",
-      "title": "Five Police Teams Deployed to Investigate Jinthupitiya Shooting",
-      "sent_at": "2026-01-18T06:37:14Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/18/%e2%80%98star-of-pure-land%e2%80%99-enters-global-record-as-world%e2%80%99s-largest-purple-star-sapphire",
       "content_hash": "0031c7cb77a97e5032f37721f42e1baee6490ec23e7e5b914570bcbed4d8be33",
       "title": "‘Star of Pure Land’ Enters Global Record As World’s Largest Purple Star Sapphire",
@@ -833,6 +827,12 @@
       "content_hash": "c8132520134775c4c1209534b86826813ec8f0a00d1cde642ceb6d112e5b715e",
       "title": "Police Search Operation in Giriulla, Goes South",
       "sent_at": "2026-01-25T05:31:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/government-releases-record-55-000-metric-tons-of-rice-to-the-market",
+      "content_hash": "912106ad32dbdc8e9ec7496480e648cf72ebeff8a67ad45c9533742744700605",
+      "title": "Government Releases Record 55,000 Metric Tons of Rice to the Market",
+      "sent_at": "2026-01-25T06:38:15Z"
     }
   ]
 }
