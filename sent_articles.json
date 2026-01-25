@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/18/dmt-set-to-clear-backlog-of-500-000-driving-licenses-in-march",
-      "content_hash": "9aaed4f0b93d001de1748f63284e0261f9e237f32f4e05c4da1c44c5c2a9dd98",
-      "title": "DMT Set to Clear Backlog of 500,000 Driving Licenses in March",
-      "sent_at": "2026-01-18T02:10:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/18/former-minister-nandana-gunathilake-passes-away",
       "content_hash": "ea99c2a0f5e077ece626cb5eb51de0f37cf3afd1a511d56ba5a59d2f1a3859da",
       "title": "Former Minister Nandana Gunathilake Passes Away",
@@ -827,6 +821,36 @@
       "content_hash": "45fd29d1d3bf59de7a1970b3dd63791384f18e43db5e4300b4570b335eb2d5d7",
       "title": "ICC Replaces Bangladesh with Scotland for 2026 T20 WC",
       "sent_at": "2026-01-24T15:24:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/cyber-financial-crimes-surged-by-23-last-year",
+      "content_hash": "a783c6c79f32df710b64f79277bee2cd852948cc033665c65e7c7e16aff66c1c",
+      "title": "Cyber Financial Crimes Surged by 23% Last Year",
+      "sent_at": "2026-01-25T02:20:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/gmoa-48-hour-strike-ends-today",
+      "content_hash": "a9dae8fddb50d7c6978d30226a1e9dc42e8a0b9cdaaa1d88b21d1cf9aa9ef2dc",
+      "title": "GMOA 48-Hour Strike Ends Today",
+      "sent_at": "2026-01-25T02:20:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/ministry-of-education-to-seek-public-opinion-on-university-reforms",
+      "content_hash": "5c4e3f9b805ed891a3ef2fb72d547a7d9be94de83d764b9efb36e3127ad4dad8",
+      "title": "Ministry of Education to Seek Public Opinion on University Reforms",
+      "sent_at": "2026-01-25T02:20:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/phase-ii-of-the-gammadda-care-dare-initiative-continues-in-badulla",
+      "content_hash": "97eae8e873d187c2881c88fcf89c3e0f180d930a6aabc5beb979d4e7701144cf",
+      "title": "Phase II of the Gammadda Care & Dare Initiative Continues in Badulla",
+      "sent_at": "2026-01-25T02:20:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/trcsl-to-introduce-new-regulations-to-ensure-connectivity-during-emergencies",
+      "content_hash": "8467f3a747b8d76cc4dbf55ae2cf44efe1a7295229798f8996757f814580db7d",
+      "title": "TRCSL to Introduce New Regulations to Ensure Connectivity During Emergencies",
+      "sent_at": "2026-01-25T02:20:08Z"
     }
   ]
 }
