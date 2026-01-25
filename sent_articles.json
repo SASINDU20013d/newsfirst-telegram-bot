@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/18/former-minister-nandana-gunathilake-passes-away",
-      "content_hash": "ea99c2a0f5e077ece626cb5eb51de0f37cf3afd1a511d56ba5a59d2f1a3859da",
-      "title": "Former Minister Nandana Gunathilake Passes Away",
-      "sent_at": "2026-01-18T04:07:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/18/government-to-increase-fines-for-substandard-plastic-production-and-distribution",
-      "content_hash": "b8fc1d7ceb15ccfae66b888dee8ba901d8e16e4a455bcbe734d95011e7758676",
-      "title": "Government to Increase Fines for Substandard Plastic Production and Distribution",
-      "sent_at": "2026-01-18T04:07:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/18/special-circular-issued-for-public-officials-during-ramadan-season",
-      "content_hash": "b3190d5a5e62801f5e3c9a6f263664bfe7c8a8a4186c2b5747f51829982b6ee0",
-      "title": "Special Circular Issued for Public Officials During Ramadan Season",
-      "sent_at": "2026-01-18T04:07:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/18/over-900-farmers-register-with-farmernet-lk-within-24-hours",
       "content_hash": "6661a29be6618c436c335cc810e18b93eca05cee4f6292704d130d6d8d99916c",
       "title": "Over 900 Farmers Register with FarmerNET.lk Within 24 Hours",
@@ -851,6 +833,12 @@
       "content_hash": "8467f3a747b8d76cc4dbf55ae2cf44efe1a7295229798f8996757f814580db7d",
       "title": "TRCSL to Introduce New Regulations to Ensure Connectivity During Emergencies",
       "sent_at": "2026-01-25T02:20:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/another-massive-drug-bust-in-the-sourthern-seas",
+      "content_hash": "cc03749abdff0a699200609da5b2047b6a36bb0449e784c4664b8e49720cd271",
+      "title": "Another Massive Drug Bust in the Sourthern Seas",
+      "sent_at": "2026-01-25T04:15:49Z"
     }
   ]
 }
