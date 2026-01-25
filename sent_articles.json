@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/18/over-900-farmers-register-with-farmernet-lk-within-24-hours",
-      "content_hash": "6661a29be6618c436c335cc810e18b93eca05cee4f6292704d130d6d8d99916c",
-      "title": "Over 900 Farmers Register with FarmerNET.lk Within 24 Hours",
-      "sent_at": "2026-01-18T05:27:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/18/two-arrested-in-maradana-with-foreign-made-revolver-and-live-ammunition",
-      "content_hash": "a49e9c0499c38e707476b0f7709d244e314853ceeb1a3cf34b555a98bcb3b3d2",
-      "title": "Two Arrested in Maradana with Foreign-Made Revolver and Live Ammunition",
-      "sent_at": "2026-01-18T05:28:01Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/18/five-police-teams-deployed-to-investigate-jinthupitiya-shooting",
       "content_hash": "8260e0f18605b532a5b194ac906c4021736fbb2d2afd7999f5a9d3b7fe13ed33",
       "title": "Five Police Teams Deployed to Investigate Jinthupitiya Shooting",
@@ -839,6 +827,12 @@
       "content_hash": "cc03749abdff0a699200609da5b2047b6a36bb0449e784c4664b8e49720cd271",
       "title": "Another Massive Drug Bust in the Sourthern Seas",
       "sent_at": "2026-01-25T04:15:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/police-search-operation-in-giriulla-goes-south",
+      "content_hash": "c8132520134775c4c1209534b86826813ec8f0a00d1cde642ceb6d112e5b715e",
+      "title": "Police Search Operation in Giriulla, Goes South",
+      "sent_at": "2026-01-25T05:31:30Z"
     }
   ]
 }
