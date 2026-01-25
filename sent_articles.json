@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/18/%e2%80%98star-of-pure-land%e2%80%99-enters-global-record-as-world%e2%80%99s-largest-purple-star-sapphire",
-      "content_hash": "0031c7cb77a97e5032f37721f42e1baee6490ec23e7e5b914570bcbed4d8be33",
-      "title": "‘Star of Pure Land’ Enters Global Record As World’s Largest Purple Star Sapphire",
-      "sent_at": "2026-01-18T07:24:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/18/cid-to-investigate-seizure-of-mobile-phones-from-high-profile-prison-ward",
-      "content_hash": "81b6c00ad74c99bc071d89fb5e799e28cc5f33994a6999edd808edc0b480926b",
-      "title": "CID to Investigate Seizure of Mobile Phones from High-Profile Prison Ward",
-      "sent_at": "2026-01-18T07:24:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/18/pm-urges-to-prioritize-children%e2%80%99s-future-over-political-agendas",
       "content_hash": "e0e663e4b6ae584cc3477f3882f49fe060073eb5532324d8ffe8c876dae57f82",
       "title": "PM Urges to Prioritize Children’s Future Over Political Agendas",
@@ -833,6 +821,24 @@
       "content_hash": "912106ad32dbdc8e9ec7496480e648cf72ebeff8a67ad45c9533742744700605",
       "title": "Government Releases Record 55,000 Metric Tons of Rice to the Market",
       "sent_at": "2026-01-25T06:38:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/another-massive-drug-bust-in-the-southern-seas",
+      "content_hash": "c01d465b3e5eb4c920e9086e7a9d8316692c0770dc42c2d2be8bfd0691341a60",
+      "title": "Another Massive Drug Bust in the Southern Seas",
+      "sent_at": "2026-01-25T07:25:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/four-arrested-at-bia-with-narcotics-worth-over-rs-216-million",
+      "content_hash": "c2551808227c1757b1ca600e35a6b62c5455739953f259892edd74c501fd1a7f",
+      "title": "Four Arrested at BIA with Narcotics Worth Over Rs. 216 Million",
+      "sent_at": "2026-01-25T07:25:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/25/six-officers-from-gampaha-crime-division-arrested-over-an-alleged-assault-of-a-priest",
+      "content_hash": "49596a49d3035b006de066a5f469bbea7fdf60ef761592b5f15dcf800476705f",
+      "title": "Six Officers from Gampaha Crime Division Arrested Over an Alleged Assault of a Priest",
+      "sent_at": "2026-01-25T07:25:50Z"
     }
   ]
 }
