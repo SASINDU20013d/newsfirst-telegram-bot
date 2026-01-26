@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/19/320%e2%80%91meter-flyover-opens-in-colombo-after-long-delay",
-      "content_hash": "95a714b53a6d7225fcfbce1f1fbf2263f59fffd5a7de0c7c970746b319707a89",
-      "title": "320‑Meter Flyover Opens in Colombo After Long Delay",
-      "sent_at": "2026-01-19T09:39:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/19/390-smuggled-mobile-phones-seized-businessman-arrested-with-rs-34m-mobile-phone-haul",
-      "content_hash": "85dd854b2770add5a1da817bf2c71a9d619b4f16d94be9fd0c4af7638620681f",
-      "title": "390+ Smuggled Mobile Phones Seized: Businessman Arrested with Rs. 34M Mobile Phone Haul",
-      "sent_at": "2026-01-19T09:39:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/19/galle-one-of-the-world%e2%80%99s-most-romantic-places-for-2026",
       "content_hash": "fa0852e536fbe65c0f7977c1e894710a694855efa75edcf7b91d22a1bdcdc92f",
       "title": "Galle: One of The World’s Most Romantic Places for 2026",
@@ -851,6 +839,12 @@
       "content_hash": "666e2faf6d381bb618f63a8799afbc51c708ab0655016feedbe0018a5a8227b2",
       "title": "Navy Intercepts 02 Narcotics-Laden Trawlers with 11 Suspects in Southern Seas",
       "sent_at": "2026-01-26T07:32:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/26/suspect-arrested-for-attacking-deputy-mayor-of-kandy",
+      "content_hash": "bc5e6448d0738c80c423df3b2e23d2345380989ecfa31087ee53edb423672254",
+      "title": "Suspect Arrested for Attacking Deputy Mayor of Kandy",
+      "sent_at": "2026-01-26T09:39:21Z"
     }
   ]
 }
