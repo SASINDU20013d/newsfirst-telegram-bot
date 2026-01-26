@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/19/anura-meter-10-promises-delivered-10-in-progress",
-      "content_hash": "8a2f7f2c7ad528ab32358707fe148654ff6a59353e0ac1a50828c4c0b820fae1",
-      "title": "Anura Meter: 10 Promises Delivered, 10 in Progress",
-      "sent_at": "2026-01-19T13:49:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/19/mahawaanuradhapura-rail-line-closed-for-repairs",
-      "content_hash": "c379933b462bb33594f238bd3c67ad0a7a680049a59f9fffcbd479c9541c2bbe",
-      "title": "Mahawa–Anuradhapura Rail Line Closed For Repairs",
-      "sent_at": "2026-01-19T13:49:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/19/sri-lanka-pushes-for-cashless-economy-digital-id",
-      "content_hash": "24eb14e7c02e590e78517171a381f7f7a5b710f0c90e56e7f391855d92f2d65f",
-      "title": "Sri Lanka Pushes For Cashless Economy, Digital ID",
-      "sent_at": "2026-01-19T13:49:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/19/gem-or-not-authorities-examine-strange-boulder",
-      "content_hash": "cf94e066999a8ca0452b433c7ccff6e8736ce6a24346cf64be0ff36199652a4b",
-      "title": "Gem or Not? Authorities Examine Strange Boulder",
-      "sent_at": "2026-01-19T14:32:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/20/five-arrested-over-fatal-jinthupitiya-shooting",
       "content_hash": "860eb8d5fefb15d153b65903dec6041d9ce380e07ad29803cc72df758c6cbfdb",
       "title": "Five Arrested Over Fatal Jinthupitiya Shooting",
@@ -839,6 +815,12 @@
       "content_hash": "008de896bea060a1535d6651561d1b6c9efa4c1917b1fd384345b5729c40fc62",
       "title": "Namal Rajapaksa and Delegation Attend Indian Republic Day in Odisha",
       "sent_at": "2026-01-26T13:49:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/26/suspension-of-parliament%e2%80%99s-deputy-secretary-general-sparks-political-turmoil",
+      "content_hash": "8891c09e1f497c34ffe88421eb617f9601010e58bb2c054468569429101cbd05",
+      "title": "Suspension of Parliament’s Deputy Secretary-General Sparks Political Turmoil",
+      "sent_at": "2026-01-26T14:33:48Z"
     }
   ]
 }
