@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/20/ai-vs-old-school-mps-clash-over-future-of-education",
-      "content_hash": "8b0bd406050cd51a592043d7022c1b5140578b9064d4a502b9498cd1a9d10686",
-      "title": "AI vs. Old School: MPs Clash Over Future of Education",
-      "sent_at": "2026-01-20T13:50:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/20/one-word-in-a-grade-6-book-caused-a-controversy",
       "content_hash": "b2c7b169c5c8ed04c15c7f0ffeb3ed8a7f5b47edf19196d451428205c376e564",
       "title": "One Word in a Grade 6 Book Caused A Controversy",
@@ -851,6 +845,12 @@
       "content_hash": "657c6cc10bd4f2aea7ff1ef76910c8d2ebcbc488681787257409232be6ad0de0",
       "title": "Sri Lanka Rugby Welcomes Yes FM & Sirasa TV in Powering 2026 Season",
       "sent_at": "2026-01-27T13:00:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/ex-minister-p-harrison-questioned-for-hours-over-controversial-dairy-cow-deal",
+      "content_hash": "241c1293b0cab5e7514090f0433bcc68f16de5c1d6c324a3fddb9d2ea013f693",
+      "title": "Ex-Minister P. Harrison Questioned for Hours Over Controversial Dairy Cow Deal",
+      "sent_at": "2026-01-27T13:51:35Z"
     }
   ]
 }
