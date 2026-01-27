@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/20/australia-backs-sri-lanka%e2%80%99s-food-security-drive-and-rcep-membership-plan",
-      "content_hash": "3a71ce54fdd9957d17d67fd6aa93708a01e020e4b411a11d7e269d1de5feba8c",
-      "title": "Australia Backs Sri Lanka’s Food Security Drive and RCEP Membership Plan",
-      "sent_at": "2026-01-20T06:42:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/sri-lanka%e2%80%99s-speaker-joins-global-leaders-at-commonwealth-summit",
-      "content_hash": "05665e34423262365fec43ed3703320e02337a0e4f111a4fd35a9601f8659485",
-      "title": "Sri Lanka’s Speaker Joins Global Leaders at Commonwealth Summit",
-      "sent_at": "2026-01-20T06:42:54Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/20/ex-%e2%80%91-army-captain-linked-to-notorious-%e2%80%98karandeniya-sudda%e2%80%99",
       "content_hash": "2db3cda34eb5dac0ad618c46940476f7fb0b99aa12305fa3dfed46c9067da4f9",
       "title": "Ex ‑ Army Captain Linked to Notorious ‘Karandeniya Sudda’",
@@ -821,6 +809,36 @@
       "content_hash": "586e6e3c7b93fac2cbc8d2c1e0b6405f97df88dec93702562882e5ce76893c81",
       "title": "X-Press Pearl: Only Rs. 250 Mn Paid Instead of $ 500 Mn",
       "sent_at": "2026-01-27T06:42:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/female-police-officer-arrested-over-heroin-possession",
+      "content_hash": "78524ac4f58fcf68938f7d1734b0fdfc748fa01eb5cc1d59a27023a9f0d4c66d",
+      "title": "Female Police Officer Arrested Over Heroin Possession",
+      "sent_at": "2026-01-27T07:32:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/overseas-criminals-ready-to-surrender-to-cid",
+      "content_hash": "2325ccaa552a757bf40a50b456c4e7d0ed4d00edb11e5ae038bf09fb1aa6c107",
+      "title": "Overseas Criminals Ready to Surrender To CID",
+      "sent_at": "2026-01-27T07:32:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/police-probing-illegal-wealth-of-repatriated-criminal",
+      "content_hash": "41d26ca8796efbab9556e8b7c2bcbc0e62947d5082711eb439d7c9248c2ca49d",
+      "title": "Police Probing Illegal Wealth Of Repatriated Criminal",
+      "sent_at": "2026-01-27T07:32:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/stf-nabs-key-link-to-%e2%80%98panadura-salidu%e2%80%99-drug-network",
+      "content_hash": "4a27b4f707f4561218735583dca8ab3248cc65a87d2762c54f2499c32a25667e",
+      "title": "STF Nabs Key Link to ‘Panadura Salidu’ Drug Network",
+      "sent_at": "2026-01-27T07:32:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/three-days-thousands-of-lives-how-gammedda-united-a-nation-in-care",
+      "content_hash": "d083d854c4e86f63b9e96b411a4ec501959a0cb664da69a39143bfe4dc0932a5",
+      "title": "Three Days, Thousands of Lives: How Gammedda United a Nation in Care",
+      "sent_at": "2026-01-27T07:32:20Z"
     }
   ]
 }
