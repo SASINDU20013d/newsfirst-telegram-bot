@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/20/daily-attendance-incentive-for-estate-workers-from-jan",
-      "content_hash": "c8db7eaed14605d6351a86ec3d7a06016498e2d4ac47352c8fc5187696032c1c",
-      "title": "Daily Attendance Incentive for Estate Workers From Jan",
-      "sent_at": "2026-01-20T09:37:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/govt-moves-to-recruit-26-assistant-analysts",
-      "content_hash": "8814d425431ab21be817323406646d7a26faab230496232bccd639b7f41538e0",
-      "title": "Govt Moves to Recruit 26 Assistant Analysts",
-      "sent_at": "2026-01-20T09:37:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/lonely-planet-names-sri-lanka%e2%80%99s-top-beaches-here-are-the-13-picks",
-      "content_hash": "b041d5a8e8850c5260e484918afcbd6e526e6e1a0716c083ac4bd980741bfdc6",
-      "title": "Lonely Planet Names Sri Lanka’s Top Beaches - Here Are the 13 Picks",
-      "sent_at": "2026-01-20T09:37:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/malaysia-to-colombo-drug-run-ends-in-arrest-at-bia",
-      "content_hash": "2cb819d85b4252023ec908621634d2176f6a7b356f335fe02adb38a62011c5cc",
-      "title": "Malaysia to Colombo Drug Run Ends in Arrest at BIA",
-      "sent_at": "2026-01-20T09:37:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/ncm-against-pm-set-to-receive-two-days-of-parliamentary-debate",
-      "content_hash": "6e6e679a701e03e3eee23f08458366d5d8d391bbebe505c4a7fa2f419c55f7cd",
-      "title": "NCM Against PM Set to Receive Two Days of Parliamentary Debate",
-      "sent_at": "2026-01-20T09:37:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/20/ai-vs-old-school-mps-clash-over-future-of-education",
       "content_hash": "8b0bd406050cd51a592043d7022c1b5140578b9064d4a502b9498cd1a9d10686",
       "title": "AI vs. Old School: MPs Clash Over Future of Education",
@@ -857,6 +827,12 @@
       "content_hash": "f1b0748743b936a0ee9269dd945fe4cbbce01526ce5d1922e2e5a055f2691446",
       "title": "Vocational Training Offered After Drug Rehabilitation",
       "sent_at": "2026-01-27T08:38:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/%e2%82%ac4-billion-in-annual-savings-96-tariff-cuts-euindia-free-trade-agreement-sealed",
+      "content_hash": "55490e2574498e58f9e58c1569edb910e58b6614dbc58c28b8ce302f3574b7f9",
+      "title": "€4 Billion in Annual Savings & 96% Tariff Cuts : EU–India Free Trade Agreement Sealed",
+      "sent_at": "2026-01-27T09:38:00Z"
     }
   ]
 }
