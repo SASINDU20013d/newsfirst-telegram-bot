@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/20/ex-%e2%80%91-army-captain-linked-to-notorious-%e2%80%98karandeniya-sudda%e2%80%99",
-      "content_hash": "2db3cda34eb5dac0ad618c46940476f7fb0b99aa12305fa3dfed46c9067da4f9",
-      "title": "Ex ‑ Army Captain Linked to Notorious ‘Karandeniya Sudda’",
-      "sent_at": "2026-01-20T07:32:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/20/daily-attendance-incentive-for-estate-workers-from-jan",
       "content_hash": "c8db7eaed14605d6351a86ec3d7a06016498e2d4ac47352c8fc5187696032c1c",
       "title": "Daily Attendance Incentive for Estate Workers From Jan",
@@ -839,6 +833,30 @@
       "content_hash": "d083d854c4e86f63b9e96b411a4ec501959a0cb664da69a39143bfe4dc0932a5",
       "title": "Three Days, Thousands of Lives: How Gammedda United a Nation in Care",
       "sent_at": "2026-01-27T07:32:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/doctors-withdraw-from-select-services-as-gmoa-protest-continues",
+      "content_hash": "a40e269b531e340bbfbb55369e7d137d66728a7ffcfa0f06d9d9ae03448c5539",
+      "title": "Doctors Withdraw From Select Services as GMOA Protest Continues",
+      "sent_at": "2026-01-27T08:38:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/joint-policedmt-operations-target-unfit-vehicles",
+      "content_hash": "0f116a0042dc1c7b8ba8455858feb6449c49da0b3fdf2507cc4c188eb5ca8cbb",
+      "title": "Joint Police–DMT Operations Target Unfit Vehicles",
+      "sent_at": "2026-01-27T08:38:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/six-cops-suspended-over-alleged-assault-on-priest",
+      "content_hash": "7e073480c0d31498f7a4fee2c980d251ff651a5a0f8c660b789518e516878eef",
+      "title": "Six Cops Suspended Over Alleged Assault on Priest",
+      "sent_at": "2026-01-27T08:38:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/vocational-training-offered-after-drug-rehabilitation",
+      "content_hash": "f1b0748743b936a0ee9269dd945fe4cbbce01526ce5d1922e2e5a055f2691446",
+      "title": "Vocational Training Offered After Drug Rehabilitation",
+      "sent_at": "2026-01-27T08:38:58Z"
     }
   ]
 }
