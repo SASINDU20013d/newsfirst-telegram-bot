@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/20/five-arrested-over-fatal-jinthupitiya-shooting",
-      "content_hash": "860eb8d5fefb15d153b65903dec6041d9ce380e07ad29803cc72df758c6cbfdb",
-      "title": "Five Arrested Over Fatal Jinthupitiya Shooting",
-      "sent_at": "2026-01-20T02:03:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/parliament-to-debate-aswesuma-welfare-benefit-scheme-today",
-      "content_hash": "88347c374eb741e7cfe37fb7d2b77b3ae101164886966d0e7f9e8c56f3751fec",
-      "title": "Parliament to Debate Aswesuma Welfare Benefit Scheme Today",
-      "sent_at": "2026-01-20T02:03:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/pm-to-hold-high-level-talks-during-switzerland-visit",
-      "content_hash": "eb6efa5e7bef87684ec0dcc5a7129d00245e98e8734b9ad28b5f15c3edb60c65",
-      "title": "PM to Hold High-Level Talks During Switzerland Visit",
-      "sent_at": "2026-01-20T02:03:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/sri-lanka-u19s-qualify-for-super-six-with-106-run-win-over-ireland",
-      "content_hash": "7e43ef2e8935011d595ae1a6678d21b90047a9e137ea21a42cef3d6dae18d9a9",
-      "title": "Sri Lanka U19s Qualify for Super Six With 106-Run Win Over Ireland",
-      "sent_at": "2026-01-20T02:03:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/train-services-along-three-routes-resume-after-cyclone-ditwah-disruptions",
-      "content_hash": "ee0fd9f476800d4e34e1c7b9409b0bd61a2f8b47174b334a14bf3dbdcf14c367",
-      "title": "Train Services along Three Routes Resume After Cyclone Ditwah Disruptions",
-      "sent_at": "2026-01-20T02:03:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/italian-fashion-designer-valentino-dies-aged-93",
-      "content_hash": "f3016c928822f3bd0130ad7f7862c934ab772a50d539632aee6159c86923be72",
-      "title": "Italian Fashion Designer Valentino Dies Aged 93",
-      "sent_at": "2026-01-20T03:49:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/20/over-rs-280-mn-seized-from-suspect-in-money-laundering-case",
       "content_hash": "6cffb7f122698dad6088bd9a5ec065701cf04a620a5ef50a00b49e771b44516c",
       "title": "Over Rs. 280 Mn Seized from Suspect in Money Laundering Case",
@@ -827,6 +791,30 @@
       "content_hash": "75a9d50c17584ce4a4b5323d1534e49a86bef0601033866d36746b868e1b7d6a",
       "title": "'DY2' Rewrites Sri Lankan Box Office History with Record-Breaking Opening Weekend",
       "sent_at": "2026-01-26T18:42:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/dengue-cases-spike-in-january-colombo-records-the-highest",
+      "content_hash": "dbd2421f05fbdf123e1d528a42adae968b0fea98ca385b6136ca2051c2311445",
+      "title": "Dengue Cases Spike in January; Colombo Records the Highest",
+      "sent_at": "2026-01-27T04:09:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/former-first-lady-shiranthi-rajapaksa-summoned-by-fcid-over-%e2%80%98siriliya%e2%80%99-account-probe",
+      "content_hash": "830440af386dfaee3f828ffccac563943a5760ad6eb4f086847e6c3358cd7f6c",
+      "title": "Former First Lady Shiranthi Rajapaksa Summoned by FCID Over ‘Siriliya’ Account Probe",
+      "sent_at": "2026-01-27T04:09:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/gmoa-trade-union-action-enters-second-day-hospital-services-continue-as-usual",
+      "content_hash": "0adcd81e69e35276e2f7ce9449c7aa918e465b9c8d927fffc7ba142e4de24481",
+      "title": "GMOA Trade Union Action Enters Second Day; Hospital Services Continue as Usual",
+      "sent_at": "2026-01-27T04:09:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/president-to-inaugurate-%e2%80%98godanagamu-adhishtanaye-sanhinda%e2%80%99-national-programme-for-restoration-of-disaster-damaged-religious-sites-today",
+      "content_hash": "18791ba56230829ef2cccbb51349f75325e87fc6afccfae48eebd31fa13f0766",
+      "title": "President to Inaugurate ‘Godanagamu Adhishtanaye Sanhinda’ National Programme for Restoration of Disaster-Damaged Religious Sites Today",
+      "sent_at": "2026-01-27T04:10:01Z"
     }
   ]
 }
