@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/20/over-rs-280-mn-seized-from-suspect-in-money-laundering-case",
-      "content_hash": "6cffb7f122698dad6088bd9a5ec065701cf04a620a5ef50a00b49e771b44516c",
-      "title": "Over Rs. 280 Mn Seized from Suspect in Money Laundering Case",
-      "sent_at": "2026-01-20T04:50:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/polluted-air-drift-from-india-plummets-sri-lanka%e2%80%99s-air-quality",
-      "content_hash": "54338087ad5f1e1111dddc67e7c8de61fe4a386609a5523416066182395fcb31",
-      "title": "Polluted Air Drift From India Plummets Sri Lanka’s Air Quality",
-      "sent_at": "2026-01-20T04:50:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/20/sri-lanka%e2%80%99s-new-envoy-to-russia-meets-putin-fresh-momentum-for-colombomoscow-ties-at-kremlin",
-      "content_hash": "38ab3e96161348a132c05ff0eaa8f36ba5fa2f6afd6f178c2d380657ae21305d",
-      "title": "Sri Lanka’s New Envoy To Russia Meets Putin | Fresh Momentum for Colombo–Moscow Ties at Kremlin",
-      "sent_at": "2026-01-20T04:50:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/20/australia-backs-sri-lanka%e2%80%99s-food-security-drive-and-rcep-membership-plan",
       "content_hash": "3a71ce54fdd9957d17d67fd6aa93708a01e020e4b411a11d7e269d1de5feba8c",
       "title": "Australia Backs Sri Lanka’s Food Security Drive and RCEP Membership Plan",
@@ -815,6 +797,18 @@
       "content_hash": "18791ba56230829ef2cccbb51349f75325e87fc6afccfae48eebd31fa13f0766",
       "title": "President to Inaugurate ‘Godanagamu Adhishtanaye Sanhinda’ National Programme for Restoration of Disaster-Damaged Religious Sites Today",
       "sent_at": "2026-01-27T04:10:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/fatal-crashes-claim-teen-lives-in-separate-road-accidents",
+      "content_hash": "97a31b0a3124d50572594a4992b76ef5cadc0ada9496b57749eef2c5491337ff",
+      "title": "Fatal Crashes Claim Teen Lives in Separate Road Accidents",
+      "sent_at": "2026-01-27T05:31:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/27/shiranthi-rajapaksa-unable-to-attend-fcid-summons-today-requests-two-week-extension",
+      "content_hash": "c1eee2bfaed9c647ecf5f7df075b129448c895a78c102b19b01683d08f83e8d9",
+      "title": "Shiranthi Rajapaksa Unable to Attend FCID Summons Today, Requests Two-Week Extension",
+      "sent_at": "2026-01-27T05:31:34Z"
     }
   ]
 }
