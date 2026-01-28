@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/21/shinzo-abe-s-assassin-gets-life-sentence",
-      "content_hash": "86202c58ac21c5f3bb7c3788d97f83a2ce1fb22a57ecb77e61560af35caece1c",
-      "title": "Shinzo Abe's Assassin Gets Life Sentence",
-      "sent_at": "2026-01-21T10:34:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/21/tishan-subasinghe-assumes-presidency-of-ca-sri-lanka",
       "content_hash": "a6d47e01fe8c50d12677c7f9cc96639c0a874838677abfce86c7aa2a116746fc",
       "title": "Tishan Subasinghe Assumes Presidency of CA Sri Lanka",
@@ -827,6 +821,12 @@
       "content_hash": "db7e6a08a9df3a36ef158b7022d1a15a1349c82d2630359e6213d17a650ebc7e",
       "title": "Former Presidential Secretary Saman Ekanayake Produced Before Colombo Fort Magistrates Court",
       "sent_at": "2026-01-28T09:38:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/28/imf-says-sri-lanka-is-%e2%80%98on-the-right-track%e2%80%99-and-%e2%80%98no-change-in-the-program%e2%80%99-pmd",
+      "content_hash": "0ae3d4ec0184ef92c7bd6d8084f45356ca248a01feee2697975af2e0cd024977",
+      "title": "IMF Says Sri Lanka Is ‘On the Right Track’ And ‘No Change in the Program’ - PMD",
+      "sent_at": "2026-01-28T11:27:19Z"
     }
   ]
 }
