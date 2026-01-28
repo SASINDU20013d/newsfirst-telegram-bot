@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/21/at-davos-2026-imf-reaffirms-commitment-to-sri-lanka%e2%80%99s-economic-comeback",
-      "content_hash": "a2094e76907f41ee35d548220618e8e5422b34aac1826ab2a62630af4d0bb6f1",
-      "title": "At Davos 2026, IMF Reaffirms Commitment to Sri Lanka’s Economic Comeback",
-      "sent_at": "2026-01-21T06:43:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/21/canada-s-carney-warns-against-%e2%80%98living-within-the-lie%e2%80%99",
-      "content_hash": "12ad8ef3411f3b97fd69a7abb9278b9282a5c0fa6c932a5005e194a1f502b086",
-      "title": "Canada's Carney Warns Against ‘Living Within the Lie’",
-      "sent_at": "2026-01-21T06:43:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/21/trump%e2%80%99s-air-force-one-turns-back-to-washington-after-%e2%80%98minor-electrical-issue%e2%80%99",
-      "content_hash": "3013b1864b17fb2c3a637739ef31d91c83be42aefb1973d490c5cfb7a57542f6",
-      "title": "Trump’s Air Force One Turns Back to Washington After ‘Minor Electrical Issue’",
-      "sent_at": "2026-01-21T06:43:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/21/we-take-pride-in-being-sri-lanka%e2%80%99s-most-reliable-friend-indian-envoy",
-      "content_hash": "a5f2dd52d8951b4aa4f2885c2b5d190c275dd4292df2c9fa98e4347fb8c257ef",
-      "title": "We Take Pride in Being Sri Lanka’s Most Reliable Friend - Indian Envoy",
-      "sent_at": "2026-01-21T06:43:17Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/21/south-korea-jails-ex-pm-han-duck-soo-for-23-years-over-martial-law-crisis",
       "content_hash": "2adc94c4d69130a2e7fc65ef10d19315a88e912f4352011ff4804498b9812b9e",
       "title": "South Korea Jails ex-PM Han Duck-soo For 23 Years Over Martial Law Crisis",
@@ -863,6 +839,12 @@
       "content_hash": "b33c87da876ae97dc456aea28fa978bbe7c140260a486360aaaf3501ec071030",
       "title": "IMF Vows Support As Sri Lanka Maps Its Post‑Cyclone Recovery",
       "sent_at": "2026-01-28T06:42:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/28/sri-lanka-s-first-navy-officer-to-complete-u-s-navy-seal-training-passes-away",
+      "content_hash": "9632d9dd62e3adf80937d1566850d69f51fd756b44b1d07fb438d56527821ecc",
+      "title": "Sri Lanka's First Navy Officer to Complete U.S. Navy SEAL Training, Passes Away",
+      "sent_at": "2026-01-28T07:30:49Z"
     }
   ]
 }
