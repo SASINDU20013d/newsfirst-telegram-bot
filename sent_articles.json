@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/21/south-korea-jails-ex-pm-han-duck-soo-for-23-years-over-martial-law-crisis",
-      "content_hash": "2adc94c4d69130a2e7fc65ef10d19315a88e912f4352011ff4804498b9812b9e",
-      "title": "South Korea Jails ex-PM Han Duck-soo For 23 Years Over Martial Law Crisis",
-      "sent_at": "2026-01-21T08:37:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/21/sri-lanka%e2%80%99s-recognized-political-parties-rise-to-85-as-ec-accepts-five-new-parties",
       "content_hash": "154f6d0051407ea2b3982e28d11cb8e5a1f3a4f883fcfd5f4c5341ecf8c0e9e7",
       "title": "Sri Lanka’s Recognized Political Parties Rise to 85 as EC Accepts Five New Parties",
@@ -845,6 +839,12 @@
       "content_hash": "9632d9dd62e3adf80937d1566850d69f51fd756b44b1d07fb438d56527821ecc",
       "title": "Sri Lanka's First Navy Officer to Complete U.S. Navy SEAL Training, Passes Away",
       "sent_at": "2026-01-28T07:30:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/28/ranil-arrives-at-colombo-fort-magistrate-s-court",
+      "content_hash": "5cbcd71ce1788d98ba729094f756c6290408515585e0e90023db87f489c1e6fe",
+      "title": "Ranil Arrives at Colombo Fort Magistrate's Court",
+      "sent_at": "2026-01-28T08:39:09Z"
     }
   ]
 }
