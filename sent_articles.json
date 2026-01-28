@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/21/icc-upholds-current-match-schedule-for-men%e2%80%99s-t20-world-cup-2026",
-      "content_hash": "db563dc6e2a7c1f634ef3b311ae356b2b82bd18f7750d6350ad8954cb6f099ba",
-      "title": "ICC Upholds Current Match Schedule For Men’s T20 World Cup 2026",
-      "sent_at": "2026-01-21T13:50:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/21/harini-calls-for-recognising-unpaid-care-labour",
       "content_hash": "75ce45740e0d11e99f6d6a5029e48cc6cccde90e49fa46f6c1915e8cda61b48c",
       "title": "Harini Calls For Recognising Unpaid Care Labour",
@@ -815,6 +809,12 @@
       "content_hash": "0ae3d4ec0184ef92c7bd6d8084f45356ca248a01feee2697975af2e0cd024977",
       "title": "IMF Says Sri Lanka Is ‘On the Right Track’ And ‘No Change in the Program’ - PMD",
       "sent_at": "2026-01-28T11:27:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/28/supreme-court-orders-notices-to-gotabaya-and-others",
+      "content_hash": "7596b9a4794e73b67c3018f13d230697c67964d4f633974481e4f86e2053d7f5",
+      "title": "Supreme Court Orders Notices to Gotabaya and Others",
+      "sent_at": "2026-01-28T13:52:13Z"
     }
   ]
 }
