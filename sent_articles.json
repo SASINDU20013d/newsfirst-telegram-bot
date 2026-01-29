@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/22/trump-launches-board-of-peace",
-      "content_hash": "27bc8c24a38f270d6654844032a16cde7544dbd220549e6165f809cf9d371282",
-      "title": "Trump Launches Board of Peace",
-      "sent_at": "2026-01-22T15:36:21Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/23/boi-targets-us-1-5-billion-in-fdi-this-year",
       "content_hash": "dc8060c96711917ea5fcc663c6cc2e76e3c8679242be7a950e226cf7d8da537d",
       "title": "BOI Targets US$ 1.5 Billion in FDI This Year",
@@ -779,6 +773,12 @@
       "content_hash": "036d987e3459a864ffd828a6a636307d158e101487f011160987196ed27f2a45",
       "title": "Woman Arrested in Ganemulla with Rs. 180 Million Worth of Cocaine",
       "sent_at": "2026-01-29T13:07:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/imf%e2%80%99s-kristalina-geogieva-to-visit-sri-lanka-in-february",
+      "content_hash": "d4ddea8776132784061e2602f53c844457742540f833e62e432d96f0160ec867",
+      "title": "IMF’s Kristalina Geogieva To Visit Sri Lanka In February",
+      "sent_at": "2026-01-29T15:39:53Z"
     }
   ]
 }
