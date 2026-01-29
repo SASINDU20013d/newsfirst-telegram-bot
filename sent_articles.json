@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/22/audit-exposes-questionable-transactions-in-ambuluwawa-cable-car-project",
-      "content_hash": "67d3bbd09a78f929e242fcc164b5dead533bb8247e092001f1b58bbd7e2020cc",
-      "title": "Audit Exposes \"Questionable Transactions\" in Ambuluwawa Cable Car Project",
-      "sent_at": "2026-01-22T08:38:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/22/imf-fact-finding-mission-in-sri-lanka-to-measure-cyclone-devastation",
-      "content_hash": "0be3a5470a5f943744a4f07b77ec49fd6237bb020f1bfb30e2b925bf18ac2df7",
-      "title": "IMF Fact-Finding Mission In Sri Lanka to Measure Cyclone Devastation",
-      "sent_at": "2026-01-22T08:38:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/22/offshore-wind-could-transform-indiasri-lanka-relations-former-chief-economic-advisor-of-india",
       "content_hash": "95a6a3b2428365054d5e1bd12082a081173d5ab1b296142f5c3f4cdf9342ad21",
       "title": "Offshore Wind Could Transform India–Sri Lanka Relations, Former Chief Economic Advisor Of India",
@@ -785,6 +773,24 @@
       "content_hash": "26f64afd54476710dd42b7f77926e2a04d24f1b89cdf98fa0aaa28f08a004949",
       "title": "Veteran Filmmaker Sena Samarasinghe Passes Away",
       "sent_at": "2026-01-29T07:42:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/education-reform-to-end-textbook-tyranny",
+      "content_hash": "ae7aa05addc082e9baf9dae3d9bb2d4c953d02da333648449de549fa6a9b097c",
+      "title": "Education Reform to End Textbook Tyranny",
+      "sent_at": "2026-01-29T08:47:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/former-presidential-secretary-saman-ekanayake-directed-to-magazine-prison",
+      "content_hash": "2494ff2d65a5796685ecbfd713b334680b1a1ff380fb53dd3e71dedae15ce93e",
+      "title": "Former Presidential Secretary Saman Ekanayake Directed to Magazine Prison",
+      "sent_at": "2026-01-29T08:47:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/namal-rajapaksa-s-case-on-money-laundering-to-be-recalled-on-july-30",
+      "content_hash": "e17026b014551e4eb8b65614b49cd01e5c122740f0c76d366e45d5ee361dd757",
+      "title": "Namal Rajapaksa's Case on Money Laundering To Be Recalled on July 30",
+      "sent_at": "2026-01-29T08:47:51Z"
     }
   ]
 }
