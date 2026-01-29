@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/22/habaraduwa-ps-chairman-resigns",
-      "content_hash": "3cd99a9b71d30e8f7bc84021e9028930c27c4c8bb122b6618a75ed5d57075105",
-      "title": "Habaraduwa PS Chairman Resigns",
-      "sent_at": "2026-01-22T07:31:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/22/radiology-technologists-pause-strike-inquiry-assurance",
-      "content_hash": "4b98e0d3424b3ca48f20ef3ca15f71b65c7a2cf1da954524e9a3eeb5f997a6ef",
-      "title": "Radiology Technologists Pause Strike Inquiry Assurance",
-      "sent_at": "2026-01-22T07:31:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/22/audit-exposes-questionable-transactions-in-ambuluwawa-cable-car-project",
       "content_hash": "67d3bbd09a78f929e242fcc164b5dead533bb8247e092001f1b58bbd7e2020cc",
       "title": "Audit Exposes \"Questionable Transactions\" in Ambuluwawa Cable Car Project",
@@ -779,6 +767,24 @@
       "content_hash": "adc446d4a2df69426c448cca886152b16bde005033dcb5eb9f59b1c6072584f1",
       "title": "NCPA Issues Guidelines for Teachers to Support Children During Emergency Disaster Situations",
       "sent_at": "2026-01-29T04:41:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/five-politicians-and-more-than-80-public-officials-arrested-for-bribery-and-corruption-in-2025",
+      "content_hash": "2a939e58f6067811673fd0a03cbee6406690e3bc5c0ca715a793180ca2043572",
+      "title": "Five Politicians and More than 80 Public Officials Arrested for Bribery and Corruption in 2025",
+      "sent_at": "2026-01-29T07:42:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/pm-harini-amarasuriya-launches-2026-grade-one-national-education-reforms",
+      "content_hash": "2f9ccf1495f6c3fecb67f1c153545a5e20ce4c65dc357dd92e00923cb4b89df9",
+      "title": "PM Harini Amarasuriya Launches 2026 Grade One National Education Reforms",
+      "sent_at": "2026-01-29T07:42:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/veteran-filmmaker-sena-samarasinghe-passes-away",
+      "content_hash": "26f64afd54476710dd42b7f77926e2a04d24f1b89cdf98fa0aaa28f08a004949",
+      "title": "Veteran Filmmaker Sena Samarasinghe Passes Away",
+      "sent_at": "2026-01-29T07:42:32Z"
     }
   ]
 }
