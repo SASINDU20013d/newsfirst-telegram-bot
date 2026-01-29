@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/22/omani-and-indonesian-warships-sail-into-colombo",
-      "content_hash": "dde3c8326feb407d0ac6c40955f625c49844c84700244e24bf6277ff22584bcd",
-      "title": "Omani and Indonesian Warships Sail into Colombo",
-      "sent_at": "2026-01-22T11:27:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/22/slaf-rotates-minusca-air-crews-as-new-contingent-departs",
-      "content_hash": "a34ac7db4ac73ee564b2e95044bf6089b441fcc492810a5e13eec5b3cb9b187f",
-      "title": "SLAF Rotates MINUSCA Air Crews as New Contingent Departs",
-      "sent_at": "2026-01-22T11:27:14Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/22/gmoa-to-go-on-strike-for-two-days",
       "content_hash": "43a6b90e99e11164aabc21a9a791e3f4f5d223fa0569e2ac696c6e9641cbe37e",
       "title": "GMOA To Go On Strike For Two Days",
@@ -785,6 +773,18 @@
       "content_hash": "c2a5415bf3525417e294a8934ec6e95c228253c95963e2243f427a8630ba6c64",
       "title": "IMF Managing Director to Visit Sri Lanka Next Month",
       "sent_at": "2026-01-29T10:41:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/govt-to-uplift-urban-living-standards-27-housing-projects-to-be-revitalized",
+      "content_hash": "9cc4adb8293f3eacac67cc33466c3f517ec78a44573debf51afe927bf311d5e8",
+      "title": "Govt to Uplift Urban Living Standards; 27 Housing Projects to be Revitalized",
+      "sent_at": "2026-01-29T11:34:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/six-officers-released-on-bail-over-assault-on-catholic-priest",
+      "content_hash": "814bff052b4e7ad5910eaed11eb1bbc1762725d7f049262a31c7e57c2fd14db3",
+      "title": "Six Officers Released on Bail Over Assault on Catholic Priest",
+      "sent_at": "2026-01-29T11:34:36Z"
     }
   ]
 }
