@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/22/offshore-wind-could-transform-indiasri-lanka-relations-former-chief-economic-advisor-of-india",
-      "content_hash": "95a6a3b2428365054d5e1bd12082a081173d5ab1b296142f5c3f4cdf9342ad21",
-      "title": "Offshore Wind Could Transform India–Sri Lanka Relations, Former Chief Economic Advisor Of India",
-      "sent_at": "2026-01-22T09:37:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/22/sri-lanka-switches-on-cropix-a-national-brain-for-agriculture-goes-live",
-      "content_hash": "31b4bbb2be574cb8c3715441c72a3f865dc9f7e725505e9ed509396e7aba5d60",
-      "title": "Sri Lanka Switches On CROPIX: A National Brain for Agriculture Goes Live",
-      "sent_at": "2026-01-22T09:37:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/22/two-arrested-in-madampitiya-with-ice",
       "content_hash": "0de64c11023c6190f9e2ea132d2cdea00b18cc0828dbb687752dde77631b6316",
       "title": "Two Arrested in Madampitiya With ICE",
@@ -791,6 +779,12 @@
       "content_hash": "e17026b014551e4eb8b65614b49cd01e5c122740f0c76d366e45d5ee361dd757",
       "title": "Namal Rajapaksa's Case on Money Laundering To Be Recalled on July 30",
       "sent_at": "2026-01-29T08:47:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/sri-lanka-must-reshape-its-trade-strategy-imf",
+      "content_hash": "24c49a6abbc8056064788c5a6f0bfa303a0262beb8cf1cbd7d9c18abf4334eff",
+      "title": "Sri Lanka Must Reshape Its Trade Strategy : IMF",
+      "sent_at": "2026-01-29T09:50:27Z"
     }
   ]
 }
