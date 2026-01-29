@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/22/ceb-unions-warn-of-strikes-amid-restructuring",
-      "content_hash": "402983d230aef3669009cb66bebcc76d2214e1561e33f6f83c6c909a81d90b91",
-      "title": "CEB Unions Warn of Strikes Amid Restructuring",
-      "sent_at": "2026-01-22T04:11:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/22/national-eye-hospital-doctors-launch-24-hour-token-strike",
-      "content_hash": "e870c439bdac02be9325335f38aaafafbda19ed9c21ae53015f04924f180e94e",
-      "title": "National Eye Hospital Doctors Launch 24-Hour Token Strike",
-      "sent_at": "2026-01-22T04:11:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/22/parliament-to-convene-today-for-debate-on-education",
-      "content_hash": "6fa9f9cee7776da9af68c40527948ef0eb7a4dec0005bc51674fbb9a4869ce3a",
-      "title": "Parliament to Convene Today for Debate on Education",
-      "sent_at": "2026-01-22T04:11:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/22/raids-intensified-on-illicit-tendu-leaf-imports",
-      "content_hash": "45dfef5437de4a98dcf94240231559d832084c67c504a7187d121c4fcecfb638",
-      "title": "Raids Intensified on Illicit Tendu Leaf Imports",
-      "sent_at": "2026-01-22T04:11:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/22/prime-minister-holds-high-level-meetings-with-eu-undp-and-corporate-leadership-at-world-economic-forum",
       "content_hash": "8cfb4b0b7db3c527332696549f20f89292161dfd7ab63c899e840b3dae02fc72",
       "title": "Prime Minister Holds High-Level Meetings with EU, UNDP, and Corporate Leadership at World Economic Forum",
@@ -809,6 +785,18 @@
       "content_hash": "5c1944ca90ba4834d00534018b237e8a24415f972b5b33cdb91ddbd7e12f59cf",
       "title": "Sri Lanka IMF Program Stands Firm Despite Cyclone",
       "sent_at": "2026-01-29T02:27:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/asp-rohan-olugala-appointed-as-director-of-walana-anti-corruption-unit",
+      "content_hash": "d435e50d8eb13c69387996928f750ade28c0b7919eabd244cacc41223e6feaf1",
+      "title": "ASP Rohan Olugala Appointed as Director of Walana Anti-Corruption Unit",
+      "sent_at": "2026-01-29T04:41:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/29/ncpa-issues-guidelines-for-teachers-to-support-children-during-emergency-disaster-situations",
+      "content_hash": "adc446d4a2df69426c448cca886152b16bde005033dcb5eb9f59b1c6072584f1",
+      "title": "NCPA Issues Guidelines for Teachers to Support Children During Emergency Disaster Situations",
+      "sent_at": "2026-01-29T04:41:44Z"
     }
   ]
 }
