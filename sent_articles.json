@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/23/assets-beyond-income-anusha-pelpita-denied-bail",
-      "content_hash": "bcf7a1309d90fe16ec3ded3e5b9d48f6d829c2f6f14c5e6e026f8c9faacb91dc",
-      "title": "Assets Beyond Income: Anusha Pelpita Denied Bail",
-      "sent_at": "2026-01-23T13:46:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/attorney-general%e2%80%99s-independence-will-not-be-undermined",
-      "content_hash": "e56232f31a9d3c2818ba34115d4faed1d971753c1a9b9c2a77ea94aa2b817606",
-      "title": "Attorney General’s Independence Will Not Be Undermined",
-      "sent_at": "2026-01-23T13:46:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/health-sector-strikes-are-impossible-to-justify-deputy-minister",
-      "content_hash": "97b3d4d4306e8a219df3fa72ef0bdb2b9139a3b0514fd70cadc4a85152811d38",
-      "title": "Health Sector Strikes Are Impossible to Justify - Deputy Minister",
-      "sent_at": "2026-01-23T13:46:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/i-don%e2%80%99t-know-anything-about-it-ranil-on-ag-controversy",
-      "content_hash": "9b83459c0baf350ebe39e119378b3e3fadac87b6c37ccc222fca273722cfbcd7",
-      "title": "I Don’t Know Anything About It: Ranil on AG Controversy",
-      "sent_at": "2026-01-23T13:46:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/new-civil-society-members-appointed-to-constitutional-council",
-      "content_hash": "f5031fd30220da5fdc65f860772f8c32276149231d3ef28526fddf923af2c4d1",
-      "title": "New Civil Society Members Appointed to Constitutional Council",
-      "sent_at": "2026-01-23T13:46:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/us-officially-withdraws-from-who",
-      "content_hash": "71d42982a84395f3ade64ca77efb2adbd77cbc8daa26d22b2b77e81b24947d78",
-      "title": "US Officially Withdraws From WHO",
-      "sent_at": "2026-01-23T14:30:15Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/24/gmoa-strike-continues-for-second-day-patients-face-severe-inconvenience",
       "content_hash": "8aaeec1b36c64ff7ed82f09bba20ae1b2bbb195a11221f38bb180da2d07e7017",
       "title": "GMOA Strike Continues for Second Day - Patients Face Severe Inconvenience",
@@ -773,6 +737,12 @@
       "content_hash": "d547a789cf926f004ba2d7c441447dba8f737db8c1ad68cb0604b820a3001774",
       "title": "School Development Officers Reject Competitive Exam Requirement",
       "sent_at": "2026-01-30T13:05:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/cc-meets-auditor-general-decision-deferred",
+      "content_hash": "ce3f65afb89a8a778a4f5abed9734b295ddb5c3098fcfdaa80c41c84b76ebaa6",
+      "title": "CC Meets; Auditor General Decision Deferred",
+      "sent_at": "2026-01-30T14:38:38Z"
     }
   ]
 }
