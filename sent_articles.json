@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/23/boi-targets-us-1-5-billion-in-fdi-this-year",
-      "content_hash": "dc8060c96711917ea5fcc663c6cc2e76e3c8679242be7a950e226cf7d8da537d",
-      "title": "BOI Targets US$ 1.5 Billion in FDI This Year",
-      "sent_at": "2026-01-23T02:03:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/gmoa-launches-48-hour-strike",
-      "content_hash": "e0a6cad1117f8a9aabdb4fe80bfaa97abfad808fd513c341d47f9d0464fb56c6",
-      "title": "GMOA Launches 48-Hour Strike",
-      "sent_at": "2026-01-23T02:03:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/23/cmc-to-begin-appointing-chairpersons-for-23-standing-committees-today",
       "content_hash": "f5ca5b639b4dcd782c2d4edf5e5f5b30b69dc31995ba6de3010876d72a127d6e",
       "title": "CMC to Begin Appointing Chairpersons for 23 Standing Committees Today",
@@ -779,6 +767,18 @@
       "content_hash": "d4ddea8776132784061e2602f53c844457742540f833e62e432d96f0160ec867",
       "title": "IMF’s Kristalina Geogieva To Visit Sri Lanka In February",
       "sent_at": "2026-01-29T15:39:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/health-ministry-confirms-no-risk-of-nipah-virus-spreading-to-sri-lanka-urges-public-not-to-panic",
+      "content_hash": "a034e86997a9a924a40d18b3ccfb41933b491a1e04421f942118e12670e7f642",
+      "title": "Health Ministry Confirms No Risk of Nipah Virus Spreading to Sri Lanka; Urges Public Not to Panic",
+      "sent_at": "2026-01-30T02:27:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/special-traffic-plan-for-the-78th-national-independence-day-celebrations-and-rehearsals",
+      "content_hash": "40708269bb8167ee3689a667687012164df9315a752ee351717c62c5cc401e54",
+      "title": "Special Traffic Plan for the 78th National Independence Day Celebrations and Rehearsals",
+      "sent_at": "2026-01-30T02:27:33Z"
     }
   ]
 }
