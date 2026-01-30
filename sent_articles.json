@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/23/cmc-to-begin-appointing-chairpersons-for-23-standing-committees-today",
-      "content_hash": "f5ca5b639b4dcd782c2d4edf5e5f5b30b69dc31995ba6de3010876d72a127d6e",
-      "title": "CMC to Begin Appointing Chairpersons for 23 Standing Committees Today",
-      "sent_at": "2026-01-23T04:48:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/new-prison-in-welisara-to-ease-overcrowding-justice-ministry",
-      "content_hash": "2d2b95649dcc0992f97984db5ad0c85ef68e30f33d4dee12575a382a24a0a21c",
-      "title": "New Prison in Welisara to Ease Overcrowding - Justice Ministry",
-      "sent_at": "2026-01-23T05:32:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/surgeries-restart-in-chilaw-after-cyclone-damage",
-      "content_hash": "eac46ba5ded8387e075ad22a353a2b5aed7830427162f91f45ca19eed950d11e",
-      "title": "Surgeries Restart in Chilaw After Cyclone Damage",
-      "sent_at": "2026-01-23T05:32:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/suspect-arrested-in-shooting-in-jinthupitiya",
-      "content_hash": "a8cb6da2a8c91115e7c84ea578a48174a9270e2a1ef8fba51fa392cf4197c5b1",
-      "title": "Suspect Arrested in Shooting in Jinthupitiya",
-      "sent_at": "2026-01-23T05:32:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/23/taavi-samaraweera-strikes-gold-again-at-wtt-youth-contender-doha-2026",
       "content_hash": "8814d9e87fe48354972d0168bf169e22ec54dc91478d8235019c0f2f749accba",
       "title": "Taavi Samaraweera Strikes Gold Again at WTT Youth Contender Doha 2026",
@@ -797,6 +773,12 @@
       "content_hash": "c6d604c326276e52a9163dfb79fe0b90fd04aa2a0b5d42b0c1198b7b7e0fefed",
       "title": "New Deal Seals Salary Hike for Plantation Workers",
       "sent_at": "2026-01-30T04:43:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/sabina-yousaf-second-runner-up-at-mrs-world-2025",
+      "content_hash": "e7a173ef75a764ba7440825cd009f763b7ae6a4ccbfc08b3d35f10149d23d077",
+      "title": "Sabina Yousaf: Second Runner-Up at Mrs. World 2025",
+      "sent_at": "2026-01-30T05:51:18Z"
     }
   ]
 }
