@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/23/ex-trcsl-dg-arrested-for-assets-beyond-income",
-      "content_hash": "07ad8b1e161c8017756d55811220a6b5866701b8a0b295d03f15fcf4b896cb7a",
-      "title": "Ex-TRCSL DG Arrested For Assets-Beyond-Income",
-      "sent_at": "2026-01-23T12:56:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/gammadda%e2%80%99s-%e2%80%98care-dare%e2%80%99-expands-to-badulla-in-phase-two",
-      "content_hash": "a7dfae1f58c3fce5bec029c4af16c2f58b1b2289ec7b3847f42d05b69ee126ad",
-      "title": "Gammadda’s ‘Care & Dare’ Expands to Badulla In Phase Two",
-      "sent_at": "2026-01-23T12:56:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/23/assets-beyond-income-anusha-pelpita-denied-bail",
       "content_hash": "bcf7a1309d90fe16ec3ded3e5b9d48f6d829c2f6f14c5e6e026f8c9faacb91dc",
       "title": "Assets Beyond Income: Anusha Pelpita Denied Bail",
@@ -767,6 +755,24 @@
       "content_hash": "6bc8a850c47f37cbc32af011def22e2b43a6523027ca5176ee2a58d9c62b8a1e",
       "title": "Johnston Fernando and Sons Remanded Again",
       "sent_at": "2026-01-30T10:39:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/bus-conductor-arrested-with-multi%e2%80%91drug-haul",
+      "content_hash": "86c68e034f4a5e4529fca4d6ed8bfe7d9453afbb2d12816e1127da1cf7d987d8",
+      "title": "Bus Conductor Arrested with Multi‑Drug Haul",
+      "sent_at": "2026-01-30T13:05:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/dubai-sudda-under-probe-for-human-trafficking",
+      "content_hash": "77d19020410df6cbcb74656ede1edb65ce5f976cd483e9537c6996cd90070ce7",
+      "title": "'Dubai Sudda' Under Probe for Human Trafficking",
+      "sent_at": "2026-01-30T13:05:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/school-development-officers-reject-competitive-exam-requirement",
+      "content_hash": "d547a789cf926f004ba2d7c441447dba8f737db8c1ad68cb0604b820a3001774",
+      "title": "School Development Officers Reject Competitive Exam Requirement",
+      "sent_at": "2026-01-30T13:05:36Z"
     }
   ]
 }
