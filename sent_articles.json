@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/23/cid-records-statements-from-15-over-grade-6-module",
-      "content_hash": "02381ab707f7354abefc6834159272402ce89dbd73329d4e413f87aabd2a83c2",
-      "title": "CID Records Statements from 15 Over Grade 6 Module",
-      "sent_at": "2026-01-23T09:35:14Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/23/sri-lanka-china-talks-target-agriculture-challenges",
       "content_hash": "79f7767cf9627516306f6c070628a8533d887e7f0be183f9bd8ef47275e8e290",
       "title": "Sri Lanka-China Talks Target Agriculture Challenges",
@@ -755,6 +749,24 @@
       "content_hash": "089c9bb27c952d50b76452728c4ba15a366a568e19dd98a34fa4529562508501",
       "title": "Suspect Arrested for Concealing Murder Weapon in Fatal Jinthupitiya Shooting Case",
       "sent_at": "2026-01-30T08:45:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/court-re-fixes-rajitha-senaratne-case-for-july-10",
+      "content_hash": "21f14a5b870e6eda7b59a461b15f18831f0ec7815a1fa5f167b9e7c77b8b4e70",
+      "title": "Court Re-Fixes Rajitha Senaratne Case for July 10",
+      "sent_at": "2026-01-30T09:43:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/hansana-balasuriya-shines-at-miss-intercontinental-2025",
+      "content_hash": "1b749fec0464a11ae96633949da8ceac67736834e023366e548fb02f528b784a",
+      "title": "Hansana Balasuriya Shines at Miss Intercontinental 2025",
+      "sent_at": "2026-01-30T09:43:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/street-robbers-steal-us-2-7-mn-in-cash-in-tokyo",
+      "content_hash": "0038b295fe22c5c6f441f3e2956538535baf0d8e109055d9292ef498d446e328",
+      "title": "Street Robbers Steal US$2.7 mn In Cash In Tokyo",
+      "sent_at": "2026-01-30T09:44:01Z"
     }
   ]
 }
