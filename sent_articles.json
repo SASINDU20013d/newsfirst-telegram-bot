@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/23/court-temporarily-lifts-foreign-travel-ban-on-prasanna-ranatunga",
-      "content_hash": "cae89ad882653c4eec59daa409f351cac8908645d059a3d2a23dbea35dd2e7c6",
-      "title": "Court Temporarily Lifts Foreign Travel Ban On Prasanna Ranatunga",
-      "sent_at": "2026-01-23T08:36:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/high-court-filed-against-chamara-sampath",
-      "content_hash": "4fd2ca21a815fcfcc996660f7310ed5b65152d43cdb6eea4f18827ac784605f1",
-      "title": "High Court Filed Against Chamara Sampath",
-      "sent_at": "2026-01-23T08:36:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/23/insurance-payouts-inject-billions-back-into-economy",
-      "content_hash": "434f71cef1df97cb2ff70651ed1c69e57938928ca5a4dc230b2b75ab2b646394",
-      "title": "Insurance Payouts Inject Billions Back into Economy",
-      "sent_at": "2026-01-23T08:36:17Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/23/cid-records-statements-from-15-over-grade-6-module",
       "content_hash": "02381ab707f7354abefc6834159272402ce89dbd73329d4e413f87aabd2a83c2",
       "title": "CID Records Statements from 15 Over Grade 6 Module",
@@ -749,6 +731,30 @@
       "content_hash": "e7a173ef75a764ba7440825cd009f763b7ae6a4ccbfc08b3d35f10149d23d077",
       "title": "Sabina Yousaf: Second Runner-Up at Mrs. World 2025",
       "sent_at": "2026-01-30T05:51:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/after-australia-france-sri-lanka-looks-to-ban-social-media-for-kids",
+      "content_hash": "a370163f7200d745b577d406b2d8af1e438dd3cfb91f02f0e8685cba032c630d",
+      "title": "After Australia & France, Sri Lanka Looks To Ban Social Media For Kids",
+      "sent_at": "2026-01-30T08:45:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/appeal-court-pushes-order-in-monks%e2%80%99-remand-case",
+      "content_hash": "16baf6c5430af0b011ac09bc59673759df73706a63cd78401898c11dc2ac76b4",
+      "title": "Appeal Court Pushes Order In Monks’ Remand Case",
+      "sent_at": "2026-01-30T08:45:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/oversight-committee-pushes-for-action-after-ditwah",
+      "content_hash": "033889b1a4b2027cd81d295fa23473d34ec703032216fab2c25e296f5e293ca3",
+      "title": "Oversight Committee Pushes for Action After Ditwah",
+      "sent_at": "2026-01-30T08:45:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/30/suspect-arrested-for-concealing-murder-weapon-in-fatal-jinthupitiya-shooting-case",
+      "content_hash": "089c9bb27c952d50b76452728c4ba15a366a568e19dd98a34fa4529562508501",
+      "title": "Suspect Arrested for Concealing Murder Weapon in Fatal Jinthupitiya Shooting Case",
+      "sent_at": "2026-01-30T08:45:52Z"
     }
   ]
 }
