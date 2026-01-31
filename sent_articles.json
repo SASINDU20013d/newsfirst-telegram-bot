@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/24/gmoa-strike-continues-for-second-day-patients-face-severe-inconvenience",
-      "content_hash": "8aaeec1b36c64ff7ed82f09bba20ae1b2bbb195a11221f38bb180da2d07e7017",
-      "title": "GMOA Strike Continues for Second Day - Patients Face Severe Inconvenience",
-      "sent_at": "2026-01-24T01:59:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/24/child-abuse-cases-in-high-courts-cross-4-200-ncpa-report",
       "content_hash": "672c7f64d1ea249a0a82c43447be519653a55de80561676847af07c4447a80c0",
       "title": "Child Abuse Cases in High Courts Cross 4,200 - NCPA Report",
@@ -749,6 +743,12 @@
       "content_hash": "d32896e9a35ee899d2752a17ffc9749e44e281427859c5352201b7ac34041ecf",
       "title": "Djokovic Defies Odds: Dethrones Sinner to Clinch Australian Open Final Spot",
       "sent_at": "2026-01-30T15:40:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/31/essential-services-gazette-extended-following-cyclone-ditwah",
+      "content_hash": "e36ea08f36ff5e40eba48735a2f09db875907bf2c7db2f1987f517bb9916d27b",
+      "title": "Essential Services Gazette Extended Following Cyclone Ditwah",
+      "sent_at": "2026-01-31T02:23:07Z"
     }
   ]
 }
