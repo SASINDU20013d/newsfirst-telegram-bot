@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/24/gammadda-care-dare-phase-02-underway-in-badulla",
-      "content_hash": "a5a90e06094a9c48800e18af2e73ea0af70c90e6ad6d1cc9b9395218c30ab55a",
-      "title": "Gammadda Care & Dare Phase 02 Underway in Badulla",
-      "sent_at": "2026-01-24T13:33:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/24/second-most-senior-parliamentary-official-suspended",
-      "content_hash": "b46966384f8cddb8d93320b2f7866268a0a54a66ea3e2c677dee90fdb3aba830",
-      "title": "Second Most Senior Parliamentary Official Suspended",
-      "sent_at": "2026-01-24T13:33:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/24/icc-replaces-bangladesh-with-scotland-for-2026-t20-wc",
       "content_hash": "45fd29d1d3bf59de7a1970b3dd63791384f18e43db5e4300b4570b335eb2d5d7",
       "title": "ICC Replaces Bangladesh with Scotland for 2026 T20 WC",
@@ -773,6 +761,12 @@
       "content_hash": "4cbe07ef7bea8fd0246c898ddcd063563955ad3984d2d8ddfe5eb24e626952ef",
       "title": "Minor Earthquake of Magnitude 3.6 Reported In the Mullaitivu Sea",
       "sent_at": "2026-01-31T12:57:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/31/pm-vows-unstoppable-push-for-transformational-change-in-education",
+      "content_hash": "fde0adb69efedc89337fa1cac1ab7161ef2c1c61b39ca6e3e2d07af3f77a7124",
+      "title": "PM Vows Unstoppable Push for Transformational Change in Education",
+      "sent_at": "2026-01-31T13:44:10Z"
     }
   ]
 }
