@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/24/child-abuse-cases-in-high-courts-cross-4-200-ncpa-report",
-      "content_hash": "672c7f64d1ea249a0a82c43447be519653a55de80561676847af07c4447a80c0",
-      "title": "Child Abuse Cases in High Courts Cross 4,200 - NCPA Report",
-      "sent_at": "2026-01-24T03:39:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/24/gammadda-%e2%80%98care-dare%e2%80%99-phase-2-in-badulla",
-      "content_hash": "671ff56ad76cb98fc0df229a2df29dc5afd731dd2983b38d5c41ff63c1862b57",
-      "title": "Gammadda ‘Care & Dare’ Phase 2 in Badulla",
-      "sent_at": "2026-01-24T03:39:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/24/special-traffic-plan-in-colombo-today-for-sri-lankaengland-match",
-      "content_hash": "bb5cb0f55266549f9996d53a96ce328077693490c031cf01087316cdf2de789e",
-      "title": "Special Traffic Plan in Colombo Today for Sri Lanka–England Match",
-      "sent_at": "2026-01-24T03:39:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/24/480-drug-impaired-drivers-arrested-in-22-days",
       "content_hash": "29d3aea871fee1453f91096f153ec2575220ecc8c48c0b3c74bb40cf9a1b7ee9",
       "title": "480 Drug-Impaired Drivers Arrested in 22 Days",
@@ -749,6 +731,30 @@
       "content_hash": "e36ea08f36ff5e40eba48735a2f09db875907bf2c7db2f1987f517bb9916d27b",
       "title": "Essential Services Gazette Extended Following Cyclone Ditwah",
       "sent_at": "2026-01-31T02:23:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/31/2026-voter-register-revision-begins",
+      "content_hash": "378af644482906a527182aa8a717976ca859ce961a8218e5fd3a41d49bdf051e",
+      "title": "2026 Voter Register Revision Begins",
+      "sent_at": "2026-01-31T04:27:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/31/firearm-license-renewal-deadline-for-2026-ends-today",
+      "content_hash": "08e6af74b4f38fcbcceb976906c297ad037332e4e774c0bfdbea5edafb600a9e",
+      "title": "Firearm License Renewal Deadline for 2026 Ends Today",
+      "sent_at": "2026-01-31T04:27:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/31/rs-50-000-allowance-disbursed-to-70-of-homes-affected-by-cyclone-ditwah",
+      "content_hash": "3cf3834ba77ed1238742d6a6793aa86e9eb5526888bcc7d5bddb5e728f5362cc",
+      "title": "Rs. 50,000 Allowance Disbursed to 70% of Homes Affected by Cyclone Ditwah",
+      "sent_at": "2026-01-31T04:27:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/01/31/special-traffic-plan-in-place-as-78th-independence-day-rehearsals-continue",
+      "content_hash": "d676006abcc578ce8cd12e5c3f8b1c8a6ce2a18b68aba412a76add89ad3e12ab",
+      "title": "Special Traffic Plan in Place as 78th Independence Day Rehearsals Continue",
+      "sent_at": "2026-01-31T04:27:43Z"
     }
   ]
 }
