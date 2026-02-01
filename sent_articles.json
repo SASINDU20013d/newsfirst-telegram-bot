@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/25/another-massive-drug-bust-in-the-sourthern-seas",
-      "content_hash": "cc03749abdff0a699200609da5b2047b6a36bb0449e784c4664b8e49720cd271",
-      "title": "Another Massive Drug Bust in the Sourthern Seas",
-      "sent_at": "2026-01-25T04:15:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/25/police-search-operation-in-giriulla-goes-south",
       "content_hash": "c8132520134775c4c1209534b86826813ec8f0a00d1cde642ceb6d112e5b715e",
       "title": "Police Search Operation in Giriulla, Goes South",
@@ -761,6 +755,12 @@
       "content_hash": "31769f9b6ad572135a8f19be8cb9fa9abdcfd302ae2434176d0dde10ad39e992",
       "title": "Train Services On Coastal Line Face Delays Due To Signaling Upgrades",
       "sent_at": "2026-02-01T02:47:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/fire-erupts-at-plastic-factory-in-kotugoda",
+      "content_hash": "0981d862df26ecb1683b04d906cf3fff298b4c3aa450f06fa12412fd325c752b",
+      "title": "Fire Erupts at Plastic Factory in Kotugoda",
+      "sent_at": "2026-02-01T05:04:47Z"
     }
   ]
 }
