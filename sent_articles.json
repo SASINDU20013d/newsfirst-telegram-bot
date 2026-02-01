@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/25/another-massive-drug-bust-in-the-southern-seas",
-      "content_hash": "c01d465b3e5eb4c920e9086e7a9d8316692c0770dc42c2d2be8bfd0691341a60",
-      "title": "Another Massive Drug Bust in the Southern Seas",
-      "sent_at": "2026-01-25T07:25:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/25/four-arrested-at-bia-with-narcotics-worth-over-rs-216-million",
-      "content_hash": "c2551808227c1757b1ca600e35a6b62c5455739953f259892edd74c501fd1a7f",
-      "title": "Four Arrested at BIA with Narcotics Worth Over Rs. 216 Million",
-      "sent_at": "2026-01-25T07:25:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/25/six-officers-from-gampaha-crime-division-arrested-over-an-alleged-assault-of-a-priest",
-      "content_hash": "49596a49d3035b006de066a5f469bbea7fdf60ef761592b5f15dcf800476705f",
-      "title": "Six Officers from Gampaha Crime Division Arrested Over an Alleged Assault of a Priest",
-      "sent_at": "2026-01-25T07:25:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/25/ifc-invests-166-million-to-support-sri-lankan-smes",
       "content_hash": "49d74e9695203c7eaa51f394e3ddc29c6a9edf9d129c91f9790e9fa1c8869f92",
       "title": "IFC Invests $166 Million to Support Sri Lankan SMEs",
@@ -767,6 +749,18 @@
       "content_hash": "c2d60c1df39a6dfd698c43d620efaa55d577a4938d8525b511dd527fa823b660",
       "title": "Bentota Police Seize 5kg Heroin, Two Suspects Arrested",
       "sent_at": "2026-02-01T07:03:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/police-open-fire-on-reckless-tipper-truck-in-kilinochchi",
+      "content_hash": "9868f3deb6bfcbe0a98492275540dc8c2c126700b7ff81cc686f92aec951685e",
+      "title": "Police Open Fire On Reckless Tipper Truck In Kilinochchi",
+      "sent_at": "2026-02-01T07:41:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/traffic-restored-on-colombokandy-road-after-accident",
+      "content_hash": "bd4fd2f1c1eb091006e5c9da96c3752d65b509e52c2c23ab9ecda80fef8d2422",
+      "title": "Traffic Restored On Colombo–Kandy Road After Accident",
+      "sent_at": "2026-02-01T07:41:22Z"
     }
   ]
 }
