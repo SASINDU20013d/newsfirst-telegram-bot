@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/25/gmoa-ends-48-hour-symbolic-strike-doctors-to-resume-work-with-limited-services",
-      "content_hash": "547e3c71644cdb628bf7d048e07c9028d53ce656acab4cf0879b722ce90ab7c8",
-      "title": "GMOA Ends 48-Hour Symbolic Strike, Doctors to Resume Work with Limited Services",
-      "sent_at": "2026-01-25T11:21:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/25/gmoa-to-resume-tu-action-tomorrow",
       "content_hash": "90005c4ba1b171f705983c328df83e7028391a379d1b892445339a9a3927c0e2",
       "title": "GMOA to Resume TU Action Tomorrow",
@@ -767,6 +761,12 @@
       "content_hash": "421a72ff9c83da63893724a8a7a9c8bff897332c899708ba23a1b941cad526a2",
       "title": "Gazette Issued on New Regulations for Female Night-Shift Employees",
       "sent_at": "2026-02-01T10:31:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/infant-s-body-recovered-from-lake-gregory",
+      "content_hash": "e03e74fe09448f3edb6446dc1197df594998160e8551af5120a8beefd4f912c9",
+      "title": "Infant's Body Recovered from Lake Gregory",
+      "sent_at": "2026-02-01T11:25:55Z"
     }
   ]
 }
