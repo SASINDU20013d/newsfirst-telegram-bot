@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/25/cyber-financial-crimes-surged-by-23-last-year",
-      "content_hash": "a783c6c79f32df710b64f79277bee2cd852948cc033665c65e7c7e16aff66c1c",
-      "title": "Cyber Financial Crimes Surged by 23% Last Year",
-      "sent_at": "2026-01-25T02:20:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/25/gmoa-48-hour-strike-ends-today",
-      "content_hash": "a9dae8fddb50d7c6978d30226a1e9dc42e8a0b9cdaaa1d88b21d1cf9aa9ef2dc",
-      "title": "GMOA 48-Hour Strike Ends Today",
-      "sent_at": "2026-01-25T02:20:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/25/ministry-of-education-to-seek-public-opinion-on-university-reforms",
-      "content_hash": "5c4e3f9b805ed891a3ef2fb72d547a7d9be94de83d764b9efb36e3127ad4dad8",
-      "title": "Ministry of Education to Seek Public Opinion on University Reforms",
-      "sent_at": "2026-01-25T02:20:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/25/phase-ii-of-the-gammadda-care-dare-initiative-continues-in-badulla",
-      "content_hash": "97eae8e873d187c2881c88fcf89c3e0f180d930a6aabc5beb979d4e7701144cf",
-      "title": "Phase II of the Gammadda Care & Dare Initiative Continues in Badulla",
-      "sent_at": "2026-01-25T02:20:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/25/trcsl-to-introduce-new-regulations-to-ensure-connectivity-during-emergencies",
-      "content_hash": "8467f3a747b8d76cc4dbf55ae2cf44efe1a7295229798f8996757f814580db7d",
-      "title": "TRCSL to Introduce New Regulations to Ensure Connectivity During Emergencies",
-      "sent_at": "2026-01-25T02:20:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/25/another-massive-drug-bust-in-the-sourthern-seas",
       "content_hash": "cc03749abdff0a699200609da5b2047b6a36bb0449e784c4664b8e49720cd271",
       "title": "Another Massive Drug Bust in the Sourthern Seas",
@@ -767,6 +737,30 @@
       "content_hash": "4f534a4b52aceed6e5555cab8d74568e8714f20b634d5c275fb9ebba499206e8",
       "title": "New Circular Provides Grants and Loan Facilities for Small and Micro Businesses",
       "sent_at": "2026-01-31T16:35:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/fuel-prices-drop-sinopec-matches-ceypetco-rate-cuts-effective-immediately",
+      "content_hash": "af10b6bac9ccef47900cef7f1d224cf17aaad3a369daf6c2c0fc5dee1c7d54fc",
+      "title": "Fuel Prices Drop: Sinopec Matches Ceypetco Rate Cuts Effective Immediately",
+      "sent_at": "2026-02-01T02:47:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/india-boosts-sri-lanka%e2%80%99s-recovery-with-10-bailey-bridges",
+      "content_hash": "c95b00bc131eb9f58cbd6b251a6295aba02bbd2824cb2ab388ba7b9c4e57fb3f",
+      "title": "India Boosts Sri Lanka’s Recovery With 10 Bailey Bridges",
+      "sent_at": "2026-02-01T02:47:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/speed-limit-revisions-planned-before-end-of-march",
+      "content_hash": "baedc5fadb3a4cee16c50e50cbcdadf421e024324475020ccfb00c1f2681d54a",
+      "title": "Speed Limit Revisions Planned Before End Of March",
+      "sent_at": "2026-02-01T02:47:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/train-services-on-coastal-line-face-delays-due-to-signaling-upgrades",
+      "content_hash": "31769f9b6ad572135a8f19be8cb9fa9abdcfd302ae2434176d0dde10ad39e992",
+      "title": "Train Services On Coastal Line Face Delays Due To Signaling Upgrades",
+      "sent_at": "2026-02-01T02:47:36Z"
     }
   ]
 }
