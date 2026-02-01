@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/25/police-search-operation-in-giriulla-goes-south",
-      "content_hash": "c8132520134775c4c1209534b86826813ec8f0a00d1cde642ceb6d112e5b715e",
-      "title": "Police Search Operation in Giriulla, Goes South",
-      "sent_at": "2026-01-25T05:31:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/25/government-releases-record-55-000-metric-tons-of-rice-to-the-market",
       "content_hash": "912106ad32dbdc8e9ec7496480e648cf72ebeff8a67ad45c9533742744700605",
       "title": "Government Releases Record 55,000 Metric Tons of Rice to the Market",
@@ -761,6 +755,12 @@
       "content_hash": "0981d862df26ecb1683b04d906cf3fff298b4c3aa450f06fa12412fd325c752b",
       "title": "Fire Erupts at Plastic Factory in Kotugoda",
       "sent_at": "2026-02-01T05:04:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/14-arrested-over-abduction-of-ancient-buddha-statue-in-mawathagama",
+      "content_hash": "048bfbe0df53064a738c4c9f6a93fecdd9ed2e622ea43bb5406f63551495f6a5",
+      "title": "14 Arrested Over Abduction of Ancient Buddha Statue in Mawathagama",
+      "sent_at": "2026-02-01T06:04:38Z"
     }
   ]
 }
