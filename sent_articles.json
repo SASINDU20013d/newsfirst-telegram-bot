@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/25/bia-drug-bust-rs-216-million-seized",
-      "content_hash": "e823d0827e57699aca072c7fc0afe19148eb661f2234e8702bcf46c925294891",
-      "title": "BIA Drug Bust: Rs. 216 Million Seized",
-      "sent_at": "2026-01-25T14:23:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/25/gammadda-care-dare-continues-in-badulla-providing-relief-and-support-to-cyclone-affected-communities",
-      "content_hash": "f3795e6f53b3a1b9e03c9378e50c04289a25406a30c7434399e63d8d9d63d795",
-      "title": "Gammadda Care & Dare Continues In Badulla Providing Relief And Support To Cyclone-Affected Communities",
-      "sent_at": "2026-01-25T14:23:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/25/rs-4-5-billion-worth-of-heroin-and-ice-seized-from-two-fishing-vessels",
-      "content_hash": "a81533108207e915088f6870649e458997d417629438160d2053a69a336f5c55",
-      "title": "Rs. 4.5 Billion Worth of Heroin and ICE Seized From Two Fishing Vessels",
-      "sent_at": "2026-01-25T14:23:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/26/close-associate-of-overseas-drug-kingpins-arrested-with-3kg-of-ice-in-colombo",
       "content_hash": "f9624e3a0bf3c0753332ad673591515dc0e81ad930fb08dad0b77016352dd603",
       "title": "Close Associate of Overseas Drug Kingpins Arrested with 3kg of Ice in Colombo",
@@ -749,6 +731,12 @@
       "content_hash": "e03e74fe09448f3edb6446dc1197df594998160e8551af5120a8beefd4f912c9",
       "title": "Infant's Body Recovered from Lake Gregory",
       "sent_at": "2026-02-01T11:25:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/01/india-allocates-4-billion-indian-rupees-in-financial-aid-to-sri-lanka-in-latest-budget",
+      "content_hash": "79c601ad8b73c2b3c53ad4327172ea1c50f7b0343e64dabd69d4e19bb1918448",
+      "title": "India Allocates 4 Billion Indian Rupees in Financial Aid to Sri Lanka in Latest Budget",
+      "sent_at": "2026-02-01T14:30:48Z"
     }
   ]
 }
