@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/26/colombo-municipal-council-announces-salary-and-allowance-hike",
-      "content_hash": "8eb17362b40bc4a88a6962590adcd1585cc9b091f502b8f44bab6a2612e4ad7f",
-      "title": "Colombo Municipal Council Announces Salary And Allowance Hike",
-      "sent_at": "2026-01-26T07:31:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/26/navy-intercepts-02-narcotics-laden-trawlers-with-11-suspects-in-southern-seas",
-      "content_hash": "666e2faf6d381bb618f63a8799afbc51c708ab0655016feedbe0018a5a8227b2",
-      "title": "Navy Intercepts 02 Narcotics-Laden Trawlers with 11 Suspects in Southern Seas",
-      "sent_at": "2026-01-26T07:32:01Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/26/suspect-arrested-for-attacking-deputy-mayor-of-kandy",
       "content_hash": "bc5e6448d0738c80c423df3b2e23d2345380989ecfa31087ee53edb423672254",
       "title": "Suspect Arrested for Attacking Deputy Mayor of Kandy",
@@ -761,6 +749,42 @@
       "content_hash": "374880d2eb0cf4fcd83bf0eef0269571b0910000dce0c04a3ab1ff7746b2422b",
       "title": "Kendrick Lamar Overtakes Jay-Z as Most-Awarded Rapper in Grammy History",
       "sent_at": "2026-02-02T06:06:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/icc-concerned-as-pakistan-signals-partial-boycott-of-2026-t20-world-cup",
+      "content_hash": "7a538bdfa526dc19e3b5750da81ca72e782c0f81288c2a78e1271400fae33c27",
+      "title": "ICC Concerned as Pakistan Signals Partial Boycott of 2026 T20 World Cup",
+      "sent_at": "2026-02-02T07:53:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/k-pop-s-golden-wins-first-grammy-award",
+      "content_hash": "260ec4b6e9c2a691b803bebaa689e9ee19d3992544e7dc833ffedf6d76925acd",
+      "title": "K-Pop's 'Golden' Wins First Grammy Award",
+      "sent_at": "2026-02-02T07:53:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/massive-traffic-plan-activated-for-sacred-relics-exposition-at-gangaramaya-temple",
+      "content_hash": "ce093ac3fa556ca5833342c250983b237e42e72da173f41513906afa0aa5ee30",
+      "title": "Massive Traffic Plan Activated for Sacred Relics Exposition At Gangaramaya Temple",
+      "sent_at": "2026-02-02T07:53:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/monks-further-remanded-over-trinco-land-issue",
+      "content_hash": "08a0adb618cd590ecb8be84af05f9a8af520d08091609032a62f7dc51c62577f",
+      "title": "Monks Further Remanded Over Trinco Land Issue",
+      "sent_at": "2026-02-02T07:53:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/no-plans-to-remove-jaffna-security-hq",
+      "content_hash": "7ecb22c25ccc649e2df49ff851cdbd9d4b5b7ec552299f699c9ba5f3a22edf76",
+      "title": "No Plans to Remove Jaffna Security HQ",
+      "sent_at": "2026-02-02T07:53:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/special-traffic-plan-in-place-for-national-independence-day-rehearsals",
+      "content_hash": "fc6801eff91da2d769817502530f1b0e907612edd64d228549975bc665cf85be",
+      "title": "Special Traffic Plan in Place for National Independence Day Rehearsals",
+      "sent_at": "2026-02-02T07:53:23Z"
     }
   ]
 }
