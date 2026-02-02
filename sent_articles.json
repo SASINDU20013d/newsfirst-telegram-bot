@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/26/20-injured-in-bus-collision-on-badulla-bibile-road",
-      "content_hash": "07f3b896c50f0fabc7605fbd2aa07acbbc31b73ccc1a07c3c133aa8662caad99",
-      "title": "20 Injured in Bus Collision on Badulla-Bibile Road",
-      "sent_at": "2026-01-26T11:25:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/26/easter-sunday-case-against-hemasiri-and-pujith-recalled",
       "content_hash": "18feab3430f3938ff8078ee9ae12f5ffdc2fa2ff9202f997d312b8ce456a1123",
       "title": "Easter Sunday Case Against Hemasiri and Pujith Recalled",
@@ -797,6 +791,12 @@
       "content_hash": "fbe65abb7ce12ad65113f899ff18bb2f31ff5d48af81840cfda028c3e501791e",
       "title": "Trump Threatens to “Sue” Trevor Noah After Grammys Epstein Joke",
       "sent_at": "2026-02-02T10:51:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/sri-lanka-court-orders-arrest-of-ex-speaker%e2%80%99s-son-over-airbus-scandal",
+      "content_hash": "99e7076d8f666e12e55eddb7772a4e0e8595d3624d129ef0287b2176351bfc2c",
+      "title": "Sri Lanka Court Orders Arrest of Ex-Speaker’s Son Over Airbus Scandal",
+      "sent_at": "2026-02-02T11:38:59Z"
     }
   ]
 }
