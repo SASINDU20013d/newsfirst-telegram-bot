@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/26/close-associate-of-overseas-drug-kingpins-arrested-with-3kg-of-ice-in-colombo",
-      "content_hash": "f9624e3a0bf3c0753332ad673591515dc0e81ad930fb08dad0b77016352dd603",
-      "title": "Close Associate of Overseas Drug Kingpins Arrested with 3kg of Ice in Colombo",
-      "sent_at": "2026-01-26T04:18:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/26/mobile-laboratory-to-identify-drivers-under-drug-influence",
-      "content_hash": "e6604c65affbaab046a78e010d53c3d4b32fa448cbfcd10db3d68ea0bd7bb9cb",
-      "title": "Mobile Laboratory to Identify Drivers Under Drug Influence",
-      "sent_at": "2026-01-26T04:18:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/26/seat-belt-violations-now-subject-to-fines",
       "content_hash": "8acd7b2ecfcdeef2aa14d8da8ca528628d3c50054b7ee6144a4bf31a5259b83b",
       "title": "Seat Belt Violations Now Subject to Fines",
@@ -749,6 +737,24 @@
       "content_hash": "493819308d90598be5550973588ab9e9a58b53ead79e022b882b15a1e9a7a4ee",
       "title": "Shiranthi and Namal Rajapaksa Re-Summoned on 3rd of February",
       "sent_at": "2026-02-01T17:28:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/10-455-child-abuse-complaints-received-in-2025",
+      "content_hash": "8f58137a88a920744e70b007dffb5561867ed46e1a879216aa62b21899475a32",
+      "title": "10,455 Child Abuse Complaints Received in 2025",
+      "sent_at": "2026-02-02T05:00:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/at-90-dalai-lama-wins-his-first-grammy",
+      "content_hash": "f80dd2065e1f27e73512427c7951b15cda1ce5d36ebe586185ee6efb48aca40a",
+      "title": "At 90, Dalai Lama Wins His First Grammy",
+      "sent_at": "2026-02-02T05:00:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/protesting-development-officers-to-meet-president-tomorrow-03",
+      "content_hash": "e7964a257694a5b6cfadde36dfb1a269c9262b6599974865556e5b4c7f387316",
+      "title": "Protesting Development Officers to Meet President Tomorrow (03)",
+      "sent_at": "2026-02-02T05:00:46Z"
     }
   ]
 }
