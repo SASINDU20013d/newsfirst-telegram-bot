@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/26/easter-sunday-case-against-hemasiri-and-pujith-recalled",
-      "content_hash": "18feab3430f3938ff8078ee9ae12f5ffdc2fa2ff9202f997d312b8ce456a1123",
-      "title": "Easter Sunday Case Against Hemasiri and Pujith Recalled",
-      "sent_at": "2026-01-26T12:57:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/26/sri-lanka%e2%80%99s-total-exports-surpass-17-2-billion-in-2025",
-      "content_hash": "a1c9b62823d15e3eb29707732f4d5db477a1fa889ac172230e4141ff46a7ed9d",
-      "title": "Sri Lanka’s Total Exports Surpass $17.2 Billion in 2025",
-      "sent_at": "2026-01-26T12:58:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/26/cid-summons-namal-rajapaksa-shiranthi-and-ranil-also-under-investigation",
       "content_hash": "5707cffa058feceff3e1c3013eae92b9f1f8179dc128edeba33df6bbf75ad204",
       "title": "CID Summons Namal Rajapaksa: Shiranthi and Ranil Also Under Investigation",
@@ -797,6 +785,12 @@
       "content_hash": "99e7076d8f666e12e55eddb7772a4e0e8595d3624d129ef0287b2176351bfc2c",
       "title": "Sri Lanka Court Orders Arrest of Ex-Speaker’s Son Over Airbus Scandal",
       "sent_at": "2026-02-02T11:38:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/sri-lanka-pacer-eshan-malinga-ruled-out-of-third-t20i-against-england",
+      "content_hash": "69f96681c1137c0a403db163fd76894f7c484043bb9584ad4bbd3b0fc6de8b4d",
+      "title": "Sri Lanka Pacer Eshan Malinga Ruled Out of Third T20I Against England",
+      "sent_at": "2026-02-02T13:09:48Z"
     }
   ]
 }
