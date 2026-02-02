@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/26/six-police-officers-remanded-over-alleged-assault-on-priest",
-      "content_hash": "6016e7d42a36bca9c3503dd5af357755172f04cf2b61ea3616ec25f703cbee85",
-      "title": "Six Police Officers Remanded Over Alleged Assault on Priest",
-      "sent_at": "2026-01-26T10:32:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/26/20-injured-in-bus-collision-on-badulla-bibile-road",
       "content_hash": "07f3b896c50f0fabc7605fbd2aa07acbbc31b73ccc1a07c3c133aa8662caad99",
       "title": "20 Injured in Bus Collision on Badulla-Bibile Road",
@@ -779,6 +773,30 @@
       "content_hash": "fc6801eff91da2d769817502530f1b0e907612edd64d228549975bc665cf85be",
       "title": "Special Traffic Plan in Place for National Independence Day Rehearsals",
       "sent_at": "2026-02-02T07:53:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/chamal-s-son-shameendra-named-a-suspect-in-airbus-deal",
+      "content_hash": "fc7cfbcee1b0c33ec2b72f80402f457a47e486a9ff71f7fc49d6d602c0474cdc",
+      "title": "Chamal's Son Shameendra Named A Suspect in Airbus Deal",
+      "sent_at": "2026-02-02T10:51:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/court-orders-analysis-of-rs-3-billion-drug-haul",
+      "content_hash": "1ae465ae3d3323783658a11d73386e009b20ad57b1ac0827b59d5aefa718f48e",
+      "title": "Court Orders Analysis of Rs. 3 Billion Drug Haul",
+      "sent_at": "2026-02-02T10:51:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/gmoa-intensify-union-action",
+      "content_hash": "d3f2d9a94f1edf23552e5b1647ee026f9ba9a58d15415b1369a29cc874bf33c1",
+      "title": "GMOA Intensify Union Action",
+      "sent_at": "2026-02-02T10:51:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/trump-threatens-to-%e2%80%9csue%e2%80%9d-trevor-noah-after-grammys-epstein-joke",
+      "content_hash": "fbe65abb7ce12ad65113f899ff18bb2f31ff5d48af81840cfda028c3e501791e",
+      "title": "Trump Threatens to “Sue” Trevor Noah After Grammys Epstein Joke",
+      "sent_at": "2026-02-02T10:51:30Z"
     }
   ]
 }
