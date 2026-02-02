@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/26/seat-belt-violations-now-subject-to-fines",
-      "content_hash": "8acd7b2ecfcdeef2aa14d8da8ca528628d3c50054b7ee6144a4bf31a5259b83b",
-      "title": "Seat Belt Violations Now Subject to Fines",
-      "sent_at": "2026-01-26T05:35:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/26/colombo-municipal-council-announces-salary-and-allowance-hike",
       "content_hash": "8eb17362b40bc4a88a6962590adcd1585cc9b091f502b8f44bab6a2612e4ad7f",
       "title": "Colombo Municipal Council Announces Salary And Allowance Hike",
@@ -755,6 +749,18 @@
       "content_hash": "e7964a257694a5b6cfadde36dfb1a269c9262b6599974865556e5b4c7f387316",
       "title": "Protesting Development Officers to Meet President Tomorrow (03)",
       "sent_at": "2026-02-02T05:00:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/bad-bunny-wins-grammy-for-album-of-the-year",
+      "content_hash": "9875d935414accea559d516535c3958c3f908b71f09c04befcb1e0dfac6d9a1d",
+      "title": "Bad Bunny Wins Grammy for Album Of The Year",
+      "sent_at": "2026-02-02T06:06:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/02/kendrick-lamar-overtakes-jay-z-as-most-awarded-rapper-in-grammy-history",
+      "content_hash": "374880d2eb0cf4fcd83bf0eef0269571b0910000dce0c04a3ab1ff7746b2422b",
+      "title": "Kendrick Lamar Overtakes Jay-Z as Most-Awarded Rapper in Grammy History",
+      "sent_at": "2026-02-02T06:06:22Z"
     }
   ]
 }
