@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/27/doctors-withdraw-from-select-services-as-gmoa-protest-continues",
-      "content_hash": "a40e269b531e340bbfbb55369e7d137d66728a7ffcfa0f06d9d9ae03448c5539",
-      "title": "Doctors Withdraw From Select Services as GMOA Protest Continues",
-      "sent_at": "2026-01-27T08:38:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/joint-policedmt-operations-target-unfit-vehicles",
-      "content_hash": "0f116a0042dc1c7b8ba8455858feb6449c49da0b3fdf2507cc4c188eb5ca8cbb",
-      "title": "Joint Police–DMT Operations Target Unfit Vehicles",
-      "sent_at": "2026-01-27T08:38:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/six-cops-suspended-over-alleged-assault-on-priest",
-      "content_hash": "7e073480c0d31498f7a4fee2c980d251ff651a5a0f8c660b789518e516878eef",
-      "title": "Six Cops Suspended Over Alleged Assault on Priest",
-      "sent_at": "2026-01-27T08:38:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/vocational-training-offered-after-drug-rehabilitation",
-      "content_hash": "f1b0748743b936a0ee9269dd945fe4cbbce01526ce5d1922e2e5a055f2691446",
-      "title": "Vocational Training Offered After Drug Rehabilitation",
-      "sent_at": "2026-01-27T08:38:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/27/%e2%82%ac4-billion-in-annual-savings-96-tariff-cuts-euindia-free-trade-agreement-sealed",
       "content_hash": "55490e2574498e58f9e58c1569edb910e58b6614dbc58c28b8ce302f3574b7f9",
       "title": "€4 Billion in Annual Savings & 96% Tariff Cuts : EU–India Free Trade Agreement Sealed",
@@ -755,6 +731,30 @@
       "content_hash": "596ce37f0589600368647d109d790666879ee35fb792b857b643993ce30a4ebb",
       "title": "Shiranthi Rajapaksa Appears Before FCID Over Financial Irregularities and Criminal Links",
       "sent_at": "2026-02-03T07:45:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/49-inmates-get-a-fresh-start-this-independence-day",
+      "content_hash": "11695021a967917c7dfdb21d7f1ae8f9951ebc26328885b20a4ec0e6873fd690",
+      "title": "49 Inmates Get a Fresh Start This Independence Day!",
+      "sent_at": "2026-02-03T08:43:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/actor-hemal-ranasinghe-bailed-over-alleged-assault",
+      "content_hash": "b55d12bbdf7dbaeb20cc0741e319754d9996ee5134030b40b29a09646d2f6e74",
+      "title": "Actor Hemal Ranasinghe Bailed Over Alleged Assault",
+      "sent_at": "2026-02-03T08:43:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/appeal-court-throws-out-petitions-seeking-release-of-monks",
+      "content_hash": "236208950d6fc566a507056fc4cb785d66aa9e5b25e0ace1bf95349111bfd192",
+      "title": "Appeal Court Throws Out Petitions Seeking Release of Monks",
+      "sent_at": "2026-02-03T08:43:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/decision-on-auditor-general-expected-at-today-s-cc",
+      "content_hash": "4f3ec26ec43a87a6775c13150b151901607bbe94ba33d5f61cf23815d04dbf6b",
+      "title": "Decision On Auditor General Expected At Today's CC",
+      "sent_at": "2026-02-03T08:43:47Z"
     }
   ]
 }
