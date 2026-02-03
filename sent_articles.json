@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/27/dengue-cases-spike-in-january-colombo-records-the-highest",
-      "content_hash": "dbd2421f05fbdf123e1d528a42adae968b0fea98ca385b6136ca2051c2311445",
-      "title": "Dengue Cases Spike in January; Colombo Records the Highest",
-      "sent_at": "2026-01-27T04:09:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/former-first-lady-shiranthi-rajapaksa-summoned-by-fcid-over-%e2%80%98siriliya%e2%80%99-account-probe",
-      "content_hash": "830440af386dfaee3f828ffccac563943a5760ad6eb4f086847e6c3358cd7f6c",
-      "title": "Former First Lady Shiranthi Rajapaksa Summoned by FCID Over ‘Siriliya’ Account Probe",
-      "sent_at": "2026-01-27T04:09:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/gmoa-trade-union-action-enters-second-day-hospital-services-continue-as-usual",
-      "content_hash": "0adcd81e69e35276e2f7ce9449c7aa918e465b9c8d927fffc7ba142e4de24481",
-      "title": "GMOA Trade Union Action Enters Second Day; Hospital Services Continue as Usual",
-      "sent_at": "2026-01-27T04:09:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/president-to-inaugurate-%e2%80%98godanagamu-adhishtanaye-sanhinda%e2%80%99-national-programme-for-restoration-of-disaster-damaged-religious-sites-today",
-      "content_hash": "18791ba56230829ef2cccbb51349f75325e87fc6afccfae48eebd31fa13f0766",
-      "title": "President to Inaugurate ‘Godanagamu Adhishtanaye Sanhinda’ National Programme for Restoration of Disaster-Damaged Religious Sites Today",
-      "sent_at": "2026-01-27T04:10:01Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/27/fatal-crashes-claim-teen-lives-in-separate-road-accidents",
       "content_hash": "97a31b0a3124d50572594a4992b76ef5cadc0ada9496b57749eef2c5491337ff",
       "title": "Fatal Crashes Claim Teen Lives in Separate Road Accidents",
@@ -791,6 +767,24 @@
       "content_hash": "04df3d1a0a1c074dd91861f3f95a904f9638535ea22cb297764748d6dfda4d4b",
       "title": "Namal and Shiranthi Rajapaksa Summoned to CID and FCID Over Financial Irregularities and Criminal Links",
       "sent_at": "2026-02-03T02:33:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/all-arrangements-for-78th-independence-day-celebrations-finalized-says-minister-of-administration",
+      "content_hash": "83e6bb97810c31f7613d84e38d019e6987eb149a24bbccfbd0ab3631ffb8c27d",
+      "title": "All Arrangements for 78th Independence Day Celebrations Finalized, Says Minister of Administration",
+      "sent_at": "2026-02-03T04:50:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/gmoa-trade-union-action-intensifies-doctors-withdraw-from-specialist-cover-duties",
+      "content_hash": "a4c367c3f2179217283713f5d00587bc3fcbc1c9db696a0e0c552a92d0ff52f2",
+      "title": "GMOA Trade Union Action Intensifies: Doctors Withdraw from Specialist Cover Duties",
+      "sent_at": "2026-02-03T04:50:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/holy-devnimori-relics-of-lord-buddha-to-be-exhibited-in-colombo-from-tomorrow",
+      "content_hash": "e36add7600d03ca4267eb65179c3e42cec91a8bd7db77c4799173eea5cb848f1",
+      "title": "Holy Devnimori Relics of Lord Buddha to Be Exhibited in Colombo From Tomorrow",
+      "sent_at": "2026-02-03T04:50:23Z"
     }
   ]
 }
