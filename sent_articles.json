@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/27/ex-minister-p-harrison-questioned-for-hours-over-controversial-dairy-cow-deal",
-      "content_hash": "241c1293b0cab5e7514090f0433bcc68f16de5c1d6c324a3fddb9d2ea013f693",
-      "title": "Ex-Minister P. Harrison Questioned for Hours Over Controversial Dairy Cow Deal",
-      "sent_at": "2026-01-27T13:51:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/anura-yapa-back-in-court-over-fund-abuse",
-      "content_hash": "5075ce7efc1026e83bed3835b2c68665d7223e71bea827c721f6fc5e64a18eb4",
-      "title": "Anura Yapa Back in Court Over Fund Abuse",
-      "sent_at": "2026-01-27T14:35:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/central-highlands-are-critical-says-president",
-      "content_hash": "e7cd39605fbb9c10fb667c684d106524f225e2ef0e0d545d79a1e404cfd8d63c",
-      "title": "Central Highlands Are Critical, Says President",
-      "sent_at": "2026-01-27T14:35:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/court-to-call-ranil%e2%80%99s-uk-trip-case-tomorrow",
-      "content_hash": "7b0e3c14890ae4cc3fc17e303c5c674f83025f355b0717d0fcc5825f6df2291a",
-      "title": "Court to Call Ranil’s UK Trip Case Tomorrow",
-      "sent_at": "2026-01-27T14:35:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/keselwatta-dinusha-detained-for-90-days",
-      "content_hash": "8b0b3834efab5545822d42799e4332b27976a898cabdf20d27cde45373947b62",
-      "title": "'Keselwatta Dinusha' Detained for 90 Days",
-      "sent_at": "2026-01-27T14:35:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/28/gmoa-trade-union-action-enters-third-day",
       "content_hash": "9197b9327d5981979c6df2988cf0f8b257876ade89f1f1b067b655af736e5ec6",
       "title": "GMOA Trade Union Action Enters Third Day",
@@ -743,6 +713,30 @@
       "content_hash": "c3ec65f5818f820f8d23506e73930c82f2b000ad7b7a28d8e8725b5c0b4b2d6c",
       "title": "Samudika Jayaratne Approved as New Auditor General",
       "sent_at": "2026-02-03T10:46:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/ca-blocks-magistrate%e2%80%99s-order-against-sirisena",
+      "content_hash": "f7dfc2fa6d40b6767afb32b9a4419330bca8b28157ed4d9f9ea1c9c614607435",
+      "title": "CA Blocks Magistrate’s Order Against Sirisena",
+      "sent_at": "2026-02-03T14:49:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/public-veneration-of-india%e2%80%99s-sacred-sarvaj%c3%b1a-relics-at-gangarama-temple-starts-the-day-after-tomorrow",
+      "content_hash": "05c008d1cd543d5a36d29eb162ee14397df008a7869b93e053b011e8836af4ab",
+      "title": "Public Veneration of India’s Sacred Sarvajña Relics at Gangarama Temple Starts the Day After Tomorrow",
+      "sent_at": "2026-02-03T14:49:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/satyagraha-called-off-president-to-review-teacher-service-recruitment-for-development-officers",
+      "content_hash": "c38656b730dd90ebb078174315eabbabf271ac943178f080c20f89a48a7ca5be",
+      "title": "Satyagraha Called Off: President to Review Teacher Service Recruitment for Development Officers",
+      "sent_at": "2026-02-03T14:50:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/shiranthi-and-namal-leave-fcid-and-cid-after-questioning",
+      "content_hash": "4c7e4eb5c05d3c9632136ef8966a6cabe2fee3e71b75630069e663082da1d574",
+      "title": "Shiranthi and Namal Leave FCID and CID After Questioning",
+      "sent_at": "2026-02-03T14:50:03Z"
     }
   ]
 }
