@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/27/female-police-officer-arrested-over-heroin-possession",
-      "content_hash": "78524ac4f58fcf68938f7d1734b0fdfc748fa01eb5cc1d59a27023a9f0d4c66d",
-      "title": "Female Police Officer Arrested Over Heroin Possession",
-      "sent_at": "2026-01-27T07:32:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/overseas-criminals-ready-to-surrender-to-cid",
-      "content_hash": "2325ccaa552a757bf40a50b456c4e7d0ed4d00edb11e5ae038bf09fb1aa6c107",
-      "title": "Overseas Criminals Ready to Surrender To CID",
-      "sent_at": "2026-01-27T07:32:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/police-probing-illegal-wealth-of-repatriated-criminal",
-      "content_hash": "41d26ca8796efbab9556e8b7c2bcbc0e62947d5082711eb439d7c9248c2ca49d",
-      "title": "Police Probing Illegal Wealth Of Repatriated Criminal",
-      "sent_at": "2026-01-27T07:32:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/stf-nabs-key-link-to-%e2%80%98panadura-salidu%e2%80%99-drug-network",
-      "content_hash": "4a27b4f707f4561218735583dca8ab3248cc65a87d2762c54f2499c32a25667e",
-      "title": "STF Nabs Key Link to ‘Panadura Salidu’ Drug Network",
-      "sent_at": "2026-01-27T07:32:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/27/three-days-thousands-of-lives-how-gammedda-united-a-nation-in-care",
-      "content_hash": "d083d854c4e86f63b9e96b411a4ec501959a0cb664da69a39143bfe4dc0932a5",
-      "title": "Three Days, Thousands of Lives: How Gammedda United a Nation in Care",
-      "sent_at": "2026-01-27T07:32:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/27/doctors-withdraw-from-select-services-as-gmoa-protest-continues",
       "content_hash": "a40e269b531e340bbfbb55369e7d137d66728a7ffcfa0f06d9d9ae03448c5539",
       "title": "Doctors Withdraw From Select Services as GMOA Protest Continues",
@@ -761,6 +731,30 @@
       "content_hash": "e36add7600d03ca4267eb65179c3e42cec91a8bd7db77c4799173eea5cb848f1",
       "title": "Holy Devnimori Relics of Lord Buddha to Be Exhibited in Colombo From Tomorrow",
       "sent_at": "2026-02-03T04:50:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/drug-bust-in-wellawatte-close-associate-of-large-scale-drug-trafficker-tharanga-arrested",
+      "content_hash": "4375c1eb4e1cb52cd5c4e849fe154617e14e56f97f8fd399e3250dd1b9c79ed4",
+      "title": "Drug Bust in Wellawatte: Close Associate of Large Scale Drug Trafficker 'Tharanga' Arrested",
+      "sent_at": "2026-02-03T07:45:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/namal-appears-before-cid-over-alleged-links-to-kehelbeddara-padme",
+      "content_hash": "aabb4edbf3140bd792e304896d432d145db43bec44fd3d62640381478205ab87",
+      "title": "Namal Appears Before CID Over Alleged Links to Kehelbeddara Padme",
+      "sent_at": "2026-02-03T07:45:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/relative-of-keheliya-rambukwella-arrested",
+      "content_hash": "367c43cce8323d4fcf36ad9d6f20513caaa726d3b9803029a2f79e15a725a6b5",
+      "title": "Relative of Keheliya Rambukwella Arrested",
+      "sent_at": "2026-02-03T07:45:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/shiranthi-rajapaksa-appears-before-fcid-over-financial-irregularities-and-criminal-links",
+      "content_hash": "596ce37f0589600368647d109d790666879ee35fb792b857b643993ce30a4ebb",
+      "title": "Shiranthi Rajapaksa Appears Before FCID Over Financial Irregularities and Criminal Links",
+      "sent_at": "2026-02-03T07:45:51Z"
     }
   ]
 }
