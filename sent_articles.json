@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/27/%e2%82%ac4-billion-in-annual-savings-96-tariff-cuts-euindia-free-trade-agreement-sealed",
-      "content_hash": "55490e2574498e58f9e58c1569edb910e58b6614dbc58c28b8ce302f3574b7f9",
-      "title": "€4 Billion in Annual Savings & 96% Tariff Cuts : EU–India Free Trade Agreement Sealed",
-      "sent_at": "2026-01-27T09:38:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/27/why-sri-lanka-must-build-back-better-undp-explains",
       "content_hash": "e977e7f97c56851d672fb517693f5dde0b3177eaf785518c6d25b31e3d552839",
       "title": "Why Sri Lanka Must Build Back Better - UNDP Explains",
@@ -755,6 +749,12 @@
       "content_hash": "4f3ec26ec43a87a6775c13150b151901607bbe94ba33d5f61cf23815d04dbf6b",
       "title": "Decision On Auditor General Expected At Today's CC",
       "sent_at": "2026-02-03T08:43:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/03/16-000-saplings-to-be-planted-nationwide-for-independence-day",
+      "content_hash": "78e4880c0911e970a7eb603785f5264b083f9abace5ab3455e791c741b5f412a",
+      "title": "16,000 Saplings to Be Planted Nationwide for Independence Day",
+      "sent_at": "2026-02-03T09:49:42Z"
     }
   ]
 }
