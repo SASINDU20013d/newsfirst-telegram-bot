@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/28/imf-says-sri-lanka-is-%e2%80%98on-the-right-track%e2%80%99-and-%e2%80%98no-change-in-the-program%e2%80%99-pmd",
-      "content_hash": "0ae3d4ec0184ef92c7bd6d8084f45356ca248a01feee2697975af2e0cd024977",
-      "title": "IMF Says Sri Lanka Is ‘On the Right Track’ And ‘No Change in the Program’ - PMD",
-      "sent_at": "2026-01-28T11:27:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/28/supreme-court-orders-notices-to-gotabaya-and-others",
       "content_hash": "7596b9a4794e73b67c3018f13d230697c67964d4f633974481e4f86e2053d7f5",
       "title": "Supreme Court Orders Notices to Gotabaya and Others",
@@ -743,6 +737,18 @@
       "content_hash": "bad8099a4d145ef2276893af89612af2368df2a4442fa77f7982ca1f31823e8b",
       "title": "Over 9,000 Sri Lanka Army Personnel Promoted for 78th Independence Day",
       "sent_at": "2026-02-04T10:43:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/minister-vijitha-herath-extends-warm-greetings-on-78th-independence-day",
+      "content_hash": "a2ceb00cde7d860567b05f505b9f52ff43cb36c76c48411f669e0272b933c056",
+      "title": "Minister Vijitha Herath Extends Warm Greetings on 78th Independence Day",
+      "sent_at": "2026-02-04T11:37:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/undefined",
+      "content_hash": "c07268ee7a1fb87cda0854676c8a78b9b82d99ef716bfa2777f249dc53ad2c46",
+      "title": "UAE and India Extend Independence Day Greetings to Sri Lanka",
+      "sent_at": "2026-02-04T11:37:13Z"
     }
   ]
 }
