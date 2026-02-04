@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/28/sri-lanka-s-first-navy-officer-to-complete-u-s-navy-seal-training-passes-away",
-      "content_hash": "9632d9dd62e3adf80937d1566850d69f51fd756b44b1d07fb438d56527821ecc",
-      "title": "Sri Lanka's First Navy Officer to Complete U.S. Navy SEAL Training, Passes Away",
-      "sent_at": "2026-01-28T07:30:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/28/ranil-arrives-at-colombo-fort-magistrate-s-court",
       "content_hash": "5cbcd71ce1788d98ba729094f756c6290408515585e0e90023db87f489c1e6fe",
       "title": "Ranil Arrives at Colombo Fort Magistrate's Court",
@@ -731,6 +725,12 @@
       "content_hash": "1d54414b1e57c38b8b43ab17de7ec9c184d82740791eec2ad101570079fa6ef0",
       "title": "Sacred Buddha Relics from Devni Mori, Departs for Exposition in Sri Lanka",
       "sent_at": "2026-02-04T06:59:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/australia-extends-wishes-for-78th-national-independence-day",
+      "content_hash": "c4cb8c34fd30984ad970d7543d57a9125ca91aff8c38716e96882d5a9ddcd61d",
+      "title": "Australia Extends Wishes for 78th National Independence Day",
+      "sent_at": "2026-02-04T07:47:18Z"
     }
   ]
 }
