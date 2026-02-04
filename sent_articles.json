@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/28/air-chief-marshal-harsha-abeywickrama-resigns-as-aasl-chairman",
-      "content_hash": "48a93fce96f38bc620a24d06531e8671b9c690570003a7202064d21c85b9d5be",
-      "title": "Air Chief Marshal Harsha Abeywickrama Resigns as AASL Chairman",
-      "sent_at": "2026-01-28T05:32:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/28/ajit-pawar-maharashtra-deputy-cm-dies-in-baramati-plane-crash",
-      "content_hash": "32d058963a11bc71066f3ea84df94804175eec98c03d97a5911eb716f957ef97",
-      "title": "Ajit Pawar, Maharashtra deputy CM, dies in Baramati plane crash",
-      "sent_at": "2026-01-28T05:32:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/28/case-against-former-president-wickremesinghe-to-be-taken-up-today",
-      "content_hash": "c06d08d1b8f90831984055c9c267c695de4ee09eeef291e64489d4c85eecf9d9",
-      "title": "Case Against Former President Wickremesinghe To Be Taken Up Today",
-      "sent_at": "2026-01-28T05:32:41Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/28/imf-vows-support-as-sri-lanka-maps-its-post%e2%80%91cyclone-recovery",
       "content_hash": "b33c87da876ae97dc456aea28fa978bbe7c140260a486360aaaf3501ec071030",
       "title": "IMF Vows Support As Sri Lanka Maps Its Post‑Cyclone Recovery",
@@ -737,6 +719,12 @@
       "content_hash": "1da8a69c251401b52adc7caa3273310c72714ab66e53dac202cb1ce281273619",
       "title": "US Extends Wishes for 78th National Independence Day",
       "sent_at": "2026-02-04T04:44:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/president-dissanayake-vows-to-build-a-united-nation",
+      "content_hash": "6d810097da8c2cd41cd7f15a834c91eb243f5584ea6118df242bac4394c2f294",
+      "title": "President Dissanayake Vows to Build A United Nation",
+      "sent_at": "2026-02-04T05:52:56Z"
     }
   ]
 }
