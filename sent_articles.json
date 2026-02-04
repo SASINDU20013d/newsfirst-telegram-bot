@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/28/ranil-arrives-at-colombo-fort-magistrate-s-court",
-      "content_hash": "5cbcd71ce1788d98ba729094f756c6290408515585e0e90023db87f489c1e6fe",
-      "title": "Ranil Arrives at Colombo Fort Magistrate's Court",
-      "sent_at": "2026-01-28T08:39:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/28/former-presidential-secretary-saman-ekanayake-produced-before-colombo-fort-magistrates-court",
       "content_hash": "db7e6a08a9df3a36ef158b7022d1a15a1349c82d2630359e6213d17a650ebc7e",
       "title": "Former Presidential Secretary Saman Ekanayake Produced Before Colombo Fort Magistrates Court",
@@ -731,6 +725,12 @@
       "content_hash": "c4cb8c34fd30984ad970d7543d57a9125ca91aff8c38716e96882d5a9ddcd61d",
       "title": "Australia Extends Wishes for 78th National Independence Day",
       "sent_at": "2026-02-04T07:47:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/sri-lanka-marks-78th-independence-day-with-grandeur",
+      "content_hash": "c67611d6ef815814f782d3e367c0429a0972fe0ae31d94be43d8b4c1fb6e9e35",
+      "title": "Sri Lanka Marks 78th Independence Day with Grandeur",
+      "sent_at": "2026-02-04T08:50:38Z"
     }
   ]
 }
