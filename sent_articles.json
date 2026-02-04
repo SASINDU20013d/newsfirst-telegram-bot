@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/28/imf-vows-support-as-sri-lanka-maps-its-post%e2%80%91cyclone-recovery",
-      "content_hash": "b33c87da876ae97dc456aea28fa978bbe7c140260a486360aaaf3501ec071030",
-      "title": "IMF Vows Support As Sri Lanka Maps Its Post‑Cyclone Recovery",
-      "sent_at": "2026-01-28T06:42:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/28/sri-lanka-s-first-navy-officer-to-complete-u-s-navy-seal-training-passes-away",
       "content_hash": "9632d9dd62e3adf80937d1566850d69f51fd756b44b1d07fb438d56527821ecc",
       "title": "Sri Lanka's First Navy Officer to Complete U.S. Navy SEAL Training, Passes Away",
@@ -725,6 +719,18 @@
       "content_hash": "6d810097da8c2cd41cd7f15a834c91eb243f5584ea6118df242bac4394c2f294",
       "title": "President Dissanayake Vows to Build A United Nation",
       "sent_at": "2026-02-04T05:52:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/king-charles-iii-extends-congratulations-to-sri-lanka-on-78th-independence-day",
+      "content_hash": "f484deb697ed1b0b1ef4dc4b475059c0f8df32d592bc8a6744cf2e9b15d68d48",
+      "title": "King Charles III Extends Congratulations to Sri Lanka on 78th Independence Day",
+      "sent_at": "2026-02-04T06:59:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/sacred-buddha-relics-from-devni-mori-departs-for-exposition-in-sri-lanka",
+      "content_hash": "1d54414b1e57c38b8b43ab17de7ec9c184d82740791eec2ad101570079fa6ef0",
+      "title": "Sacred Buddha Relics from Devni Mori, Departs for Exposition in Sri Lanka",
+      "sent_at": "2026-02-04T06:59:12Z"
     }
   ]
 }
