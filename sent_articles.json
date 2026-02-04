@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/28/gmoa-trade-union-action-enters-third-day",
-      "content_hash": "9197b9327d5981979c6df2988cf0f8b257876ade89f1f1b067b655af736e5ec6",
-      "title": "GMOA Trade Union Action Enters Third Day",
-      "sent_at": "2026-01-28T02:05:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/28/ministry-of-education-launches-national-school-reorganization-program",
-      "content_hash": "1406bcee21c15ef94b3dd7f6ab46b3a1f07945d8115b5ba58e12b87e2c254c44",
-      "title": "Ministry of Education Launches National School Reorganization Program",
-      "sent_at": "2026-01-28T02:05:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/28/pakistan-sri-lanka-18th-joint-economic-commission-session-to-be-held-today-delegation-arrives-in-sri-lanka",
-      "content_hash": "2cc958f291a72a30614bb1a8b91e69643a0bb2dd9fb2756e90c893b96797f61d",
-      "title": "Pakistan-Sri Lanka 18th Joint Economic Commission Session to be Held Today: Delegation Arrives in Sri Lanka",
-      "sent_at": "2026-01-28T02:05:41Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/28/cbsl-keeps-overnight-policy-interest-rates-unchanged",
       "content_hash": "6d42aae35545050db1e2628417ab106a54791e6c4f76a65c84ca2d250e5d9ee2",
       "title": "CBSL Keeps Overnight Policy Interest Rates Unchanged",
@@ -737,6 +719,18 @@
       "content_hash": "4c7e4eb5c05d3c9632136ef8966a6cabe2fee3e71b75630069e663082da1d574",
       "title": "Shiranthi and Namal Leave FCID and CID After Questioning",
       "sent_at": "2026-02-03T14:50:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/president-calls-for-unity-and-growth-built-on-integrity-to-realize-%e2%80%98a-thriving-nation%e2%80%99-and-true-freedom",
+      "content_hash": "28e0de33d91e24aa3733d610b1bdb80a59af6530cc1c8e45080b860643c71fc9",
+      "title": "President Calls for Unity and Growth Built on Integrity to Realize ‘A Thriving Nation’ and True Freedom",
+      "sent_at": "2026-02-04T02:28:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/sri-lanka-celebrates-78th-independence-day",
+      "content_hash": "cd680b6c48d73738fc1283ac80497af61d3dc28a84274e2b97a4c58bfbeae03e",
+      "title": "Sri Lanka Celebrates 78th Independence Day",
+      "sent_at": "2026-02-04T02:28:19Z"
     }
   ]
 }
