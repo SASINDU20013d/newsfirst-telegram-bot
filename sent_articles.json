@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/28/supreme-court-orders-notices-to-gotabaya-and-others",
-      "content_hash": "7596b9a4794e73b67c3018f13d230697c67964d4f633974481e4f86e2053d7f5",
-      "title": "Supreme Court Orders Notices to Gotabaya and Others",
-      "sent_at": "2026-01-28T13:52:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/29/2026-grade-one-admissions-begin-new-education-reforms-launched",
       "content_hash": "faa421a22783c33cea244dd54418ede5ebaeb3b702b471e2aedfa2985891a57e",
       "title": "2026 Grade One Admissions Begin, New Education Reforms Launched",
@@ -749,6 +743,18 @@
       "content_hash": "c07268ee7a1fb87cda0854676c8a78b9b82d99ef716bfa2777f249dc53ad2c46",
       "title": "UAE and India Extend Independence Day Greetings to Sri Lanka",
       "sent_at": "2026-02-04T11:37:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/rs-10-000-reward-for-police-officers-arresting-drugged-drivers",
+      "content_hash": "d74c248ab43b3aa35b27b3d310b7f28615f99e5ceff62695360b43b91b13b942",
+      "title": "Rs. 10,000 Reward for Police Officers Arresting Drugged Drivers",
+      "sent_at": "2026-02-04T14:43:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/teaching-service-competitive-examinations-for-graduates-gazetted",
+      "content_hash": "86ec1392544c1b9f44996e7f0c28e85f3daeda6f8a0ae0915d4d173f4392beca",
+      "title": "Teaching Service Competitive Examinations for Graduates Gazetted",
+      "sent_at": "2026-02-04T14:43:49Z"
     }
   ]
 }
