@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/28/cbsl-keeps-overnight-policy-interest-rates-unchanged",
-      "content_hash": "6d42aae35545050db1e2628417ab106a54791e6c4f76a65c84ca2d250e5d9ee2",
-      "title": "CBSL Keeps Overnight Policy Interest Rates Unchanged",
-      "sent_at": "2026-01-28T04:08:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/28/air-chief-marshal-harsha-abeywickrama-resigns-as-aasl-chairman",
       "content_hash": "48a93fce96f38bc620a24d06531e8671b9c690570003a7202064d21c85b9d5be",
       "title": "Air Chief Marshal Harsha Abeywickrama Resigns as AASL Chairman",
@@ -731,6 +725,18 @@
       "content_hash": "cd680b6c48d73738fc1283ac80497af61d3dc28a84274e2b97a4c58bfbeae03e",
       "title": "Sri Lanka Celebrates 78th Independence Day",
       "sent_at": "2026-02-04T02:28:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/special-traffic-plan-in-place-for-78th-national-independence-day-in-colombo",
+      "content_hash": "57242fdce110c19fe915dc603d6a1a6335e0d01c167c554fb08064e6fae35345",
+      "title": "Special Traffic Plan In Place for 78th National Independence Day in Colombo",
+      "sent_at": "2026-02-04T04:43:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/04/us-extends-wishes-for-78th-national-independence-day",
+      "content_hash": "1da8a69c251401b52adc7caa3273310c72714ab66e53dac202cb1ce281273619",
+      "title": "US Extends Wishes for 78th National Independence Day",
+      "sent_at": "2026-02-04T04:44:02Z"
     }
   ]
 }
