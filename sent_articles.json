@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/29/2026-grade-one-admissions-begin-new-education-reforms-launched",
-      "content_hash": "faa421a22783c33cea244dd54418ede5ebaeb3b702b471e2aedfa2985891a57e",
-      "title": "2026 Grade One Admissions Begin, New Education Reforms Launched",
-      "sent_at": "2026-01-29T02:27:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/gmoa-strike-enters-fourth-day",
-      "content_hash": "84a0491566c84dc7b70c3b675a581bb7849801991142c35cf7e4b114b1fdfbfa",
-      "title": "GMOA Strike Enters Fourth Day",
-      "sent_at": "2026-01-29T02:27:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/pretty-satisfying-results-says-imf-on-sri-lanka-s-path",
-      "content_hash": "1f44724aeb654a47da611c805436c62efd4d141f63149713906d23d75bbced8e",
-      "title": "'Pretty Satisfying' Results Says IMF on Sri Lanka's Path",
-      "sent_at": "2026-01-29T02:27:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/skilling-asia-s-youth-workforce-key-to-tackling-unemployment",
-      "content_hash": "3d82ade4d3fbf3accd22f05c8ed92b942b25b443fbfe3442ca9888a42f7906cc",
-      "title": "Skilling Asia's Youth Workforce Key to Tackling Unemployment",
-      "sent_at": "2026-01-29T02:27:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/sri-lanka-imf-program-stands-firm-despite-cyclone",
-      "content_hash": "5c1944ca90ba4834d00534018b237e8a24415f972b5b33cdb91ddbd7e12f59cf",
-      "title": "Sri Lanka IMF Program Stands Firm Despite Cyclone",
-      "sent_at": "2026-01-29T02:27:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/asp-rohan-olugala-appointed-as-director-of-walana-anti-corruption-unit",
-      "content_hash": "d435e50d8eb13c69387996928f750ade28c0b7919eabd244cacc41223e6feaf1",
-      "title": "ASP Rohan Olugala Appointed as Director of Walana Anti-Corruption Unit",
-      "sent_at": "2026-01-29T04:41:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/ncpa-issues-guidelines-for-teachers-to-support-children-during-emergency-disaster-situations",
-      "content_hash": "adc446d4a2df69426c448cca886152b16bde005033dcb5eb9f59b1c6072584f1",
-      "title": "NCPA Issues Guidelines for Teachers to Support Children During Emergency Disaster Situations",
-      "sent_at": "2026-01-29T04:41:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/29/five-politicians-and-more-than-80-public-officials-arrested-for-bribery-and-corruption-in-2025",
       "content_hash": "2a939e58f6067811673fd0a03cbee6406690e3bc5c0ca715a793180ca2043572",
       "title": "Five Politicians and More than 80 Public Officials Arrested for Bribery and Corruption in 2025",
@@ -755,6 +713,36 @@
       "content_hash": "86ec1392544c1b9f44996e7f0c28e85f3daeda6f8a0ae0915d4d173f4392beca",
       "title": "Teaching Service Competitive Examinations for Graduates Gazetted",
       "sent_at": "2026-02-04T14:43:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/55-000-vehicles-imported-in-january-rs-3-5b-revenue-from-vehicle-registrations-in-just-one-month",
+      "content_hash": "34b1971ad0256814cc9935ff131b7a52cac0fb2e473a9d77f2350ffc8bb3de2c",
+      "title": "55,000 Vehicles Imported In January & Rs. 3.5B Revenue From Vehicle Registrations In Just One Month",
+      "sent_at": "2026-02-05T04:51:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/arrangements-for-special-transport-services-for-devotees-attending-sacred-relic-exposition",
+      "content_hash": "2780c748703285af96053e334df664a313ea142a168eaf6e865f6c2165ed20af",
+      "title": "Arrangements for Special Transport Services for Devotees Attending Sacred Relic Exposition",
+      "sent_at": "2026-02-05T04:51:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/businessmen-caught-with-rs-12-8m-in-illegal-cigarettes",
+      "content_hash": "02287bbb530a976fb9c8776d17b0cf90cd01626182808618d771705e6fde2864",
+      "title": "Businessmen Caught with Rs. 12.8M in Illegal Cigarettes",
+      "sent_at": "2026-02-05T04:51:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/sacred-relics-from-devnimori-open-for-public-veneration",
+      "content_hash": "752ebaaa884c603ff126b4590fd11713260cc2df1f0db5164b86be6fab7dbec1",
+      "title": "Sacred Relics from Devnimori Open for Public Veneration",
+      "sent_at": "2026-02-05T04:51:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/samudika-jayaratne-to-assume-duties-as-sri-lanka%e2%80%99s-first-female-auditor-general",
+      "content_hash": "34730e26af5954cfcaf565c20eae0833317011e51fbba44eceb158c824b44302",
+      "title": "Samudika Jayaratne to Assume Duties as Sri Lanka’s First Female Auditor General",
+      "sent_at": "2026-02-05T04:51:35Z"
     }
   ]
 }
