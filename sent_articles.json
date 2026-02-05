@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/29/imf-managing-director-to-visit-sri-lanka-next-month",
-      "content_hash": "c2a5415bf3525417e294a8934ec6e95c228253c95963e2243f427a8630ba6c64",
-      "title": "IMF Managing Director to Visit Sri Lanka Next Month",
-      "sent_at": "2026-01-29T10:41:35Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/29/govt-to-uplift-urban-living-standards-27-housing-projects-to-be-revitalized",
       "content_hash": "9cc4adb8293f3eacac67cc33466c3f517ec78a44573debf51afe927bf311d5e8",
       "title": "Govt to Uplift Urban Living Standards; 27 Housing Projects to be Revitalized",
@@ -743,6 +737,18 @@
       "content_hash": "a74a4ce2f5ba4b88ed07e7494f5c6140becd513ae807f0d870dc09fc2ec1d7b4",
       "title": "Sri Lanka to Toughen Laws on Drug-Using Drivers and Conductors",
       "sent_at": "2026-02-05T07:54:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/five-suspects-including-wife-and-son-of-makandure-madush-arrested",
+      "content_hash": "bd755453c2775fe5df0f20767bcebb38de669c7a7a8e100146ce4b9fbc9100f7",
+      "title": "Five Suspects, Including Wife and Son of \"Makandure Madush,\" Arrested",
+      "sent_at": "2026-02-05T10:46:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/is-sri-lanka-in-the-epstein-files-yes-but-no-criminal-links",
+      "content_hash": "3df7cad476f2a1cf602cb0b4b7427087eed1bfe22604ec09d710b64f5cabca8d",
+      "title": "Is Sri Lanka in the Epstein Files? Yes, But No Criminal Links",
+      "sent_at": "2026-02-05T10:46:44Z"
     }
   ]
 }
