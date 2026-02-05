@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/29/three-bus-drivers-arrested-in-panadura-for-operating-under-influence-of-cannabis",
-      "content_hash": "f86ed2e03f018b485401515b4c99301507a67d9f00028224ec2d7fa86630350f",
-      "title": "Three Bus Drivers Arrested in Panadura for Operating Under Influence of Cannabis",
-      "sent_at": "2026-01-29T13:06:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/woman-arrested-in-ganemulla-with-rs-180-million-worth-of-cocaine",
-      "content_hash": "036d987e3459a864ffd828a6a636307d158e101487f011160987196ed27f2a45",
-      "title": "Woman Arrested in Ganemulla with Rs. 180 Million Worth of Cocaine",
-      "sent_at": "2026-01-29T13:07:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/29/imf%e2%80%99s-kristalina-geogieva-to-visit-sri-lanka-in-february",
       "content_hash": "d4ddea8776132784061e2602f53c844457742540f833e62e432d96f0160ec867",
       "title": "IMF’s Kristalina Geogieva To Visit Sri Lanka In February",
@@ -743,6 +731,12 @@
       "content_hash": "fa8112c0b4c03bfe1e995af8ad5a8e361d211b6aab4d80af376ae9e073e90c0d",
       "title": "Two Fishers Attacked on International Waters Hospitalised in Colombo",
       "sent_at": "2026-02-05T11:38:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/sri-lankan-arrested-at-bia-with-kush-from-malaysia",
+      "content_hash": "5f7a2faf9ef4c393c382e54a8a644940c6e58d24ed8863f23c40051585383b64",
+      "title": "Sri Lankan Arrested at BIA with Kush from Malaysia",
+      "sent_at": "2026-02-05T13:12:09Z"
     }
   ]
 }
