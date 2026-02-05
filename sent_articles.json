@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/29/govt-to-uplift-urban-living-standards-27-housing-projects-to-be-revitalized",
-      "content_hash": "9cc4adb8293f3eacac67cc33466c3f517ec78a44573debf51afe927bf311d5e8",
-      "title": "Govt to Uplift Urban Living Standards; 27 Housing Projects to be Revitalized",
-      "sent_at": "2026-01-29T11:34:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/six-officers-released-on-bail-over-assault-on-catholic-priest",
-      "content_hash": "814bff052b4e7ad5910eaed11eb1bbc1762725d7f049262a31c7e57c2fd14db3",
-      "title": "Six Officers Released on Bail Over Assault on Catholic Priest",
-      "sent_at": "2026-01-29T11:34:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/29/three-bus-drivers-arrested-in-panadura-for-operating-under-influence-of-cannabis",
       "content_hash": "f86ed2e03f018b485401515b4c99301507a67d9f00028224ec2d7fa86630350f",
       "title": "Three Bus Drivers Arrested in Panadura for Operating Under Influence of Cannabis",
@@ -749,6 +737,12 @@
       "content_hash": "3df7cad476f2a1cf602cb0b4b7427087eed1bfe22604ec09d710b64f5cabca8d",
       "title": "Is Sri Lanka in the Epstein Files? Yes, But No Criminal Links",
       "sent_at": "2026-02-05T10:46:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/two-fishers-attacked-on-international-waters-hospitalised-in-colombo",
+      "content_hash": "fa8112c0b4c03bfe1e995af8ad5a8e361d211b6aab4d80af376ae9e073e90c0d",
+      "title": "Two Fishers Attacked on International Waters Hospitalised in Colombo",
+      "sent_at": "2026-02-05T11:38:34Z"
     }
   ]
 }
