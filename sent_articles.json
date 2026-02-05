@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/29/five-politicians-and-more-than-80-public-officials-arrested-for-bribery-and-corruption-in-2025",
-      "content_hash": "2a939e58f6067811673fd0a03cbee6406690e3bc5c0ca715a793180ca2043572",
-      "title": "Five Politicians and More than 80 Public Officials Arrested for Bribery and Corruption in 2025",
-      "sent_at": "2026-01-29T07:42:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/pm-harini-amarasuriya-launches-2026-grade-one-national-education-reforms",
-      "content_hash": "2f9ccf1495f6c3fecb67f1c153545a5e20ce4c65dc357dd92e00923cb4b89df9",
-      "title": "PM Harini Amarasuriya Launches 2026 Grade One National Education Reforms",
-      "sent_at": "2026-01-29T07:42:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/29/veteran-filmmaker-sena-samarasinghe-passes-away",
-      "content_hash": "26f64afd54476710dd42b7f77926e2a04d24f1b89cdf98fa0aaa28f08a004949",
-      "title": "Veteran Filmmaker Sena Samarasinghe Passes Away",
-      "sent_at": "2026-01-29T07:42:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/29/education-reform-to-end-textbook-tyranny",
       "content_hash": "ae7aa05addc082e9baf9dae3d9bb2d4c953d02da333648449de549fa6a9b097c",
       "title": "Education Reform to End Textbook Tyranny",
@@ -773,6 +755,18 @@
       "content_hash": "181d1e32bc3c4d6b36aaeea6b250b9082ec991ef3763fb5a808596ed2ea9be31",
       "title": "Sri Lanka Opens Dual Exams to Fill Teacher Vacancies",
       "sent_at": "2026-02-05T07:05:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/carrom-board-case-order-not-ready-new-date-set-for-march-25",
+      "content_hash": "698623a55e946fc5d0981c13afad58fe44e068ae06aad6a9d9f03ef9f811145b",
+      "title": "Carrom Board Case: Order Not Ready, New Date Set for March 25",
+      "sent_at": "2026-02-05T07:54:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/05/sri-lanka-to-toughen-laws-on-drug-using-drivers-and-conductors",
+      "content_hash": "a74a4ce2f5ba4b88ed07e7494f5c6140becd513ae807f0d870dc09fc2ec1d7b4",
+      "title": "Sri Lanka to Toughen Laws on Drug-Using Drivers and Conductors",
+      "sent_at": "2026-02-05T07:54:56Z"
     }
   ]
 }
