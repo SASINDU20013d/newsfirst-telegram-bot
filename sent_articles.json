@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/30/health-ministry-confirms-no-risk-of-nipah-virus-spreading-to-sri-lanka-urges-public-not-to-panic",
-      "content_hash": "a034e86997a9a924a40d18b3ccfb41933b491a1e04421f942118e12670e7f642",
-      "title": "Health Ministry Confirms No Risk of Nipah Virus Spreading to Sri Lanka; Urges Public Not to Panic",
-      "sent_at": "2026-01-30T02:27:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/30/special-traffic-plan-for-the-78th-national-independence-day-celebrations-and-rehearsals",
-      "content_hash": "40708269bb8167ee3689a667687012164df9315a752ee351717c62c5cc401e54",
-      "title": "Special Traffic Plan for the 78th National Independence Day Celebrations and Rehearsals",
-      "sent_at": "2026-01-30T02:27:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/30/%e2%80%98praja-shakthi%e2%80%99-councils-to-lead-rural-development-implementation-to-begin-next-month",
-      "content_hash": "b150ff5b68341953e067f6808ad06cbbfe86ec084b0067789e633e26d19e3566",
-      "title": "‘Praja Shakthi’ Councils to Lead Rural Development; Implementation to Begin Next Month",
-      "sent_at": "2026-01-30T04:43:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/30/chief-magistrate-remands-businessman-until-feb-10-over-alleged-illegal-payouts-linked-to-keheliya-rambukwella",
-      "content_hash": "7f94e929eb3abc04b86c503fdb2e09ef05633b361ffde368f28700ab8a0d8bb4",
-      "title": "Chief Magistrate Remands Businessman Until Feb 10 Over Alleged Illegal Payouts Linked to Keheliya Rambukwella",
-      "sent_at": "2026-01-30T04:43:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/30/new-deal-seals-salary-hike-for-plantation-workers",
-      "content_hash": "c6d604c326276e52a9163dfb79fe0b90fd04aa2a0b5d42b0c1198b7b7e0fefed",
-      "title": "New Deal Seals Salary Hike for Plantation Workers",
-      "sent_at": "2026-01-30T04:43:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/30/sabina-yousaf-second-runner-up-at-mrs-world-2025",
       "content_hash": "e7a173ef75a764ba7440825cd009f763b7ae6a4ccbfc08b3d35f10149d23d077",
       "title": "Sabina Yousaf: Second Runner-Up at Mrs. World 2025",
@@ -743,6 +713,36 @@
       "content_hash": "342be9ce6479d4499f586cd64c2660cde33df7a7c3dc5d9aa65a533ecec822cf",
       "title": "Tilvin Silva Leads JVP Delegation to India",
       "sent_at": "2026-02-05T17:51:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/election-commission-launches-online-portal-for-2026-electoral-register-revision",
+      "content_hash": "42e85192873d1b44ba05fe85d61e940c5472e5d88eb5a94ae079fbe55cd95999",
+      "title": "Election Commission Launches Online Portal for 2026 Electoral Register Revision",
+      "sent_at": "2026-02-06T04:50:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/parliament-to-debate-essential-services-gazette-today-15-sectors-including-health-named",
+      "content_hash": "f0a137b0d56491f6b849305371db9cd222d5f90df490bf9e6cad275cfd742751",
+      "title": "Parliament to Debate Essential Services Gazette Today; 15 Sectors Including Health Named",
+      "sent_at": "2026-02-06T04:50:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/president-to-visit-kandy-to-grant-ditwah-compensation-and-launch-several-development-projects",
+      "content_hash": "139e33c870fb0e44c6c5243de3fa198c5e9dab4e2a27a277366e83b6944172e1",
+      "title": "President to Visit Kandy to Grant Ditwah Compensation and Launch Several Development Projects",
+      "sent_at": "2026-02-06T04:50:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/supreme-court-clears-path-for-parliamentary-pensions-repeal-bill",
+      "content_hash": "53f98220eaf0fd1ade0d28e15f26bef04e5830cb6d79aafd1729deaf8343b925",
+      "title": "Supreme Court Clears Path for Parliamentary Pensions Repeal Bill",
+      "sent_at": "2026-02-06T04:50:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/three-arrested-at-bia-with-over-2kg-of-kush-smuggled-from-bangkok",
+      "content_hash": "a185de9173f594694c2afa36cfcbe0c0074b268d91a9b7e2b0a196966f8c335a",
+      "title": "Three Arrested at BIA with Over 2kg of Kush Smuggled from Bangkok",
+      "sent_at": "2026-02-06T04:50:29Z"
     }
   ]
 }
