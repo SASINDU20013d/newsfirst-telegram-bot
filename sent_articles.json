@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/30/johnston-fernando-and-sons-remanded-again",
-      "content_hash": "6bc8a850c47f37cbc32af011def22e2b43a6523027ca5176ee2a58d9c62b8a1e",
-      "title": "Johnston Fernando and Sons Remanded Again",
-      "sent_at": "2026-01-30T10:39:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/30/bus-conductor-arrested-with-multi%e2%80%91drug-haul",
       "content_hash": "86c68e034f4a5e4529fca4d6ed8bfe7d9453afbb2d12816e1127da1cf7d987d8",
       "title": "Bus Conductor Arrested with Multi‑Drug Haul",
@@ -725,6 +719,12 @@
       "content_hash": "be7d63fe82be3cd9b2d59957de712c6d4113d74f156cd9279488bdbf1b89886b",
       "title": "Rs. 1.9 Bn Released for Cyclone‑Affected Schoolchildren",
       "sent_at": "2026-02-06T09:50:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/only-un-security-council-sanctions-are-binding-uk-sanctions-don%e2%80%99t-apply-here",
+      "content_hash": "0edc4990b1b6a30a438c4520a79a0fc68d74acf3e8c68ad6ccbc917697471ee7",
+      "title": "Only UN Security Council Sanctions are Binding : UK Sanctions Don’t Apply Here",
+      "sent_at": "2026-02-06T10:45:47Z"
     }
   ]
 }
