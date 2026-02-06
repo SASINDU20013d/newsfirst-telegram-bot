@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/30/court-re-fixes-rajitha-senaratne-case-for-july-10",
-      "content_hash": "21f14a5b870e6eda7b59a461b15f18831f0ec7815a1fa5f167b9e7c77b8b4e70",
-      "title": "Court Re-Fixes Rajitha Senaratne Case for July 10",
-      "sent_at": "2026-01-30T09:43:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/30/hansana-balasuriya-shines-at-miss-intercontinental-2025",
-      "content_hash": "1b749fec0464a11ae96633949da8ceac67736834e023366e548fb02f528b784a",
-      "title": "Hansana Balasuriya Shines at Miss Intercontinental 2025",
-      "sent_at": "2026-01-30T09:43:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/30/street-robbers-steal-us-2-7-mn-in-cash-in-tokyo",
-      "content_hash": "0038b295fe22c5c6f441f3e2956538535baf0d8e109055d9292ef498d446e328",
-      "title": "Street Robbers Steal US$2.7 mn In Cash In Tokyo",
-      "sent_at": "2026-01-30T09:44:01Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/30/johnston-fernando-and-sons-remanded-again",
       "content_hash": "6bc8a850c47f37cbc32af011def22e2b43a6523027ca5176ee2a58d9c62b8a1e",
       "title": "Johnston Fernando and Sons Remanded Again",
@@ -731,6 +713,18 @@
       "content_hash": "8d160a221ec77c6fe3f60eb0d2842a684a6ee9dc4149218883af4a7e6f14baff",
       "title": "UGC Directed to Admit Student After Unlawful Rejection by Ministry",
       "sent_at": "2026-02-06T07:01:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/daughter-of-former-minister-keheliya-rambukwella-arrested-over-money-laundering",
+      "content_hash": "555b7aaf1928f377690ee93e2427792bf09e880e1090dcc4b38ec2855a3b6700",
+      "title": "Daughter of Former Minister Keheliya Rambukwella Arrested Over Money Laundering",
+      "sent_at": "2026-02-06T09:50:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/rs-1-9-bn-released-for-cyclone%e2%80%91affected-schoolchildren",
+      "content_hash": "be7d63fe82be3cd9b2d59957de712c6d4113d74f156cd9279488bdbf1b89886b",
+      "title": "Rs. 1.9 Bn Released for Cyclone‑Affected Schoolchildren",
+      "sent_at": "2026-02-06T09:50:39Z"
     }
   ]
 }
