@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/30/cc-meets-auditor-general-decision-deferred",
-      "content_hash": "ce3f65afb89a8a778a4f5abed9734b295ddb5c3098fcfdaa80c41c84b76ebaa6",
-      "title": "CC Meets; Auditor General Decision Deferred",
-      "sent_at": "2026-01-30T14:38:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/30/djokovic-defies-odds-dethrones-sinner-to-clinch-australian-open-final-spot",
       "content_hash": "d32896e9a35ee899d2752a17ffc9749e44e281427859c5352201b7ac34041ecf",
       "title": "Djokovic Defies Odds: Dethrones Sinner to Clinch Australian Open Final Spot",
@@ -719,6 +713,54 @@
       "content_hash": "e6d592be7b82e25afd41abd8a158b300c04a4d8c8450e23d2d7da2416bbaf9c3",
       "title": "If You’re Honest, You Have Nothing to Fear : AKD",
       "sent_at": "2026-02-06T13:09:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/court-to-deliver-interim-order-on-dayasiri%e2%80%99s-slfp-case-on-february-17",
+      "content_hash": "50e0d67bfa55158dbc8c5ea28bff6f9906bb5c7870fb1925b7704eaf2fb7f58a",
+      "title": "Court to Deliver Interim Order on Dayasiri’s SLFP Case on February 17",
+      "sent_at": "2026-02-06T14:42:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/female-conductors-hit-the-expressway-for-the-first-time",
+      "content_hash": "0b3b6b62d8cbbc6a9f5b9b16bf50d2a3e53e489d44f9bf1c2b875337921e40de",
+      "title": "Female Conductors Hit the Expressway for the First Time",
+      "sent_at": "2026-02-06T14:42:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/jvp-s-tilvin-silva-meets-indian-eam-s-jaishankar",
+      "content_hash": "9a79baf15b850d607c27a1d12251774009c272191b94819ead9965693f8acaef",
+      "title": "JVP's Tilvin Silva Meets Indian EAM S. Jaishankar",
+      "sent_at": "2026-02-06T14:42:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/keheliya%e2%80%99s-daughter-released-on-bail-over-alleged-role-in-illicit-funds-case",
+      "content_hash": "a35ee07bd05be4c8a6fc531112d9441b6dcaa1747d05b226eace8b0651baf6f9",
+      "title": "Keheliya’s Daughter Released on Bail Over Alleged Role in Illicit Funds Case",
+      "sent_at": "2026-02-06T14:42:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/pm-says-sc-must-deliver-judgments-that-shape-the-nation%e2%80%99s-democratic-future",
+      "content_hash": "60a9cb4b6ec7d9ef3ac8e82f2f8e5f62b704fc7afd20d122de1367bb43cad327",
+      "title": "PM Says SC Must Deliver Judgments That Shape the Nation’s Democratic Future",
+      "sent_at": "2026-02-06T14:42:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/russian-general-shot-several-times-in-moscow",
+      "content_hash": "51c39d5266d842f0c07efec62be29d08d9dfc3bbaf1308ce9904adb5942bd41b",
+      "title": "Russian general shot several times in Moscow",
+      "sent_at": "2026-02-06T14:42:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/sri-lanka-continues-fight-to-reclaim-stolen-history",
+      "content_hash": "27f2a180a4038aa940b555d875cf2e583790b828acc7f428d90277373406c15c",
+      "title": "Sri Lanka Continues Fight To Reclaim Stolen History",
+      "sent_at": "2026-02-06T14:42:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/two-major-crime-suspects-arrested-in-india-returned-to-sri-lanka",
+      "content_hash": "b9b675ad40dc651ca833376c00ef4b3e4ab8a50b61910f412944dd10ed44cebc",
+      "title": "Two Major Crime Suspects Arrested in India Returned to Sri Lanka",
+      "sent_at": "2026-02-06T14:42:51Z"
     }
   ]
 }
