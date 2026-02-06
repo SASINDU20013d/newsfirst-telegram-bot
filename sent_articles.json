@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/30/bus-conductor-arrested-with-multi%e2%80%91drug-haul",
-      "content_hash": "86c68e034f4a5e4529fca4d6ed8bfe7d9453afbb2d12816e1127da1cf7d987d8",
-      "title": "Bus Conductor Arrested with Multi‑Drug Haul",
-      "sent_at": "2026-01-30T13:05:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/30/dubai-sudda-under-probe-for-human-trafficking",
-      "content_hash": "77d19020410df6cbcb74656ede1edb65ce5f976cd483e9537c6996cd90070ce7",
-      "title": "'Dubai Sudda' Under Probe for Human Trafficking",
-      "sent_at": "2026-01-30T13:05:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/30/school-development-officers-reject-competitive-exam-requirement",
-      "content_hash": "d547a789cf926f004ba2d7c441447dba8f737db8c1ad68cb0604b820a3001774",
-      "title": "School Development Officers Reject Competitive Exam Requirement",
-      "sent_at": "2026-01-30T13:05:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/30/cc-meets-auditor-general-decision-deferred",
       "content_hash": "ce3f65afb89a8a778a4f5abed9734b295ddb5c3098fcfdaa80c41c84b76ebaa6",
       "title": "CC Meets; Auditor General Decision Deferred",
@@ -725,6 +707,18 @@
       "content_hash": "0edc4990b1b6a30a438c4520a79a0fc68d74acf3e8c68ad6ccbc917697471ee7",
       "title": "Only UN Security Council Sanctions are Binding : UK Sanctions Don’t Apply Here",
       "sent_at": "2026-02-06T10:45:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/former-suriyakanda-oic-constable-arrested-over-killing-a-sambar",
+      "content_hash": "b83ab4eebe0f34b877e2958383d2a0ff47e3aeae330f3e6dea48bfe13346a34c",
+      "title": "Former Suriyakanda OIC, Constable Arrested Over Killing A Sambar",
+      "sent_at": "2026-02-06T13:09:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/if-you%e2%80%99re-honest-you-have-nothing-to-fear-akd",
+      "content_hash": "e6d592be7b82e25afd41abd8a158b300c04a4d8c8450e23d2d7da2416bbaf9c3",
+      "title": "If You’re Honest, You Have Nothing to Fear : AKD",
+      "sent_at": "2026-02-06T13:09:44Z"
     }
   ]
 }
