@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/30/djokovic-defies-odds-dethrones-sinner-to-clinch-australian-open-final-spot",
-      "content_hash": "d32896e9a35ee899d2752a17ffc9749e44e281427859c5352201b7ac34041ecf",
-      "title": "Djokovic Defies Odds: Dethrones Sinner to Clinch Australian Open Final Spot",
-      "sent_at": "2026-01-30T15:40:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/31/essential-services-gazette-extended-following-cyclone-ditwah",
       "content_hash": "e36ea08f36ff5e40eba48735a2f09db875907bf2c7db2f1987f517bb9916d27b",
       "title": "Essential Services Gazette Extended Following Cyclone Ditwah",
@@ -761,6 +755,12 @@
       "content_hash": "b9b675ad40dc651ca833376c00ef4b3e4ab8a50b61910f412944dd10ed44cebc",
       "title": "Two Major Crime Suspects Arrested in India Returned to Sri Lanka",
       "sent_at": "2026-02-06T14:42:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/gammadda-care-and-dare-to-reach-kandy-and-nuwara-eliya-tomorrow",
+      "content_hash": "62fcec29b8d784ae6347731c9b7323226369cd1fffdeab881555793e7e42e7b1",
+      "title": "Gammadda \"Care And Dare\" To Reach Kandy And Nuwara Eliya Tomorrow",
+      "sent_at": "2026-02-06T15:44:46Z"
     }
   ]
 }
