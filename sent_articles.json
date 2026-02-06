@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/30/sabina-yousaf-second-runner-up-at-mrs-world-2025",
-      "content_hash": "e7a173ef75a764ba7440825cd009f763b7ae6a4ccbfc08b3d35f10149d23d077",
-      "title": "Sabina Yousaf: Second Runner-Up at Mrs. World 2025",
-      "sent_at": "2026-01-30T05:51:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/30/after-australia-france-sri-lanka-looks-to-ban-social-media-for-kids",
       "content_hash": "a370163f7200d745b577d406b2d8af1e438dd3cfb91f02f0e8685cba032c630d",
       "title": "After Australia & France, Sri Lanka Looks To Ban Social Media For Kids",
@@ -743,6 +737,12 @@
       "content_hash": "a185de9173f594694c2afa36cfcbe0c0074b268d91a9b7e2b0a196966f8c335a",
       "title": "Three Arrested at BIA with Over 2kg of Kush Smuggled from Bangkok",
       "sent_at": "2026-02-06T04:50:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/06/built-for-eternity-cnn-hails-jetavanaramaya-as-a-1-700%e2%80%91year%e2%80%91old-engineering-marvel",
+      "content_hash": "a31fcbdbacd0ca3a611a229192eb42bd8b2a9a1293464a52417e1a891148f3d0",
+      "title": "'Built For Eternity' - CNN Hails Jetavanaramaya as a 1,700‑Year‑Old Engineering Marvel",
+      "sent_at": "2026-02-06T05:56:48Z"
     }
   ]
 }
