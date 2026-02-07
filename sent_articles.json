@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/31/minor-earthquake-of-magnitude-3-6-reported-in-the-mullaitivu-sea",
-      "content_hash": "4cbe07ef7bea8fd0246c898ddcd063563955ad3984d2d8ddfe5eb24e626952ef",
-      "title": "Minor Earthquake of Magnitude 3.6 Reported In the Mullaitivu Sea",
-      "sent_at": "2026-01-31T12:57:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/31/pm-vows-unstoppable-push-for-transformational-change-in-education",
       "content_hash": "fde0adb69efedc89337fa1cac1ab7161ef2c1c61b39ca6e3e2d07af3f77a7124",
       "title": "PM Vows Unstoppable Push for Transformational Change in Education",
@@ -749,6 +743,18 @@
       "content_hash": "e09ddd60f50c1472dfd1b4705210df3eccc96a4405bfe14f492b4ecdb83ced98",
       "title": "Traffic Restricted on Ananda Coomaraswamy Mawatha to Horton Roundabout",
       "sent_at": "2026-02-07T09:35:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/police-probe-fatal-cricket-bat-assault-in-ratmalana",
+      "content_hash": "bf3cb265c609af9ca2ac5ba95ace7624e4e7229c3e572db1f57d0c6f87d6af28",
+      "title": "Police Probe Fatal Cricket Bat Assault in Ratmalana",
+      "sent_at": "2026-02-07T12:58:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/police-seize-massive-haul-of-drugs-across-the-country",
+      "content_hash": "96e8fe383c1ca07589af8d0e01a626bc374b0b64e5d7b96242bf241a9873ac47",
+      "title": "Police Seize Massive Haul Of Drugs Across The Country",
+      "sent_at": "2026-02-07T12:58:38Z"
     }
   ]
 }
