@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/31/pm-vows-unstoppable-push-for-transformational-change-in-education",
-      "content_hash": "fde0adb69efedc89337fa1cac1ab7161ef2c1c61b39ca6e3e2d07af3f77a7124",
-      "title": "PM Vows Unstoppable Push for Transformational Change in Education",
-      "sent_at": "2026-01-31T13:44:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/31/new-circular-provides-grants-and-loan-facilities-for-small-and-micro-businesses",
       "content_hash": "4f534a4b52aceed6e5555cab8d74568e8714f20b634d5c275fb9ebba499206e8",
       "title": "New Circular Provides Grants and Loan Facilities for Small and Micro Businesses",
@@ -755,6 +749,12 @@
       "content_hash": "96e8fe383c1ca07589af8d0e01a626bc374b0b64e5d7b96242bf241a9873ac47",
       "title": "Police Seize Massive Haul Of Drugs Across The Country",
       "sent_at": "2026-02-07T12:58:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/gammadda-care-dare-reaches-nuwara-eliya-supporting-communities-hit-by-cyclone-ditwah",
+      "content_hash": "86777b93cce35155cff0029ef154b54934f617969f7ac91288d2c010cc815189",
+      "title": "Gammadda Care & Dare reaches Nuwara Eliya, supporting communities hit by Cyclone Ditwah",
+      "sent_at": "2026-02-07T13:47:28Z"
     }
   ]
 }
