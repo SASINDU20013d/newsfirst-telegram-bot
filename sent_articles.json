@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/31/new-circular-provides-grants-and-loan-facilities-for-small-and-micro-businesses",
-      "content_hash": "4f534a4b52aceed6e5555cab8d74568e8714f20b634d5c275fb9ebba499206e8",
-      "title": "New Circular Provides Grants and Loan Facilities for Small and Micro Businesses",
-      "sent_at": "2026-01-31T16:35:15Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/01/fuel-prices-drop-sinopec-matches-ceypetco-rate-cuts-effective-immediately",
       "content_hash": "af10b6bac9ccef47900cef7f1d224cf17aaad3a369daf6c2c0fc5dee1c7d54fc",
       "title": "Fuel Prices Drop: Sinopec Matches Ceypetco Rate Cuts Effective Immediately",
@@ -755,6 +749,12 @@
       "content_hash": "86777b93cce35155cff0029ef154b54934f617969f7ac91288d2c010cc815189",
       "title": "Gammadda Care & Dare reaches Nuwara Eliya, supporting communities hit by Cyclone Ditwah",
       "sent_at": "2026-02-07T13:47:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/war-time-rocket-launchers-unearthed-in-valaichchenai",
+      "content_hash": "88667a3e5726990b85b2b57aa6abf8fda00e8a096ca43a175cd1853409bea9d2",
+      "title": "War-Time Rocket Launchers Unearthed In Valaichchenai",
+      "sent_at": "2026-02-07T16:36:51Z"
     }
   ]
 }
