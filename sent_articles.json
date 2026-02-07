@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/31/2026-voter-register-revision-begins",
-      "content_hash": "378af644482906a527182aa8a717976ca859ce961a8218e5fd3a41d49bdf051e",
-      "title": "2026 Voter Register Revision Begins",
-      "sent_at": "2026-01-31T04:27:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/31/firearm-license-renewal-deadline-for-2026-ends-today",
-      "content_hash": "08e6af74b4f38fcbcceb976906c297ad037332e4e774c0bfdbea5edafb600a9e",
-      "title": "Firearm License Renewal Deadline for 2026 Ends Today",
-      "sent_at": "2026-01-31T04:27:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/31/rs-50-000-allowance-disbursed-to-70-of-homes-affected-by-cyclone-ditwah",
-      "content_hash": "3cf3834ba77ed1238742d6a6793aa86e9eb5526888bcc7d5bddb5e728f5362cc",
-      "title": "Rs. 50,000 Allowance Disbursed to 70% of Homes Affected by Cyclone Ditwah",
-      "sent_at": "2026-01-31T04:27:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/31/special-traffic-plan-in-place-as-78th-independence-day-rehearsals-continue",
-      "content_hash": "d676006abcc578ce8cd12e5c3f8b1c8a6ce2a18b68aba412a76add89ad3e12ab",
-      "title": "Special Traffic Plan in Place as 78th Independence Day Rehearsals Continue",
-      "sent_at": "2026-01-31T04:27:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/31/nearly-800-drivers-arrested-for-drugged-driving-in-past-two-weeks",
       "content_hash": "8512f814c21576a5f41d888f1df1ee93ce6a50c7fa560faf08d9b5df88c04138",
       "title": "Nearly 800 Drivers Arrested for Drugged Driving in Past Two Weeks",
@@ -761,6 +737,36 @@
       "content_hash": "4cfb622b7c836d7289f168854f44e86672a90e5076c5434e57cfc1ce8d2c435a",
       "title": "Crime Detection and Investigations Rise by 50–60% – IGP",
       "sent_at": "2026-02-07T02:26:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/gammadda-%e2%80%98care-and-dare%e2%80%99-phase-three-brings-relief-to-nuwara-eliya-and-kandy-districts",
+      "content_hash": "7aa85bca382b00035929c47e060f88f992aa06ee9263544ac35e1a204b07164c",
+      "title": "Gammadda ‘Care and Dare’ Phase Three Brings Relief to Nuwara Eliya and Kandy Districts",
+      "sent_at": "2026-02-07T04:41:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/government-to-modernize-25-technical-colleges",
+      "content_hash": "a845782385230b7e29c9578dbe4e00df0005e9d576d35094321c02a471c78020",
+      "title": "Government to Modernize 25 Technical Colleges",
+      "sent_at": "2026-02-07T04:41:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/no-decision-on-litro-gas-price-revision-laugfs-gas-prices-increased",
+      "content_hash": "e41e0955afecdb8e3c39d7941d5fb3cb3cf5cfdd32f457d1151fe24137c435a2",
+      "title": "No Decision on Litro Gas Price Revision: Laugfs Gas Prices Increased",
+      "sent_at": "2026-02-07T04:41:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/police-seize-2-404-firearms-in-2025-arrest-44-shooters",
+      "content_hash": "46b1048fb9c0f3bfe6c7c9f9f61fa7f5b31bc413347bebb049634e850dcda257",
+      "title": "Police Seize 2,404 Firearms in 2025, Arrest 44 Shooters",
+      "sent_at": "2026-02-07T04:41:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/sacred-devnimori-relics-exposition-at-gangaramaya-temple-continues",
+      "content_hash": "8e721f3a05c9fe8f6d8777db76e936fd31015b93064f23d1c67a3983a06f3fe1",
+      "title": "Sacred Devnimori Relics Exposition at Gangaramaya Temple Continues",
+      "sent_at": "2026-02-07T04:41:09Z"
     }
   ]
 }
