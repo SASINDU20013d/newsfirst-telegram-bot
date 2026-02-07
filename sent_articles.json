@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/31/essential-services-gazette-extended-following-cyclone-ditwah",
-      "content_hash": "e36ea08f36ff5e40eba48735a2f09db875907bf2c7db2f1987f517bb9916d27b",
-      "title": "Essential Services Gazette Extended Following Cyclone Ditwah",
-      "sent_at": "2026-01-31T02:23:07Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/31/2026-voter-register-revision-begins",
       "content_hash": "378af644482906a527182aa8a717976ca859ce961a8218e5fd3a41d49bdf051e",
       "title": "2026 Voter Register Revision Begins",
@@ -761,6 +755,12 @@
       "content_hash": "62fcec29b8d784ae6347731c9b7323226369cd1fffdeab881555793e7e42e7b1",
       "title": "Gammadda \"Care And Dare\" To Reach Kandy And Nuwara Eliya Tomorrow",
       "sent_at": "2026-02-06T15:44:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/crime-detection-and-investigations-rise-by-5060-%e2%80%93-igp",
+      "content_hash": "4cfb622b7c836d7289f168854f44e86672a90e5076c5434e57cfc1ce8d2c435a",
+      "title": "Crime Detection and Investigations Rise by 50–60% – IGP",
+      "sent_at": "2026-02-07T02:26:14Z"
     }
   ]
 }
