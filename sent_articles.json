@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/01/31/nearly-800-drivers-arrested-for-drugged-driving-in-past-two-weeks",
-      "content_hash": "8512f814c21576a5f41d888f1df1ee93ce6a50c7fa560faf08d9b5df88c04138",
-      "title": "Nearly 800 Drivers Arrested for Drugged Driving in Past Two Weeks",
-      "sent_at": "2026-01-31T08:35:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/31/police-urge-passengers-to-report-unsafe-bus-operations-to-authorities",
-      "content_hash": "4a3dcaa9aef10574048a483c9af79b9b59652a48ee10767e184cdd62f436944c",
-      "title": "Police Urge Passengers to Report Unsafe Bus Operations to Authorities",
-      "sent_at": "2026-01-31T08:36:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/31/special-traffic-plan-in-place-for-navam-maha-perahera-at-gangaramaya-temple",
-      "content_hash": "43ad501ae801f0aeb87d9eaaa56d074833647b86f4d3670ca85c4c520419b1b9",
-      "title": "Special Traffic Plan in Place for Navam Maha Perahera at Gangaramaya Temple",
-      "sent_at": "2026-01-31T08:36:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/01/31/suspect-arrested-with-foreign-manufactured-firearm-in-uswetakeiyawa",
-      "content_hash": "a2c0835ac08e891ccdc5cad4f2db6aedc6e7a80de72a3fe1d0f845bf22879d24",
-      "title": "Suspect Arrested with Foreign-Manufactured Firearm in Uswetakeiyawa",
-      "sent_at": "2026-01-31T08:36:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/01/31/registration-of-new-political-parties-begins",
       "content_hash": "729f6261359cac2e497b00ff51a1796e3334a0ba6c413ae34f89102b7eb03c34",
       "title": "Registration of New Political Parties Begins",
@@ -779,6 +755,12 @@
       "content_hash": "78eaffe8422d162cfd903322575e9173a7a8d695af25df1abccb1e96ffe4f1da",
       "title": "Three Rocket Launchers Recovered in Aralaganwila",
       "sent_at": "2026-02-07T06:50:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/07/parliament-to-debate-bill-abolishing-mps%e2%80%99-pensions-on-feb-17",
+      "content_hash": "1547982fcd89ecd8d4caf2bf683c08ab201927786c24b3783d0895c164ac9192",
+      "title": "Parliament to Debate Bill Abolishing MPs’ Pensions on Feb 17",
+      "sent_at": "2026-02-07T08:38:00Z"
     }
   ]
 }
