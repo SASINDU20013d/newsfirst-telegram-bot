@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/01/police-open-fire-on-reckless-tipper-truck-in-kilinochchi",
-      "content_hash": "9868f3deb6bfcbe0a98492275540dc8c2c126700b7ff81cc686f92aec951685e",
-      "title": "Police Open Fire On Reckless Tipper Truck In Kilinochchi",
-      "sent_at": "2026-02-01T07:41:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/01/traffic-restored-on-colombokandy-road-after-accident",
-      "content_hash": "bd4fd2f1c1eb091006e5c9da96c3752d65b509e52c2c23ab9ecda80fef8d2422",
-      "title": "Traffic Restored On Colombo–Kandy Road After Accident",
-      "sent_at": "2026-02-01T07:41:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/01/india-allocates-3-billion-indian-rupees-in-financial-aid-to-sri-lanka-in-latest-budget",
-      "content_hash": "bcdedb03d2479d31ef64257b219ab9a06e0c398f9682a537a935968b4a56999a",
-      "title": "India Allocates 3 Billion Indian Rupees in Financial Aid to Sri Lanka in Latest Budget",
-      "sent_at": "2026-02-01T08:38:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/01/gazette-issued-on-new-regulations-for-female-night-shift-employees",
       "content_hash": "421a72ff9c83da63893724a8a7a9c8bff897332c899708ba23a1b941cad526a2",
       "title": "Gazette Issued on New Regulations for Female Night-Shift Employees",
@@ -761,6 +743,12 @@
       "content_hash": "4650baf4d11a5f1d276092d256e0c0d29ccc6a4a1b2535495badd7602036d07b",
       "title": "French-Manufactured Revolver Discovered in Thalahena",
       "sent_at": "2026-02-08T07:40:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/police-hand-over-investigation-on-rocket-launchers-to-cid",
+      "content_hash": "4ebd0c6bacd4838a8ea7e9b4b449517b0578691b0b6ba96fe0c76280dfdf63a9",
+      "title": "Police Hand Over Investigation on Rocket Launchers to CID",
+      "sent_at": "2026-02-08T08:38:39Z"
     }
   ]
 }
