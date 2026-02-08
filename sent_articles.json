@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/01/alexander-volkanovski-defended-his-featherweight-title-against-diego-lopes-at-ufc-325",
-      "content_hash": "0f98b43029ec4be190b451ef4b825496d0a2f423f3e23053f933809741dbfff9",
-      "title": "Alexander Volkanovski defended his Featherweight Title against Diego Lopes at UFC 325",
-      "sent_at": "2026-02-01T07:03:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/01/bentota-police-seize-5kg-heroin-two-suspects-arrested",
-      "content_hash": "c2d60c1df39a6dfd698c43d620efaa55d577a4938d8525b511dd527fa823b660",
-      "title": "Bentota Police Seize 5kg Heroin, Two Suspects Arrested",
-      "sent_at": "2026-02-01T07:03:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/01/police-open-fire-on-reckless-tipper-truck-in-kilinochchi",
       "content_hash": "9868f3deb6bfcbe0a98492275540dc8c2c126700b7ff81cc686f92aec951685e",
       "title": "Police Open Fire On Reckless Tipper Truck In Kilinochchi",
@@ -761,6 +749,18 @@
       "content_hash": "19e50fbab5273cb4bd051a44a820bd8cb4f8adeb4d5a0486f373ab9192e0e4a6",
       "title": "Local Postal Rates Revised Starting Tomorrow",
       "sent_at": "2026-02-08T05:07:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/applications-for-medical-aid-to-president%e2%80%99s-fund-surge-by-59",
+      "content_hash": "1aa1a3c6efd3164cbb8870f48a7b871d541e6723e8573d7a5668ed5436f39cb5",
+      "title": "Applications for Medical Aid to President’s Fund Surge by 59%",
+      "sent_at": "2026-02-08T07:40:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/french-manufactured-revolver-discovered-in-thalahena",
+      "content_hash": "4650baf4d11a5f1d276092d256e0c0d29ccc6a4a1b2535495badd7602036d07b",
+      "title": "French-Manufactured Revolver Discovered in Thalahena",
+      "sent_at": "2026-02-08T07:40:51Z"
     }
   ]
 }
