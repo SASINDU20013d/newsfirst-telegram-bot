@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/01/fire-erupts-at-plastic-factory-in-kotugoda",
-      "content_hash": "0981d862df26ecb1683b04d906cf3fff298b4c3aa450f06fa12412fd325c752b",
-      "title": "Fire Erupts at Plastic Factory in Kotugoda",
-      "sent_at": "2026-02-01T05:04:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/01/14-arrested-over-abduction-of-ancient-buddha-statue-in-mawathagama",
       "content_hash": "048bfbe0df53064a738c4c9f6a93fecdd9ed2e622ea43bb5406f63551495f6a5",
       "title": "14 Arrested Over Abduction of Ancient Buddha Statue in Mawathagama",
@@ -755,6 +749,24 @@
       "content_hash": "03e1c64da59d8042f61bb21416e3431607b051afccd39a5e43e70687fb73ba43",
       "title": "Printing of Vehicle Number Plates to Resume Within Three Months",
       "sent_at": "2026-02-08T02:53:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/bailey-bridges-from-india-to-be-installed-within-a-month",
+      "content_hash": "c1f9a90e184f6b0a59553f7f223e3ba03d32cfa4aec1576803ef2061ad673af3",
+      "title": "Bailey Bridges from India to be Installed Within a Month",
+      "sent_at": "2026-02-08T05:07:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/innovation-of-the-economy-is-essential-to-achieve-prosperity-says-central-bank-governor",
+      "content_hash": "2e1a3b0d357068055fceac7e19f15f9db5ea185bb2688b60c687e7e6376e5fe2",
+      "title": "Innovation of the Economy is Essential to Achieve Prosperity, Says Central Bank Governor",
+      "sent_at": "2026-02-08T05:07:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/local-postal-rates-revised-starting-tomorrow",
+      "content_hash": "19e50fbab5273cb4bd051a44a820bd8cb4f8adeb4d5a0486f373ab9192e0e4a6",
+      "title": "Local Postal Rates Revised Starting Tomorrow",
+      "sent_at": "2026-02-08T05:07:26Z"
     }
   ]
 }
