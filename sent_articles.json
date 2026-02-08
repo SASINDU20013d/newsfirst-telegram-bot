@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/01/gazette-issued-on-new-regulations-for-female-night-shift-employees",
-      "content_hash": "421a72ff9c83da63893724a8a7a9c8bff897332c899708ba23a1b941cad526a2",
-      "title": "Gazette Issued on New Regulations for Female Night-Shift Employees",
-      "sent_at": "2026-02-01T10:31:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/01/infant-s-body-recovered-from-lake-gregory",
       "content_hash": "e03e74fe09448f3edb6446dc1197df594998160e8551af5120a8beefd4f912c9",
       "title": "Infant's Body Recovered from Lake Gregory",
@@ -755,6 +749,12 @@
       "content_hash": "b7fd467ab2a80ce55a3d72430f90444c5908f0861c58779ccbdeb7f03566db1c",
       "title": "Tragic Drowning Of Medical Student At Tangalle–Mawella",
       "sent_at": "2026-02-08T09:35:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/fire-erupts-at-shops-in-galle-traffic-disrupted-on-gallematara-road",
+      "content_hash": "c31772ed20ccc149156b8ae6168c1df34ac3c78d9e2872bb71f6a540783bd2b9",
+      "title": "Fire Erupts At Shops In Galle: Traffic Disrupted On Galle–Matara Road",
+      "sent_at": "2026-02-08T10:32:29Z"
     }
   ]
 }
