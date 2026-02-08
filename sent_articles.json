@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/01/fuel-prices-drop-sinopec-matches-ceypetco-rate-cuts-effective-immediately",
-      "content_hash": "af10b6bac9ccef47900cef7f1d224cf17aaad3a369daf6c2c0fc5dee1c7d54fc",
-      "title": "Fuel Prices Drop: Sinopec Matches Ceypetco Rate Cuts Effective Immediately",
-      "sent_at": "2026-02-01T02:47:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/01/india-boosts-sri-lanka%e2%80%99s-recovery-with-10-bailey-bridges",
-      "content_hash": "c95b00bc131eb9f58cbd6b251a6295aba02bbd2824cb2ab388ba7b9c4e57fb3f",
-      "title": "India Boosts Sri Lanka’s Recovery With 10 Bailey Bridges",
-      "sent_at": "2026-02-01T02:47:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/01/speed-limit-revisions-planned-before-end-of-march",
-      "content_hash": "baedc5fadb3a4cee16c50e50cbcdadf421e024324475020ccfb00c1f2681d54a",
-      "title": "Speed Limit Revisions Planned Before End Of March",
-      "sent_at": "2026-02-01T02:47:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/01/train-services-on-coastal-line-face-delays-due-to-signaling-upgrades",
-      "content_hash": "31769f9b6ad572135a8f19be8cb9fa9abdcfd302ae2434176d0dde10ad39e992",
-      "title": "Train Services On Coastal Line Face Delays Due To Signaling Upgrades",
-      "sent_at": "2026-02-01T02:47:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/01/fire-erupts-at-plastic-factory-in-kotugoda",
       "content_hash": "0981d862df26ecb1683b04d906cf3fff298b4c3aa450f06fa12412fd325c752b",
       "title": "Fire Erupts at Plastic Factory in Kotugoda",
@@ -755,6 +731,30 @@
       "content_hash": "88667a3e5726990b85b2b57aa6abf8fda00e8a096ca43a175cd1853409bea9d2",
       "title": "War-Time Rocket Launchers Unearthed In Valaichchenai",
       "sent_at": "2026-02-07T16:36:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/22-hour-water-cut-for-several-areas-in-kandy",
+      "content_hash": "8e41b6da53027ec6e61dd0bf8b6a76a46a2594e5db690a5ce8711f02060f3af2",
+      "title": "22-Hour Water Cut for Several Areas in Kandy",
+      "sent_at": "2026-02-08T02:53:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/gammadda-%e2%80%98care-and-dare%e2%80%99-phase-3-enters-second-day",
+      "content_hash": "5e79a005889ec6c125f1b50f6eb17e8bff976ea70c2527707a3c7c9a306a4315",
+      "title": "Gammadda ‘Care and Dare’ Phase 3 Enters Second Day",
+      "sent_at": "2026-02-08T02:53:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/more-mobile-labs-to-detect-drivers-under-the-influence-of-drugs",
+      "content_hash": "7fd471ca814d0a01dc6cc7765304d81b91a96b4f81a920411fce071d2290a3b1",
+      "title": "More Mobile Labs to Detect Drivers Under the Influence of Drugs",
+      "sent_at": "2026-02-08T02:53:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/08/printing-of-vehicle-number-plates-to-resume-within-three-months",
+      "content_hash": "03e1c64da59d8042f61bb21416e3431607b051afccd39a5e43e70687fb73ba43",
+      "title": "Printing of Vehicle Number Plates to Resume Within Three Months",
+      "sent_at": "2026-02-08T02:53:27Z"
     }
   ]
 }
