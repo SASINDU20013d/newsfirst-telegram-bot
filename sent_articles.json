@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/02/sri-lanka-pacer-eshan-malinga-ruled-out-of-third-t20i-against-england",
-      "content_hash": "69f96681c1137c0a403db163fd76894f7c484043bb9584ad4bbd3b0fc6de8b4d",
-      "title": "Sri Lanka Pacer Eshan Malinga Ruled Out of Third T20I Against England",
-      "sent_at": "2026-02-02T13:09:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/02/balangoda-kassapa-thero-and-nine-others-further-remanded-in-trincomalee-land-dispute",
       "content_hash": "fd17937f6b5cd9437777b99b71c4ae6c9072bc4b6e4e0c9aeefc891d1bfc9d6a",
       "title": "Balangoda Kassapa Thero and Nine Others Further Remanded in Trincomalee Land Dispute",
@@ -755,6 +749,24 @@
       "content_hash": "701855e97006a0c4eb3d36cf176a7740913c11583a1e89ca2743352e2b85ddf4",
       "title": "UN Report Reveals Shocking Toll of Cyclone Ditwah",
       "sent_at": "2026-02-09T11:50:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/adb-appoints-shannon-cowlin-as-country-director-for-sri-lanka",
+      "content_hash": "29b9333e99302f053e5f4d18cd523a2c09e65da87a513761122fd0146eec855d",
+      "title": "ADB Appoints Shannon Cowlin as Country Director for Sri Lanka",
+      "sent_at": "2026-02-09T13:19:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/italy%e2%80%99s-debut-turns-brutal-as-scotland-dominate-by-73-runs",
+      "content_hash": "caa306fd2bfec1399aa5dfdb8b0637c5a2308447b1963037f528041f505284d1",
+      "title": "Italy’s Debut Turns Brutal as Scotland Dominate by 73 Runs",
+      "sent_at": "2026-02-09T13:19:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/zimbabwe-pace-attack-destroys-oman-in-8%e2%80%91wicket-romp",
+      "content_hash": "fcdba93fcae53223d666aebd885ed7efc2bb80781ad071d60394142864cb5cea",
+      "title": "Zimbabwe Pace Attack Destroys Oman in 8‑Wicket Romp",
+      "sent_at": "2026-02-09T13:19:29Z"
     }
   ]
 }
