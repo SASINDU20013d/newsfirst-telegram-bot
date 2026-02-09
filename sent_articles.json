@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/02/bad-bunny-wins-grammy-for-album-of-the-year",
-      "content_hash": "9875d935414accea559d516535c3958c3f908b71f09c04befcb1e0dfac6d9a1d",
-      "title": "Bad Bunny Wins Grammy for Album Of The Year",
-      "sent_at": "2026-02-02T06:06:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/kendrick-lamar-overtakes-jay-z-as-most-awarded-rapper-in-grammy-history",
-      "content_hash": "374880d2eb0cf4fcd83bf0eef0269571b0910000dce0c04a3ab1ff7746b2422b",
-      "title": "Kendrick Lamar Overtakes Jay-Z as Most-Awarded Rapper in Grammy History",
-      "sent_at": "2026-02-02T06:06:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/02/icc-concerned-as-pakistan-signals-partial-boycott-of-2026-t20-world-cup",
       "content_hash": "7a538bdfa526dc19e3b5750da81ca72e782c0f81288c2a78e1271400fae33c27",
       "title": "ICC Concerned as Pakistan Signals Partial Boycott of 2026 T20 World Cup",
@@ -743,6 +731,18 @@
       "content_hash": "188df0179cfdf7a8adad38f2a86f8e012f7c0f2c8d9df11c7b23712e92437a0a",
       "title": "Postal Charges Revised From Today (09)",
       "sent_at": "2026-02-09T05:05:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/lorry-smuggling-cattle-shot-at-by-police-during-high-speed-chase",
+      "content_hash": "695e7961d7a5dc5c12a2b7c7d24ee121bdc74cdeb58ced5552217c019d728ae4",
+      "title": "Lorry Smuggling Cattle Shot At by Police During High-Speed Chase",
+      "sent_at": "2026-02-09T06:12:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/thailand-s-bhumjaithai-prepares-for-coalition-talks-after-big-election-win",
+      "content_hash": "4085e8e5e9bf62d2944226c5d8bcafaa4e3e4df1f3c9341752e39b0fd1db2cae",
+      "title": "Thailand's Bhumjaithai Prepares for Coalition Talks After Big Election Win",
+      "sent_at": "2026-02-09T06:12:56Z"
     }
   ]
 }
