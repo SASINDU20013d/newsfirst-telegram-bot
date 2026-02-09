@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/02/icc-concerned-as-pakistan-signals-partial-boycott-of-2026-t20-world-cup",
-      "content_hash": "7a538bdfa526dc19e3b5750da81ca72e782c0f81288c2a78e1271400fae33c27",
-      "title": "ICC Concerned as Pakistan Signals Partial Boycott of 2026 T20 World Cup",
-      "sent_at": "2026-02-02T07:53:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/k-pop-s-golden-wins-first-grammy-award",
-      "content_hash": "260ec4b6e9c2a691b803bebaa689e9ee19d3992544e7dc833ffedf6d76925acd",
-      "title": "K-Pop's 'Golden' Wins First Grammy Award",
-      "sent_at": "2026-02-02T07:53:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/massive-traffic-plan-activated-for-sacred-relics-exposition-at-gangaramaya-temple",
-      "content_hash": "ce093ac3fa556ca5833342c250983b237e42e72da173f41513906afa0aa5ee30",
-      "title": "Massive Traffic Plan Activated for Sacred Relics Exposition At Gangaramaya Temple",
-      "sent_at": "2026-02-02T07:53:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/monks-further-remanded-over-trinco-land-issue",
-      "content_hash": "08a0adb618cd590ecb8be84af05f9a8af520d08091609032a62f7dc51c62577f",
-      "title": "Monks Further Remanded Over Trinco Land Issue",
-      "sent_at": "2026-02-02T07:53:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/no-plans-to-remove-jaffna-security-hq",
-      "content_hash": "7ecb22c25ccc649e2df49ff851cdbd9d4b5b7ec552299f699c9ba5f3a22edf76",
-      "title": "No Plans to Remove Jaffna Security HQ",
-      "sent_at": "2026-02-02T07:53:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/special-traffic-plan-in-place-for-national-independence-day-rehearsals",
-      "content_hash": "fc6801eff91da2d769817502530f1b0e907612edd64d228549975bc665cf85be",
-      "title": "Special Traffic Plan in Place for National Independence Day Rehearsals",
-      "sent_at": "2026-02-02T07:53:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/02/chamal-s-son-shameendra-named-a-suspect-in-airbus-deal",
       "content_hash": "fc7cfbcee1b0c33ec2b72f80402f457a47e486a9ff71f7fc49d6d602c0474cdc",
       "title": "Chamal's Son Shameendra Named A Suspect in Airbus Deal",
@@ -743,6 +707,48 @@
       "content_hash": "4085e8e5e9bf62d2944226c5d8bcafaa4e3e4df1f3c9341752e39b0fd1db2cae",
       "title": "Thailand's Bhumjaithai Prepares for Coalition Talks After Big Election Win",
       "sent_at": "2026-02-09T06:12:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/balangoda-kassapa-thero-among-10-remanded-again",
+      "content_hash": "fdbe99fb1ba7bd9a0c5dabee8c7cc456997b076b65ff4ce8731b1918c39c5a79",
+      "title": "Balangoda Kassapa Thero Among 10 Remanded Again",
+      "sent_at": "2026-02-09T07:59:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/foreign-intel-led-to-discovery-of-rocket-launchers-hidden-in-sri-lanka%e2%80%99s-east",
+      "content_hash": "00b380b12f4347ec2fabe9d683ba57a676c22753ab5ce68960f57f41c1307413",
+      "title": "Foreign Intel Led to Discovery of Rocket Launchers Hidden in Sri Lanka’s East",
+      "sent_at": "2026-02-09T07:59:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/govt-to-regulate-tuk-tuks-school-vans-office-transport-services",
+      "content_hash": "0005ba0c0afaeb429f62ab367a73acd77157221ca9db68c4c8e64088c51b4d58",
+      "title": "Govt. to Regulate Tuk-Tuks, School Vans, Office Transport Services",
+      "sent_at": "2026-02-09T07:59:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/mortar-shells-unearthed-at-house-construction-site-in-kalutara",
+      "content_hash": "91939f4d2b0371deb561d929d5ead7ddc4aa3d2c2c4e6c0b0b543aec39e94758",
+      "title": "Mortar Shells Unearthed at House Construction Site in Kalutara",
+      "sent_at": "2026-02-09T07:59:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/new-medical-rules-for-driver%e2%80%99s-licences-sent-to-ag-vision-sugar-cholesterol-checks-mandatory",
+      "content_hash": "adf486f83cf54295b091de658072cde1016aec8cd2484c2caf962dfa60148d95",
+      "title": "New Medical Rules for Driver’s Licences Sent to AG | Vision, Sugar & Cholesterol Checks Mandatory",
+      "sent_at": "2026-02-09T07:59:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/sri-lanka-seeks-103-overseas-fugitives-interpol-red-notices-issued",
+      "content_hash": "fd9eaf6d8d9e0cc38dc669e8d5243234134a8b9ac904e1d7f85238e2dd735b2e",
+      "title": "Sri Lanka Seeks 103 Overseas Fugitives: Interpol Red Notices Issued",
+      "sent_at": "2026-02-09T07:59:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/yoshitha-and-daisy-back-in-court-april-24th-as-medical-report-still-pending",
+      "content_hash": "2bfbf284a211717c27bf93493c66172cb8ca191fb4417eb0410c6e7460311246",
+      "title": "Yoshitha and Daisy Back in Court April 24th as Medical Report Still Pending",
+      "sent_at": "2026-02-09T07:59:49Z"
     }
   ]
 }
