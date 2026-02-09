@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/02/10-455-child-abuse-complaints-received-in-2025",
-      "content_hash": "8f58137a88a920744e70b007dffb5561867ed46e1a879216aa62b21899475a32",
-      "title": "10,455 Child Abuse Complaints Received in 2025",
-      "sent_at": "2026-02-02T05:00:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/at-90-dalai-lama-wins-his-first-grammy",
-      "content_hash": "f80dd2065e1f27e73512427c7951b15cda1ce5d36ebe586185ee6efb48aca40a",
-      "title": "At 90, Dalai Lama Wins His First Grammy",
-      "sent_at": "2026-02-02T05:00:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/protesting-development-officers-to-meet-president-tomorrow-03",
-      "content_hash": "e7964a257694a5b6cfadde36dfb1a269c9262b6599974865556e5b4c7f387316",
-      "title": "Protesting Development Officers to Meet President Tomorrow (03)",
-      "sent_at": "2026-02-02T05:00:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/02/bad-bunny-wins-grammy-for-album-of-the-year",
       "content_hash": "9875d935414accea559d516535c3958c3f908b71f09c04befcb1e0dfac6d9a1d",
       "title": "Bad Bunny Wins Grammy for Album Of The Year",
@@ -749,6 +731,18 @@
       "content_hash": "f8a86ce48fee068ac2fa6e3d22cc1af6441321e4791c77f651a35cb551bce476",
       "title": "Three Rocket Launchers Discovered In Valachchenai Handed To CID",
       "sent_at": "2026-02-08T15:30:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/japan-s-iron-lady-takaichi-forges-historic-election-win",
+      "content_hash": "a423daed3d6012d4c74dbf1e701a446ac4117f7ee6ae5978f91e4a330bbc661e",
+      "title": "Japan's 'Iron Lady' Takaichi Forges Historic Election Win",
+      "sent_at": "2026-02-09T05:05:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/postal-charges-revised-from-today-09",
+      "content_hash": "188df0179cfdf7a8adad38f2a86f8e012f7c0f2c8d9df11c7b23712e92437a0a",
+      "title": "Postal Charges Revised From Today (09)",
+      "sent_at": "2026-02-09T05:05:05Z"
     }
   ]
 }
