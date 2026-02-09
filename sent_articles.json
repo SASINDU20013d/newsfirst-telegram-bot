@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/02/chamal-s-son-shameendra-named-a-suspect-in-airbus-deal",
-      "content_hash": "fc7cfbcee1b0c33ec2b72f80402f457a47e486a9ff71f7fc49d6d602c0474cdc",
-      "title": "Chamal's Son Shameendra Named A Suspect in Airbus Deal",
-      "sent_at": "2026-02-02T10:51:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/court-orders-analysis-of-rs-3-billion-drug-haul",
-      "content_hash": "1ae465ae3d3323783658a11d73386e009b20ad57b1ac0827b59d5aefa718f48e",
-      "title": "Court Orders Analysis of Rs. 3 Billion Drug Haul",
-      "sent_at": "2026-02-02T10:51:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/gmoa-intensify-union-action",
-      "content_hash": "d3f2d9a94f1edf23552e5b1647ee026f9ba9a58d15415b1369a29cc874bf33c1",
-      "title": "GMOA Intensify Union Action",
-      "sent_at": "2026-02-02T10:51:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/trump-threatens-to-%e2%80%9csue%e2%80%9d-trevor-noah-after-grammys-epstein-joke",
-      "content_hash": "fbe65abb7ce12ad65113f899ff18bb2f31ff5d48af81840cfda028c3e501791e",
-      "title": "Trump Threatens to “Sue” Trevor Noah After Grammys Epstein Joke",
-      "sent_at": "2026-02-02T10:51:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/02/sri-lanka-court-orders-arrest-of-ex-speaker%e2%80%99s-son-over-airbus-scandal",
-      "content_hash": "99e7076d8f666e12e55eddb7772a4e0e8595d3624d129ef0287b2176351bfc2c",
-      "title": "Sri Lanka Court Orders Arrest of Ex-Speaker’s Son Over Airbus Scandal",
-      "sent_at": "2026-02-02T11:38:59Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/02/sri-lanka-pacer-eshan-malinga-ruled-out-of-third-t20i-against-england",
       "content_hash": "69f96681c1137c0a403db163fd76894f7c484043bb9584ad4bbd3b0fc6de8b4d",
       "title": "Sri Lanka Pacer Eshan Malinga Ruled Out of Third T20I Against England",
@@ -755,6 +725,36 @@
       "content_hash": "90995502458ab59348dd605c30cbb7d6b7a36364785d60affe435e3f0f603dd6",
       "title": "New Medical Rules for Driver’s Licence Sent to AG | Vision, Sugar & Cholesterol Checks Mandatory",
       "sent_at": "2026-02-09T10:07:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/court-ends-case-against-media-journalist",
+      "content_hash": "cb580848ea82d8d238bbdb7b059a1eab6877b75e8acbbc721a019ac6b9366aa4",
+      "title": "Court Ends Case Against Media Journalist",
+      "sent_at": "2026-02-09T11:50:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/myanmar-donates-500-metric-tons-of-rice-for-sri-lanka%e2%80%99s-cyclone-ditwah-relief",
+      "content_hash": "f43373c99074eef71ccaa848d7b483fe3e3952299ac2de3a7aefa747d921d275",
+      "title": "Myanmar Donates 500 Metric Tons of Rice for Sri Lanka’s Cyclone Ditwah Relief",
+      "sent_at": "2026-02-09T11:50:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/protection-of-occupants-bill-sent-back-for-revisions",
+      "content_hash": "cc9d0f297540332d292e95c28af34aacde9e5e406c760f50e303990e76728ea5",
+      "title": "'Protection of Occupants Bill' Sent Back for Revisions",
+      "sent_at": "2026-02-09T11:50:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/supreme-court-to-rehear-fr-petitions-against-e-visa",
+      "content_hash": "b3307663bf0e08fd2dc585e2b37239699c1ef53ae31234bf44750f251d987cb4",
+      "title": "Supreme Court to Rehear FR Petitions Against e-Visa",
+      "sent_at": "2026-02-09T11:50:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/09/un-report-reveals-shocking-toll-of-cyclone-ditwah",
+      "content_hash": "701855e97006a0c4eb3d36cf176a7740913c11583a1e89ca2743352e2b85ddf4",
+      "title": "UN Report Reveals Shocking Toll of Cyclone Ditwah",
+      "sent_at": "2026-02-09T11:50:28Z"
     }
   ]
 }
