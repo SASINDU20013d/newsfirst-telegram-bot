@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/03/samudika-jayaratne-approved-as-new-auditor-general",
-      "content_hash": "c3ec65f5818f820f8d23506e73930c82f2b000ad7b7a28d8e8725b5c0b4b2d6c",
-      "title": "Samudika Jayaratne Approved as New Auditor General",
-      "sent_at": "2026-02-03T10:46:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/03/ca-blocks-magistrate%e2%80%99s-order-against-sirisena",
       "content_hash": "f7dfc2fa6d40b6767afb32b9a4419330bca8b28157ed4d9f9ea1c9c614607435",
       "title": "CA Blocks Magistrate’s Order Against Sirisena",
@@ -803,6 +797,12 @@
       "content_hash": "f81753ad03b0d369c46b46296d5cd4d7491452757c1fdc623ba2c420b1eb1c2d",
       "title": "Sri Lanka Jumps 14 Places in Global Corruption Perceptions Index",
       "sent_at": "2026-02-10T09:01:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/three-days-of-intense-diplomacy-led-to-breakthrough-in-2026-t20-world-cup",
+      "content_hash": "c39aa35044567c0eed88b0947caa54741734e0b690b41f76fa72efa749e16c4e",
+      "title": "Three Days of Intense Diplomacy Led to Breakthrough in 2026 T20 World Cup",
+      "sent_at": "2026-02-10T11:06:46Z"
     }
   ]
 }
