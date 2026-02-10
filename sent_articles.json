@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/03/all-arrangements-for-78th-independence-day-celebrations-finalized-says-minister-of-administration",
-      "content_hash": "83e6bb97810c31f7613d84e38d019e6987eb149a24bbccfbd0ab3631ffb8c27d",
-      "title": "All Arrangements for 78th Independence Day Celebrations Finalized, Says Minister of Administration",
-      "sent_at": "2026-02-03T04:50:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/gmoa-trade-union-action-intensifies-doctors-withdraw-from-specialist-cover-duties",
-      "content_hash": "a4c367c3f2179217283713f5d00587bc3fcbc1c9db696a0e0c552a92d0ff52f2",
-      "title": "GMOA Trade Union Action Intensifies: Doctors Withdraw from Specialist Cover Duties",
-      "sent_at": "2026-02-03T04:50:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/holy-devnimori-relics-of-lord-buddha-to-be-exhibited-in-colombo-from-tomorrow",
-      "content_hash": "e36add7600d03ca4267eb65179c3e42cec91a8bd7db77c4799173eea5cb848f1",
-      "title": "Holy Devnimori Relics of Lord Buddha to Be Exhibited in Colombo From Tomorrow",
-      "sent_at": "2026-02-03T04:50:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/03/drug-bust-in-wellawatte-close-associate-of-large-scale-drug-trafficker-tharanga-arrested",
       "content_hash": "4375c1eb4e1cb52cd5c4e849fe154617e14e56f97f8fd399e3250dd1b9c79ed4",
       "title": "Drug Bust in Wellawatte: Close Associate of Large Scale Drug Trafficker 'Tharanga' Arrested",
@@ -827,6 +809,12 @@
       "content_hash": "bf9e9825670f41f0d688429b947d3f626e3b81b12d023ed165a60382b6cec03c",
       "title": "Police Launch Probe Into Alleged Attack on Sri Lankan Fishermen in International Waters",
       "sent_at": "2026-02-10T02:47:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/ugc-expands-university-entry-for-students-with-disabilities",
+      "content_hash": "3bc31fee9f0badc316aae03d6c0a80fd3828e627b42d00411e87541625658b67",
+      "title": "UGC Expands University Entry for Students With Disabilities",
+      "sent_at": "2026-02-10T05:07:59Z"
     }
   ]
 }
