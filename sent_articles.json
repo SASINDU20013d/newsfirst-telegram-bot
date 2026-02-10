@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/03/drug-bust-in-wellawatte-close-associate-of-large-scale-drug-trafficker-tharanga-arrested",
-      "content_hash": "4375c1eb4e1cb52cd5c4e849fe154617e14e56f97f8fd399e3250dd1b9c79ed4",
-      "title": "Drug Bust in Wellawatte: Close Associate of Large Scale Drug Trafficker 'Tharanga' Arrested",
-      "sent_at": "2026-02-03T07:45:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/namal-appears-before-cid-over-alleged-links-to-kehelbeddara-padme",
-      "content_hash": "aabb4edbf3140bd792e304896d432d145db43bec44fd3d62640381478205ab87",
-      "title": "Namal Appears Before CID Over Alleged Links to Kehelbeddara Padme",
-      "sent_at": "2026-02-03T07:45:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/relative-of-keheliya-rambukwella-arrested",
-      "content_hash": "367c43cce8323d4fcf36ad9d6f20513caaa726d3b9803029a2f79e15a725a6b5",
-      "title": "Relative of Keheliya Rambukwella Arrested",
-      "sent_at": "2026-02-03T07:45:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/shiranthi-rajapaksa-appears-before-fcid-over-financial-irregularities-and-criminal-links",
-      "content_hash": "596ce37f0589600368647d109d790666879ee35fb792b857b643993ce30a4ebb",
-      "title": "Shiranthi Rajapaksa Appears Before FCID Over Financial Irregularities and Criminal Links",
-      "sent_at": "2026-02-03T07:45:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/49-inmates-get-a-fresh-start-this-independence-day",
-      "content_hash": "11695021a967917c7dfdb21d7f1ae8f9951ebc26328885b20a4ec0e6873fd690",
-      "title": "49 Inmates Get a Fresh Start This Independence Day!",
-      "sent_at": "2026-02-03T08:43:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/actor-hemal-ranasinghe-bailed-over-alleged-assault",
-      "content_hash": "b55d12bbdf7dbaeb20cc0741e319754d9996ee5134030b40b29a09646d2f6e74",
-      "title": "Actor Hemal Ranasinghe Bailed Over Alleged Assault",
-      "sent_at": "2026-02-03T08:43:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/appeal-court-throws-out-petitions-seeking-release-of-monks",
-      "content_hash": "236208950d6fc566a507056fc4cb785d66aa9e5b25e0ace1bf95349111bfd192",
-      "title": "Appeal Court Throws Out Petitions Seeking Release of Monks",
-      "sent_at": "2026-02-03T08:43:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/decision-on-auditor-general-expected-at-today-s-cc",
-      "content_hash": "4f3ec26ec43a87a6775c13150b151901607bbe94ba33d5f61cf23815d04dbf6b",
-      "title": "Decision On Auditor General Expected At Today's CC",
-      "sent_at": "2026-02-03T08:43:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/03/16-000-saplings-to-be-planted-nationwide-for-independence-day",
       "content_hash": "78e4880c0911e970a7eb603785f5264b083f9abace5ab3455e791c741b5f412a",
       "title": "16,000 Saplings to Be Planted Nationwide for Independence Day",
@@ -839,6 +791,24 @@
       "content_hash": "efb4f25172252f81a58f91df1b70c98d988920287ca812bdac0096ff83dca867",
       "title": "Two Brothers of Crime Boss Palani Niroshan Held for 90 Days",
       "sent_at": "2026-02-10T07:11:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/poland-involved-in-attempted-assassination-of-russian-general",
+      "content_hash": "b211da55eb10f5ee01ce8f8a00c44aeb143068c23895558c36e5c1bbb942e656",
+      "title": "Poland Involved In Attempted Assassination of Russian General?",
+      "sent_at": "2026-02-10T09:01:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/shovel-assault-video-sparks-police-probe-suspects-identified",
+      "content_hash": "088a0b55108f483e4d4cd411fdf3c959fb62f92e7c942e28827593180b67d600",
+      "title": "Shovel Assault Video Sparks Police Probe - Suspects Identified",
+      "sent_at": "2026-02-10T09:01:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/sri-lanka-jumps-14-places-in-global-corruption-perceptions-index",
+      "content_hash": "f81753ad03b0d369c46b46296d5cd4d7491452757c1fdc623ba2c420b1eb1c2d",
+      "title": "Sri Lanka Jumps 14 Places in Global Corruption Perceptions Index",
+      "sent_at": "2026-02-10T09:01:17Z"
     }
   ]
 }
