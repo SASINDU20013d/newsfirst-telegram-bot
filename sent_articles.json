@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/03/ca-blocks-magistrate%e2%80%99s-order-against-sirisena",
-      "content_hash": "f7dfc2fa6d40b6767afb32b9a4419330bca8b28157ed4d9f9ea1c9c614607435",
-      "title": "CA Blocks Magistrate’s Order Against Sirisena",
-      "sent_at": "2026-02-03T14:49:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/public-veneration-of-india%e2%80%99s-sacred-sarvaj%c3%b1a-relics-at-gangarama-temple-starts-the-day-after-tomorrow",
-      "content_hash": "05c008d1cd543d5a36d29eb162ee14397df008a7869b93e053b011e8836af4ab",
-      "title": "Public Veneration of India’s Sacred Sarvajña Relics at Gangarama Temple Starts the Day After Tomorrow",
-      "sent_at": "2026-02-03T14:49:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/satyagraha-called-off-president-to-review-teacher-service-recruitment-for-development-officers",
-      "content_hash": "c38656b730dd90ebb078174315eabbabf271ac943178f080c20f89a48a7ca5be",
-      "title": "Satyagraha Called Off: President to Review Teacher Service Recruitment for Development Officers",
-      "sent_at": "2026-02-03T14:50:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/shiranthi-and-namal-leave-fcid-and-cid-after-questioning",
-      "content_hash": "4c7e4eb5c05d3c9632136ef8966a6cabe2fee3e71b75630069e663082da1d574",
-      "title": "Shiranthi and Namal Leave FCID and CID After Questioning",
-      "sent_at": "2026-02-03T14:50:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/04/president-calls-for-unity-and-growth-built-on-integrity-to-realize-%e2%80%98a-thriving-nation%e2%80%99-and-true-freedom",
       "content_hash": "28e0de33d91e24aa3733d610b1bdb80a59af6530cc1c8e45080b860643c71fc9",
       "title": "President Calls for Unity and Growth Built on Integrity to Realize ‘A Thriving Nation’ and True Freedom",
@@ -821,6 +797,24 @@
       "content_hash": "bb1d00d6ff7cbd2489e093a1f28581dba8a7837f577257e6c9bc4b548626b0c1",
       "title": "Sri Lanka Guarantees 'Maximum Security' For India-Pakistan Clash",
       "sent_at": "2026-02-10T13:23:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/prove-harm-or-lift-ban-purse-seine-protesters-set-ultimatum-to-end-satyagraha",
+      "content_hash": "88a80d9af9a580685a3f9886d68afc616c7648b34dbc58c8060e7e79191a677f",
+      "title": "Prove Harm or Lift Ban: Purse-Seine Protesters Set Ultimatum to End Satyagraha",
+      "sent_at": "2026-02-10T15:06:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/sri-lanka-to-re-register-all-sims-issued-before-2019",
+      "content_hash": "da709c72a5e33750bd65c27d577ab0f58d76afc0fc46fbbdfd5e20456b409608",
+      "title": "Sri Lanka to re-register ALL SIMs issued before 2019",
+      "sent_at": "2026-02-10T15:06:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/water-board-additional-gm-nabbed-for-corruption",
+      "content_hash": "6996100b85e41fea387251b5358ed1f67eaaa15eb61c653cfeeaa218d48784b1",
+      "title": "Water Board Additional GM Nabbed For Corruption",
+      "sent_at": "2026-02-10T15:06:15Z"
     }
   ]
 }
