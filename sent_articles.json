@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/03/constitutional-council-to-decide-on-new-auditor-general-today",
-      "content_hash": "adf3f44a8d8625004cbf97091496f38abc11972e01dbc902ef4e832ac3a85332",
-      "title": "Constitutional Council to Decide on New Auditor General Today",
-      "sent_at": "2026-02-03T02:33:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/03/namal-and-shiranthi-rajapaksa-summoned-to-cid-and-fcid-over-financial-irregularities-and-criminal-links",
-      "content_hash": "04df3d1a0a1c074dd91861f3f95a904f9638535ea22cb297764748d6dfda4d4b",
-      "title": "Namal and Shiranthi Rajapaksa Summoned to CID and FCID Over Financial Irregularities and Criminal Links",
-      "sent_at": "2026-02-03T02:33:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/03/all-arrangements-for-78th-independence-day-celebrations-finalized-says-minister-of-administration",
       "content_hash": "83e6bb97810c31f7613d84e38d019e6987eb149a24bbccfbd0ab3631ffb8c27d",
       "title": "All Arrangements for 78th Independence Day Celebrations Finalized, Says Minister of Administration",
@@ -791,6 +779,54 @@
       "content_hash": "4c4984863259743d36629b0c9c0861fe6e96f600dc447cdc6626689810c7aac7",
       "title": "Sri Lanka President Urges Pakistan PM for Pak-India T20 Thriller in Colombo",
       "sent_at": "2026-02-09T19:22:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/17-year-old-dies-after-police-shooting-at-fleeing-van-in-kayts",
+      "content_hash": "ccf7d02e91444b8f945f84f5f4dbea3a9b848eb115888103ffafadf3759c0fce",
+      "title": "17-Year-Old Dies After Police Shooting at Fleeing Van in Kayts",
+      "sent_at": "2026-02-10T02:46:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/akds-diplomacy-saves-the-day-indiapakistan-t20-clash-in-colombo-back-on",
+      "content_hash": "bfbe103fa26a233946e6ca6bb41ee88f16b0b8cdd0f8959f35ad7131ec4ff81b",
+      "title": "AKDs Diplomacy Saves the Day: India–Pakistan T20 Clash in Colombo Back On",
+      "sent_at": "2026-02-10T02:46:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/diplomacy-saves-the-day-indiapakistan-t20-clash-in-colombo-back-on",
+      "content_hash": "b1f0fd7a476fcad4100ebd595eb51c81e0bc55803051fdb1517b22f1a341870f",
+      "title": "Diplomacy Saves the Day: India–Pakistan T20 Clash in Colombo Back On",
+      "sent_at": "2026-02-10T02:46:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/exams-dept-imposes-ban-on-o-l-tuition-classes-from-midnight-tomorrow",
+      "content_hash": "09522fea9e423fa163a6d22b10a6a853b9c1cc54ff0342f3b99285e0286c018c",
+      "title": "Exams Dept. Imposes Ban on O/L Tuition Classes, from Midnight Tomorrow",
+      "sent_at": "2026-02-10T02:46:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/health-ministry-warns-of-dengue-surge-due-to-southwest-monsoon",
+      "content_hash": "bb6ea8e42b0b8153bac60780edbf03e3a51c36f9b8a9ba10ef63dbe7f4b873f3",
+      "title": "Health Ministry Warns of Dengue Surge due to Southwest Monsoon",
+      "sent_at": "2026-02-10T02:46:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/icc-confirms-no-penalty-for-bangladesh-over-t20-world-cup-absence",
+      "content_hash": "81ce4f71ef1ac86eadda8d6f9c9d67c1ffd562624a0d1ab08c05c293987f36a2",
+      "title": "ICC Confirms No Penalty for Bangladesh Over T20 World Cup Absence",
+      "sent_at": "2026-02-10T02:46:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/pakistan-government-tells-team-play-match-against-india",
+      "content_hash": "63282d18ae0a4c37e1e991ecc29f1ab7a263eed579b6ca005d2e2d2a9e024509",
+      "title": "Pakistan Government Tells Team Play Match Against India",
+      "sent_at": "2026-02-10T02:47:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/10/police-launch-probe-into-alleged-attack-on-sri-lankan-fishermen-in-international-waters",
+      "content_hash": "bf9e9825670f41f0d688429b947d3f626e3b81b12d023ed165a60382b6cec03c",
+      "title": "Police Launch Probe Into Alleged Attack on Sri Lankan Fishermen in International Waters",
+      "sent_at": "2026-02-10T02:47:02Z"
     }
   ]
 }
