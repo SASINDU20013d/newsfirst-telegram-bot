@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/04/president-calls-for-unity-and-growth-built-on-integrity-to-realize-%e2%80%98a-thriving-nation%e2%80%99-and-true-freedom",
-      "content_hash": "28e0de33d91e24aa3733d610b1bdb80a59af6530cc1c8e45080b860643c71fc9",
-      "title": "President Calls for Unity and Growth Built on Integrity to Realize ‘A Thriving Nation’ and True Freedom",
-      "sent_at": "2026-02-04T02:28:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/04/sri-lanka-celebrates-78th-independence-day",
-      "content_hash": "cd680b6c48d73738fc1283ac80497af61d3dc28a84274e2b97a4c58bfbeae03e",
-      "title": "Sri Lanka Celebrates 78th Independence Day",
-      "sent_at": "2026-02-04T02:28:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/04/special-traffic-plan-in-place-for-78th-national-independence-day-in-colombo",
       "content_hash": "57242fdce110c19fe915dc603d6a1a6335e0d01c167c554fb08064e6fae35345",
       "title": "Special Traffic Plan In Place for 78th National Independence Day in Colombo",
@@ -815,6 +803,30 @@
       "content_hash": "6996100b85e41fea387251b5358ed1f67eaaa15eb61c653cfeeaa218d48784b1",
       "title": "Water Board Additional GM Nabbed For Corruption",
       "sent_at": "2026-02-10T15:06:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/a-nation-united-national-operation-to-eradicate-drug-menace-launches-in-central-province",
+      "content_hash": "b5aac0075e176ce993d4f2a05c34aadaac86010dcb778e5f209b63bcad794cff",
+      "title": "'A Nation United' National Operation to Eradicate Drug Menace Launches in Central Province",
+      "sent_at": "2026-02-11T02:44:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/exposition-of-devni-mori-sacred-relics-concludes",
+      "content_hash": "ee74e856fdba9a9d3956d0099a592ee1b5e8866b2f382d54fca1053ae854cb43",
+      "title": "Exposition of Devni Mori Sacred Relics Concludes",
+      "sent_at": "2026-02-11T02:44:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/scholarships-program-launched-for-top-a-l-students-to-study-at-world-renowned-foreign-universities",
+      "content_hash": "c753f11df7b0125f489108ece0582a27d70640e3071a220275c3c4cb2e5e3452",
+      "title": "Scholarships Program Launched for Top A/L Students to Study at World-Renowned Foreign Universities",
+      "sent_at": "2026-02-11T02:44:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/three-arrested-over-procurement-fraud-at-land-development-corporation",
+      "content_hash": "3870a7640cf58b8a97b4c29d42212d4c6a240eed0eb72d4ba8f3c284d81f4de8",
+      "title": "Three Arrested Over Procurement Fraud at Land Development Corporation",
+      "sent_at": "2026-02-11T02:44:22Z"
     }
   ]
 }
