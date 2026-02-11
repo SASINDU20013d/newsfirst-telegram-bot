@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/04/australia-extends-wishes-for-78th-national-independence-day",
-      "content_hash": "c4cb8c34fd30984ad970d7543d57a9125ca91aff8c38716e96882d5a9ddcd61d",
-      "title": "Australia Extends Wishes for 78th National Independence Day",
-      "sent_at": "2026-02-04T07:47:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/04/sri-lanka-marks-78th-independence-day-with-grandeur",
-      "content_hash": "c67611d6ef815814f782d3e367c0429a0972fe0ae31d94be43d8b4c1fb6e9e35",
-      "title": "Sri Lanka Marks 78th Independence Day with Grandeur",
-      "sent_at": "2026-02-04T08:50:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/04/holy-devnimori-relics-arrive-in-colombo-ahead-of-24-hour-public-exposition",
       "content_hash": "6aad32e099d0a750d56ac5f043e3c7e4214697c117476522e7d0358af4d3b1ce",
       "title": "Holy Devnimori Relics Arrive in Colombo Ahead of 24-Hour Public Exposition",
@@ -821,6 +809,36 @@
       "content_hash": "1f7e7e6b39c7bc9d525889e8a61f3d7d1c4899bb8b4e53faa7686a0935967a06",
       "title": "Teen Killed in Alappiddy Shooting Tested Positive for Ice and Heroin",
       "sent_at": "2026-02-11T07:07:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/16-guilty-12-given-death-penalty-in-mp-athukorala-murder-trial-23-others-acquitted",
+      "content_hash": "05b00c90b88be7e1d4ca65e5ee17a01ae5da04b0cc797b56f2172187b19d25da",
+      "title": "16 Guilty, 12 Given Death Penalty in MP Athukorala Murder Trial | 23 others Acquitted",
+      "sent_at": "2026-02-11T08:55:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/a-true-friend-holds-an-umbrella-in-the-rain-chinese-envoy",
+      "content_hash": "764bdba15da0d893ea734769f622633254eb82ea05257ec26c37e373f013b443",
+      "title": "'A True Friend Holds an Umbrella in the Rain' - Chinese Envoy",
+      "sent_at": "2026-02-11T08:55:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/death-sentences-for-12-in-killing-of-former-mp-amarakeerthi-athukorala",
+      "content_hash": "20ef1a31f34d16c6650deab9388423dd66f144f7f5642e54eb8eb82f0afa6c1e",
+      "title": "Death Sentences for 12 in Killing of Former MP Amarakeerthi Athukorala",
+      "sent_at": "2026-02-11T08:55:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/o-l-tuition-classes-and-seminars-prohibited-from-midnight-today",
+      "content_hash": "f311e0d314b0c46ee347c473eff4b12c2865160235c54db783c17f41d47d4d83",
+      "title": "O/L Tuition Classes and Seminars Prohibited from Midnight Today",
+      "sent_at": "2026-02-11T08:55:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/sri-lanka-calls-china-a-%e2%80%98trusted-friend%e2%80%99-at-chinese-new-year-celebration-in-colombo",
+      "content_hash": "251667ae0ff01f002a4b1e7d3625be1ffd4b5ac918f2bf2aca87d8bc009f707e",
+      "title": "Sri Lanka Calls China a ‘Trusted Friend’ at Chinese New Year Celebration in Colombo",
+      "sent_at": "2026-02-11T08:55:28Z"
     }
   ]
 }
