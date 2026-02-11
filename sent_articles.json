@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/04/over-9-000-sri-lanka-army-personnel-promoted-for-78th-independence-day",
-      "content_hash": "bad8099a4d145ef2276893af89612af2368df2a4442fa77f7982ca1f31823e8b",
-      "title": "Over 9,000 Sri Lanka Army Personnel Promoted for 78th Independence Day",
-      "sent_at": "2026-02-04T10:43:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/04/minister-vijitha-herath-extends-warm-greetings-on-78th-independence-day",
       "content_hash": "a2ceb00cde7d860567b05f505b9f52ff43cb36c76c48411f669e0272b933c056",
       "title": "Minister Vijitha Herath Extends Warm Greetings on 78th Independence Day",
@@ -833,6 +827,18 @@
       "content_hash": "b96cca8b820a6e3e01545673c5975ad403d65fcc97e45b2e243f3d3c0d162088",
       "title": "Gunman, Accomplices Arrested Over Attempted Killing of SJB Candidate in Kalutara",
       "sent_at": "2026-02-11T09:58:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/sri-lanka-ready-to-punch-above-its-weight-says-turkiye-envoy",
+      "content_hash": "385f6a6b905365817484392a62165ebfa2ae959f0d619116f1e9b764bbe409bf",
+      "title": "Sri Lanka Ready to 'Punch Above Its Weight,' says Turkiye Envoy",
+      "sent_at": "2026-02-11T10:55:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/we-fought-for-freedom-of-all-sl-envoy-to-rsa",
+      "content_hash": "5399a2b5302179114e087a91b242bd4581ee90ea7cf2467517a02f44df17f709",
+      "title": "'We Fought for Freedom of All' - SL Envoy To RSA",
+      "sent_at": "2026-02-11T10:55:23Z"
     }
   ]
 }
