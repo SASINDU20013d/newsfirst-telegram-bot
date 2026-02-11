@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/04/rs-10-000-reward-for-police-officers-arresting-drugged-drivers",
-      "content_hash": "d74c248ab43b3aa35b27b3d310b7f28615f99e5ceff62695360b43b91b13b942",
-      "title": "Rs. 10,000 Reward for Police Officers Arresting Drugged Drivers",
-      "sent_at": "2026-02-04T14:43:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/04/teaching-service-competitive-examinations-for-graduates-gazetted",
-      "content_hash": "86ec1392544c1b9f44996e7f0c28e85f3daeda6f8a0ae0915d4d173f4392beca",
-      "title": "Teaching Service Competitive Examinations for Graduates Gazetted",
-      "sent_at": "2026-02-04T14:43:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/05/55-000-vehicles-imported-in-january-rs-3-5b-revenue-from-vehicle-registrations-in-just-one-month",
       "content_hash": "34b1971ad0256814cc9935ff131b7a52cac0fb2e473a9d77f2350ffc8bb3de2c",
       "title": "55,000 Vehicles Imported In January & Rs. 3.5B Revenue From Vehicle Registrations In Just One Month",
@@ -839,6 +827,30 @@
       "content_hash": "b06decfbe4fa6d7a276659082a3bc0f403e86ac95ede6d25018a07a4d75c8552",
       "title": "Sri Lanka Becoming Premier Destination for High-End Talent",
       "sent_at": "2026-02-11T13:20:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/court-releases-balangoda-kassapa-thera-others-on-bail-in-coastal-land-dispute-case",
+      "content_hash": "807b58dd4d69c6e8148758e4bca491a68463de3fb85faf3fcc87779120b4e50c",
+      "title": "Court Releases Balangoda Kassapa Thera, Others on Bail in Coastal Land Dispute Case",
+      "sent_at": "2026-02-11T14:58:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/court-summons-north-central-governor-over-alleged-illegal-principal-appointments",
+      "content_hash": "37de7a4162f947ecc9ac1f2a28c207a4bd13b5b62c9a5559ee2e9a00953071ed",
+      "title": "Court Summons North Central Governor Over Alleged Illegal Principal Appointments",
+      "sent_at": "2026-02-11T14:58:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/palestinian-foreign-minister-to-visit-sri-lanka-as-envoy-hails-colombo%e2%80%99s-unwavering-support",
+      "content_hash": "498db06704121506fc14ad176a22973f71b30e537d1f96b2881cf3efd400f97e",
+      "title": "Palestinian Foreign Minister to Visit Sri Lanka as Envoy Hails Colombo’s Unwavering Support",
+      "sent_at": "2026-02-11T14:58:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/ranil-s-uk-trip-scandal-university-yet-to-respond",
+      "content_hash": "4bfdbd60c4f5a70996ea8b5a2445782dbf277ad9f41dd5f435b984df676130b2",
+      "title": "Ranil's UK Trip Scandal: University Yet to Respond",
+      "sent_at": "2026-02-11T14:58:27Z"
     }
   ]
 }
