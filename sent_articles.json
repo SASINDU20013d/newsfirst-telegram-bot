@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/04/special-traffic-plan-in-place-for-78th-national-independence-day-in-colombo",
-      "content_hash": "57242fdce110c19fe915dc603d6a1a6335e0d01c167c554fb08064e6fae35345",
-      "title": "Special Traffic Plan In Place for 78th National Independence Day in Colombo",
-      "sent_at": "2026-02-04T04:43:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/04/us-extends-wishes-for-78th-national-independence-day",
-      "content_hash": "1da8a69c251401b52adc7caa3273310c72714ab66e53dac202cb1ce281273619",
-      "title": "US Extends Wishes for 78th National Independence Day",
-      "sent_at": "2026-02-04T04:44:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/04/president-dissanayake-vows-to-build-a-united-nation",
       "content_hash": "6d810097da8c2cd41cd7f15a834c91eb243f5584ea6118df242bac4394c2f294",
       "title": "President Dissanayake Vows to Build A United Nation",
@@ -827,6 +815,12 @@
       "content_hash": "3870a7640cf58b8a97b4c29d42212d4c6a240eed0eb72d4ba8f3c284d81f4de8",
       "title": "Three Arrested Over Procurement Fraud at Land Development Corporation",
       "sent_at": "2026-02-11T02:44:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/over-8-million-users-on-election-commission-s-digital-portal",
+      "content_hash": "83891e059c43295bb30238e9f905df3039880da561217805290f8a988cc35bc9",
+      "title": "Over 8 Million Users on Election Commission's Digital Portal",
+      "sent_at": "2026-02-11T05:06:33Z"
     }
   ]
 }
