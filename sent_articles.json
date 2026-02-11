@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/04/holy-devnimori-relics-arrive-in-colombo-ahead-of-24-hour-public-exposition",
-      "content_hash": "6aad32e099d0a750d56ac5f043e3c7e4214697c117476522e7d0358af4d3b1ce",
-      "title": "Holy Devnimori Relics Arrive in Colombo Ahead of 24-Hour Public Exposition",
-      "sent_at": "2026-02-04T09:51:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/04/sri-lanka-navy-fires-25-gun-salute-to-mark-78th-independence-day",
-      "content_hash": "063723766c0018b265ee53d7233a2ae51c7b3cc246c682b59caf6bf31a57c8ce",
-      "title": "Sri Lanka Navy Fires 25-Gun Salute to Mark 78th Independence Day",
-      "sent_at": "2026-02-04T09:51:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/04/over-9-000-sri-lanka-army-personnel-promoted-for-78th-independence-day",
       "content_hash": "bad8099a4d145ef2276893af89612af2368df2a4442fa77f7982ca1f31823e8b",
       "title": "Over 9,000 Sri Lanka Army Personnel Promoted for 78th Independence Day",
@@ -839,6 +827,12 @@
       "content_hash": "251667ae0ff01f002a4b1e7d3625be1ffd4b5ac918f2bf2aca87d8bc009f707e",
       "title": "Sri Lanka Calls China a ‘Trusted Friend’ at Chinese New Year Celebration in Colombo",
       "sent_at": "2026-02-11T08:55:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/gunman-accomplices-arrested-over-attempted-killing-of-sjb-candidate-in-kalutara",
+      "content_hash": "b96cca8b820a6e3e01545673c5975ad403d65fcc97e45b2e243f3d3c0d162088",
+      "title": "Gunman, Accomplices Arrested Over Attempted Killing of SJB Candidate in Kalutara",
+      "sent_at": "2026-02-11T09:58:16Z"
     }
   ]
 }
