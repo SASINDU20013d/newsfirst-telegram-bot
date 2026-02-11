@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/04/president-dissanayake-vows-to-build-a-united-nation",
-      "content_hash": "6d810097da8c2cd41cd7f15a834c91eb243f5584ea6118df242bac4394c2f294",
-      "title": "President Dissanayake Vows to Build A United Nation",
-      "sent_at": "2026-02-04T05:52:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/04/king-charles-iii-extends-congratulations-to-sri-lanka-on-78th-independence-day",
-      "content_hash": "f484deb697ed1b0b1ef4dc4b475059c0f8df32d592bc8a6744cf2e9b15d68d48",
-      "title": "King Charles III Extends Congratulations to Sri Lanka on 78th Independence Day",
-      "sent_at": "2026-02-04T06:59:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/04/sacred-buddha-relics-from-devni-mori-departs-for-exposition-in-sri-lanka",
-      "content_hash": "1d54414b1e57c38b8b43ab17de7ec9c184d82740791eec2ad101570079fa6ef0",
-      "title": "Sacred Buddha Relics from Devni Mori, Departs for Exposition in Sri Lanka",
-      "sent_at": "2026-02-04T06:59:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/04/australia-extends-wishes-for-78th-national-independence-day",
       "content_hash": "c4cb8c34fd30984ad970d7543d57a9125ca91aff8c38716e96882d5a9ddcd61d",
       "title": "Australia Extends Wishes for 78th National Independence Day",
@@ -821,6 +803,24 @@
       "content_hash": "83891e059c43295bb30238e9f905df3039880da561217805290f8a988cc35bc9",
       "title": "Over 8 Million Users on Election Commission's Digital Portal",
       "sent_at": "2026-02-11T05:06:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/cope-launches-deep-probe-into-five-years-of-coal-imports",
+      "content_hash": "8cd8007c92531592e43026df89b287903399e179ec446fc9bc14b1574f88415e",
+      "title": "COPE Launches Deep Probe Into Five Years of Coal Imports",
+      "sent_at": "2026-02-11T07:07:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/special-inquiry-into-ambuluwawa-cable-car-project",
+      "content_hash": "c449fb094404f7312f7af903cf30f7b2b70c465554d0f11896b7b06544dba46d",
+      "title": "Special Inquiry Into Ambuluwawa Cable Car Project",
+      "sent_at": "2026-02-11T07:07:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/11/teen-killed-in-alappiddy-shooting-tested-positive-for-ice-and-heroin",
+      "content_hash": "1f7e7e6b39c7bc9d525889e8a61f3d7d1c4899bb8b4e53faa7686a0935967a06",
+      "title": "Teen Killed in Alappiddy Shooting Tested Positive for Ice and Heroin",
+      "sent_at": "2026-02-11T07:07:29Z"
     }
   ]
 }
