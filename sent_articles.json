@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/05/two-fishers-attacked-on-international-waters-hospitalised-in-colombo",
-      "content_hash": "fa8112c0b4c03bfe1e995af8ad5a8e361d211b6aab4d80af376ae9e073e90c0d",
-      "title": "Two Fishers Attacked on International Waters Hospitalised in Colombo",
-      "sent_at": "2026-02-05T11:38:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/05/sri-lankan-arrested-at-bia-with-kush-from-malaysia",
       "content_hash": "5f7a2faf9ef4c393c382e54a8a644940c6e58d24ed8863f23c40051585383b64",
       "title": "Sri Lankan Arrested at BIA with Kush from Malaysia",
@@ -887,6 +881,24 @@
       "content_hash": "d12d8846fb6c3c1020b56bd97e9dab69af993508155d899d9b0e8605f13b4d74",
       "title": "SC Issues Notice On Sirisena, Ranil in Case Challenging Gender‑Change Procedures",
       "sent_at": "2026-02-12T10:53:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/fraudsters-sending-bogus-emails-claiming-to-be-from-cid",
+      "content_hash": "cf7ea5b841111049e6e32b86b6978b4377d2f8ecd88f92ddfd8bed6a48eb6296",
+      "title": "Fraudsters Sending Bogus Emails Claiming to Be from CID",
+      "sent_at": "2026-02-12T11:42:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/indiapakistan-t20-world-cup-match-sends-prices-soaring",
+      "content_hash": "8c544b82a972eb5f21369ec9eb685c9e51f8e5966d008fadc49d716b16b301cd",
+      "title": "India–Pakistan T20 World Cup Match Sends Prices Soaring",
+      "sent_at": "2026-02-12T11:42:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/supreme-court-ends-hearing-on-fr-petitions-against-deshabandu",
+      "content_hash": "10623df1c1632d91b5078138b5d05e59db4d78991c4e609e2b48b9ada3ebcf14",
+      "title": "Supreme Court Ends Hearing on FR Petitions Against Deshabandu",
+      "sent_at": "2026-02-12T11:43:04Z"
     }
   ]
 }
