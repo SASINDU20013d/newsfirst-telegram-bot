@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/05/sri-lankan-arrested-at-bia-with-kush-from-malaysia",
-      "content_hash": "5f7a2faf9ef4c393c382e54a8a644940c6e58d24ed8863f23c40051585383b64",
-      "title": "Sri Lankan Arrested at BIA with Kush from Malaysia",
-      "sent_at": "2026-02-05T13:12:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/05/cid-tracks-how-lawyer-bought-rs-25m-vehicle",
       "content_hash": "dc14373d5ea0122db0410380952776c3b017e513845dcf4a0d8cc6abeb9116f2",
       "title": "CID Tracks How Lawyer Bought Rs. 25M Vehicle",
@@ -899,6 +893,30 @@
       "content_hash": "10623df1c1632d91b5078138b5d05e59db4d78991c4e609e2b48b9ada3ebcf14",
       "title": "Supreme Court Ends Hearing on FR Petitions Against Deshabandu",
       "sent_at": "2026-02-12T11:43:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/evidence-heard-against-patali-next-hearing-on-may-5",
+      "content_hash": "bc5df434f3afe4c0775125e540e9aaf9812c0fc3fbd80baeefa392e1441a1807",
+      "title": "Evidence Heard Against Patali; Next Hearing on May 5",
+      "sent_at": "2026-02-12T13:18:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/johnston-brought-from-remand-for-sathosa-misuse-case",
+      "content_hash": "a4684c71b0f120139f38978c210359896ac2a307c941e6ce911fd3d25bf24602",
+      "title": "Johnston Brought from Remand For Sathosa Misuse Case",
+      "sent_at": "2026-02-12T13:18:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/mosca-brothers-destroy-nepal-as-italy-win-by-10-wickets-in-world-cup-stunner",
+      "content_hash": "75e4dec308b914cac1c5f35171c8b1bf7787fbe5d4cc25e2992a13d25f916b34",
+      "title": "Mosca Brothers Destroy Nepal as Italy Win by 10 Wickets in World Cup Stunner",
+      "sent_at": "2026-02-12T13:18:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/three-students-injured-as-wall-collapses-near-borella-school",
+      "content_hash": "43806e02c6d64b1abf7b60ce939293f06db36ddb2a68ed20f7a320490f7f77bb",
+      "title": "Three Students Injured as Wall Collapses Near Borella School",
+      "sent_at": "2026-02-12T13:18:47Z"
     }
   ]
 }
