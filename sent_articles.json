@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/05/samudika-jayaratne-assumes-duties-as-sri-lanka%e2%80%99s-first-female-auditor-general",
-      "content_hash": "68466660d9bdcfbf6865985c0764a1285be425aaf26755f410605ce3508f3016",
-      "title": "Samudika Jayaratne Assumes Duties as Sri Lanka’s First Female Auditor General",
-      "sent_at": "2026-02-05T07:04:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/05/sri-lanka-opens-dual-exams-to-fill-teacher-vacancies",
-      "content_hash": "181d1e32bc3c4d6b36aaeea6b250b9082ec991ef3763fb5a808596ed2ea9be31",
-      "title": "Sri Lanka Opens Dual Exams to Fill Teacher Vacancies",
-      "sent_at": "2026-02-05T07:05:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/05/carrom-board-case-order-not-ready-new-date-set-for-march-25",
-      "content_hash": "698623a55e946fc5d0981c13afad58fe44e068ae06aad6a9d9f03ef9f811145b",
-      "title": "Carrom Board Case: Order Not Ready, New Date Set for March 25",
-      "sent_at": "2026-02-05T07:54:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/05/sri-lanka-to-toughen-laws-on-drug-using-drivers-and-conductors",
-      "content_hash": "a74a4ce2f5ba4b88ed07e7494f5c6140becd513ae807f0d870dc09fc2ec1d7b4",
-      "title": "Sri Lanka to Toughen Laws on Drug-Using Drivers and Conductors",
-      "sent_at": "2026-02-05T07:54:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/05/five-suspects-including-wife-and-son-of-makandure-madush-arrested",
       "content_hash": "bd755453c2775fe5df0f20767bcebb38de669c7a7a8e100146ce4b9fbc9100f7",
       "title": "Five Suspects, Including Wife and Son of \"Makandure Madush,\" Arrested",
@@ -857,6 +833,42 @@
       "content_hash": "10ad1a0188ffb7730bfc167b21699ed0a111a41cae545483995aa1c2587c63fd",
       "title": "Navy Boosts State Revenue With USD 598K From Maritime Security",
       "sent_at": "2026-02-12T06:08:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/iran-calls-for-a-new-era-of-iransri-lanka-cooperation",
+      "content_hash": "328ae10b1b416d3310d63788e2c92a5d0c55bf7ec120405a56c6021e8fc37afd",
+      "title": "Iran Calls for a New Era of Iran–Sri Lanka Cooperation",
+      "sent_at": "2026-02-12T07:55:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/ironman-70-3-returns-to-colombo-after-six-years-over-1-000-athletes-set-to-compete",
+      "content_hash": "3738c8c8362a7f79b6f0921dc656e391f5951c0949967ed8e267c1b6d201ab7d",
+      "title": "Ironman 70.3 Returns to Colombo After Six Years, Over 1,000 Athletes Set to Compete",
+      "sent_at": "2026-02-12T07:55:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/paying-locally-in-foreign-currency-is-illegal-up-to-rs-25m-fine-or-3-years-jail",
+      "content_hash": "df47ec50df31424d602f5ce867909eff47d06a008bd9a091792589eebaa366db",
+      "title": "Paying Locally in Foreign Currency Is Illegal | Up to Rs. 25M Fine or 3 Years Jail",
+      "sent_at": "2026-02-12T07:55:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/sri-lanka-praises-iran-for-powering-uma-oya-and-standing-by-sri-lanka",
+      "content_hash": "56528ca6582bb3f174a3ef63bbf251ec6512967fa09f5f387e5382946bad9d86",
+      "title": "Sri Lanka Praises Iran for Powering Uma Oya and Standing by Sri Lanka",
+      "sent_at": "2026-02-12T07:55:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/sri-lanka-records-276-deaths-in-just-263-crashes-in-early-2026",
+      "content_hash": "03d8db9f82f9e9a01b0363322432c6cdb8d00ee52c13abe6815b37dca017f237",
+      "title": "Sri Lanka Records 276 Deaths in Just 263 Crashes in Early 2026",
+      "sent_at": "2026-02-12T07:55:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/sri-lanka-records-alarming-spike-in-drowning-deaths",
+      "content_hash": "a20946630ab7e29cee0ce60e51e85b932a8e588d4136e80224ed7635fb2bd76c",
+      "title": "Sri Lanka Records Alarming Spike in Drowning Deaths",
+      "sent_at": "2026-02-12T07:55:26Z"
     }
   ]
 }
