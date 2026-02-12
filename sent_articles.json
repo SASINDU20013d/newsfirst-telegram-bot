@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/05/five-suspects-including-wife-and-son-of-makandure-madush-arrested",
-      "content_hash": "bd755453c2775fe5df0f20767bcebb38de669c7a7a8e100146ce4b9fbc9100f7",
-      "title": "Five Suspects, Including Wife and Son of \"Makandure Madush,\" Arrested",
-      "sent_at": "2026-02-05T10:46:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/05/is-sri-lanka-in-the-epstein-files-yes-but-no-criminal-links",
-      "content_hash": "3df7cad476f2a1cf602cb0b4b7427087eed1bfe22604ec09d710b64f5cabca8d",
-      "title": "Is Sri Lanka in the Epstein Files? Yes, But No Criminal Links",
-      "sent_at": "2026-02-05T10:46:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/05/two-fishers-attacked-on-international-waters-hospitalised-in-colombo",
       "content_hash": "fa8112c0b4c03bfe1e995af8ad5a8e361d211b6aab4d80af376ae9e073e90c0d",
       "title": "Two Fishers Attacked on International Waters Hospitalised in Colombo",
@@ -887,6 +875,18 @@
       "content_hash": "bfb303ca2897d34df145dc64140d586d0442fc0a71cf57d3c750c0deef27adcf",
       "title": "Sri Lanka Crush Oman by 105 Runs in T20 World Cup Masterclass",
       "sent_at": "2026-02-12T09:56:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/cctv-undercover-cops-deployed-for-india-vs-pakistan-t20-world-cup-game-in-colombo",
+      "content_hash": "9fe3b574a578f50ccf7d321d1addd9c17624d7f2e80059dbb2016a76870772fb",
+      "title": "CCTV, Undercover Cops Deployed for India vs Pakistan T20 World Cup Game in Colombo",
+      "sent_at": "2026-02-12T10:53:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/sc-issues-notice-on-sirisena-ranil-in-case-challenging-gender%e2%80%91change-procedures",
+      "content_hash": "d12d8846fb6c3c1020b56bd97e9dab69af993508155d899d9b0e8605f13b4d74",
+      "title": "SC Issues Notice On Sirisena, Ranil in Case Challenging Gender‑Change Procedures",
+      "sent_at": "2026-02-12T10:53:18Z"
     }
   ]
 }
