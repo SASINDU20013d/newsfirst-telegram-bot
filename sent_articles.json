@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/05/55-000-vehicles-imported-in-january-rs-3-5b-revenue-from-vehicle-registrations-in-just-one-month",
-      "content_hash": "34b1971ad0256814cc9935ff131b7a52cac0fb2e473a9d77f2350ffc8bb3de2c",
-      "title": "55,000 Vehicles Imported In January & Rs. 3.5B Revenue From Vehicle Registrations In Just One Month",
-      "sent_at": "2026-02-05T04:51:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/05/arrangements-for-special-transport-services-for-devotees-attending-sacred-relic-exposition",
-      "content_hash": "2780c748703285af96053e334df664a313ea142a168eaf6e865f6c2165ed20af",
-      "title": "Arrangements for Special Transport Services for Devotees Attending Sacred Relic Exposition",
-      "sent_at": "2026-02-05T04:51:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/05/businessmen-caught-with-rs-12-8m-in-illegal-cigarettes",
-      "content_hash": "02287bbb530a976fb9c8776d17b0cf90cd01626182808618d771705e6fde2864",
-      "title": "Businessmen Caught with Rs. 12.8M in Illegal Cigarettes",
-      "sent_at": "2026-02-05T04:51:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/05/sacred-relics-from-devnimori-open-for-public-veneration",
-      "content_hash": "752ebaaa884c603ff126b4590fd11713260cc2df1f0db5164b86be6fab7dbec1",
-      "title": "Sacred Relics from Devnimori Open for Public Veneration",
-      "sent_at": "2026-02-05T04:51:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/05/samudika-jayaratne-to-assume-duties-as-sri-lanka%e2%80%99s-first-female-auditor-general",
-      "content_hash": "34730e26af5954cfcaf565c20eae0833317011e51fbba44eceb158c824b44302",
-      "title": "Samudika Jayaratne to Assume Duties as Sri Lanka’s First Female Auditor General",
-      "sent_at": "2026-02-05T04:51:35Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/05/7%e2%80%91year%e2%80%91old-dies-after-concrete-collapse-in-mutuwal",
       "content_hash": "d16a8bdc3713e304f478f4c006469974793a6923d329cb1e8ed18fdafc116341",
       "title": "7‑Year‑Old Dies After Concrete Collapse in Mutuwal",
@@ -869,6 +839,30 @@
       "content_hash": "8da33f94545a70189761820cc18adca6db0dfe20626a904bb43559bddbdbb40a",
       "title": "Sectoral Oversight Committee Grants Approval for Bill to Abolish MP Pensions",
       "sent_at": "2026-02-12T02:39:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/beware-fraudsters-use-srilankan-airlines-branding-in-new-online-scam",
+      "content_hash": "f6c07b67d2df05d86828746e3d2ceaedba9b85877daf97203b4aec787c9be322",
+      "title": "Beware! Fraudsters Use SriLankan Airlines Branding in New Online Scam",
+      "sent_at": "2026-02-12T05:01:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/pm-meets-european-external-action-service-delegation",
+      "content_hash": "7513590deffc5cea4b5756d82a6ba5c9a97c8556c3fdd75e50cb9624c1e4b322",
+      "title": "PM Meets European External Action Service Delegation",
+      "sent_at": "2026-02-12T05:01:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/sltb-employees-to-face-suspension-for-drug-use",
+      "content_hash": "bcb9afdf67089418e0541226f2c9f5bc44e793d0e9fcad2e8e9882828cd15f68",
+      "title": "SLTB Employees to Face Suspension for Drug Use",
+      "sent_at": "2026-02-12T05:01:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/12/sri-lanka-installs-thermal-cameras-on-trains-to-stop-elephant-deaths",
+      "content_hash": "f2fe47396b6d919c800739c20086fb165e8c842a49fa642076e88ebe3f0028e1",
+      "title": "Sri Lanka Installs Thermal Cameras on Trains to Stop Elephant Deaths",
+      "sent_at": "2026-02-12T05:01:37Z"
     }
   ]
 }
