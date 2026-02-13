@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/06/built-for-eternity-cnn-hails-jetavanaramaya-as-a-1-700%e2%80%91year%e2%80%91old-engineering-marvel",
-      "content_hash": "a31fcbdbacd0ca3a611a229192eb42bd8b2a9a1293464a52417e1a891148f3d0",
-      "title": "'Built For Eternity' - CNN Hails Jetavanaramaya as a 1,700‑Year‑Old Engineering Marvel",
-      "sent_at": "2026-02-06T05:56:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/06/judgments-here-will-shape-the-nation-pm-amarasuriya-at-supreme-court-reopening",
       "content_hash": "8f05208d8bd3479e78c2e3d7b16cfc87994101e0e45485859e86773e280de242",
       "title": "'Judgments Here Will Shape the Nation': PM Amarasuriya at Supreme Court Reopening",
@@ -905,6 +899,18 @@
       "content_hash": "52d84819281916201561c4c9e251ca5c54fc083ab179c1e6440ed5df1e1ae3a7",
       "title": "UGC to Expand Student Housing Across Seven Campuses",
       "sent_at": "2026-02-13T04:56:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/13/former-sathosa-deputy-gm-arrested-over-massive-garlic-deal-scam",
+      "content_hash": "ba7404635bbf686e4e98ab639b4fda6244d24c85d3a502e7a9143b5394e104d8",
+      "title": "Former Sathosa Deputy GM Arrested Over Massive Garlic Deal Scam",
+      "sent_at": "2026-02-13T06:02:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/13/high-ranking-transport-official-arrested-by-ciaboc",
+      "content_hash": "8658233c3c4f3827ede5619a2b881543924d24676301a01fcc150376f16e572c",
+      "title": "High-Ranking Transport Official Arrested By CIABOC",
+      "sent_at": "2026-02-13T06:02:20Z"
     }
   ]
 }
