@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/06/judgments-here-will-shape-the-nation-pm-amarasuriya-at-supreme-court-reopening",
-      "content_hash": "8f05208d8bd3479e78c2e3d7b16cfc87994101e0e45485859e86773e280de242",
-      "title": "'Judgments Here Will Shape the Nation': PM Amarasuriya at Supreme Court Reopening",
-      "sent_at": "2026-02-06T07:00:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/06/ugc-directed-to-admit-student-after-unlawful-rejection-by-ministry",
-      "content_hash": "8d160a221ec77c6fe3f60eb0d2842a684a6ee9dc4149218883af4a7e6f14baff",
-      "title": "UGC Directed to Admit Student After Unlawful Rejection by Ministry",
-      "sent_at": "2026-02-06T07:01:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/06/daughter-of-former-minister-keheliya-rambukwella-arrested-over-money-laundering",
       "content_hash": "555b7aaf1928f377690ee93e2427792bf09e880e1090dcc4b38ec2855a3b6700",
       "title": "Daughter of Former Minister Keheliya Rambukwella Arrested Over Money Laundering",
@@ -911,6 +899,18 @@
       "content_hash": "8658233c3c4f3827ede5619a2b881543924d24676301a01fcc150376f16e572c",
       "title": "High-Ranking Transport Official Arrested By CIABOC",
       "sent_at": "2026-02-13T06:02:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/13/boi-to-fast-track-approvals-for-1-bn-investments-applications-in-mineral-sector",
+      "content_hash": "94a619080660c0085a4d090d2696a4c5966c59b137da89058a061730e4e4e67f",
+      "title": "BOI to Fast Track Approvals for $1 Bn Investments Applications in Mineral Sector",
+      "sent_at": "2026-02-13T07:10:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/13/cope-to-launch-surprise-inspections-on-inefficient-state-institutions",
+      "content_hash": "2011ee068a1c7c17c3415cc01eabbc7b22473e44b319a96c793f4d537457d282",
+      "title": "COPE to Launch Surprise Inspections on Inefficient State Institutions",
+      "sent_at": "2026-02-13T07:10:45Z"
     }
   ]
 }
