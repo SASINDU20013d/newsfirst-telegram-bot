@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/06/former-suriyakanda-oic-constable-arrested-over-killing-a-sambar",
-      "content_hash": "b83ab4eebe0f34b877e2958383d2a0ff47e3aeae330f3e6dea48bfe13346a34c",
-      "title": "Former Suriyakanda OIC, Constable Arrested Over Killing A Sambar",
-      "sent_at": "2026-02-06T13:09:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/06/if-you%e2%80%99re-honest-you-have-nothing-to-fear-akd",
-      "content_hash": "e6d592be7b82e25afd41abd8a158b300c04a4d8c8450e23d2d7da2416bbaf9c3",
-      "title": "If You’re Honest, You Have Nothing to Fear : AKD",
-      "sent_at": "2026-02-06T13:09:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/06/court-to-deliver-interim-order-on-dayasiri%e2%80%99s-slfp-case-on-february-17",
       "content_hash": "50e0d67bfa55158dbc8c5ea28bff6f9906bb5c7870fb1925b7704eaf2fb7f58a",
       "title": "Court to Deliver Interim Order on Dayasiri’s SLFP Case on February 17",
@@ -923,6 +911,12 @@
       "content_hash": "0bc0ffdfa53e4d04e8b306417a8cd54834d15e702c0c5198593f2ca6aaabf9e0",
       "title": "Waruna Sri Dhanapala Appointed Secretary to the Ministry of Digital Economy",
       "sent_at": "2026-02-13T11:34:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/13/couple-shot-dead-inside-car-in-akuregoda",
+      "content_hash": "ddc51a1c70d274626b1627075132e7f3d1e760a3e9f92d0a4ea0bc4052830a11",
+      "title": "Couple Shot Dead Inside Car in Akuregoda",
+      "sent_at": "2026-02-13T13:10:04Z"
     }
   ]
 }
