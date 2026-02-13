@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/06/daughter-of-former-minister-keheliya-rambukwella-arrested-over-money-laundering",
-      "content_hash": "555b7aaf1928f377690ee93e2427792bf09e880e1090dcc4b38ec2855a3b6700",
-      "title": "Daughter of Former Minister Keheliya Rambukwella Arrested Over Money Laundering",
-      "sent_at": "2026-02-06T09:50:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/06/rs-1-9-bn-released-for-cyclone%e2%80%91affected-schoolchildren",
-      "content_hash": "be7d63fe82be3cd9b2d59957de712c6d4113d74f156cd9279488bdbf1b89886b",
-      "title": "Rs. 1.9 Bn Released for Cyclone‑Affected Schoolchildren",
-      "sent_at": "2026-02-06T09:50:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/06/only-un-security-council-sanctions-are-binding-uk-sanctions-don%e2%80%99t-apply-here",
       "content_hash": "0edc4990b1b6a30a438c4520a79a0fc68d74acf3e8c68ad6ccbc917697471ee7",
       "title": "Only UN Security Council Sanctions are Binding : UK Sanctions Don’t Apply Here",
@@ -917,6 +905,18 @@
       "content_hash": "def25e03868afa598c16c53f01d837b0db3e1a9d0f3e415841365ba368bd0b76",
       "title": "Former Minister Professor Tissa Witharana Passes Away",
       "sent_at": "2026-02-13T08:50:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/13/australia-shocked-as-zimbabwe-seal-23%e2%80%91run-victory-in-group-b-showdown",
+      "content_hash": "9ce51d468ebda8a519d333d31afcbb7e7ac1a99ea8dc08f0af793af5526c01e5",
+      "title": "Australia Shocked as Zimbabwe Seal 23‑Run Victory in Group B Showdown",
+      "sent_at": "2026-02-13T09:51:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/13/keheliya-family-major-illicit-assets-case-fixed-for-april-27",
+      "content_hash": "2ad8023b92f11e64c1f545d11f3a7a1eaa82475828718ff0b9176c85097d93dd",
+      "title": "Keheliya Family Major Illicit Assets Case Fixed for April 27",
+      "sent_at": "2026-02-13T09:52:21Z"
     }
   ]
 }
