@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/07/police-seize-mobile-phones-of-organized-crime-bosses-at-boossa-prison",
-      "content_hash": "12f52424418f631c2e38aed2a08699d20cd742b35567185facc274985d9e64e5",
-      "title": "Police Seize Mobile Phones of Organized Crime Bosses at Boossa Prison",
-      "sent_at": "2026-02-07T06:50:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/07/three-rocket-launchers-recovered-in-aralaganwila",
-      "content_hash": "78eaffe8422d162cfd903322575e9173a7a8d695af25df1abccb1e96ffe4f1da",
-      "title": "Three Rocket Launchers Recovered in Aralaganwila",
-      "sent_at": "2026-02-07T06:50:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/07/parliament-to-debate-bill-abolishing-mps%e2%80%99-pensions-on-feb-17",
       "content_hash": "1547982fcd89ecd8d4caf2bf683c08ab201927786c24b3783d0895c164ac9192",
       "title": "Parliament to Debate Bill Abolishing MPs’ Pensions on Feb 17",
@@ -857,6 +845,12 @@
       "content_hash": "8f10a56f74dca06c44f2b50920d21779ce7a39a05d0d756473fcdcc970e19a3f",
       "title": "India Cricket Team Arrives in Sri Lanka for High-Stakes T20 World Cup Clash Against Pakistan",
       "sent_at": "2026-02-14T04:44:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/health-experts-warn-around-10-of-kidney-patients-in-sri-lanka-unaware-of-their-condition",
+      "content_hash": "377d81fa75416d614e9845f4e1267836bc77d9091df12b11f0c5efee7b891243",
+      "title": "Health Experts Warn Around 10% of Kidney Patients in Sri Lanka Unaware of Their Condition",
+      "sent_at": "2026-02-14T06:52:58Z"
     }
   ]
 }
