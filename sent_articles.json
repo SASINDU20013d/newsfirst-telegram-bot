@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/07/gammadda-care-dare-reaches-nuwara-eliya-supporting-communities-hit-by-cyclone-ditwah",
-      "content_hash": "86777b93cce35155cff0029ef154b54934f617969f7ac91288d2c010cc815189",
-      "title": "Gammadda Care & Dare reaches Nuwara Eliya, supporting communities hit by Cyclone Ditwah",
-      "sent_at": "2026-02-07T13:47:28Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/07/war-time-rocket-launchers-unearthed-in-valaichchenai",
       "content_hash": "88667a3e5726990b85b2b57aa6abf8fda00e8a096ca43a175cd1853409bea9d2",
       "title": "War-Time Rocket Launchers Unearthed In Valaichchenai",
@@ -851,6 +845,18 @@
       "content_hash": "4cd237caa6b596720efcfa2b0e35e8587e6bc5b6b4f74fdf8e218f1fbe88f99b",
       "title": "Police seek Public Help to Trace Suspects in Thalangama Double Murder",
       "sent_at": "2026-02-14T12:58:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/a-f-jones-exporters-ceylon-pvt-ltd-wins-silver-award-at-33rd-nc-export-awards",
+      "content_hash": "609e156474498d2a39266921c6c4e5d3678ebd75dff7de62a01186bf6a50eaf0",
+      "title": "A.F. Jones Exporters Ceylon (Pvt) Ltd Wins Silver Award at 33rd NC Export Awards",
+      "sent_at": "2026-02-14T13:48:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/t20-world-cup-showdown-india-takes-on-pakistan-tomorrow",
+      "content_hash": "de42afbc368447e2ef29db9fbe50b859ef9c8351060e71cdcfdeb0df06f2966c",
+      "title": "T20 World Cup Showdown: India Takes ON Pakistan Tomorrow",
+      "sent_at": "2026-02-14T13:48:51Z"
     }
   ]
 }
