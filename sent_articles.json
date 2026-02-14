@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/07/gammadda-%e2%80%98care-and-dare%e2%80%99-phase-three-brings-relief-to-nuwara-eliya-and-kandy-districts",
-      "content_hash": "7aa85bca382b00035929c47e060f88f992aa06ee9263544ac35e1a204b07164c",
-      "title": "Gammadda ‘Care and Dare’ Phase Three Brings Relief to Nuwara Eliya and Kandy Districts",
-      "sent_at": "2026-02-07T04:41:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/07/government-to-modernize-25-technical-colleges",
-      "content_hash": "a845782385230b7e29c9578dbe4e00df0005e9d576d35094321c02a471c78020",
-      "title": "Government to Modernize 25 Technical Colleges",
-      "sent_at": "2026-02-07T04:41:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/07/no-decision-on-litro-gas-price-revision-laugfs-gas-prices-increased",
-      "content_hash": "e41e0955afecdb8e3c39d7941d5fb3cb3cf5cfdd32f457d1151fe24137c435a2",
-      "title": "No Decision on Litro Gas Price Revision: Laugfs Gas Prices Increased",
-      "sent_at": "2026-02-07T04:41:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/07/police-seize-2-404-firearms-in-2025-arrest-44-shooters",
-      "content_hash": "46b1048fb9c0f3bfe6c7c9f9f61fa7f5b31bc413347bebb049634e850dcda257",
-      "title": "Police Seize 2,404 Firearms in 2025, Arrest 44 Shooters",
-      "sent_at": "2026-02-07T04:41:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/07/sacred-devnimori-relics-exposition-at-gangaramaya-temple-continues",
-      "content_hash": "8e721f3a05c9fe8f6d8777db76e936fd31015b93064f23d1c67a3983a06f3fe1",
-      "title": "Sacred Devnimori Relics Exposition at Gangaramaya Temple Continues",
-      "sent_at": "2026-02-07T04:41:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/07/police-seize-mobile-phones-of-organized-crime-bosses-at-boossa-prison",
       "content_hash": "12f52424418f631c2e38aed2a08699d20cd742b35567185facc274985d9e64e5",
       "title": "Police Seize Mobile Phones of Organized Crime Bosses at Boossa Prison",
@@ -863,6 +833,30 @@
       "content_hash": "9bd7da4025b7c687ceed45436c05470fb1c605e43f69b97164c2b56cdcae5448",
       "title": "IMF Managing Director Kristalina Georgieva To Visit Sri Lanka Next Week",
       "sent_at": "2026-02-14T02:27:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/attorney-and-wife-gunned-down-in-akuregoda-10-police-teams-deployed-on-igp%e2%80%99s-orders",
+      "content_hash": "298a9916732f9e7ebf7d69e74df0dc3ebf7eb3ae5a365da84d19e569b9b19cf8",
+      "title": "Attorney and Wife Gunned Down in Akuregoda; 10 Police Teams Deployed on IGP’s Orders",
+      "sent_at": "2026-02-14T04:44:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/health-ministry-reports-rising-dengue-risk-in-schools",
+      "content_hash": "280e1decb499903b7173fd307226dc6687734fe542c2c945b3b042951a4d6a54",
+      "title": "Health Ministry Reports Rising Dengue Risk in Schools",
+      "sent_at": "2026-02-14T04:44:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/id-offices-open-today-for-gce-o-l-students-to-obtain-identity-confirmation-letters",
+      "content_hash": "08a2ed9a264da495375f76bb303a9905072bb2cd47c8c7b446d6a852f9943699",
+      "title": "ID Offices Open Today for GCE O/L Students to Obtain Identity Confirmation Letters",
+      "sent_at": "2026-02-14T04:44:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/india-cricket-team-arrives-in-sri-lanka-for-high-stakes-t20-world-cup-clash-against-pakistan",
+      "content_hash": "8f10a56f74dca06c44f2b50920d21779ce7a39a05d0d756473fcdcc970e19a3f",
+      "title": "India Cricket Team Arrives in Sri Lanka for High-Stakes T20 World Cup Clash Against Pakistan",
+      "sent_at": "2026-02-14T04:44:27Z"
     }
   ]
 }
