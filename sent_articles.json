@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/07/police-probe-fatal-cricket-bat-assault-in-ratmalana",
-      "content_hash": "bf3cb265c609af9ca2ac5ba95ace7624e4e7229c3e572db1f57d0c6f87d6af28",
-      "title": "Police Probe Fatal Cricket Bat Assault in Ratmalana",
-      "sent_at": "2026-02-07T12:58:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/07/police-seize-massive-haul-of-drugs-across-the-country",
-      "content_hash": "96e8fe383c1ca07589af8d0e01a626bc374b0b64e5d7b96242bf241a9873ac47",
-      "title": "Police Seize Massive Haul Of Drugs Across The Country",
-      "sent_at": "2026-02-07T12:58:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/07/gammadda-care-dare-reaches-nuwara-eliya-supporting-communities-hit-by-cyclone-ditwah",
       "content_hash": "86777b93cce35155cff0029ef154b54934f617969f7ac91288d2c010cc815189",
       "title": "Gammadda Care & Dare reaches Nuwara Eliya, supporting communities hit by Cyclone Ditwah",
@@ -857,6 +845,12 @@
       "content_hash": "1b1b4a30d4a8f7a737612bcdc829780e72e9904f18d864027f104bcc71d3343c",
       "title": "Navy Seizes Dinghy Suspected of Carrying Drugs off Mannar",
       "sent_at": "2026-02-14T10:31:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/police-seek-public-help-to-trace-suspects-in-thalangama-double-murder",
+      "content_hash": "4cd237caa6b596720efcfa2b0e35e8587e6bc5b6b4f74fdf8e218f1fbe88f99b",
+      "title": "Police seek Public Help to Trace Suspects in Thalangama Double Murder",
+      "sent_at": "2026-02-14T12:58:40Z"
     }
   ]
 }
