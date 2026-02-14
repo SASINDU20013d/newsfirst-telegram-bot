@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/07/crime-detection-and-investigations-rise-by-5060-%e2%80%93-igp",
-      "content_hash": "4cfb622b7c836d7289f168854f44e86672a90e5076c5434e57cfc1ce8d2c435a",
-      "title": "Crime Detection and Investigations Rise by 50–60% – IGP",
-      "sent_at": "2026-02-07T02:26:14Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/07/gammadda-%e2%80%98care-and-dare%e2%80%99-phase-three-brings-relief-to-nuwara-eliya-and-kandy-districts",
       "content_hash": "7aa85bca382b00035929c47e060f88f992aa06ee9263544ac35e1a204b07164c",
       "title": "Gammadda ‘Care and Dare’ Phase Three Brings Relief to Nuwara Eliya and Kandy Districts",
@@ -863,6 +857,12 @@
       "content_hash": "ddc51a1c70d274626b1627075132e7f3d1e760a3e9f92d0a4ea0bc4052830a11",
       "title": "Couple Shot Dead Inside Car in Akuregoda",
       "sent_at": "2026-02-13T13:10:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/14/imf-managing-director-kristalina-georgieva-to-visit-sri-lanka-next-week",
+      "content_hash": "9bd7da4025b7c687ceed45436c05470fb1c605e43f69b97164c2b56cdcae5448",
+      "title": "IMF Managing Director Kristalina Georgieva To Visit Sri Lanka Next Week",
+      "sent_at": "2026-02-14T02:27:25Z"
     }
   ]
 }
