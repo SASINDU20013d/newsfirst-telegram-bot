@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/08/fire-erupts-at-shops-in-galle-traffic-disrupted-on-gallematara-road",
-      "content_hash": "c31772ed20ccc149156b8ae6168c1df34ac3c78d9e2872bb71f6a540783bd2b9",
-      "title": "Fire Erupts At Shops In Galle: Traffic Disrupted On Galle–Matara Road",
-      "sent_at": "2026-02-08T10:32:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/08/brad-arnold-lead-singer-and-founder-of-3-doors-down-dies-at-47-after-battle-with-stage-4-kidney-cancer",
       "content_hash": "e83cff838538b4778c911e1931bb3bfa100c29afdaa6f77af621bb9b19da77d0",
       "title": "Brad Arnold, Lead Singer and Founder of 3 Doors Down, Dies at 47 After Battle With Stage 4 Kidney Cancer",
@@ -863,6 +857,18 @@
       "content_hash": "e410a2a4ae2cbcc32d90b47d9e048a2ece541ceb23f5a28c548abfbffb9b5692",
       "title": "US Warns of China's \"Predatory\" Behaviour & Reach in South Asia",
       "sent_at": "2026-02-15T08:38:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/puttalam-railway-services-to-return-to-normalcy-following-repairs",
+      "content_hash": "249951f5c5c7dd976f6bb3b67ece8c63d304028e54fd031944c26541d1808721",
+      "title": "Puttalam Railway Services To Return To Normalcy Following Repairs",
+      "sent_at": "2026-02-15T11:26:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/tight-security-in-place-ahead-of-high-profile-indiapakistan-encounter",
+      "content_hash": "a0cf4e6033bf34f6ec31fbaa42ca5b02e8a9594c01aab9cacf8ddd844c78221e",
+      "title": "Tight Security In Place Ahead Of High-Profile India–Pakistan Encounter",
+      "sent_at": "2026-02-15T11:27:01Z"
     }
   ]
 }
