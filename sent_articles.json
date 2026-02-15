@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/08/applications-for-medical-aid-to-president%e2%80%99s-fund-surge-by-59",
-      "content_hash": "1aa1a3c6efd3164cbb8870f48a7b871d541e6723e8573d7a5668ed5436f39cb5",
-      "title": "Applications for Medical Aid to President’s Fund Surge by 59%",
-      "sent_at": "2026-02-08T07:40:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/08/french-manufactured-revolver-discovered-in-thalahena",
-      "content_hash": "4650baf4d11a5f1d276092d256e0c0d29ccc6a4a1b2535495badd7602036d07b",
-      "title": "French-Manufactured Revolver Discovered in Thalahena",
-      "sent_at": "2026-02-08T07:40:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/08/police-hand-over-investigation-on-rocket-launchers-to-cid",
-      "content_hash": "4ebd0c6bacd4838a8ea7e9b4b449517b0578691b0b6ba96fe0c76280dfdf63a9",
-      "title": "Police Hand Over Investigation on Rocket Launchers to CID",
-      "sent_at": "2026-02-08T08:38:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/08/tragic-drowning-of-medical-student-at-tangallemawella",
       "content_hash": "b7fd467ab2a80ce55a3d72430f90444c5908f0861c58779ccbdeb7f03566db1c",
       "title": "Tragic Drowning Of Medical Student At Tangalle–Mawella",
@@ -863,6 +845,30 @@
       "content_hash": "e5867a86a0398aebb0d19e5e66b2b12734623b82f9af7e5c433f9cc827138837",
       "title": "Special Security and Traffic Plan in place for High-Stakes India vs. Pakistan T20 Clash",
       "sent_at": "2026-02-15T07:39:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/motorcycle-suspected-to-have-used-in-kalutara-shooting-discovered-in-bandaragama",
+      "content_hash": "f26724ea9264868bed14b1fee0563fa48cd08f575c24cc7f0a2bcd6fc0c7677b",
+      "title": "Motorcycle Suspected to Have Used in Kalutara Shooting Discovered in Bandaragama",
+      "sent_at": "2026-02-15T08:38:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/motorcycle-used-in-jinthupitiya-shooting-discovered-in-kotahena",
+      "content_hash": "fe3122c8615a1d4362f513e7fc20c504458042ee8ae2f8be2ccad96723a56ca8",
+      "title": "Motorcycle Used in Jinthupitiya Shooting Discovered in Kotahena",
+      "sent_at": "2026-02-15T08:38:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/police-intensify-investigation-into-akuregoda-double-homicide",
+      "content_hash": "1e8fc89d839c2a899b5dd5df3a56bfdd821b1dbf1b941e1c5108e6fa60f260cd",
+      "title": "Police Intensify Investigation into Akuregoda Double Homicide",
+      "sent_at": "2026-02-15T08:38:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/us-warns-of-china-s-predatory-behaviour-reach-in-south-asia",
+      "content_hash": "e410a2a4ae2cbcc32d90b47d9e048a2ece541ceb23f5a28c548abfbffb9b5692",
+      "title": "US Warns of China's \"Predatory\" Behaviour & Reach in South Asia",
+      "sent_at": "2026-02-15T08:38:52Z"
     }
   ]
 }
