@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/08/22-hour-water-cut-for-several-areas-in-kandy",
-      "content_hash": "8e41b6da53027ec6e61dd0bf8b6a76a46a2594e5db690a5ce8711f02060f3af2",
-      "title": "22-Hour Water Cut for Several Areas in Kandy",
-      "sent_at": "2026-02-08T02:53:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/08/gammadda-%e2%80%98care-and-dare%e2%80%99-phase-3-enters-second-day",
-      "content_hash": "5e79a005889ec6c125f1b50f6eb17e8bff976ea70c2527707a3c7c9a306a4315",
-      "title": "Gammadda ‘Care and Dare’ Phase 3 Enters Second Day",
-      "sent_at": "2026-02-08T02:53:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/08/more-mobile-labs-to-detect-drivers-under-the-influence-of-drugs",
-      "content_hash": "7fd471ca814d0a01dc6cc7765304d81b91a96b4f81a920411fce071d2290a3b1",
-      "title": "More Mobile Labs to Detect Drivers Under the Influence of Drugs",
-      "sent_at": "2026-02-08T02:53:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/08/printing-of-vehicle-number-plates-to-resume-within-three-months",
-      "content_hash": "03e1c64da59d8042f61bb21416e3431607b051afccd39a5e43e70687fb73ba43",
-      "title": "Printing of Vehicle Number Plates to Resume Within Three Months",
-      "sent_at": "2026-02-08T02:53:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/08/bailey-bridges-from-india-to-be-installed-within-a-month",
       "content_hash": "c1f9a90e184f6b0a59553f7f223e3ba03d32cfa4aec1576803ef2061ad673af3",
       "title": "Bailey Bridges from India to be Installed Within a Month",
@@ -881,6 +857,24 @@
       "content_hash": "38afef6e5960b877cd7399014a473c0ad5b5ed2cc406e2cbf714fc4374c9cebb",
       "title": "Significant Staff Shortage Reported in SLTB, Officials to Re-Evaluate Employee Qualifications",
       "sent_at": "2026-02-15T02:40:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/annual-reporting-on-destroyed-dangerous-drugs-mandated-by-judicial-service-commission",
+      "content_hash": "68b4f0d4cd547192910ace50a0b6aff86894e321c48c340db91e08b9c8c5cb0e",
+      "title": "Annual Reporting on Destroyed Dangerous Drugs Mandated by Judicial Service Commission",
+      "sent_at": "2026-02-15T04:57:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/gce-ordinary-level-examination-preparations-complete-says-commissioner-general",
+      "content_hash": "d1feb8f01b370dab3af38f0857d86e994635dc0b6581b49b94ea86865276b190",
+      "title": "GCE Ordinary Level Examination Preparations Complete, says Commissioner General",
+      "sent_at": "2026-02-15T04:57:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/15/suspect-arrested-in-ragama-for-the-possession-of-massive-stock-of-kerala-cannabis",
+      "content_hash": "15eeaa119755e5607c08df643f36aa587cb5d91dd8dd08825247dfd70304cff4",
+      "title": "Suspect Arrested in Ragama for the Possession of Massive Stock of Kerala Cannabis",
+      "sent_at": "2026-02-15T04:58:02Z"
     }
   ]
 }
