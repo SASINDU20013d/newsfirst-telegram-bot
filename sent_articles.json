@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/09/adb-appoints-shannon-cowlin-as-country-director-for-sri-lanka",
-      "content_hash": "29b9333e99302f053e5f4d18cd523a2c09e65da87a513761122fd0146eec855d",
-      "title": "ADB Appoints Shannon Cowlin as Country Director for Sri Lanka",
-      "sent_at": "2026-02-09T13:19:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/09/italy%e2%80%99s-debut-turns-brutal-as-scotland-dominate-by-73-runs",
-      "content_hash": "caa306fd2bfec1399aa5dfdb8b0637c5a2308447b1963037f528041f505284d1",
-      "title": "Italy’s Debut Turns Brutal as Scotland Dominate by 73 Runs",
-      "sent_at": "2026-02-09T13:19:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/09/zimbabwe-pace-attack-destroys-oman-in-8%e2%80%91wicket-romp",
-      "content_hash": "fcdba93fcae53223d666aebd885ed7efc2bb80781ad071d60394142864cb5cea",
-      "title": "Zimbabwe Pace Attack Destroys Oman in 8‑Wicket Romp",
-      "sent_at": "2026-02-09T13:19:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/09/economy-now-visibly-recovering-2026-will-be-a-positive-year",
       "content_hash": "4634a8e6eab3e25f4940625eb5f519c3aabab4a357cea36d7c5bed47eb2a828c",
       "title": "Economy Now 'Visibly Recovering' & 2026 Will Be a Positive Year",
@@ -875,6 +857,24 @@
       "content_hash": "a948f7bb23d5d1aac41a7098e7f0c2741ca0dddb8672d128a10824f6ecb0c568",
       "title": "Nationwide Court Boycott as Lawyers Demand Justice Over Akuregoda Double Murder",
       "sent_at": "2026-02-16T13:13:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/16/because-of-you-pakistan-credits-sri-lankan-president-for-saving-indopak-match",
+      "content_hash": "f74223e2c0af5f3888e3b2e6798a2f50bf78abecbd62a6769b0bbd2ae4bf264c",
+      "title": "'Because of You': Pakistan Credits Sri Lankan President for Saving Indo–Pak Match",
+      "sent_at": "2026-02-16T14:46:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/16/kristalina-georgieva-touches-down-in-sri-lanka-as-imf-assesses-post%e2%80%91cyclone-needs",
+      "content_hash": "e63ddda178a4618416ca8e5528bb453c24027bd61d115da619d2888a841134da",
+      "title": "Kristalina Georgieva Touches Down in Sri Lanka as IMF Assesses Post‑Cyclone Needs",
+      "sent_at": "2026-02-16T14:46:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/16/x-down-social-network-suffers-major-global-disruption",
+      "content_hash": "49276eda5352071533f214be98312aa4f5c576ed16013a2001ae57406c80fdf9",
+      "title": "X Down: Social Network Suffers Major Global Disruption",
+      "sent_at": "2026-02-16T14:46:57Z"
     }
   ]
 }
