@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/09/new-medical-rules-for-driver%e2%80%99s-licence-sent-to-ag-vision-sugar-cholesterol-checks-mandatory",
-      "content_hash": "90995502458ab59348dd605c30cbb7d6b7a36364785d60affe435e3f0f603dd6",
-      "title": "New Medical Rules for Driver’s Licence Sent to AG | Vision, Sugar & Cholesterol Checks Mandatory",
-      "sent_at": "2026-02-09T10:07:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/09/court-ends-case-against-media-journalist",
       "content_hash": "cb580848ea82d8d238bbdb7b059a1eab6877b75e8acbbc721a019ac6b9366aa4",
       "title": "Court Ends Case Against Media Journalist",
@@ -881,6 +875,24 @@
       "content_hash": "a563cf31a859e0d2252fa8d349288dea6a2defda56be9af7b48ad9d3dcd8870e",
       "title": "UK Deputy Prime Minister visits Sri Lanka to strengthen UK Sri Lanka partnership",
       "sent_at": "2026-02-16T09:59:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/16/final-rites-of-slain-lawyer-and-spouse-today",
+      "content_hash": "76b10b105cc75e071488e22704d308b2afaafdec25ad572597beaea3645bb9c7",
+      "title": "Final Rites of Slain Lawyer and Spouse Today",
+      "sent_at": "2026-02-16T10:54:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/16/health-minister-nalinda-jayatissa-departs-for-bangladesh-to-attend-swearing-in-ceremony",
+      "content_hash": "8f7421b3fab4053327bb7025b9a99fa07c4366e3ac23d0353edb663502595533",
+      "title": "Health Minister Nalinda Jayatissa Departs for Bangladesh to Attend Swearing-in Ceremony",
+      "sent_at": "2026-02-16T10:54:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/16/ironman%c2%ae-70-3-colombo-returns-with-port-city-colombo-as-presenting-venue-partner",
+      "content_hash": "dd5324fdfd42c4f055ad382a88be353e1130a7ffde35556b1b8433aeb905efb5",
+      "title": "IRONMAN® 70.3 Colombo Returns with Port City Colombo as Presenting & Venue Partner",
+      "sent_at": "2026-02-16T10:54:11Z"
     }
   ]
 }
