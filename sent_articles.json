@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/09/court-ends-case-against-media-journalist",
-      "content_hash": "cb580848ea82d8d238bbdb7b059a1eab6877b75e8acbbc721a019ac6b9366aa4",
-      "title": "Court Ends Case Against Media Journalist",
-      "sent_at": "2026-02-09T11:50:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/09/myanmar-donates-500-metric-tons-of-rice-for-sri-lanka%e2%80%99s-cyclone-ditwah-relief",
-      "content_hash": "f43373c99074eef71ccaa848d7b483fe3e3952299ac2de3a7aefa747d921d275",
-      "title": "Myanmar Donates 500 Metric Tons of Rice for Sri Lanka’s Cyclone Ditwah Relief",
-      "sent_at": "2026-02-09T11:50:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/09/protection-of-occupants-bill-sent-back-for-revisions",
-      "content_hash": "cc9d0f297540332d292e95c28af34aacde9e5e406c760f50e303990e76728ea5",
-      "title": "'Protection of Occupants Bill' Sent Back for Revisions",
-      "sent_at": "2026-02-09T11:50:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/09/supreme-court-to-rehear-fr-petitions-against-e-visa",
-      "content_hash": "b3307663bf0e08fd2dc585e2b37239699c1ef53ae31234bf44750f251d987cb4",
-      "title": "Supreme Court to Rehear FR Petitions Against e-Visa",
-      "sent_at": "2026-02-09T11:50:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/09/un-report-reveals-shocking-toll-of-cyclone-ditwah",
-      "content_hash": "701855e97006a0c4eb3d36cf176a7740913c11583a1e89ca2743352e2b85ddf4",
-      "title": "UN Report Reveals Shocking Toll of Cyclone Ditwah",
-      "sent_at": "2026-02-09T11:50:28Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/09/adb-appoints-shannon-cowlin-as-country-director-for-sri-lanka",
       "content_hash": "29b9333e99302f053e5f4d18cd523a2c09e65da87a513761122fd0146eec855d",
       "title": "ADB Appoints Shannon Cowlin as Country Director for Sri Lanka",
@@ -899,6 +869,12 @@
       "content_hash": "1a4be2c4d014e8e72f92220e730a5fd92a45961070871ce6d81f43eda28c94a0",
       "title": "IMF Managing Director Kristalina Georgieva In Sri Lanka For Official Visit",
       "sent_at": "2026-02-16T11:42:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/16/nationwide-court-boycott-as-lawyers-demand-justice-over-akuregoda-double-murder",
+      "content_hash": "a948f7bb23d5d1aac41a7098e7f0c2741ca0dddb8672d128a10824f6ecb0c568",
+      "title": "Nationwide Court Boycott as Lawyers Demand Justice Over Akuregoda Double Murder",
+      "sent_at": "2026-02-16T13:13:52Z"
     }
   ]
 }
