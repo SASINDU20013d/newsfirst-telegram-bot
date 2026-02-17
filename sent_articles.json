@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/10/three-days-of-intense-diplomacy-led-to-breakthrough-in-2026-t20-world-cup",
-      "content_hash": "c39aa35044567c0eed88b0947caa54741734e0b690b41f76fa72efa749e16c4e",
-      "title": "Three Days of Intense Diplomacy Led to Breakthrough in 2026 T20 World Cup",
-      "sent_at": "2026-02-10T11:06:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/10/confidential-one-hour-statement-leads-to-bail-in-high-profile-laundering-case",
       "content_hash": "e7fca788ba2f1b049b7c1aeeeb24840428cf2a03b336d87c8e2e4934d8edd85c",
       "title": "Confidential One-Hour Statement Leads to Bail in High-Profile Laundering Case",
@@ -827,6 +821,30 @@
       "content_hash": "58256bdb71f441dd930492c6fc0ab3873071603b8a40abdaac19c4bc4ddbfb2c",
       "title": "President Dissanayake Departs for India to Join Global Leaders at 4th AI Impact Summit in India",
       "sent_at": "2026-02-17T10:52:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/17/georgieva-praises-sri-lanka%e2%80%99s-relief-efforts-after-ditwah",
+      "content_hash": "dcf3a1727ed2fcc216b6ca66312a5279bb27de3d99d30673a1825802304af931",
+      "title": "Georgieva Praises Sri Lanka’s Relief Efforts After Ditwah",
+      "sent_at": "2026-02-17T11:42:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/17/sri-lanka-has-come-a-long-way-imf-s-kristalina-georgieva-meets-akd",
+      "content_hash": "2ed3040e167fb200e37c847c22b6db9a57befc5f1a709b25aa2744f04bd9ee54",
+      "title": "'Sri Lanka Has Come a Long Way': IMF's Kristalina Georgieva Meets AKD",
+      "sent_at": "2026-02-17T11:42:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/17/suspect-arrested-for-aiding-and-abetting-murder-of-kalutara-north-shop-owner",
+      "content_hash": "d536df97e14545dc6fe908aebace4f50f9c55b4d18ae1869984f62c8e61823ca",
+      "title": "Suspect Arrested for Aiding and Abetting Murder of Kalutara North Shop Owner",
+      "sent_at": "2026-02-17T11:42:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/17/two-police-officers-arrested-over-jinthupitiya-shooting",
+      "content_hash": "e5c65d6088fdeea12c197818176afc114181f0f437fbbe30cf40325e3db7f07b",
+      "title": "Two Police Officers Arrested Over Jinthupitiya Shooting",
+      "sent_at": "2026-02-17T11:42:26Z"
     }
   ]
 }
