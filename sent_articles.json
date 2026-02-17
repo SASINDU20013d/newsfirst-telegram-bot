@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/10/confidential-one-hour-statement-leads-to-bail-in-high-profile-laundering-case",
-      "content_hash": "e7fca788ba2f1b049b7c1aeeeb24840428cf2a03b336d87c8e2e4934d8edd85c",
-      "title": "Confidential One-Hour Statement Leads to Bail in High-Profile Laundering Case",
-      "sent_at": "2026-02-10T13:23:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/10/fire-breaks-out-at-factory-in-paragahadeniya",
-      "content_hash": "bba8b44796d2fd9f887b163cbfc74a43240cb311c0faeefe2068e25c6677bff4",
-      "title": "Fire Breaks Out at Factory in Paragahadeniya",
-      "sent_at": "2026-02-10T13:23:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/10/sri-lanka-guarantees-maximum-security-for-india-pakistan-clash",
-      "content_hash": "bb1d00d6ff7cbd2489e093a1f28581dba8a7837f577257e6c9bc4b548626b0c1",
-      "title": "Sri Lanka Guarantees 'Maximum Security' For India-Pakistan Clash",
-      "sent_at": "2026-02-10T13:23:55Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/10/prove-harm-or-lift-ban-purse-seine-protesters-set-ultimatum-to-end-satyagraha",
       "content_hash": "88a80d9af9a580685a3f9886d68afc616c7648b34dbc58c8060e7e79191a677f",
       "title": "Prove Harm or Lift Ban: Purse-Seine Protesters Set Ultimatum to End Satyagraha",
@@ -869,6 +851,24 @@
       "content_hash": "a77b4c21e281bc6788e503bda670e0f0684013caef8f391d15024031af117162",
       "title": "Vijayamuni Questioned Over Australian Dairy Cattle Deal",
       "sent_at": "2026-02-17T13:13:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/17/no-child-left-behind-sri-lanka-signs-on-to-global-charter-for-children%e2%80%99s-care-reform",
+      "content_hash": "cd79f1a20f0428897195637879993c878f3506b2c35590448b781b7231722b4e",
+      "title": "No Child Left Behind, Sri Lanka Signs On to Global Charter for Children’s Care Reform",
+      "sent_at": "2026-02-17T14:51:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/17/parliament-abolishes-mp-pensions-with-overwhelming-majority",
+      "content_hash": "6c3f90935339f12b5462d83eca7f370fd3aeac02506ff9634c3c74b6d9c41033",
+      "title": "Parliament Abolishes MP Pensions With Overwhelming Majority",
+      "sent_at": "2026-02-17T14:51:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/17/rail-services-at-risk-as-drivers-announce-midnight-strike",
+      "content_hash": "2b9c619ab29bc3d13e086870bb451a2fdb0d105dd5bb16d98eb3657c179d8106",
+      "title": "Rail Services at Risk as Drivers Announce Midnight Strike",
+      "sent_at": "2026-02-17T14:51:44Z"
     }
   ]
 }
