@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/11/saman-ekanayake-further-remanded-until-18th",
-      "content_hash": "973cb0c2ae24d1091fe4d29d456a8a4b0108975781f2bb50567e99c29ecf9ab3",
-      "title": "Saman Ekanayake Further Remanded Until 18th",
-      "sent_at": "2026-02-11T13:20:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/sri-lanka-becoming-premier-destination-for-high-end-talent",
-      "content_hash": "b06decfbe4fa6d7a276659082a3bc0f403e86ac95ede6d25018a07a4d75c8552",
-      "title": "Sri Lanka Becoming Premier Destination for High-End Talent",
-      "sent_at": "2026-02-11T13:20:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/11/court-releases-balangoda-kassapa-thera-others-on-bail-in-coastal-land-dispute-case",
       "content_hash": "807b58dd4d69c6e8148758e4bca491a68463de3fb85faf3fcc87779120b4e50c",
       "title": "Court Releases Balangoda Kassapa Thera, Others on Bail in Coastal Land Dispute Case",
@@ -863,6 +851,12 @@
       "content_hash": "f2260278ee1a75c9991a2c2ebd121769db2a7ce269edfcf6ee2c61c32873e05b",
       "title": "SLPP Wenappuwa PS Member Among Duo Jailed for Land Deed Forgery",
       "sent_at": "2026-02-18T13:15:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/18/former-first-lady-maithree-wickremesinghe-summoned-by-cid-over-financial-crimes-investigation",
+      "content_hash": "6eb916b0ce0ef0ac37f8bfffd1a9abe8f11953ac1a5b84058246fdebffb86f86",
+      "title": "Former First Lady Maithree Wickremesinghe Summoned by CID over Financial Crimes Investigation",
+      "sent_at": "2026-02-18T14:50:42Z"
     }
   ]
 }
