@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/11/cope-launches-deep-probe-into-five-years-of-coal-imports",
-      "content_hash": "8cd8007c92531592e43026df89b287903399e179ec446fc9bc14b1574f88415e",
-      "title": "COPE Launches Deep Probe Into Five Years of Coal Imports",
-      "sent_at": "2026-02-11T07:07:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/special-inquiry-into-ambuluwawa-cable-car-project",
-      "content_hash": "c449fb094404f7312f7af903cf30f7b2b70c465554d0f11896b7b06544dba46d",
-      "title": "Special Inquiry Into Ambuluwawa Cable Car Project",
-      "sent_at": "2026-02-11T07:07:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/teen-killed-in-alappiddy-shooting-tested-positive-for-ice-and-heroin",
-      "content_hash": "1f7e7e6b39c7bc9d525889e8a61f3d7d1c4899bb8b4e53faa7686a0935967a06",
-      "title": "Teen Killed in Alappiddy Shooting Tested Positive for Ice and Heroin",
-      "sent_at": "2026-02-11T07:07:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/11/16-guilty-12-given-death-penalty-in-mp-athukorala-murder-trial-23-others-acquitted",
       "content_hash": "05b00c90b88be7e1d4ca65e5ee17a01ae5da04b0cc797b56f2172187b19d25da",
       "title": "16 Guilty, 12 Given Death Penalty in MP Athukorala Murder Trial | 23 others Acquitted",
@@ -839,6 +821,30 @@
       "content_hash": "8e6ab2a87cca64baf7068ee7fb77ccefc2d899db343f73f25df6e1d459ab8aef",
       "title": "Railway Strike Called Off: Services to Continue As Usual Today",
       "sent_at": "2026-02-18T02:35:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/18/major-water-cut-hits-multiple-colombo-suburbs",
+      "content_hash": "01518bf1b4fe2b208f3db967f625478f448bac42a1e67cefdb9e6707b0371e94",
+      "title": "Major Water Cut Hits Multiple Colombo Suburbs",
+      "sent_at": "2026-02-18T07:13:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/18/parliament-chief-of-staff-requests-one-month-to-respond-to-allegations",
+      "content_hash": "8f5eba24ab6ae2c8bd5f4d1637644d4a992d600db9b678711fbc8e68562df68c",
+      "title": "Parliament Chief of Staff Requests One Month to Respond to Allegations",
+      "sent_at": "2026-02-18T07:13:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/18/president-dissanayake-meets-us-envoy-sergio-gor-during-new-delhi-visit-for-ai-impact-summit-2026",
+      "content_hash": "f97a1d0d47ef0767244a33d51b838e12c9f4a20238f29f137f3962cb0237aabb",
+      "title": "President Dissanayake Meets US Envoy Sergio Gor During New Delhi Visit for AI Impact Summit 2026",
+      "sent_at": "2026-02-18T07:14:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/18/sri-lanka-weighs-social-media-restrictions-for-under-16s",
+      "content_hash": "1a09b0dc0cf754a372711a054f1853df96657cc2fdc7cee904a41684ffd69888",
+      "title": "Sri Lanka Weighs Social Media Restrictions for Under-16s",
+      "sent_at": "2026-02-18T07:14:05Z"
     }
   ]
 }
