@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/11/court-releases-balangoda-kassapa-thera-others-on-bail-in-coastal-land-dispute-case",
-      "content_hash": "807b58dd4d69c6e8148758e4bca491a68463de3fb85faf3fcc87779120b4e50c",
-      "title": "Court Releases Balangoda Kassapa Thera, Others on Bail in Coastal Land Dispute Case",
-      "sent_at": "2026-02-11T14:58:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/court-summons-north-central-governor-over-alleged-illegal-principal-appointments",
-      "content_hash": "37de7a4162f947ecc9ac1f2a28c207a4bd13b5b62c9a5559ee2e9a00953071ed",
-      "title": "Court Summons North Central Governor Over Alleged Illegal Principal Appointments",
-      "sent_at": "2026-02-11T14:58:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/palestinian-foreign-minister-to-visit-sri-lanka-as-envoy-hails-colombo%e2%80%99s-unwavering-support",
-      "content_hash": "498db06704121506fc14ad176a22973f71b30e537d1f96b2881cf3efd400f97e",
-      "title": "Palestinian Foreign Minister to Visit Sri Lanka as Envoy Hails Colombo’s Unwavering Support",
-      "sent_at": "2026-02-11T14:58:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/ranil-s-uk-trip-scandal-university-yet-to-respond",
-      "content_hash": "4bfdbd60c4f5a70996ea8b5a2445782dbf277ad9f41dd5f435b984df676130b2",
-      "title": "Ranil's UK Trip Scandal: University Yet to Respond",
-      "sent_at": "2026-02-11T14:58:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/12/assets-of-drug-trafficker-deegala-saman-frozen",
       "content_hash": "26c70759ffee91ca94dfd010c88ab7216fe0e444de3fc5668410282b37d74ad0",
       "title": "Assets of Drug Trafficker 'Deegala Saman' Frozen",
@@ -857,6 +833,12 @@
       "content_hash": "6eb916b0ce0ef0ac37f8bfffd1a9abe8f11953ac1a5b84058246fdebffb86f86",
       "title": "Former First Lady Maithree Wickremesinghe Summoned by CID over Financial Crimes Investigation",
       "sent_at": "2026-02-18T14:50:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/18/muslims-in-sri-lanka-to-begin-fasting-from-tomorrow",
+      "content_hash": "f7e8e608559f73486d6ff2e82f3c323364d20df9f55665eaef765a44aa563afe",
+      "title": "Muslims In Sri Lanka To Begin Fasting From Tomorrow",
+      "sent_at": "2026-02-18T15:56:27Z"
     }
   ]
 }
