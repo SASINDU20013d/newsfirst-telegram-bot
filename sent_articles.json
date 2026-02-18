@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/11/16-guilty-12-given-death-penalty-in-mp-athukorala-murder-trial-23-others-acquitted",
-      "content_hash": "05b00c90b88be7e1d4ca65e5ee17a01ae5da04b0cc797b56f2172187b19d25da",
-      "title": "16 Guilty, 12 Given Death Penalty in MP Athukorala Murder Trial | 23 others Acquitted",
-      "sent_at": "2026-02-11T08:55:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/a-true-friend-holds-an-umbrella-in-the-rain-chinese-envoy",
-      "content_hash": "764bdba15da0d893ea734769f622633254eb82ea05257ec26c37e373f013b443",
-      "title": "'A True Friend Holds an Umbrella in the Rain' - Chinese Envoy",
-      "sent_at": "2026-02-11T08:55:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/death-sentences-for-12-in-killing-of-former-mp-amarakeerthi-athukorala",
-      "content_hash": "20ef1a31f34d16c6650deab9388423dd66f144f7f5642e54eb8eb82f0afa6c1e",
-      "title": "Death Sentences for 12 in Killing of Former MP Amarakeerthi Athukorala",
-      "sent_at": "2026-02-11T08:55:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/o-l-tuition-classes-and-seminars-prohibited-from-midnight-today",
-      "content_hash": "f311e0d314b0c46ee347c473eff4b12c2865160235c54db783c17f41d47d4d83",
-      "title": "O/L Tuition Classes and Seminars Prohibited from Midnight Today",
-      "sent_at": "2026-02-11T08:55:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/11/sri-lanka-calls-china-a-%e2%80%98trusted-friend%e2%80%99-at-chinese-new-year-celebration-in-colombo",
-      "content_hash": "251667ae0ff01f002a4b1e7d3625be1ffd4b5ac918f2bf2aca87d8bc009f707e",
-      "title": "Sri Lanka Calls China a ‘Trusted Friend’ at Chinese New Year Celebration in Colombo",
-      "sent_at": "2026-02-11T08:55:28Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/11/gunman-accomplices-arrested-over-attempted-killing-of-sjb-candidate-in-kalutara",
       "content_hash": "b96cca8b820a6e3e01545673c5975ad403d65fcc97e45b2e243f3d3c0d162088",
       "title": "Gunman, Accomplices Arrested Over Attempted Killing of SJB Candidate in Kalutara",
@@ -875,6 +845,12 @@
       "content_hash": "1f9cc63eb5b864af1302b2f683418d5b232455cce4ab400bf3ac9732210b5f27",
       "title": "Vatican says it will not participate in Trump's 'Board of Peace'",
       "sent_at": "2026-02-18T08:53:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/18/former-presidential-secretary-saman-ekanayake-granted-bail",
+      "content_hash": "e4e8793fddbbf465ba20978f346629fa97ca2904e0baa004ca0898b251a7d795",
+      "title": "Former Presidential Secretary Saman Ekanayake Granted Bail",
+      "sent_at": "2026-02-18T09:54:35Z"
     }
   ]
 }
