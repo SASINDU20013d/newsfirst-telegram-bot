@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/11/gunman-accomplices-arrested-over-attempted-killing-of-sjb-candidate-in-kalutara",
-      "content_hash": "b96cca8b820a6e3e01545673c5975ad403d65fcc97e45b2e243f3d3c0d162088",
-      "title": "Gunman, Accomplices Arrested Over Attempted Killing of SJB Candidate in Kalutara",
-      "sent_at": "2026-02-11T09:58:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/11/sri-lanka-ready-to-punch-above-its-weight-says-turkiye-envoy",
       "content_hash": "385f6a6b905365817484392a62165ebfa2ae959f0d619116f1e9b764bbe409bf",
       "title": "Sri Lanka Ready to 'Punch Above Its Weight,' says Turkiye Envoy",
@@ -851,6 +845,12 @@
       "content_hash": "e4e8793fddbbf465ba20978f346629fa97ca2904e0baa004ca0898b251a7d795",
       "title": "Former Presidential Secretary Saman Ekanayake Granted Bail",
       "sent_at": "2026-02-18T09:54:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/18/bimal-rathnayake-criticizes-railway-strike-during-critical-infrastructure-restoration",
+      "content_hash": "0549276fe6783608c681198f37cf1fab29c9fe3a6d4a21df6f454d3a9f4323dd",
+      "title": "Bimal Rathnayake Criticizes Railway Strike During Critical Infrastructure Restoration",
+      "sent_at": "2026-02-18T10:52:02Z"
     }
   ]
 }
