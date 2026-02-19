@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/12/beware-fraudsters-use-srilankan-airlines-branding-in-new-online-scam",
-      "content_hash": "f6c07b67d2df05d86828746e3d2ceaedba9b85877daf97203b4aec787c9be322",
-      "title": "Beware! Fraudsters Use SriLankan Airlines Branding in New Online Scam",
-      "sent_at": "2026-02-12T05:01:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/pm-meets-european-external-action-service-delegation",
-      "content_hash": "7513590deffc5cea4b5756d82a6ba5c9a97c8556c3fdd75e50cb9624c1e4b322",
-      "title": "PM Meets European External Action Service Delegation",
-      "sent_at": "2026-02-12T05:01:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/sltb-employees-to-face-suspension-for-drug-use",
-      "content_hash": "bcb9afdf67089418e0541226f2c9f5bc44e793d0e9fcad2e8e9882828cd15f68",
-      "title": "SLTB Employees to Face Suspension for Drug Use",
-      "sent_at": "2026-02-12T05:01:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/sri-lanka-installs-thermal-cameras-on-trains-to-stop-elephant-deaths",
-      "content_hash": "f2fe47396b6d919c800739c20086fb165e8c842a49fa642076e88ebe3f0028e1",
-      "title": "Sri Lanka Installs Thermal Cameras on Trains to Stop Elephant Deaths",
-      "sent_at": "2026-02-12T05:01:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/12/iran-is-a-responsible-influential-actor-envoy-outlines-global-vision",
       "content_hash": "85f600e7232dcce433871b2e7bf727021a54deb5e02cbf309a717ab524bbc7ad",
       "title": "Iran Is A Responsible & Influential Actor: Envoy Outlines Global Vision",
@@ -845,6 +821,36 @@
       "content_hash": "203c5c77769e0f5e25dc39c9daab86078ec7e9f5903a812a56adbbf15eda2e23",
       "title": "Commander of the US Pacific Fleet To Visit Sri Lanka",
       "sent_at": "2026-02-19T04:56:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/fiji-s-ex-prime-minister-charged-with-inciting-mutiny",
+      "content_hash": "f1092fc411a1c35fdd41c37f07bac51e52ea4b25dc30997ba4e545503f3d8cf2",
+      "title": "Fiji's Ex-Prime Minister Charged With Inciting Mutiny",
+      "sent_at": "2026-02-19T06:02:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/five-arrested-with-boat-over-drug-suspicion",
+      "content_hash": "4fd9308768ce339414a3e60b5f5ef27405ecbf1226ee661fb67d0e8dbceadc77",
+      "title": "Five Arrested With Boat Over Drug Suspicion",
+      "sent_at": "2026-02-19T06:02:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/police-receive-rs-556-million-worth-of-new-tech",
+      "content_hash": "18daffdfd760c21993be68162eeb5b7bc056709a01df851e596a473f294c7119",
+      "title": "Police Receive Rs. 556 Million Worth of New Tech",
+      "sent_at": "2026-02-19T06:02:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/pre%e2%80%91trial-hearing-in-namal-s-krrish-case-in-april",
+      "content_hash": "113ae7076886d2ed4a3be2ea1634825093c17cbe956243402c9e546d73182bdb",
+      "title": "Pre‑Trial Hearing In Namal's Krrish Case In April",
+      "sent_at": "2026-02-19T06:02:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/prisons-dept-to-re-hire-retired-officers-under-65",
+      "content_hash": "753f008286def125c4824e848b0b40ca4d7eed0ba4a8a29ffeff8b5caa3d7b07",
+      "title": "Prisons Dept. to Re-Hire Retired Officers Under 65",
+      "sent_at": "2026-02-19T06:02:17Z"
     }
   ]
 }
