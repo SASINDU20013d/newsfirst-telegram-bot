@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/12/iran-is-a-responsible-influential-actor-envoy-outlines-global-vision",
-      "content_hash": "85f600e7232dcce433871b2e7bf727021a54deb5e02cbf309a717ab524bbc7ad",
-      "title": "Iran Is A Responsible & Influential Actor: Envoy Outlines Global Vision",
-      "sent_at": "2026-02-12T06:08:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/navy-boosts-state-revenue-with-usd-598k-from-maritime-security",
-      "content_hash": "10ad1a0188ffb7730bfc167b21699ed0a111a41cae545483995aa1c2587c63fd",
-      "title": "Navy Boosts State Revenue With USD 598K From Maritime Security",
-      "sent_at": "2026-02-12T06:08:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/12/iran-calls-for-a-new-era-of-iransri-lanka-cooperation",
       "content_hash": "328ae10b1b416d3310d63788e2c92a5d0c55bf7ec120405a56c6021e8fc37afd",
       "title": "Iran Calls for a New Era of Iran–Sri Lanka Cooperation",
@@ -851,6 +839,30 @@
       "content_hash": "753f008286def125c4824e848b0b40ca4d7eed0ba4a8a29ffeff8b5caa3d7b07",
       "title": "Prisons Dept. to Re-Hire Retired Officers Under 65",
       "sent_at": "2026-02-19T06:02:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/litro-assures-public-no-need-for-panic-buying-supply-now-stabilised",
+      "content_hash": "d388eed053276fb2669de6c24bbddfa252af8d89edd8222bc9f49488607d1a43",
+      "title": "Litro Assures Public: 'No Need for Panic Buying, Supply Now Stabilised'",
+      "sent_at": "2026-02-19T07:11:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/mamdani-wins-over-sri-lankans-with-lesson-inspired-by-murali",
+      "content_hash": "acffa185a737868f8c1b287ed1473b7324869b1a5e7021f2f94f34f46ae7c58b",
+      "title": "Mamdani Wins Over Sri Lankans With Lesson Inspired by Murali",
+      "sent_at": "2026-02-19T07:11:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/russia-s-lavrov-warns-against-any-new-us-strike-on-iran",
+      "content_hash": "f7dd2290ff1e6eaaf22dc4054717333544592a92cd4daa7441ef8ec1199e84a4",
+      "title": "Russia's Lavrov Warns Against Any New US Strike on Iran",
+      "sent_at": "2026-02-19T07:11:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/sri-lanka-best-country-for-low-cost-luxury-retirement",
+      "content_hash": "b4e411239f47dda52e84fcb34b4b0bc1cbdf98b29b708df1330241a737cb77f2",
+      "title": "Sri Lanka: Best Country for Low-Cost Luxury Retirement",
+      "sent_at": "2026-02-19T07:11:46Z"
     }
   ]
 }
