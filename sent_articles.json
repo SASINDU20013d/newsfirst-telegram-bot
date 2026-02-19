@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/12/assets-of-drug-trafficker-deegala-saman-frozen",
-      "content_hash": "26c70759ffee91ca94dfd010c88ab7216fe0e444de3fc5668410282b37d74ad0",
-      "title": "Assets of Drug Trafficker 'Deegala Saman' Frozen",
-      "sent_at": "2026-02-12T02:39:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/eu-and-sri-lanka-to-convene-27th-joint-commission-meeting-today-key-strategic-dialogue-expected",
-      "content_hash": "71d048262b887ea4a495f36feed5d2f7b1fb9c769c456d9a5a49bcbdba468b46",
-      "title": "EU and Sri Lanka to Convene 27th Joint Commission Meeting Today, Key Strategic Dialogue Expected",
-      "sent_at": "2026-02-12T02:39:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/sectoral-oversight-committee-grants-approval-for-bill-to-abolish-mp-pensions",
-      "content_hash": "8da33f94545a70189761820cc18adca6db0dfe20626a904bb43559bddbdbb40a",
-      "title": "Sectoral Oversight Committee Grants Approval for Bill to Abolish MP Pensions",
-      "sent_at": "2026-02-12T02:39:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/12/beware-fraudsters-use-srilankan-airlines-branding-in-new-online-scam",
       "content_hash": "f6c07b67d2df05d86828746e3d2ceaedba9b85877daf97203b4aec787c9be322",
       "title": "Beware! Fraudsters Use SriLankan Airlines Branding in New Online Scam",
@@ -857,6 +839,12 @@
       "content_hash": "7621903b34970296d2c33cac333bdf520a752e3f8a8d512671ae3ed5dd33c946",
       "title": "President To Address AI Impact Summit 2026 In India",
       "sent_at": "2026-02-19T02:35:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/commander-of-the-us-pacific-fleet-to-visit-sri-lanka",
+      "content_hash": "203c5c77769e0f5e25dc39c9daab86078ec7e9f5903a812a56adbbf15eda2e23",
+      "title": "Commander of the US Pacific Fleet To Visit Sri Lanka",
+      "sent_at": "2026-02-19T04:56:23Z"
     }
   ]
 }
