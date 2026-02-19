@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/12/fraudsters-sending-bogus-emails-claiming-to-be-from-cid",
-      "content_hash": "cf7ea5b841111049e6e32b86b6978b4377d2f8ecd88f92ddfd8bed6a48eb6296",
-      "title": "Fraudsters Sending Bogus Emails Claiming to Be from CID",
-      "sent_at": "2026-02-12T11:42:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/indiapakistan-t20-world-cup-match-sends-prices-soaring",
-      "content_hash": "8c544b82a972eb5f21369ec9eb685c9e51f8e5966d008fadc49d716b16b301cd",
-      "title": "India–Pakistan T20 World Cup Match Sends Prices Soaring",
-      "sent_at": "2026-02-12T11:42:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/supreme-court-ends-hearing-on-fr-petitions-against-deshabandu",
-      "content_hash": "10623df1c1632d91b5078138b5d05e59db4d78991c4e609e2b48b9ada3ebcf14",
-      "title": "Supreme Court Ends Hearing on FR Petitions Against Deshabandu",
-      "sent_at": "2026-02-12T11:43:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/12/evidence-heard-against-patali-next-hearing-on-may-5",
       "content_hash": "bc5df434f3afe4c0775125e540e9aaf9812c0fc3fbd80baeefa392e1441a1807",
       "title": "Evidence Heard Against Patali; Next Hearing on May 5",
@@ -851,6 +833,18 @@
       "content_hash": "2da1c55736d43d60667034c997b2610f02850e571b5560d8d07466cb3c8093e1",
       "title": "Ministry Official Arrested Over Rs. 22 Mn Fraud in Vehicle Deal",
       "sent_at": "2026-02-19T11:41:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/police-officer-apologises-over-comedian-s-arrest",
+      "content_hash": "8239f15a25b3358b1b8549de4cceb0563b1a0a5ccad00ea7e011d5db8e332350",
+      "title": "Police Officer Apologises Over Comedian's Arrest",
+      "sent_at": "2026-02-19T13:16:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/senior-labour-officer-remanded-for-alleged-epf-fraud",
+      "content_hash": "836060248c04d38f8c9e9db5f87eacfaf58d64d70a85d9a981f5c40551ac9da7",
+      "title": "Senior Labour Officer Remanded for Alleged EPF Fraud",
+      "sent_at": "2026-02-19T13:16:49Z"
     }
   ]
 }
