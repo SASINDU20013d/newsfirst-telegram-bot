@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/12/cctv-undercover-cops-deployed-for-india-vs-pakistan-t20-world-cup-game-in-colombo",
-      "content_hash": "9fe3b574a578f50ccf7d321d1addd9c17624d7f2e80059dbb2016a76870772fb",
-      "title": "CCTV, Undercover Cops Deployed for India vs Pakistan T20 World Cup Game in Colombo",
-      "sent_at": "2026-02-12T10:53:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/sc-issues-notice-on-sirisena-ranil-in-case-challenging-gender%e2%80%91change-procedures",
-      "content_hash": "d12d8846fb6c3c1020b56bd97e9dab69af993508155d899d9b0e8605f13b4d74",
-      "title": "SC Issues Notice On Sirisena, Ranil in Case Challenging Gender‑Change Procedures",
-      "sent_at": "2026-02-12T10:53:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/12/fraudsters-sending-bogus-emails-claiming-to-be-from-cid",
       "content_hash": "cf7ea5b841111049e6e32b86b6978b4377d2f8ecd88f92ddfd8bed6a48eb6296",
       "title": "Fraudsters Sending Bogus Emails Claiming to Be from CID",
@@ -851,6 +839,18 @@
       "content_hash": "d12ec3dbf5f71071405bbc84b4ae22247fc2fd44c1bc2c18b535f3263376f369",
       "title": "Ganemulla Sanjeewa Murder Linked to Bank Accounts",
       "sent_at": "2026-02-19T10:50:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/cid-freezes-rs-30-mn-worth-of-assets-linked-to-drug-trafficker-in-beliatta",
+      "content_hash": "8a8df1d1c7a14f6c27722ba2d590c9beb795a4565e7ba771c68c15e140c27738",
+      "title": "CID Freezes Rs. 30 Mn Worth of Assets Linked to Drug Trafficker in Beliatta",
+      "sent_at": "2026-02-19T11:40:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/ministry-official-arrested-over-rs-22-mn-fraud-in-vehicle-deal",
+      "content_hash": "2da1c55736d43d60667034c997b2610f02850e571b5560d8d07466cb3c8093e1",
+      "title": "Ministry Official Arrested Over Rs. 22 Mn Fraud in Vehicle Deal",
+      "sent_at": "2026-02-19T11:41:08Z"
     }
   ]
 }
