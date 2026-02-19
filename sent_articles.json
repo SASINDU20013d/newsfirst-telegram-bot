@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/12/evidence-heard-against-patali-next-hearing-on-may-5",
-      "content_hash": "bc5df434f3afe4c0775125e540e9aaf9812c0fc3fbd80baeefa392e1441a1807",
-      "title": "Evidence Heard Against Patali; Next Hearing on May 5",
-      "sent_at": "2026-02-12T13:18:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/johnston-brought-from-remand-for-sathosa-misuse-case",
-      "content_hash": "a4684c71b0f120139f38978c210359896ac2a307c941e6ce911fd3d25bf24602",
-      "title": "Johnston Brought from Remand For Sathosa Misuse Case",
-      "sent_at": "2026-02-12T13:18:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/mosca-brothers-destroy-nepal-as-italy-win-by-10-wickets-in-world-cup-stunner",
-      "content_hash": "75e4dec308b914cac1c5f35171c8b1bf7787fbe5d4cc25e2992a13d25f916b34",
-      "title": "Mosca Brothers Destroy Nepal as Italy Win by 10 Wickets in World Cup Stunner",
-      "sent_at": "2026-02-12T13:18:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/three-students-injured-as-wall-collapses-near-borella-school",
-      "content_hash": "43806e02c6d64b1abf7b60ce939293f06db36ddb2a68ed20f7a320490f7f77bb",
-      "title": "Three Students Injured as Wall Collapses Near Borella School",
-      "sent_at": "2026-02-12T13:18:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/easter-attacks-accused-personally-cross%e2%80%91examines-witness",
-      "content_hash": "1eba2e5012208a1b52c72aea5c8e643387925aabbf96ab5fdfee09f08896bdb5",
-      "title": "Easter Attacks: Accused Personally Cross‑Examines Witness",
-      "sent_at": "2026-02-12T14:52:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/13/additional-court-to-be-established-to-hear-cases-related-to-bribery-commission",
       "content_hash": "29ca4ceb345ec926ddfe65e223edb4277a019ee3487fc764697425e661bd7a0a",
       "title": "Additional Court to be Established to Hear Cases Related to Bribery Commission",
@@ -845,6 +815,12 @@
       "content_hash": "836060248c04d38f8c9e9db5f87eacfaf58d64d70a85d9a981f5c40551ac9da7",
       "title": "Senior Labour Officer Remanded for Alleged EPF Fraud",
       "sent_at": "2026-02-19T13:16:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/us-pacific-fleet-commander-arrives-in-sri-lanka-for-high-level-security-talks",
+      "content_hash": "f498989dca321554d4f451c579f34554791f206c602a836d7260e69112883043",
+      "title": "US Pacific Fleet Commander arrives in Sri Lanka for High-level Security Talks",
+      "sent_at": "2026-02-19T14:53:05Z"
     }
   ]
 }
