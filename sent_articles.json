@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/12/iran-calls-for-a-new-era-of-iransri-lanka-cooperation",
-      "content_hash": "328ae10b1b416d3310d63788e2c92a5d0c55bf7ec120405a56c6021e8fc37afd",
-      "title": "Iran Calls for a New Era of Iran–Sri Lanka Cooperation",
-      "sent_at": "2026-02-12T07:55:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/ironman-70-3-returns-to-colombo-after-six-years-over-1-000-athletes-set-to-compete",
-      "content_hash": "3738c8c8362a7f79b6f0921dc656e391f5951c0949967ed8e267c1b6d201ab7d",
-      "title": "Ironman 70.3 Returns to Colombo After Six Years, Over 1,000 Athletes Set to Compete",
-      "sent_at": "2026-02-12T07:55:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/paying-locally-in-foreign-currency-is-illegal-up-to-rs-25m-fine-or-3-years-jail",
-      "content_hash": "df47ec50df31424d602f5ce867909eff47d06a008bd9a091792589eebaa366db",
-      "title": "Paying Locally in Foreign Currency Is Illegal | Up to Rs. 25M Fine or 3 Years Jail",
-      "sent_at": "2026-02-12T07:55:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/sri-lanka-praises-iran-for-powering-uma-oya-and-standing-by-sri-lanka",
-      "content_hash": "56528ca6582bb3f174a3ef63bbf251ec6512967fa09f5f387e5382946bad9d86",
-      "title": "Sri Lanka Praises Iran for Powering Uma Oya and Standing by Sri Lanka",
-      "sent_at": "2026-02-12T07:55:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/sri-lanka-records-276-deaths-in-just-263-crashes-in-early-2026",
-      "content_hash": "03d8db9f82f9e9a01b0363322432c6cdb8d00ee52c13abe6815b37dca017f237",
-      "title": "Sri Lanka Records 276 Deaths in Just 263 Crashes in Early 2026",
-      "sent_at": "2026-02-12T07:55:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/12/sri-lanka-records-alarming-spike-in-drowning-deaths",
-      "content_hash": "a20946630ab7e29cee0ce60e51e85b932a8e588d4136e80224ed7635fb2bd76c",
-      "title": "Sri Lanka Records Alarming Spike in Drowning Deaths",
-      "sent_at": "2026-02-12T07:55:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/12/cmc-member-loses-seat-following-exit-from-slmc",
       "content_hash": "ef325da144a554856f47c3a012b57a1d877c64f11ca0ac6bf37eaca082d35287",
       "title": "CMC Member Loses Seat Following Exit from SLMC",
@@ -863,6 +827,24 @@
       "content_hash": "b4e411239f47dda52e84fcb34b4b0bc1cbdf98b29b708df1330241a737cb77f2",
       "title": "Sri Lanka: Best Country for Low-Cost Luxury Retirement",
       "sent_at": "2026-02-19T07:11:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/former-south-korean-president-sentenced-to-life-over-martial-law-attempt",
+      "content_hash": "0d677376ee550c8cae4ef23165179d9b7b726bb3273091065d85ccecb31cb9ca",
+      "title": "Former South Korean President Sentenced To Life Over Martial Law Attempt",
+      "sent_at": "2026-02-19T08:52:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/no-nation-can-build-an-ai%e2%80%91ready-future-alone-says-sri-lanka-president-in-delhi",
+      "content_hash": "6248ec78949f5222fcf3b7b6ddef2d9625e3083a4c0d9b0a1c3be2a239ab57cb",
+      "title": "No Nation Can Build an AI‑Ready Future Alone, Says Sri Lanka President In Delhi",
+      "sent_at": "2026-02-19T08:52:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/19/rise-in-cat-bites-domestic-pet-infections-sparks-rabies-alert",
+      "content_hash": "8697b1ae1c801795cb14f87037d3d0d22ad828a6313a02d2f52f6e09176017c8",
+      "title": "Rise in Cat Bites, Domestic Pet Infections Sparks Rabies Alert",
+      "sent_at": "2026-02-19T08:53:09Z"
     }
   ]
 }
