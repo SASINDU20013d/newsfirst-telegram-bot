@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/13/death-sentence-for-three-after-18-year-trial-in-kalutara-murder-case",
-      "content_hash": "87fc8373dd38f9b2c9a8c5ae518a794d95083952c53353a2cd8e230a2ed34f4d",
-      "title": "Death Sentence for Three After 18-Year Trial in Kalutara Murder Case",
-      "sent_at": "2026-02-13T11:34:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/13/waruna-sri-dhanapala-appointed-secretary-to-the-ministry-of-digital-economy",
-      "content_hash": "0bc0ffdfa53e4d04e8b306417a8cd54834d15e702c0c5198593f2ca6aaabf9e0",
-      "title": "Waruna Sri Dhanapala Appointed Secretary to the Ministry of Digital Economy",
-      "sent_at": "2026-02-13T11:34:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/13/couple-shot-dead-inside-car-in-akuregoda",
       "content_hash": "ddc51a1c70d274626b1627075132e7f3d1e760a3e9f92d0a4ea0bc4052830a11",
       "title": "Couple Shot Dead Inside Car in Akuregoda",
@@ -869,6 +857,12 @@
       "content_hash": "cef5236f67f582d2d4f5b5b7f588ad15d00f59e32d847306aa61b49d2de86a71",
       "title": "Three Gas Ships Carrying 10,500 MT to Arrive Within Days",
       "sent_at": "2026-02-20T10:42:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/water-board-officials-accused-of-corruption-plot-bailed",
+      "content_hash": "a295ae26e9210303309958f364467661def934613c7c2cc000b0ff910cbaee3c",
+      "title": "Water Board Officials Accused of Corruption Plot Bailed",
+      "sent_at": "2026-02-20T11:36:26Z"
     }
   ]
 }
