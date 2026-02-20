@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/13/former-minister-professor-tissa-witharana-passes-away",
-      "content_hash": "def25e03868afa598c16c53f01d837b0db3e1a9d0f3e415841365ba368bd0b76",
-      "title": "Former Minister Professor Tissa Witharana Passes Away",
-      "sent_at": "2026-02-13T08:50:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/13/australia-shocked-as-zimbabwe-seal-23%e2%80%91run-victory-in-group-b-showdown",
       "content_hash": "9ce51d468ebda8a519d333d31afcbb7e7ac1a99ea8dc08f0af793af5526c01e5",
       "title": "Australia Shocked as Zimbabwe Seal 23‑Run Victory in Group B Showdown",
@@ -875,6 +869,12 @@
       "content_hash": "a645e53d19250e0b6e3d811290b02e08bf7967553a005aeba07690eaeb6092ed",
       "title": "Trump To Order Release Of Documents on ‘Extraterrestrial Life’",
       "sent_at": "2026-02-20T08:49:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/sri-lankan-president-meets-indian-pm-modi-on-sidelines-of-ai-impact-summit",
+      "content_hash": "89b26f0349b3440831d575258d7af08b876b04947417dd2b850d2a2a6c596052",
+      "title": "Sri Lankan President Meets Indian PM Modi on Sidelines of AI Impact Summit",
+      "sent_at": "2026-02-20T09:47:10Z"
     }
   ]
 }
