@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/13/couple-shot-dead-inside-car-in-akuregoda",
-      "content_hash": "ddc51a1c70d274626b1627075132e7f3d1e760a3e9f92d0a4ea0bc4052830a11",
-      "title": "Couple Shot Dead Inside Car in Akuregoda",
-      "sent_at": "2026-02-13T13:10:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/14/imf-managing-director-kristalina-georgieva-to-visit-sri-lanka-next-week",
       "content_hash": "9bd7da4025b7c687ceed45436c05470fb1c605e43f69b97164c2b56cdcae5448",
       "title": "IMF Managing Director Kristalina Georgieva To Visit Sri Lanka Next Week",
@@ -869,6 +863,12 @@
       "content_hash": "0c090ebac84ebe73ed2051bd47e46d7816e730dd444c0f5ccacdda1367e84986",
       "title": "Balapitiya HC Hands Death Penalty to Duo in 2005 Murder",
       "sent_at": "2026-02-20T13:08:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/ca-refixes-hearing-on-trincomalee-coastal-order-challenge",
+      "content_hash": "8f4cbd32c7176b8c674204e3bc86443a1a1e8952046e469a43c73444ca3b3ee5",
+      "title": "CA Refixes Hearing on Trincomalee Coastal Order Challenge",
+      "sent_at": "2026-02-20T14:42:25Z"
     }
   ]
 }
