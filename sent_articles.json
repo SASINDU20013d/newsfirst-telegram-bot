@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/13/former-sathosa-deputy-gm-arrested-over-massive-garlic-deal-scam",
-      "content_hash": "ba7404635bbf686e4e98ab639b4fda6244d24c85d3a502e7a9143b5394e104d8",
-      "title": "Former Sathosa Deputy GM Arrested Over Massive Garlic Deal Scam",
-      "sent_at": "2026-02-13T06:02:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/13/high-ranking-transport-official-arrested-by-ciaboc",
-      "content_hash": "8658233c3c4f3827ede5619a2b881543924d24676301a01fcc150376f16e572c",
-      "title": "High-Ranking Transport Official Arrested By CIABOC",
-      "sent_at": "2026-02-13T06:02:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/13/boi-to-fast-track-approvals-for-1-bn-investments-applications-in-mineral-sector",
       "content_hash": "94a619080660c0085a4d090d2696a4c5966c59b137da89058a061730e4e4e67f",
       "title": "BOI to Fast Track Approvals for $1 Bn Investments Applications in Mineral Sector",
@@ -857,6 +845,24 @@
       "content_hash": "fec931c002a1f0f2f21009b73e7f1d456f05177e71b309b2fb8c460e7b7da5d2",
       "title": "Sri Lanka Repeals Parliamentary Pension Law",
       "sent_at": "2026-02-20T05:56:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/domestic-policy-missteps-drove-sri-lanka-into-crisis-says-sri-lanka-central-bank-chief",
+      "content_hash": "3461ac7815cfe75700925e303ebd163a6cb185f29c8e2b784c715fb10a6206c0",
+      "title": "Domestic Policy Missteps Drove Sri Lanka Into Crisis, Says Sri Lanka Central Bank Chief",
+      "sent_at": "2026-02-20T07:02:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/former-ministry-secretary-anusha-pelpita-released-on-bail",
+      "content_hash": "1f2b19b187f94ffa1a42b54b6a2effdb078011e65d6c83752665d3823685dd59",
+      "title": "Former Ministry Secretary Anusha Pelpita Released on Bail",
+      "sent_at": "2026-02-20T07:02:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/vijitha-to-chair-committee-on-provincial-council-framework",
+      "content_hash": "0fe5cc2b21a76707a231db7abf55985f5861c4ce223a8b25bf1a58e63dbd3fb2",
+      "title": "Vijitha To Chair Committee on Provincial Council Framework",
+      "sent_at": "2026-02-20T07:02:44Z"
     }
   ]
 }
