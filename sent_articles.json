@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/13/additional-court-to-be-established-to-hear-cases-related-to-bribery-commission",
-      "content_hash": "29ca4ceb345ec926ddfe65e223edb4277a019ee3487fc764697425e661bd7a0a",
-      "title": "Additional Court to be Established to Hear Cases Related to Bribery Commission",
-      "sent_at": "2026-02-13T04:56:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/13/gce-o-l-examination-to-begin-on-tuesday-second-phase-of-first-school-term-ends-today",
-      "content_hash": "2a8b99d1f4a2a5576ad31dc8e775dfc8df0a2c98230395f16042893f9b5378f1",
-      "title": "GCE O/L Examination to Begin on Tuesday, Second Phase of First School Term Ends Today",
-      "sent_at": "2026-02-13T04:56:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/13/immigration-system-back-online-after-technical-failure",
-      "content_hash": "0fe11fe5893788f1a881e43786930b5a8b1258de4750f5e6b85ac75086ecff63",
-      "title": "Immigration System Back Online After Technical Failure",
-      "sent_at": "2026-02-13T04:56:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/13/ugc-to-expand-student-housing-across-seven-campuses",
-      "content_hash": "52d84819281916201561c4c9e251ca5c54fc083ab179c1e6440ed5df1e1ae3a7",
-      "title": "UGC to Expand Student Housing Across Seven Campuses",
-      "sent_at": "2026-02-13T04:56:59Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/13/former-sathosa-deputy-gm-arrested-over-massive-garlic-deal-scam",
       "content_hash": "ba7404635bbf686e4e98ab639b4fda6244d24c85d3a502e7a9143b5394e104d8",
       "title": "Former Sathosa Deputy GM Arrested Over Massive Garlic Deal Scam",
@@ -875,6 +851,12 @@
       "content_hash": "586c9463ec09cb862dd54e744b903919d61348d29d49e093234fb32fa0e06d9b",
       "title": "Six Arrested In Pugoda With ICE",
       "sent_at": "2026-02-20T04:50:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/sri-lanka-repeals-parliamentary-pension-law",
+      "content_hash": "fec931c002a1f0f2f21009b73e7f1d456f05177e71b309b2fb8c460e7b7da5d2",
+      "title": "Sri Lanka Repeals Parliamentary Pension Law",
+      "sent_at": "2026-02-20T05:56:46Z"
     }
   ]
 }
