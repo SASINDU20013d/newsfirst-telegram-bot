@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/13/australia-shocked-as-zimbabwe-seal-23%e2%80%91run-victory-in-group-b-showdown",
-      "content_hash": "9ce51d468ebda8a519d333d31afcbb7e7ac1a99ea8dc08f0af793af5526c01e5",
-      "title": "Australia Shocked as Zimbabwe Seal 23‑Run Victory in Group B Showdown",
-      "sent_at": "2026-02-13T09:51:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/13/keheliya-family-major-illicit-assets-case-fixed-for-april-27",
-      "content_hash": "2ad8023b92f11e64c1f545d11f3a7a1eaa82475828718ff0b9176c85097d93dd",
-      "title": "Keheliya Family Major Illicit Assets Case Fixed for April 27",
-      "sent_at": "2026-02-13T09:52:21Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/13/death-sentence-for-three-after-18-year-trial-in-kalutara-murder-case",
       "content_hash": "87fc8373dd38f9b2c9a8c5ae518a794d95083952c53353a2cd8e230a2ed34f4d",
       "title": "Death Sentence for Three After 18-Year Trial in Kalutara Murder Case",
@@ -875,6 +863,12 @@
       "content_hash": "89b26f0349b3440831d575258d7af08b876b04947417dd2b850d2a2a6c596052",
       "title": "Sri Lankan President Meets Indian PM Modi on Sidelines of AI Impact Summit",
       "sent_at": "2026-02-20T09:47:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/three-gas-ships-carrying-10-500-mt-to-arrive-within-days",
+      "content_hash": "cef5236f67f582d2d4f5b5b7f588ad15d00f59e32d847306aa61b49d2de86a71",
+      "title": "Three Gas Ships Carrying 10,500 MT to Arrive Within Days",
+      "sent_at": "2026-02-20T10:42:09Z"
     }
   ]
 }
