@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/13/boi-to-fast-track-approvals-for-1-bn-investments-applications-in-mineral-sector",
-      "content_hash": "94a619080660c0085a4d090d2696a4c5966c59b137da89058a061730e4e4e67f",
-      "title": "BOI to Fast Track Approvals for $1 Bn Investments Applications in Mineral Sector",
-      "sent_at": "2026-02-13T07:10:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/13/cope-to-launch-surprise-inspections-on-inefficient-state-institutions",
-      "content_hash": "2011ee068a1c7c17c3415cc01eabbc7b22473e44b319a96c793f4d537457d282",
-      "title": "COPE to Launch Surprise Inspections on Inefficient State Institutions",
-      "sent_at": "2026-02-13T07:10:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/13/former-minister-professor-tissa-witharana-passes-away",
       "content_hash": "def25e03868afa598c16c53f01d837b0db3e1a9d0f3e415841365ba368bd0b76",
       "title": "Former Minister Professor Tissa Witharana Passes Away",
@@ -863,6 +851,24 @@
       "content_hash": "0fe5cc2b21a76707a231db7abf55985f5861c4ce223a8b25bf1a58e63dbd3fb2",
       "title": "Vijitha To Chair Committee on Provincial Council Framework",
       "sent_at": "2026-02-20T07:02:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/fugitive-underworld-figure-tutu-linked-to-akuregoda-double-murder-says-public-security-minister",
+      "content_hash": "f350e5b047f2a3f43ab670beb033310d9ebe3ef2a484361f340695b62956d9ce",
+      "title": "Fugitive Underworld Figure 'Tutu' Linked to Akuregoda Double Murder, Says Public Security Minister",
+      "sent_at": "2026-02-20T07:52:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/indians-now-choose-sri-lanka-over-kerala-rbi-official",
+      "content_hash": "411822e220bb5915bd5b14f1147d41465531f5647b58f8b165972bbeb5ac7172",
+      "title": "Indians Now Choose Sri Lanka Over Kerala: RBI Official",
+      "sent_at": "2026-02-20T07:52:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/20/mystery-donor-gifts-21kg-of-gold-to-japanese-city-to-repair-ageing-water-system",
+      "content_hash": "40f6ec87b4b76e2f401bbe4e0d7c9b01adf8dce22ad1cf58b2d8ff8408fa8d63",
+      "title": "Mystery Donor Gifts 21kg of Gold To Japanese City To Repair Ageing Water System",
+      "sent_at": "2026-02-20T07:52:36Z"
     }
   ]
 }
