@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/14/imf-managing-director-kristalina-georgieva-to-visit-sri-lanka-next-week",
-      "content_hash": "9bd7da4025b7c687ceed45436c05470fb1c605e43f69b97164c2b56cdcae5448",
-      "title": "IMF Managing Director Kristalina Georgieva To Visit Sri Lanka Next Week",
-      "sent_at": "2026-02-14T02:27:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/14/attorney-and-wife-gunned-down-in-akuregoda-10-police-teams-deployed-on-igp%e2%80%99s-orders",
       "content_hash": "298a9916732f9e7ebf7d69e74df0dc3ebf7eb3ae5a365da84d19e569b9b19cf8",
       "title": "Attorney and Wife Gunned Down in Akuregoda; 10 Police Teams Deployed on IGP’s Orders",
@@ -899,6 +893,18 @@
       "content_hash": "fb6931f5948e8eb8aa4cea584f15f0ba65deeed8dde15401275d3a6b8a32fc17",
       "title": "President Anura Kumara Dissanayake Returns After Attending AI Impact Summit 2026 In New Delhi",
       "sent_at": "2026-02-21T02:24:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/21/gammadda-care-and-dare-rebuilds-lives-in-kandy-and-matale-after-cyclone-ditwah",
+      "content_hash": "5e73bba1ddcd3b7fe2dd7d3b8cfaa9e733ec47b735a312ce0198fed5febec365",
+      "title": "Gammadda Care and Dare Rebuilds Lives in Kandy and Matale After Cyclone Ditwah",
+      "sent_at": "2026-02-21T04:39:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/21/two-arrested-over-fake-job-scams-in-romania-and-canada",
+      "content_hash": "ccbbdc084c3f457f851ab3edcbfba161ed77587dbf1afa664821f4960fec30fc",
+      "title": "Two Arrested Over Fake Job Scams In Romania And Canada",
+      "sent_at": "2026-02-21T04:40:02Z"
     }
   ]
 }
