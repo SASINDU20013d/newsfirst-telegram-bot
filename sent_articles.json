@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/14/health-experts-warn-around-10-of-kidney-patients-in-sri-lanka-unaware-of-their-condition",
-      "content_hash": "377d81fa75416d614e9845f4e1267836bc77d9091df12b11f0c5efee7b891243",
-      "title": "Health Experts Warn Around 10% of Kidney Patients in Sri Lanka Unaware of Their Condition",
-      "sent_at": "2026-02-14T06:52:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/14/police-link-organised-criminal-to-akuregoda-double-murder",
       "content_hash": "43de36b9b962716f6c74d7d3f050a91a89775c09e68e9067c116b2a13a67256d",
       "title": "Police Link Organised Criminal to Akuregoda Double Murder",
@@ -899,6 +893,18 @@
       "content_hash": "4427f1960048733388d50c38d4f0fbaa4ff9e78716c59bb84231c4876d664d06",
       "title": "U.S. Donates Fourth Coast Guard Cutter To Sri Lanka Navy",
       "sent_at": "2026-02-21T06:50:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/21/india-sri-lanka-officials-meet-to-assess-usd-450-million-reconstruction-efforts",
+      "content_hash": "0623855ddebdaf56edd2c952f15015732ef028236fed923ee23a98bfdc28ebf2",
+      "title": "India-Sri Lanka Officials Meet To Assess USD 450 Million Reconstruction Efforts",
+      "sent_at": "2026-02-21T07:35:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/21/nearly-9-000-fined-for-seat-belt-violations-on-expressway",
+      "content_hash": "87b101c3dc3fd1831fd09bef64457e1157ac36d5fe295f9b65375f1746616352",
+      "title": "Nearly 9,000 Fined for Seat Belt Violations on Expressway",
+      "sent_at": "2026-02-21T07:35:46Z"
     }
   ]
 }
