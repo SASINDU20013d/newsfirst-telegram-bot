@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/14/two-dead-three-injured-in-separate-shootings-in-kalutara-and-jinthupitiya",
-      "content_hash": "db3454c7921a38c13cd19df42aef2ac2909d13fbd155c722280ab6a2f22f90dc",
-      "title": "Two Dead, Three Injured in Separate Shootings in Kalutara and Jinthupitiya",
-      "sent_at": "2026-02-14T16:36:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/15/bar-association-calls-urgent-meeting-following-attorney-s-assassination",
       "content_hash": "4e1a98fc917aca36578e18b23eab90cdd663bce632915414606109837a624711",
       "title": "Bar Association Calls Urgent Meeting Following Attorney's Assassination",
@@ -887,6 +881,12 @@
       "content_hash": "f0582eeaadb6863bac19661bdff8617ef5b7271ae331caffb3c8c1d9ee53988e",
       "title": "CR & FC Triumph Over Kandy SC in Nail-Biting Clash",
       "sent_at": "2026-02-21T16:34:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/21/trump-ups-tariffs-to-15-day-after-supreme-court-ruling-against-him",
+      "content_hash": "10e87e3f6dc10e547f97af93258589b451b2fb03b557e56e7fdc8c8bc48f6977",
+      "title": "Trump ups Tariffs to 15% Day after Supreme Court Ruling against him",
+      "sent_at": "2026-02-21T17:29:35Z"
     }
   ]
 }
