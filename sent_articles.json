@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/15/bar-association-calls-urgent-meeting-following-attorney-s-assassination",
-      "content_hash": "4e1a98fc917aca36578e18b23eab90cdd663bce632915414606109837a624711",
-      "title": "Bar Association Calls Urgent Meeting Following Attorney's Assassination",
-      "sent_at": "2026-02-15T02:40:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/15/burnt-vehicle-found-in-baddegama-linked-to-double-murder",
-      "content_hash": "c77c15a03b818cb81b197c5e59062b7881ed4ef59b11ea0cf8a045535c5b5065",
-      "title": "Burnt Vehicle Found in Baddegama Linked to Double Murder",
-      "sent_at": "2026-02-15T02:40:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/15/eight-police-teams-probe-fatal-shootings-in-jintupitiya-and-waskaduwa",
-      "content_hash": "377060156bc1b4e0f6dd26e26bcdaaafa0431983aa18e951a7bfba5ffd84090a",
-      "title": "Eight Police Teams Probe Fatal Shootings in Jintupitiya and Waskaduwa",
-      "sent_at": "2026-02-15T02:40:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/15/significant-staff-shortage-reported-in-sltb-officials-to-re-evaluate-employee-qualifications",
-      "content_hash": "38afef6e5960b877cd7399014a473c0ad5b5ed2cc406e2cbf714fc4374c9cebb",
-      "title": "Significant Staff Shortage Reported in SLTB, Officials to Re-Evaluate Employee Qualifications",
-      "sent_at": "2026-02-15T02:40:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/15/annual-reporting-on-destroyed-dangerous-drugs-mandated-by-judicial-service-commission",
       "content_hash": "68b4f0d4cd547192910ace50a0b6aff86894e321c48c340db91e08b9c8c5cb0e",
       "title": "Annual Reporting on Destroyed Dangerous Drugs Mandated by Judicial Service Commission",
@@ -911,6 +887,18 @@
       "content_hash": "858aca895598275d2d43dad54b84e4571ae9733d22b08004ba9596148ba7c0c4",
       "title": "Minor Flood Warning Issued Along Mahaweli River: Landslide Evacuations Issued In Four Districts",
       "sent_at": "2026-02-22T02:35:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/22/jaffna-international-airport-terminal-expansion-scheduled-for-completion-by-mid-2027",
+      "content_hash": "5bd553815665229dee695ef866dd699907272b5d8cdc2d21582227273629a89b",
+      "title": "Jaffna International Airport Terminal Expansion Scheduled for Completion By Mid 2027",
+      "sent_at": "2026-02-22T04:52:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/22/sri-lanka-finalizes-mou-for-kks-port-with-india",
+      "content_hash": "9f9266b81736091963465a292580ecf84374ddf49aab542d9ca53e25867da96f",
+      "title": "Sri Lanka Finalizes MoU for KKS Port with India",
+      "sent_at": "2026-02-22T04:52:18Z"
     }
   ]
 }
