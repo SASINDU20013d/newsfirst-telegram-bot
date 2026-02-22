@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/15/special-security-and-traffic-plan-in-place-for-high-stakes-india-vs-pakistan-t20-clash",
-      "content_hash": "e5867a86a0398aebb0d19e5e66b2b12734623b82f9af7e5c433f9cc827138837",
-      "title": "Special Security and Traffic Plan in place for High-Stakes India vs. Pakistan T20 Clash",
-      "sent_at": "2026-02-15T07:39:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/15/motorcycle-suspected-to-have-used-in-kalutara-shooting-discovered-in-bandaragama",
       "content_hash": "f26724ea9264868bed14b1fee0563fa48cd08f575c24cc7f0a2bcd6fc0c7677b",
       "title": "Motorcycle Suspected to Have Used in Kalutara Shooting Discovered in Bandaragama",
@@ -911,6 +905,12 @@
       "content_hash": "eda71a2bd33f1e884ca402d327e8f51925bf23f39c8a3e32d7c177e39cd534a2",
       "title": "Vessel Carrying 3,700 MT of LP Gas Arrives in the Island",
       "sent_at": "2026-02-22T07:39:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/22/two-arrested-with-heroin-and-ice-in-anuradhapura-and-mount-lavinia",
+      "content_hash": "e24f97560fa4d11c0f7d7ab591e3c7617890802cd8e7a2db5df236954ffe4e59",
+      "title": "Two Arrested with Heroin and Ice in Anuradhapura and Mount Lavinia",
+      "sent_at": "2026-02-22T08:38:31Z"
     }
   ]
 }
