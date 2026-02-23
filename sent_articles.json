@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/16/because-of-you-pakistan-credits-sri-lankan-president-for-saving-indopak-match",
-      "content_hash": "f74223e2c0af5f3888e3b2e6798a2f50bf78abecbd62a6769b0bbd2ae4bf264c",
-      "title": "'Because of You': Pakistan Credits Sri Lankan President for Saving Indo–Pak Match",
-      "sent_at": "2026-02-16T14:46:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/kristalina-georgieva-touches-down-in-sri-lanka-as-imf-assesses-post%e2%80%91cyclone-needs",
-      "content_hash": "e63ddda178a4618416ca8e5528bb453c24027bd61d115da619d2888a841134da",
-      "title": "Kristalina Georgieva Touches Down in Sri Lanka as IMF Assesses Post‑Cyclone Needs",
-      "sent_at": "2026-02-16T14:46:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/x-down-social-network-suffers-major-global-disruption",
-      "content_hash": "49276eda5352071533f214be98312aa4f5c576ed16013a2001ae57406c80fdf9",
-      "title": "X Down: Social Network Suffers Major Global Disruption",
-      "sent_at": "2026-02-16T14:46:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/17/2025-g-c-e-o-l-exams-kick-off-today-over-450-000-candidates-head-to-exam-centers",
       "content_hash": "2687709e475556ea286e79f01c39ff5ea4ecec452680e89ab94b9833ff338818",
       "title": "2025 G.C.E. O/L Exams Kick Off Today: Over 450,000 Candidates Head to Exam Centers",
@@ -869,6 +851,18 @@
       "content_hash": "b5d0a8c9bcb9802e08ae0c4f04a789aa920a350e75fe4719fe6becf7103590ed",
       "title": "Sri Lanka Police Arrest 958 Suspects in 24-Hour Anti-Drug Crackdown",
       "sent_at": "2026-02-23T13:15:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/rs-100-000-contract-killing-gunman-links-plot-to-karandeniya-sudda",
+      "content_hash": "c91195e5829ee23bbe6714b154bc9ee0f2aba36ba910a6741d473bb39d4479ee",
+      "title": "Rs. 100,000 Contract Killing: Gunman Links Plot to 'Karandeniya Sudda'",
+      "sent_at": "2026-02-23T14:52:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/supreme-court-orders-contempt-charges-against-former-nie-director",
+      "content_hash": "9ab3989e35821207672a8f1a827ef97cb4e890ab02054bcd0dcb72e20961ea42",
+      "title": "Supreme Court Orders Contempt Charges Against Former NIE Director",
+      "sent_at": "2026-02-23T14:52:35Z"
     }
   ]
 }
