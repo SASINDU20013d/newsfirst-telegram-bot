@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/16/around-900-childhood-cancer-cases-reported-annually",
-      "content_hash": "4a7ae6670ae0cc0057ebaba451413762801e0486961eb5cab662def281558522",
-      "title": "Around 900 Childhood Cancer Cases Reported Annually",
-      "sent_at": "2026-02-16T02:36:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/four-arrested-over-akuregoda-double-murder",
-      "content_hash": "415347b17eaab9573d9eea9c718f448ee95a0a0bec99c8583e06d6abd03d8dbd",
-      "title": "Four Arrested Over Akuregoda Double Murder",
-      "sent_at": "2026-02-16T02:36:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/imf-s-kristalina-georgieva-to-visit-sri-lanka-today-16",
-      "content_hash": "be03fea977159588faf0e7f38d142e62108b8eb4d3fd00f0c2a43b08437de1a3",
-      "title": "IMF's Kristalina Georgieva To Visit Sri Lanka Today (16)",
-      "sent_at": "2026-02-16T02:36:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/16/joint-committee-to-discuss-purse-seine-fishing-issues-starting-today",
       "content_hash": "9f775646cab6dd69d6a7b0a9eb34042a1ec7d6e3aa08cfc202a0322ec2a3511d",
       "title": "Joint Committee to Discuss Purse Seine Fishing Issues Starting Today",
@@ -887,6 +869,36 @@
       "content_hash": "89ede1cda102c1ac0217da64788ba91070713934e7f38d3de29d341b118802a4",
       "title": "Rebuild and Recover : Thousands Join the Gammadda ‘Care & Dare in Central Province",
       "sent_at": "2026-02-22T17:29:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/commuters-advised-to-exercise-extreme-caution-on-cyclone-damaged-roads",
+      "content_hash": "404cac6c433d3362a43bf37969c83b689fb59be9931045d319b10c0c98d77b55",
+      "title": "Commuters Advised to Exercise Extreme Caution on Cyclone-Damaged Roads",
+      "sent_at": "2026-02-23T02:36:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/heavy-rains-to-subside-as-low-pressure-system-moves-away",
+      "content_hash": "3f024d0ab620924ad0843631bfe51e55af27aed887ea5694bff86db7fa2f0eab",
+      "title": "Heavy Rains to Subside as Low-Pressure System Moves Away",
+      "sent_at": "2026-02-23T02:36:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/lawyer-remanded-for-possession-of-ice",
+      "content_hash": "130523255bf0e3c5839a984ded7131dee75f5823f7bc882e8fbd6291a04aa92c",
+      "title": "Lawyer Remanded for Possession of Ice",
+      "sent_at": "2026-02-23T02:36:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/litro-gas-to-release-100-000-lp-gas-to-the-market-today",
+      "content_hash": "0ca95b73b86a2cd9d909395562e38bd144aaa0a6897fb272d08cab867500f7a1",
+      "title": "Litro Gas to Release 100,000 LP Gas to the Market Today",
+      "sent_at": "2026-02-23T02:36:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/red-alerts-extended-residents-in-landslide-prone-districts-urged-to-evacuate",
+      "content_hash": "5bc214445ccbd74291bc56cfd893183e48d8029ffebc42897de720f572ba560e",
+      "title": "Red Alerts Extended: Residents in Landslide-Prone Districts Urged to Evacuate",
+      "sent_at": "2026-02-23T02:36:38Z"
     }
   ]
 }
