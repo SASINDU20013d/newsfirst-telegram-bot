@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/16/all-set-for-2025-gce-ordinary-level-exam",
-      "content_hash": "6654cf424f3bb5bc2ff536ae72f4f71aa4223511083865c3134555af13b166b7",
-      "title": "All Set For 2025 GCE Ordinary Level Exam",
-      "sent_at": "2026-02-16T07:56:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/krrish-case-against-namal-postponed",
-      "content_hash": "a908c51b0d1e82ea257a2e059c4c493da94f0bea8c51e01f7077e875feda5787",
-      "title": "Krrish Case Against Namal Postponed",
-      "sent_at": "2026-02-16T07:56:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/lawyers-withdraw-from-courts-islandwide",
-      "content_hash": "cb0091433a44bcc62ca4f7fa4069732de14eb4234050751d7881f2b44737c8ea",
-      "title": "Lawyers Withdraw From Courts Islandwide",
-      "sent_at": "2026-02-16T07:56:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/puttalam-train-services-fully-resumed-today",
-      "content_hash": "a3aaff26314558e24685d858c4731376635a3f3f5dcdebc07d5c2af7c386c2c6",
-      "title": "Puttalam Train Services Fully Resumed Today",
-      "sent_at": "2026-02-16T07:56:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/three-arrested-at-bia-with-16kg-kush",
-      "content_hash": "53dc83999d694c7511dde6e3a99d7386139ae1b4772d2d65289f1c7e65bb42a3",
-      "title": "Three Arrested At BIA With 16kg Kush",
-      "sent_at": "2026-02-16T07:56:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/uk-deputy-pm-to-arrive-in-sri-lanka-tomorrow",
-      "content_hash": "473026e81917f6e90e4f158a63b49f1494588c63e60667646dd689c7e89be250",
-      "title": "UK Deputy PM to Arrive in Sri Lanka Tomorrow",
-      "sent_at": "2026-02-16T07:56:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/16/25-indian-fishermen-arrested-for-illegal-fishing-in-sri-lankan-waters",
       "content_hash": "27dc7d3dc401d57b03c39aa92611980dce96a99df841ea6c9b942901f8c1031e",
       "title": "25 Indian Fishermen Arrested for Illegal Fishing in Sri Lankan Waters",
@@ -899,6 +863,30 @@
       "content_hash": "ca2e9ff3520fd76c35eb12caeb3ba8f156ef97645d466baed8426d3437a60458",
       "title": "Voluntary Drug Rehabilitation Program Sees Success, Says Ministry of Public Security",
       "sent_at": "2026-02-23T05:01:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/emergency-hotlines-issued-for-exam-candidates-ahead-of-potential-disasters",
+      "content_hash": "d51cacb9f0eda7ec032be6ec48784cba5e24b34e0f12c803324fdabbb74df266",
+      "title": "Emergency Hotlines Issued for Exam Candidates Ahead of Potential Disasters",
+      "sent_at": "2026-02-23T07:57:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/red-alerts-lifted-for-15-divisional-secretariat-divisions-level-2-warnings-for-8-districts-remain-in-effect",
+      "content_hash": "2a62d35af745c4d084add11abe1a77c72c27a1651c5395f9a64c45347eccd6d2",
+      "title": "Red Alerts Lifted for 15 Divisional Secretariat Divisions, Level 2 Warnings for 8 Districts Remain In Effect",
+      "sent_at": "2026-02-23T07:57:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/sri-lanka-on-track-for-next-imf-tranche-confirms-deputy-minister",
+      "content_hash": "f1a78ed3b854cca130b3d4dbda197c73aa0abb3d89102c9440a5a98289f61537",
+      "title": "Sri Lanka on Track for Next IMF Tranche, Confirms Deputy Minister",
+      "sent_at": "2026-02-23T07:57:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/sri-lanka-sees-export-opportunity-amidst-proposed-u-s-tariffs",
+      "content_hash": "f54853000dc4db6cd17334641d217a2d759f0922811e3ad766f470bbf9f39766",
+      "title": "Sri Lanka Sees Export Opportunity Amidst Proposed U.S. Tariffs",
+      "sent_at": "2026-02-23T07:57:33Z"
     }
   ]
 }
