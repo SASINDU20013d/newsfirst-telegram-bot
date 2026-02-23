@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/16/imf-managing-director-kristalina-georgieva-in-sri-lanka-for-official-visit",
-      "content_hash": "1a4be2c4d014e8e72f92220e730a5fd92a45961070871ce6d81f43eda28c94a0",
-      "title": "IMF Managing Director Kristalina Georgieva In Sri Lanka For Official Visit",
-      "sent_at": "2026-02-16T11:42:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/16/nationwide-court-boycott-as-lawyers-demand-justice-over-akuregoda-double-murder",
-      "content_hash": "a948f7bb23d5d1aac41a7098e7f0c2741ca0dddb8672d128a10824f6ecb0c568",
-      "title": "Nationwide Court Boycott as Lawyers Demand Justice Over Akuregoda Double Murder",
-      "sent_at": "2026-02-16T13:13:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/16/because-of-you-pakistan-credits-sri-lankan-president-for-saving-indopak-match",
       "content_hash": "f74223e2c0af5f3888e3b2e6798a2f50bf78abecbd62a6769b0bbd2ae4bf264c",
       "title": "'Because of You': Pakistan Credits Sri Lankan President for Saving Indo–Pak Match",
@@ -869,6 +857,18 @@
       "content_hash": "8d0b930ff53bd9436c602cdca0642506a95421dece0c885993c91c9c0b14714e",
       "title": "Second Arrest Made Over Akuregoda Double Murder of Buddhika Mallawarachchi and Wife",
       "sent_at": "2026-02-23T11:42:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/presidential-commission-extends-deadline-for-public-complaints-on-colombo-municipal-council-corruption-probe",
+      "content_hash": "588a1e7d437b44e35b314e3d30cef137a830df83d3fa884ab69584cab71782ff",
+      "title": "Presidential Commission Extends Deadline for Public Complaints on Colombo Municipal Council Corruption Probe",
+      "sent_at": "2026-02-23T13:15:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/23/sri-lanka-police-arrest-958-suspects-in-24-hour-anti-drug-crackdown",
+      "content_hash": "b5d0a8c9bcb9802e08ae0c4f04a789aa920a350e75fe4719fe6becf7103590ed",
+      "title": "Sri Lanka Police Arrest 958 Suspects in 24-Hour Anti-Drug Crackdown",
+      "sent_at": "2026-02-23T13:15:27Z"
     }
   ]
 }
