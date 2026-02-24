@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/17/dr-parakrama-dissanayake-appointed-as-new-chairman-of-slpa",
-      "content_hash": "d441a5b68e7354a1671bd728dec922c9c8bb1d15b213f8fb5614ff5b1e32f421",
-      "title": "Dr. Parakrama Dissanayake Appointed as New Chairman of SLPA",
-      "sent_at": "2026-02-17T07:56:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/gunmen-identified-in-akuregoda-double-murder-special-operations-underway-to-arrest-suspects",
-      "content_hash": "69d8e1be8c374ae983d033963fa94a5a582490580995ed128bd73df6898bdd60",
-      "title": "Gunmen Identified in Akuregoda Double Murder; Special Operations Underway to Arrest Suspects",
-      "sent_at": "2026-02-17T08:53:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/imf-managing-director-kristalina-georgieva-visits-gampola-to-assess-cyclone-damage",
-      "content_hash": "3d52e7a546efd34874635978991e670ea5127873c17ceb05c3f7497c08ca382f",
-      "title": "IMF Managing Director Kristalina Georgieva Visits Gampola to Assess Cyclone Damage",
-      "sent_at": "2026-02-17T08:53:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/minister-ananda-wijepala-assures-parliament-no-threat-to-national-security",
-      "content_hash": "032ff626a83e21b73047d5f43e0ad48fbad340bbb4536b61452fb9e61c8991a9",
-      "title": "Minister Ananda Wijepala Assures Parliament: No Threat to National Security",
-      "sent_at": "2026-02-17T08:53:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/minister-nalinda-jayatissa-to-attend-swearing-in-ceremony-of-new-bangladesh-cabinet",
-      "content_hash": "27a2920bd6dd581dcacc2598b20d8bb29cdeeb9dd593a5a9c8ef1e20a8a24576",
-      "title": "Minister Nalinda Jayatissa to Attend Swearing-in Ceremony of New Bangladesh Cabinet",
-      "sent_at": "2026-02-17T08:53:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/17/president-dissanayake-departs-for-india-to-join-global-leaders-at-4th-ai-impact-summit-in-india",
       "content_hash": "58256bdb71f441dd930492c6fc0ab3873071603b8a40abdaac19c4bc4ddbfb2c",
       "title": "President Dissanayake Departs for India to Join Global Leaders at 4th AI Impact Summit in India",
@@ -869,6 +839,24 @@
       "content_hash": "d303f5ca8e65a6efa6334175112411fbd088a947af78ccf4fd55b84c1dd3912f",
       "title": "Sri Lanka’s Registered Political Parties Rise to 85 Amid Election Delays",
       "sent_at": "2026-02-24T07:12:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/76-000-applications-received-under-%e2%80%98himikama%e2%80%99-land-programme",
+      "content_hash": "4f64671bee2db423408b32638a4862000d9fbd1ce5c655f7cd4e0f598a394863",
+      "title": "76,000 Applications Received Under ‘Himikama’ Land Programme",
+      "sent_at": "2026-02-24T08:55:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/customs-officers-launch-black-armband-protest",
+      "content_hash": "2221f701e6a873fc5be68f198645e010484291ef98af9a25fb2799f0e01da6c1",
+      "title": "Customs Officers Launch Black Armband Protest",
+      "sent_at": "2026-02-24T08:55:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/luxury-cruise-ship-crystal-symphony-docks-in-trincomalee",
+      "content_hash": "ec38b7a8a593eea8411f6019eda55cff162d5a9979b3de91ca32975e26809454",
+      "title": "Luxury Cruise Ship 'Crystal Symphony' Docks in Trincomalee",
+      "sent_at": "2026-02-24T08:55:30Z"
     }
   ]
 }
