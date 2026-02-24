@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/17/2025-g-c-e-o-l-exams-kick-off-today-over-450-000-candidates-head-to-exam-centers",
-      "content_hash": "2687709e475556ea286e79f01c39ff5ea4ecec452680e89ab94b9833ff338818",
-      "title": "2025 G.C.E. O/L Exams Kick Off Today: Over 450,000 Candidates Head to Exam Centers",
-      "sent_at": "2026-02-17T02:32:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/president-dissanayake-to-join-global-leaders-at-4th-ai-impact-summit-in-india",
-      "content_hash": "2540fc2bb9233b96509161812636cd57d7a7b95e8e06ddd5aecb0876be5e6a98",
-      "title": "President Dissanayake to Join Global Leaders at 4th AI Impact Summit in India",
-      "sent_at": "2026-02-17T02:32:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/robert-duvall-oscar-winning-actor-and-star-of-the-godfather-dies-aged-95",
-      "content_hash": "9cc6c330692948f508c3bf5762c2fafeda93d4d5673031c2c6589f528df780b1",
-      "title": "Robert Duvall, Oscar-Winning Actor and Star of 'The Godfather', Dies Aged 95",
-      "sent_at": "2026-02-17T02:32:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/tokyo-pushes-colombo-for-effective-single-window-investment-system",
-      "content_hash": "d003eb545301eaa4156d5c23495eeae72c3d142c93267b4c7e43a19da570d70b",
-      "title": "Tokyo Pushes Colombo for Effective Single -Window Investment System",
-      "sent_at": "2026-02-17T02:32:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/17/parliament-to-vote-on-abolishing-mp-pensions-today",
       "content_hash": "51b25344c223ee1a0ef074a38ac782906bd0ea70d6ee9a25a99d6507e3dd4f54",
       "title": "Parliament to Vote on Abolishing MP Pensions Today",
@@ -863,6 +839,18 @@
       "content_hash": "9ab3989e35821207672a8f1a827ef97cb4e890ab02054bcd0dcb72e20961ea42",
       "title": "Supreme Court Orders Contempt Charges Against Former NIE Director",
       "sent_at": "2026-02-23T14:52:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/committee-on-public-enterprises-to-launch-comprehensive-probe-into-coal-import-procedure",
+      "content_hash": "a1c2b6debf497e623d0b5d60bf50b056a198239ff5e53ef3b65d7e73428baf69",
+      "title": "Committee on Public Enterprises to Launch Comprehensive Probe into Coal Import Procedure",
+      "sent_at": "2026-02-24T02:33:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/ministry-of-education-finalizes-new-grade-six-learning-modules-under-reform-plan",
+      "content_hash": "0d35baa5e721611487967d8d5006a0c23a10d56a05fb66942d8b40458127c812",
+      "title": "Ministry of Education Finalizes New Grade Six Learning Modules Under Reform Plan",
+      "sent_at": "2026-02-24T02:33:04Z"
     }
   ]
 }
