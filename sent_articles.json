@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/17/president-dissanayake-departs-for-india-to-join-global-leaders-at-4th-ai-impact-summit-in-india",
-      "content_hash": "58256bdb71f441dd930492c6fc0ab3873071603b8a40abdaac19c4bc4ddbfb2c",
-      "title": "President Dissanayake Departs for India to Join Global Leaders at 4th AI Impact Summit in India",
-      "sent_at": "2026-02-17T10:52:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/17/georgieva-praises-sri-lanka%e2%80%99s-relief-efforts-after-ditwah",
       "content_hash": "dcf3a1727ed2fcc216b6ca66312a5279bb27de3d99d30673a1825802304af931",
       "title": "Georgieva Praises Sri Lanka’s Relief Efforts After Ditwah",
@@ -887,6 +881,12 @@
       "content_hash": "ce773b6e09a8f60585b4e791fe1b2fdcff079a939a432b703b47763a717dfb6d",
       "title": "Two Arrested for Drug Distribution Linked to Organized Crime Syndicates",
       "sent_at": "2026-02-24T09:57:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/police-foil-gruesome-murder-plan-linked-to-major-drug-bust",
+      "content_hash": "823d6ce0827eaf869ce996df350cd45b0fb4ff4447ba2d3f660e299464d148ae",
+      "title": "Police Foil Gruesome Murder Plan Linked To Major Drug Bust",
+      "sent_at": "2026-02-24T10:53:57Z"
     }
   ]
 }
