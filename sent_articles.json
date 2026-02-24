@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/17/parliament-to-vote-on-abolishing-mp-pensions-today",
-      "content_hash": "51b25344c223ee1a0ef074a38ac782906bd0ea70d6ee9a25a99d6507e3dd4f54",
-      "title": "Parliament to Vote on Abolishing MP Pensions Today",
-      "sent_at": "2026-02-17T04:56:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/public-consultation-on-electricity-tariff-revision-to-begin-february-27",
-      "content_hash": "4c5725a73af589902bbc13559db872d6e015b9d734569aa44080b4b45728d5c1",
-      "title": "Public Consultation on Electricity Tariff Revision to Begin February 27",
-      "sent_at": "2026-02-17T04:56:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/uk-deputy-pm-david-lammy-arrives-in-sri-lanka-for-high-level-diplomatic-talks",
-      "content_hash": "bd80ccd9168ecefb05505ed745103968718604288b56cad5341a991e4306f45f",
-      "title": "UK Deputy PM David Lammy Arrives in Sri Lanka for High-Level Diplomatic Talks",
-      "sent_at": "2026-02-17T04:56:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/uk-deputy-pm-david-lammy-to-arrive-in-sri-lanka-for-high-level-diplomatic-talks",
-      "content_hash": "fda0313049d7ccb83c9f301dfd55bcb02e017cfec97d96ae2554ac8d22540090",
-      "title": "UK Deputy PM David Lammy to Arrive in Sri Lanka for High-Level Diplomatic Talks",
-      "sent_at": "2026-02-17T04:56:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/17/japansri-lanka-economic-dialogue-revived-after-10-years",
       "content_hash": "6ae5807c3c651b982586080f84306c25d28f56048a0c8f422334c4bf347e3cdd",
       "title": "Japan–Sri Lanka Economic Dialogue Revived After 10 Years",
@@ -875,6 +851,24 @@
       "content_hash": "4d92cfcadb13c60d36e337b38e86294602bc631c0741121c12e50b7df5c53469",
       "title": "Standardized Business Registration Process to be Introduced in March, says Deputy Minister of Industries",
       "sent_at": "2026-02-24T04:55:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/former-police-inspector-jagath-nishantha-arrested-over-w15-hotel-shooting-incident",
+      "content_hash": "8cde2ffc347073cd3b4b45a0731554935d4d0ca50900e63020bcbc9fd56e2332",
+      "title": "Former Police Inspector Jagath Nishantha Arrested Over W15 Hotel Shooting Incident",
+      "sent_at": "2026-02-24T06:02:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/mayweather-vs-pacquiao-rematch-officially-set-for-september",
+      "content_hash": "aca97e24ab6de0644b2ac6210456360edbd396d0f4dd9587cf3f1800537c3fce",
+      "title": "Mayweather vs. Pacquiao Rematch Officially Set for September",
+      "sent_at": "2026-02-24T06:02:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/wadduwa-bus-crash-drivers-admitted-to-panadura-base-hospital-for-treatment",
+      "content_hash": "77c34446f83fe19d570538775443d7f53e82d43e15c34cd2244b1201b7e84224",
+      "title": "Wadduwa Bus Crash; Drivers Admitted to Panadura Base Hospital for Treatment",
+      "sent_at": "2026-02-24T06:02:22Z"
     }
   ]
 }
