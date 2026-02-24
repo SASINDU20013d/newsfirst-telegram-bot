@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/17/georgieva-praises-sri-lanka%e2%80%99s-relief-efforts-after-ditwah",
-      "content_hash": "dcf3a1727ed2fcc216b6ca66312a5279bb27de3d99d30673a1825802304af931",
-      "title": "Georgieva Praises Sri Lanka’s Relief Efforts After Ditwah",
-      "sent_at": "2026-02-17T11:42:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/sri-lanka-has-come-a-long-way-imf-s-kristalina-georgieva-meets-akd",
-      "content_hash": "2ed3040e167fb200e37c847c22b6db9a57befc5f1a709b25aa2744f04bd9ee54",
-      "title": "'Sri Lanka Has Come a Long Way': IMF's Kristalina Georgieva Meets AKD",
-      "sent_at": "2026-02-17T11:42:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/suspect-arrested-for-aiding-and-abetting-murder-of-kalutara-north-shop-owner",
-      "content_hash": "d536df97e14545dc6fe908aebace4f50f9c55b4d18ae1869984f62c8e61823ca",
-      "title": "Suspect Arrested for Aiding and Abetting Murder of Kalutara North Shop Owner",
-      "sent_at": "2026-02-17T11:42:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/17/two-police-officers-arrested-over-jinthupitiya-shooting",
-      "content_hash": "e5c65d6088fdeea12c197818176afc114181f0f437fbbe30cf40325e3db7f07b",
-      "title": "Two Police Officers Arrested Over Jinthupitiya Shooting",
-      "sent_at": "2026-02-17T11:42:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/17/two-brothers-detained-for-questioning-over-akuregoda-double-murder",
       "content_hash": "05b1d4ebed54fd5c1a7dfed10ab7238a2a850ba5935130d790f28b2592f25639",
       "title": "Two Brothers Detained for Questioning Over Akuregoda Double Murder",
@@ -887,6 +863,18 @@
       "content_hash": "823d6ce0827eaf869ce996df350cd45b0fb4ff4447ba2d3f660e299464d148ae",
       "title": "Police Foil Gruesome Murder Plan Linked To Major Drug Bust",
       "sent_at": "2026-02-24T10:53:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/cbsl%e2%80%99s-bank-consolidation-plan-is-credit-positive-says-fitch",
+      "content_hash": "e82c23ae004b6b12b847f1e4e77176fc18513efc61a775efd80051f509a53175",
+      "title": "CBSL’s Bank Consolidation Plan Is Credit-Positive, Says Fitch",
+      "sent_at": "2026-02-24T11:43:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/24/former-police-inspector-remanded-over-w15-shooting",
+      "content_hash": "caa4b226d8cc8e703f03ee2535aea449fcd136535c02f6fbb3873231a3803fec",
+      "title": "Former Police Inspector Remanded Over W15 Shooting",
+      "sent_at": "2026-02-24T11:43:10Z"
     }
   ]
 }
