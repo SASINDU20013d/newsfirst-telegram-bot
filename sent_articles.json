@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/18/major-water-cut-hits-multiple-colombo-suburbs",
-      "content_hash": "01518bf1b4fe2b208f3db967f625478f448bac42a1e67cefdb9e6707b0371e94",
-      "title": "Major Water Cut Hits Multiple Colombo Suburbs",
-      "sent_at": "2026-02-18T07:13:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/parliament-chief-of-staff-requests-one-month-to-respond-to-allegations",
-      "content_hash": "8f5eba24ab6ae2c8bd5f4d1637644d4a992d600db9b678711fbc8e68562df68c",
-      "title": "Parliament Chief of Staff Requests One Month to Respond to Allegations",
-      "sent_at": "2026-02-18T07:13:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/president-dissanayake-meets-us-envoy-sergio-gor-during-new-delhi-visit-for-ai-impact-summit-2026",
-      "content_hash": "f97a1d0d47ef0767244a33d51b838e12c9f4a20238f29f137f3962cb0237aabb",
-      "title": "President Dissanayake Meets US Envoy Sergio Gor During New Delhi Visit for AI Impact Summit 2026",
-      "sent_at": "2026-02-18T07:14:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/sri-lanka-weighs-social-media-restrictions-for-under-16s",
-      "content_hash": "1a09b0dc0cf754a372711a054f1853df96657cc2fdc7cee904a41684ffd69888",
-      "title": "Sri Lanka Weighs Social Media Restrictions for Under-16s",
-      "sent_at": "2026-02-18T07:14:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/18/jaffna-emerges-as-a-must%e2%80%91visit-destination-as-cond%c3%a9-nast-traveller-india-celebrates-sri-lanka%e2%80%99s-%e2%80%98final-frontier%e2%80%99",
       "content_hash": "137a3c9a3982c274dd8a5f5b1ec395880bd1fe9716026e0c11022b11d86701dd",
       "title": "Jaffna Emerges as a Must‑Visit Destination as Condé Nast Traveller India Celebrates Sri Lanka’s ‘Final Frontier’",
@@ -881,6 +857,12 @@
       "content_hash": "26c390afea824523c2cb5677fe143be3d220f4bc26ffd0a14c1381ce8ba9d713",
       "title": "Former Intelligence Chief Retired Major General Suresh Sallay Arrested Over Easter Sunday Attacks",
       "sent_at": "2026-02-25T04:56:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/deadline-revised-for-degree-qualification-for-graduates-applying-for-teacher-service-exam",
+      "content_hash": "863cf4172d8384f6254c2cb847e9d1e27686f285abf467aa75a59a8cc353fc8f",
+      "title": "Deadline Revised for Degree Qualification for Graduates Applying for Teacher Service Exam",
+      "sent_at": "2026-02-25T07:14:12Z"
     }
   ]
 }
