@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/18/former-first-lady-maithree-wickremesinghe-summoned-by-cid-over-financial-crimes-investigation",
-      "content_hash": "6eb916b0ce0ef0ac37f8bfffd1a9abe8f11953ac1a5b84058246fdebffb86f86",
-      "title": "Former First Lady Maithree Wickremesinghe Summoned by CID over Financial Crimes Investigation",
-      "sent_at": "2026-02-18T14:50:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/18/muslims-in-sri-lanka-to-begin-fasting-from-tomorrow",
       "content_hash": "f7e8e608559f73486d6ff2e82f3c323364d20df9f55665eaef765a44aa563afe",
       "title": "Muslims In Sri Lanka To Begin Fasting From Tomorrow",
@@ -881,6 +875,18 @@
       "content_hash": "40e1aad41e99098442abd6c623342b15629cd3d25e775e6cfd9680c77803452b",
       "title": "Mastermind Question Emerges as Ex‑Intel Chief Arrested",
       "sent_at": "2026-02-25T13:15:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/cid-investigates-threats-to-public-security-minister-and-deputy-minister",
+      "content_hash": "e12cbacda85c823cef25c415839dd34866b381ce601cada4c6fdab3e438d860f",
+      "title": "CID Investigates Threats to Public Security Minister and Deputy Minister",
+      "sent_at": "2026-02-25T14:54:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/police-probe-scam-calls-targeting-hotels-and-businesses",
+      "content_hash": "420c93d1f7edbd0af64f71f4bfb7097fdb342f034dfdeb648467cc13bd922319",
+      "title": "Police Probe Scam Calls Targeting Hotels and Businesses",
+      "sent_at": "2026-02-25T14:54:39Z"
     }
   ]
 }
