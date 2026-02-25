@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/18/former-presidential-secretary-saman-ekanayake-granted-bail",
-      "content_hash": "e4e8793fddbbf465ba20978f346629fa97ca2904e0baa004ca0898b251a7d795",
-      "title": "Former Presidential Secretary Saman Ekanayake Granted Bail",
-      "sent_at": "2026-02-18T09:54:35Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/18/bimal-rathnayake-criticizes-railway-strike-during-critical-infrastructure-restoration",
       "content_hash": "0549276fe6783608c681198f37cf1fab29c9fe3a6d4a21df6f454d3a9f4323dd",
       "title": "Bimal Rathnayake Criticizes Railway Strike During Critical Infrastructure Restoration",
@@ -869,6 +863,30 @@
       "content_hash": "227a99816c7a8f1c7de1361747abe5bd3f28f89d1a07c7d586d06d8461d85e65",
       "title": "Three Dead In Separate Incidents: Two Road Accidents And Fatal Assault In Sri Lanka",
       "sent_at": "2026-02-25T08:56:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/avant-garde-writ-cases-thrown-out-by-appeals-court",
+      "content_hash": "05f5fb0b2161ecf9b80b341bfd47a918df9c3068e417af49478a0cc860c22393",
+      "title": "Avant Garde Writ Cases Thrown Out by Appeals Court",
+      "sent_at": "2026-02-25T09:59:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/daisy-forrest-released-charges-now-only-against-yoshitha-rajapaksa",
+      "content_hash": "8b01a92c62f2420bc189ac55d22defcf31b1af577a309f3f1de83a1c130692f1",
+      "title": "Daisy Forrest Released; Charges Now Only Against Yoshitha Rajapaksa",
+      "sent_at": "2026-02-25T09:59:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/former-intelligence-chief-suresh-salley-held-on-72%e2%80%91hour-detention-order",
+      "content_hash": "00a35bedd2d8c49da500ec29d62ffc97c17a34c8ef7a6d277b27bd0affee3eca",
+      "title": "Former Intelligence Chief Suresh Salley Held on 72‑Hour Detention Order",
+      "sent_at": "2026-02-25T09:59:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/sri-lanka%e2%80%99s-foreign-minister-to-visit-romania-for-high%e2%80%91level-talks",
+      "content_hash": "d4c245befed5d2fc075b4b0870d86110940f824c30326a1904e39c0ee05a510c",
+      "title": "Sri Lanka’s Foreign Minister to Visit Romania for High‑Level Talks",
+      "sent_at": "2026-02-25T09:59:16Z"
     }
   ]
 }
