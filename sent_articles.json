@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/18/imf-chief-kristalina-georgieva-hails-sri-lanka%e2%80%99s-recovery-calls-imf-programme-a-success-story",
-      "content_hash": "6b7de7766563418a911d1369e92e519fc291993253db578431990c75c429728f",
-      "title": "IMF Chief Kristalina Georgieva Hails Sri Lanka’s Recovery, Calls IMF Programme A Success Story",
-      "sent_at": "2026-02-18T02:35:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/parliament-to-convene-today-judicature-and-dangerous-drugs-amendment-bills-taken-up-for-debate",
-      "content_hash": "be49bb55c5f92e5991ba06f1cbd2bbbe24879f10662aad773b89450e3f661491",
-      "title": "Parliament to Convene today, Judicature And Dangerous Drugs Amendment Bills Taken Up for Debate",
-      "sent_at": "2026-02-18T02:35:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/railway-strike-called-off-services-to-continue-as-usual-today",
-      "content_hash": "8e6ab2a87cca64baf7068ee7fb77ccefc2d899db343f73f25df6e1d459ab8aef",
-      "title": "Railway Strike Called Off: Services to Continue As Usual Today",
-      "sent_at": "2026-02-18T02:35:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/18/major-water-cut-hits-multiple-colombo-suburbs",
       "content_hash": "01518bf1b4fe2b208f3db967f625478f448bac42a1e67cefdb9e6707b0371e94",
       "title": "Major Water Cut Hits Multiple Colombo Suburbs",
@@ -893,6 +875,12 @@
       "content_hash": "e5cc636a00e08f12fd6c9b0e0d56258bfe5cf56abe6aa6b5d507cf137981b7ab",
       "title": "Sri Lanka Targets $5 Billion Tourism Revenue for 2026",
       "sent_at": "2026-02-25T02:34:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/former-intelligence-chief-retired-major-general-suresh-sallay-arrested-over-easter-sunday-attacks",
+      "content_hash": "26c390afea824523c2cb5677fe143be3d220f4bc26ffd0a14c1381ce8ba9d713",
+      "title": "Former Intelligence Chief Retired Major General Suresh Sallay Arrested Over Easter Sunday Attacks",
+      "sent_at": "2026-02-25T04:56:18Z"
     }
   ]
 }
