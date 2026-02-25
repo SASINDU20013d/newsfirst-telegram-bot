@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/18/fonseka-accuses-rajapaksas-of-secret-ltte-dealings",
-      "content_hash": "85c6489a57120ca26098d7ba53ccca59eb95d481d43b9becdcd60ed061efa2cf",
-      "title": "Fonseka Accuses Rajapaksas of Secret LTTE Dealings",
-      "sent_at": "2026-02-18T13:14:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/pathum-nissanka-climbs-three-spots-to-world-no-3-in-t20i-batting",
-      "content_hash": "5afcd8351d30a5685dde742c8ea107752b2cce67c89c1b44ab05f13f8eb5905d",
-      "title": "Pathum Nissanka Climbs Three Spots to World No. 3 in T20I Batting",
-      "sent_at": "2026-02-18T13:15:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/s-m-ranjith-faces-fresh-trial-date-in-corruption-case",
-      "content_hash": "ca0f4d550fa5b7ea62b4eb19d89003625e799eed179a20225fc8858c7c961596",
-      "title": "S.M. Ranjith Faces Fresh Trial Date in Corruption Case",
-      "sent_at": "2026-02-18T13:15:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/slpp-wenappuwa-ps-member-among-duo-jailed-for-land-deed-forgery",
-      "content_hash": "f2260278ee1a75c9991a2c2ebd121769db2a7ce269edfcf6ee2c61c32873e05b",
-      "title": "SLPP Wenappuwa PS Member Among Duo Jailed for Land Deed Forgery",
-      "sent_at": "2026-02-18T13:15:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/18/former-first-lady-maithree-wickremesinghe-summoned-by-cid-over-financial-crimes-investigation",
       "content_hash": "6eb916b0ce0ef0ac37f8bfffd1a9abe8f11953ac1a5b84058246fdebffb86f86",
       "title": "Former First Lady Maithree Wickremesinghe Summoned by CID over Financial Crimes Investigation",
@@ -899,6 +875,12 @@
       "content_hash": "dfad1a8006c72069633a62208e94a2b874446389af6993b42e420675038a6c23",
       "title": "Sampath Manamperi Remanded Until March 4",
       "sent_at": "2026-02-25T11:42:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/mastermind-question-emerges-as-ex%e2%80%91intel-chief-arrested",
+      "content_hash": "40e1aad41e99098442abd6c623342b15629cd3d25e775e6cfd9680c77803452b",
+      "title": "Mastermind Question Emerges as Ex‑Intel Chief Arrested",
+      "sent_at": "2026-02-25T13:15:33Z"
     }
   ]
 }
