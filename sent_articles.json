@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/18/jaffna-emerges-as-a-must%e2%80%91visit-destination-as-cond%c3%a9-nast-traveller-india-celebrates-sri-lanka%e2%80%99s-%e2%80%98final-frontier%e2%80%99",
-      "content_hash": "137a3c9a3982c274dd8a5f5b1ec395880bd1fe9716026e0c11022b11d86701dd",
-      "title": "Jaffna Emerges as a Must‑Visit Destination as Condé Nast Traveller India Celebrates Sri Lanka’s ‘Final Frontier’",
-      "sent_at": "2026-02-18T08:52:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/kristalina-georgieva-commends-sri-lanka%e2%80%99s-recovery-drive-after-cyclone",
-      "content_hash": "aaedd7619813bd8e2cf46ae0940beada12048ae08a86b01e54707fa7deb0f608",
-      "title": "Kristalina Georgieva Commends Sri Lanka’s Recovery Drive After Cyclone",
-      "sent_at": "2026-02-18T08:52:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/matheesha-replacement-dilshan-madushanka-decision-on-wanindu-hasaranga-pending",
-      "content_hash": "ecb2a543473ab6c21c1aae2ca54c915d77645a227ed6d3938a4ffe85800fabd4",
-      "title": "Matheesha Replacement: Dilshan Madushanka? Decision On Wanindu Hasaranga Pending",
-      "sent_at": "2026-02-18T08:52:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/sri-lanka-launch-digital-nomad-visa",
-      "content_hash": "7bd08f05336032edadf9052a295a3d10f11bbf652e00a327b658985ef17d184a",
-      "title": "Sri Lanka Launch 'Digital Nomad Visa'",
-      "sent_at": "2026-02-18T08:52:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/18/vatican-says-it-will-not-participate-in-trump-s-board-of-peace",
-      "content_hash": "1f9cc63eb5b864af1302b2f683418d5b232455cce4ab400bf3ac9732210b5f27",
-      "title": "Vatican says it will not participate in Trump's 'Board of Peace'",
-      "sent_at": "2026-02-18T08:53:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/18/former-presidential-secretary-saman-ekanayake-granted-bail",
       "content_hash": "e4e8793fddbbf465ba20978f346629fa97ca2904e0baa004ca0898b251a7d795",
       "title": "Former Presidential Secretary Saman Ekanayake Granted Bail",
@@ -863,6 +833,42 @@
       "content_hash": "863cf4172d8384f6254c2cb847e9d1e27686f285abf467aa75a59a8cc353fc8f",
       "title": "Deadline Revised for Degree Qualification for Graduates Applying for Teacher Service Exam",
       "sent_at": "2026-02-25T07:14:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/fisherman-missing-after-boat-found-ashore-in-ambalantota",
+      "content_hash": "37315d11ba6f88c8cd2fef7a9d3f0f54df5da5ee62c185ebb87409271bd82f72",
+      "title": "Fisherman Missing After Boat Found Ashore In Ambalantota",
+      "sent_at": "2026-02-25T08:56:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/over-120-000-arrested-in-four-months-under-anti-narcotics-drive",
+      "content_hash": "7cabad76689507870d4f7f6a524e879cc86b9e713572bd57c296cb06f0d58885",
+      "title": "Over 120,000 Arrested in Four Months Under Anti-Narcotics Drive",
+      "sent_at": "2026-02-25T08:56:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/portugal-agrees-to-joint-committee-on-returning-sri-lanka%e2%80%99s-historical-artefacts",
+      "content_hash": "7642c4327c3fd39d5db032b09d79da8e6fef56063348571f938f993ebb5934ae",
+      "title": "Portugal Agrees to Joint Committee on Returning Sri Lanka’s Historical Artefacts",
+      "sent_at": "2026-02-25T08:56:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/sri-lanka-portugal-discuss-tourism-and-energy-cooperation",
+      "content_hash": "289c18d2f8dcf9b2c5afce06934e2c76619e92a032367c8be5f147e77c0f8c9a",
+      "title": "Sri Lanka, Portugal Discuss Tourism and Energy Cooperation",
+      "sent_at": "2026-02-25T08:56:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/sri-lanka-to-face-new-zealand-in-crucial-super-8-clash-today-special-traffic-plan-in-place-around-rps",
+      "content_hash": "0cdd084de757897c7af7462b6427d4e87c9f7df7bcd5541e7ba2847a3827f1bc",
+      "title": "Sri Lanka to Face New Zealand in Crucial Super 8 Clash Today; Special Traffic Plan in Place around RPS",
+      "sent_at": "2026-02-25T08:56:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/three-dead-in-separate-incidents-two-road-accidents-and-fatal-assault-in-sri-lanka",
+      "content_hash": "227a99816c7a8f1c7de1361747abe5bd3f28f89d1a07c7d586d06d8461d85e65",
+      "title": "Three Dead In Separate Incidents: Two Road Accidents And Fatal Assault In Sri Lanka",
+      "sent_at": "2026-02-25T08:56:18Z"
     }
   ]
 }
