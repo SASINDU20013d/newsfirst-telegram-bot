@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/18/muslims-in-sri-lanka-to-begin-fasting-from-tomorrow",
-      "content_hash": "f7e8e608559f73486d6ff2e82f3c323364d20df9f55665eaef765a44aa563afe",
-      "title": "Muslims In Sri Lanka To Begin Fasting From Tomorrow",
-      "sent_at": "2026-02-18T15:56:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/19/farmers%e2%80%99-pensions-suspended-after-six-months",
       "content_hash": "ffb350ea0dfe15a9d044f9820c922ba357feb510d68adb91f4f467db693798e8",
       "title": "Farmers’ Pensions Suspended After Six Months",
@@ -887,6 +881,12 @@
       "content_hash": "420c93d1f7edbd0af64f71f4bfb7097fdb342f034dfdeb648467cc13bd922319",
       "title": "Police Probe Scam Calls Targeting Hotels and Businesses",
       "sent_at": "2026-02-25T14:54:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/25/cbsl-issues-public-warning-24-entities-named-in-prohibited-pyramid-scheme-investigation",
+      "content_hash": "a99ace0f90c2244bc5b0aadc58456b9857ab84461998e62651cd5b33af0ae826",
+      "title": "CBSL Issues Public Warning: 24 Entities Named in Prohibited Pyramid Scheme Investigation",
+      "sent_at": "2026-02-25T16:08:19Z"
     }
   ]
 }
