@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/19/22-indian-fishermen-arrested-in-sri-lankan-waters",
-      "content_hash": "303cf6c4580d75b271333f5f488f632bf514f16ba00653fa892c1b5bb18e3f91",
-      "title": "22 Indian Fishermen Arrested in Sri Lankan Waters",
-      "sent_at": "2026-02-19T09:53:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/imf-commitments-revised-to-ease-public-burden-deputy-minister-confirms",
-      "content_hash": "b0c8c8f271903f3b6e95125892571270ee8655911a4e97cd0f3c16084d54b72f",
-      "title": "IMF Commitments Revised to Ease Public Burden : Deputy Minister Confirms",
-      "sent_at": "2026-02-19T09:53:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/rivals-meet-no-handholding-viral-moment-between-ai-ceos-at-new-delhi-summit",
-      "content_hash": "06cfe04a0fe290421a1997ebc272a795d64dd741aa564cb34c30035a0c4a1832",
-      "title": "Rivals Meet, No Handholding: Viral Moment Between AI CEOs at New Delhi Summit",
-      "sent_at": "2026-02-19T09:54:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/19/ganemulla-sanjeewa-murder-linked-to-bank-accounts",
       "content_hash": "d12ec3dbf5f71071405bbc84b4ae22247fc2fd44c1bc2c18b535f3263376f369",
       "title": "Ganemulla Sanjeewa Murder Linked to Bank Accounts",
@@ -917,6 +899,36 @@
       "content_hash": "597d01d3dfaedda7ca504dc5305811e5c1e169e78cba54d011261abc053775b1",
       "title": "Russia Considers Fuel Support For Cuba As Canada Pledges Food Aid",
       "sent_at": "2026-02-26T08:55:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/governance-anti-corruption-are-the-next-big-reforms",
+      "content_hash": "95007d976f90e90ab2b801b7220e418a4cbdf7227c342766a368430dc4fe2397",
+      "title": "Governance & Anti-Corruption Are the Next Big Reforms",
+      "sent_at": "2026-02-26T09:55:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/karunananda-keeps-running-in-japan-sri-lankan-olympian-still-taught-in-japanese-schools",
+      "content_hash": "76727eccab62fa91b06823ab0f869279f6da953c2695b6f3b8b4dc4f52006fb5",
+      "title": "'Karunananda Keeps Running in Japan' - Sri Lankan Olympian Still Taught in Japanese Schools",
+      "sent_at": "2026-02-26T09:55:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/sri-lanka-has-room-to-cut-rates-if-growth-slows-cbsl-governor",
+      "content_hash": "3a6ef9784395df7389e6c56d536dffaa01d97259cdd3500d925de2071364dd5a",
+      "title": "Sri Lanka Has Room to Cut Rates if Growth Slows, CBSL Governor",
+      "sent_at": "2026-02-26T09:55:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/sri-lanka-targets-growth-as-key-competitive-advantage",
+      "content_hash": "4d90785e6090109352512e58370884ce727c867dcaf4c5f4021cb82706779a34",
+      "title": "Sri Lanka Targets Growth as Key Competitive Advantage",
+      "sent_at": "2026-02-26T09:55:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/sri-lankan-cricket-fans-demand-board-steps-down",
+      "content_hash": "9a8e16dcd3f7a9395a08a00a2f72242e74ffcce0213b58dc585fa14ae8055563",
+      "title": "Sri Lankan Cricket Fans Demand Board Steps Down",
+      "sent_at": "2026-02-26T09:55:48Z"
     }
   ]
 }
