@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/19/farmers%e2%80%99-pensions-suspended-after-six-months",
-      "content_hash": "ffb350ea0dfe15a9d044f9820c922ba357feb510d68adb91f4f467db693798e8",
-      "title": "Farmers’ Pensions Suspended After Six Months",
-      "sent_at": "2026-02-19T02:35:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/muslims-begin-ramadan-fasting-today",
-      "content_hash": "44214e28654aa210caad5f468fa32f2093d27baf9c3e09dba8b51419987b4158",
-      "title": "Muslims Begin Ramadan Fasting Today",
-      "sent_at": "2026-02-19T02:35:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/president-to-address-ai-impact-summit-2026-in-india",
-      "content_hash": "7621903b34970296d2c33cac333bdf520a752e3f8a8d512671ae3ed5dd33c946",
-      "title": "President To Address AI Impact Summit 2026 In India",
-      "sent_at": "2026-02-19T02:35:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/19/commander-of-the-us-pacific-fleet-to-visit-sri-lanka",
       "content_hash": "203c5c77769e0f5e25dc39c9daab86078ec7e9f5903a812a56adbbf15eda2e23",
       "title": "Commander of the US Pacific Fleet To Visit Sri Lanka",
@@ -911,6 +893,42 @@
       "content_hash": "682ce348748d48fcd15f653fa9de7d8603081cc833017cbbcffd93b3c74df637",
       "title": "Second Shooter and Accomplices Detained for 72-Hour Interrogation in Akuregoda Double Murder",
       "sent_at": "2026-02-26T02:30:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/109-year-old-loan-shock-indian-family-sends-britain-a-bill-for-an-unpaid-%e2%80%98war-debt%e2%80%99",
+      "content_hash": "de74eb9a851a80a7f94fac351682e8ebb64368393ff3aa343a865dda859d09dd",
+      "title": "109-Year-Old Loan Shock: Indian Family Sends Britain a Bill for an Unpaid ‘War Debt’",
+      "sent_at": "2026-02-26T04:53:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/cuban-forces-kill-four-attempting-to-%e2%80%98infiltrate%e2%80%99-island",
+      "content_hash": "c9b653240b4c8aa2ce634914d76ce735e868fea2a558676305e45ae8a1b77fd5",
+      "title": "Cuban Forces Kill Four Attempting To ‘Infiltrate’ Island",
+      "sent_at": "2026-02-26T04:53:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/female-youth-found-dead-in-an-abandoned-fishing-boat-at-mt-lavinia",
+      "content_hash": "6ad5b167d2ea2e549e2f0a8dcfe3cd478624b0f5cbe6427c860d2dff2d002c5d",
+      "title": "Female Youth Found Dead in an Abandoned Fishing Boat at Mt. Lavinia",
+      "sent_at": "2026-02-26T04:53:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/modi-becomes-first-world-leader-to-cross-100-million-followers-on-instagram",
+      "content_hash": "b76657e9f0013e5a6151b72c0d1a602372ce22ccf048b678ebbd1ebeb4914dc7",
+      "title": "Modi Becomes First World Leader To Cross 100 Million Followers On Instagram",
+      "sent_at": "2026-02-26T04:53:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/navy-reveals-unpaid-millions-security-risks-in-past-joint-venture",
+      "content_hash": "d75f8189c9e1bd759607368adb89166a9b61be13c2a7c3f409944c97fa384cf1",
+      "title": "Navy Reveals Unpaid Millions, Security Risks in Past Joint Venture",
+      "sent_at": "2026-02-26T04:53:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/sri-lanka-nears-breakthrough-on-paypal-remittances",
+      "content_hash": "ff02401d85c0f496b98005eaf2b0ff501c3f9a1cb9d751241095dc4c6386a707",
+      "title": "Sri Lanka Nears Breakthrough on PayPal Remittances",
+      "sent_at": "2026-02-26T04:53:55Z"
     }
   ]
 }
