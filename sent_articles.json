@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/19/fiji-s-ex-prime-minister-charged-with-inciting-mutiny",
-      "content_hash": "f1092fc411a1c35fdd41c37f07bac51e52ea4b25dc30997ba4e545503f3d8cf2",
-      "title": "Fiji's Ex-Prime Minister Charged With Inciting Mutiny",
-      "sent_at": "2026-02-19T06:02:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/five-arrested-with-boat-over-drug-suspicion",
-      "content_hash": "4fd9308768ce339414a3e60b5f5ef27405ecbf1226ee661fb67d0e8dbceadc77",
-      "title": "Five Arrested With Boat Over Drug Suspicion",
-      "sent_at": "2026-02-19T06:02:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/police-receive-rs-556-million-worth-of-new-tech",
-      "content_hash": "18daffdfd760c21993be68162eeb5b7bc056709a01df851e596a473f294c7119",
-      "title": "Police Receive Rs. 556 Million Worth of New Tech",
-      "sent_at": "2026-02-19T06:02:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/pre%e2%80%91trial-hearing-in-namal-s-krrish-case-in-april",
-      "content_hash": "113ae7076886d2ed4a3be2ea1634825093c17cbe956243402c9e546d73182bdb",
-      "title": "Pre‑Trial Hearing In Namal's Krrish Case In April",
-      "sent_at": "2026-02-19T06:02:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/prisons-dept-to-re-hire-retired-officers-under-65",
-      "content_hash": "753f008286def125c4824e848b0b40ca4d7eed0ba4a8a29ffeff8b5caa3d7b07",
-      "title": "Prisons Dept. to Re-Hire Retired Officers Under 65",
-      "sent_at": "2026-02-19T06:02:17Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/19/litro-assures-public-no-need-for-panic-buying-supply-now-stabilised",
       "content_hash": "d388eed053276fb2669de6c24bbddfa252af8d89edd8222bc9f49488607d1a43",
       "title": "Litro Assures Public: 'No Need for Panic Buying, Supply Now Stabilised'",
@@ -941,6 +911,18 @@
       "content_hash": "8766c10a1cd15de4da2a423ab4476d09936780586927029195cef7ccd8cdcf05",
       "title": "G.C.E. Ordinary Level Examinations End Today; Police Warn Against Post-Exam Violence",
       "sent_at": "2026-02-26T06:00:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/new-bill-to-combat-organized-crime-ready-for-cabinet-next-week",
+      "content_hash": "43854e1788e22fa91f7741c230194c7debd1edf6324a28266538a4122cad1a64",
+      "title": "New Bill to Combat Organized Crime Ready for Cabinet Next Week",
+      "sent_at": "2026-02-26T07:07:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/no-litro-gas-shortage-daily-distribution-at-100-000-cylinders",
+      "content_hash": "236f8ab3dae7c78c16cc3ce74506a59808172025828d93a2a98db39440ea4af0",
+      "title": "No Litro Gas Shortage, Daily Distribution at 100,000 Cylinders",
+      "sent_at": "2026-02-26T07:07:40Z"
     }
   ]
 }
