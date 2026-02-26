@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/19/cid-freezes-rs-30-mn-worth-of-assets-linked-to-drug-trafficker-in-beliatta",
-      "content_hash": "8a8df1d1c7a14f6c27722ba2d590c9beb795a4565e7ba771c68c15e140c27738",
-      "title": "CID Freezes Rs. 30 Mn Worth of Assets Linked to Drug Trafficker in Beliatta",
-      "sent_at": "2026-02-19T11:40:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/ministry-official-arrested-over-rs-22-mn-fraud-in-vehicle-deal",
-      "content_hash": "2da1c55736d43d60667034c997b2610f02850e571b5560d8d07466cb3c8093e1",
-      "title": "Ministry Official Arrested Over Rs. 22 Mn Fraud in Vehicle Deal",
-      "sent_at": "2026-02-19T11:41:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/19/police-officer-apologises-over-comedian-s-arrest",
       "content_hash": "8239f15a25b3358b1b8549de4cceb0563b1a0a5ccad00ea7e011d5db8e332350",
       "title": "Police Officer Apologises Over Comedian's Arrest",
@@ -929,6 +917,18 @@
       "content_hash": "db0d8e5a367125c98f13e4aab8123334a9af996d80f9c18cfdce19a2910e4930",
       "title": "SC Rejects Petitions Challenging President’s Emergency Proclamation Without a Hearing",
       "sent_at": "2026-02-26T10:52:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/colombo-port-expansion-strengthens-sri-lanka-s-role-in-indo-pacific-trade",
+      "content_hash": "f682240a165a6312e4c4ef8fa3df60fc666aa4f59fd24ecb56eb1f4b30af6758",
+      "title": "Colombo Port Expansion Strengthens Sri Lanka's Role in Indo-Pacific Trade",
+      "sent_at": "2026-02-26T11:42:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/second-akuregoda-gunman-linked-to-10-other-crimes",
+      "content_hash": "1ab02a3d0b52e09f88ddd3e9e5e56712ff225c44b1105fcf219522ba4fdbb3e2",
+      "title": "Second Akuregoda Gunman Linked to 10 Other Crimes",
+      "sent_at": "2026-02-26T11:42:35Z"
     }
   ]
 }
