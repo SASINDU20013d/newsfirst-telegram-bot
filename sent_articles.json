@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/19/litro-assures-public-no-need-for-panic-buying-supply-now-stabilised",
-      "content_hash": "d388eed053276fb2669de6c24bbddfa252af8d89edd8222bc9f49488607d1a43",
-      "title": "Litro Assures Public: 'No Need for Panic Buying, Supply Now Stabilised'",
-      "sent_at": "2026-02-19T07:11:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/mamdani-wins-over-sri-lankans-with-lesson-inspired-by-murali",
-      "content_hash": "acffa185a737868f8c1b287ed1473b7324869b1a5e7021f2f94f34f46ae7c58b",
-      "title": "Mamdani Wins Over Sri Lankans With Lesson Inspired by Murali",
-      "sent_at": "2026-02-19T07:11:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/russia-s-lavrov-warns-against-any-new-us-strike-on-iran",
-      "content_hash": "f7dd2290ff1e6eaaf22dc4054717333544592a92cd4daa7441ef8ec1199e84a4",
-      "title": "Russia's Lavrov Warns Against Any New US Strike on Iran",
-      "sent_at": "2026-02-19T07:11:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/sri-lanka-best-country-for-low-cost-luxury-retirement",
-      "content_hash": "b4e411239f47dda52e84fcb34b4b0bc1cbdf98b29b708df1330241a737cb77f2",
-      "title": "Sri Lanka: Best Country for Low-Cost Luxury Retirement",
-      "sent_at": "2026-02-19T07:11:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/former-south-korean-president-sentenced-to-life-over-martial-law-attempt",
-      "content_hash": "0d677376ee550c8cae4ef23165179d9b7b726bb3273091065d85ccecb31cb9ca",
-      "title": "Former South Korean President Sentenced To Life Over Martial Law Attempt",
-      "sent_at": "2026-02-19T08:52:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/no-nation-can-build-an-ai%e2%80%91ready-future-alone-says-sri-lanka-president-in-delhi",
-      "content_hash": "6248ec78949f5222fcf3b7b6ddef2d9625e3083a4c0d9b0a1c3be2a239ab57cb",
-      "title": "No Nation Can Build an AI‑Ready Future Alone, Says Sri Lanka President In Delhi",
-      "sent_at": "2026-02-19T08:52:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/19/rise-in-cat-bites-domestic-pet-infections-sparks-rabies-alert",
-      "content_hash": "8697b1ae1c801795cb14f87037d3d0d22ad828a6313a02d2f52f6e09176017c8",
-      "title": "Rise in Cat Bites, Domestic Pet Infections Sparks Rabies Alert",
-      "sent_at": "2026-02-19T08:53:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/19/22-indian-fishermen-arrested-in-sri-lankan-waters",
       "content_hash": "303cf6c4580d75b271333f5f488f632bf514f16ba00653fa892c1b5bb18e3f91",
       "title": "22 Indian Fishermen Arrested in Sri Lankan Waters",
@@ -923,6 +881,42 @@
       "content_hash": "236f8ab3dae7c78c16cc3ce74506a59808172025828d93a2a98db39440ea4af0",
       "title": "No Litro Gas Shortage, Daily Distribution at 100,000 Cylinders",
       "sent_at": "2026-02-26T07:07:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/10-000-csd-officers-to-join-police-another-10-000-recruits-coming-this-year",
+      "content_hash": "cede6eb9037b365d57935fca7bfc3a32e6df69f92b82a4635a06c164b9f0fa18",
+      "title": "10,000 CSD Officers to Join Police; Another 10,000 Recruits Coming This Year",
+      "sent_at": "2026-02-26T08:54:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/attempts-to-disrupt-cid-probe-are-an-injustice-to-easter-attacks-victims",
+      "content_hash": "38bfc568b4d71d666f32cf5181d2fca1e30687042c034b0c34a181e73826e1f3",
+      "title": "Attempts to Disrupt CID Probe Are an Injustice to Easter Attacks Victims",
+      "sent_at": "2026-02-26T08:54:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/couple-arrested-in-wellawa-with-rs-4-million-in-illicit-funds",
+      "content_hash": "72dcead6bd22ad79e30482ae13b81852510bfca1d5572f85d917ca0bed73e05a",
+      "title": "Couple Arrested in Wellawa with Rs. 4 Million in Illicit Funds",
+      "sent_at": "2026-02-26T08:55:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/fire-breaks-out-at-kerawalapitiya-waste-disposal-plant",
+      "content_hash": "939d4e63665db6bfee11ed0fa6a5f75fbfe5790fb4b546197aa29f90131b8ab0",
+      "title": "Fire Breaks Out at Kerawalapitiya Waste Disposal Plant",
+      "sent_at": "2026-02-26T08:55:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/parliament-to-convene-from-march-3-6",
+      "content_hash": "cd57333cf9ead4e1e978a7f6c7d0c982351d9a7dfb67fe50b3db899810bd7ffb",
+      "title": "Parliament to Convene from March 3-6",
+      "sent_at": "2026-02-26T08:55:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/russia-considers-fuel-support-for-cuba-as-canada-pledges-food-aid",
+      "content_hash": "597d01d3dfaedda7ca504dc5305811e5c1e169e78cba54d011261abc053775b1",
+      "title": "Russia Considers Fuel Support For Cuba As Canada Pledges Food Aid",
+      "sent_at": "2026-02-26T08:55:11Z"
     }
   ]
 }
