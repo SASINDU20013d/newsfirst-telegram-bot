@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/19/commander-of-the-us-pacific-fleet-to-visit-sri-lanka",
-      "content_hash": "203c5c77769e0f5e25dc39c9daab86078ec7e9f5903a812a56adbbf15eda2e23",
-      "title": "Commander of the US Pacific Fleet To Visit Sri Lanka",
-      "sent_at": "2026-02-19T04:56:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/19/fiji-s-ex-prime-minister-charged-with-inciting-mutiny",
       "content_hash": "f1092fc411a1c35fdd41c37f07bac51e52ea4b25dc30997ba4e545503f3d8cf2",
       "title": "Fiji's Ex-Prime Minister Charged With Inciting Mutiny",
@@ -929,6 +923,24 @@
       "content_hash": "ff02401d85c0f496b98005eaf2b0ff501c3f9a1cb9d751241095dc4c6386a707",
       "title": "Sri Lanka Nears Breakthrough on PayPal Remittances",
       "sent_at": "2026-02-26T04:53:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/aswesuma-payments-for-february-to-be-depositted-today",
+      "content_hash": "3d337ff60fee5dd8febee7bf07cbadd57ee973a5e7735b0f910da7e0f1494b75",
+      "title": "Aswesuma Payments for February to be Depositted Today",
+      "sent_at": "2026-02-26T06:00:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/cid-team-departs-to-extradite-notorious-criminal-podi-lassie-from-india",
+      "content_hash": "bd9eec46baedf58f986f744848949e247594d39aba93e262ccfaf3a6f9ac133f",
+      "title": "CID Team Departs to Extradite Notorious Criminal \"Podi Lassie\" from India",
+      "sent_at": "2026-02-26T06:00:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/g-c-e-ordinary-level-examinations-end-today-police-warn-against-post-exam-violence",
+      "content_hash": "8766c10a1cd15de4da2a423ab4476d09936780586927029195cef7ccd8cdcf05",
+      "title": "G.C.E. Ordinary Level Examinations End Today; Police Warn Against Post-Exam Violence",
+      "sent_at": "2026-02-26T06:00:57Z"
     }
   ]
 }
