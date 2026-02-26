@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/19/ganemulla-sanjeewa-murder-linked-to-bank-accounts",
-      "content_hash": "d12ec3dbf5f71071405bbc84b4ae22247fc2fd44c1bc2c18b535f3263376f369",
-      "title": "Ganemulla Sanjeewa Murder Linked to Bank Accounts",
-      "sent_at": "2026-02-19T10:50:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/19/cid-freezes-rs-30-mn-worth-of-assets-linked-to-drug-trafficker-in-beliatta",
       "content_hash": "8a8df1d1c7a14f6c27722ba2d590c9beb795a4565e7ba771c68c15e140c27738",
       "title": "CID Freezes Rs. 30 Mn Worth of Assets Linked to Drug Trafficker in Beliatta",
@@ -929,6 +923,12 @@
       "content_hash": "9a8e16dcd3f7a9395a08a00a2f72242e74ffcce0213b58dc585fa14ae8055563",
       "title": "Sri Lankan Cricket Fans Demand Board Steps Down",
       "sent_at": "2026-02-26T09:55:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/26/sc-rejects-petitions-challenging-president%e2%80%99s-emergency-proclamation-without-a-hearing",
+      "content_hash": "db0d8e5a367125c98f13e4aab8123334a9af996d80f9c18cfdce19a2910e4930",
+      "title": "SC Rejects Petitions Challenging President’s Emergency Proclamation Without a Hearing",
+      "sent_at": "2026-02-26T10:52:59Z"
     }
   ]
 }
