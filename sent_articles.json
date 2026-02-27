@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/20/trump-s-sweeping-global-tariffs-struck-down-by-us-supreme-court",
-      "content_hash": "66cc0b06291c31b6692a73750d0ad5f455e234e6a874c8735630fc520dd5bb79",
-      "title": "Trump's sweeping global tariffs struck down by US Supreme Court",
-      "sent_at": "2026-02-20T15:40:35Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/21/50-000-lp-gas-cylinders-to-be-released-today-amid-supply-boost",
       "content_hash": "c0f24779c645403547f03a5669d7655f693e7efffb935eac9ba1b1a3b38c06fb",
       "title": "50,000 LP Gas Cylinders To Be Released Today Amid Supply Boost",
@@ -881,6 +875,12 @@
       "content_hash": "ab079de3ad7ff49b909d641146edec3f979e181c4ae3a124da3e294c099cbdcd",
       "title": "Free Title Deeds Program Launched in Anuradhapura",
       "sent_at": "2026-02-27T14:42:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/association-of-corporate-lawyers-sri-lanka-elects-new-office-bearers-for-2026-2027-group-director-legal-of-the-capital-maharaja-group-suranga-jayalath-elected-president",
+      "content_hash": "4bb64836c5ecd7dfd5a68ee636aeb1127e0d307433025cfe12c80976c18f8c14",
+      "title": "Association of Corporate Lawyers Sri Lanka Elects New Office Bearers for 2026/2027: Group Director Legal of the Capital Maharaja Group, Suranga Jayalath, Elected President",
+      "sent_at": "2026-02-27T15:43:29Z"
     }
   ]
 }
