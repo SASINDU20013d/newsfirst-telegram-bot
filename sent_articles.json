@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/20/sri-lankan-president-meets-indian-pm-modi-on-sidelines-of-ai-impact-summit",
-      "content_hash": "89b26f0349b3440831d575258d7af08b876b04947417dd2b850d2a2a6c596052",
-      "title": "Sri Lankan President Meets Indian PM Modi on Sidelines of AI Impact Summit",
-      "sent_at": "2026-02-20T09:47:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/20/three-gas-ships-carrying-10-500-mt-to-arrive-within-days",
       "content_hash": "cef5236f67f582d2d4f5b5b7f588ad15d00f59e32d847306aa61b49d2de86a71",
       "title": "Three Gas Ships Carrying 10,500 MT to Arrive Within Days",
@@ -857,6 +851,12 @@
       "content_hash": "38c03cabdbf65673d2788d62a749204d0b299d471e06451d4eb76c160211017b",
       "title": "Sri Lanka–India Partnership Growing Across Key Sectors, Says PM Harini Amarasuriya",
       "sent_at": "2026-02-27T07:50:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/nz-under-85kg-rugby-team-to-tour-sri-lanka-in-april-2026",
+      "content_hash": "69704754c243dbb6f0bbf0583eabe627c4d6d2562132da5383ac0dfeeeb7a864",
+      "title": "NZ Under-85kg Rugby Team to Tour Sri Lanka in April 2026",
+      "sent_at": "2026-02-27T09:49:17Z"
     }
   ]
 }
