@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/20/ca-refixes-hearing-on-trincomalee-coastal-order-challenge",
-      "content_hash": "8f4cbd32c7176b8c674204e3bc86443a1a1e8952046e469a43c73444ca3b3ee5",
-      "title": "CA Refixes Hearing on Trincomalee Coastal Order Challenge",
-      "sent_at": "2026-02-20T14:42:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/20/trump-s-sweeping-global-tariffs-struck-down-by-us-supreme-court",
       "content_hash": "66cc0b06291c31b6692a73750d0ad5f455e234e6a874c8735630fc520dd5bb79",
       "title": "Trump's sweeping global tariffs struck down by US Supreme Court",
@@ -875,6 +869,18 @@
       "content_hash": "1bc634a6aa71d4affbf3389e4cc30d946c0530093c4e3004a3537af45bc049d4",
       "title": "Three Killed in Separate Road Accidents Across Sri Lanka",
       "sent_at": "2026-02-27T13:08:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/colombo-court-remands-underworld-figure-%e2%80%98commando-salintha%e2%80%99-over-ganemulla-murder-case",
+      "content_hash": "ec6593c7488a0ba2904a26fddf80489c5b47d8d7d208e43ea835553f3d8f368d",
+      "title": "Colombo Court Remands Underworld Figure ‘Commando Salintha’ Over Ganemulla Murder Case",
+      "sent_at": "2026-02-27T14:42:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/free-title-deeds-program-launched-in-anuradhapura",
+      "content_hash": "ab079de3ad7ff49b909d641146edec3f979e181c4ae3a124da3e294c099cbdcd",
+      "title": "Free Title Deeds Program Launched in Anuradhapura",
+      "sent_at": "2026-02-27T14:42:29Z"
     }
   ]
 }
