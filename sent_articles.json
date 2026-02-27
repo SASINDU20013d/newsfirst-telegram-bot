@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/20/sri-lanka-repeals-parliamentary-pension-law",
-      "content_hash": "fec931c002a1f0f2f21009b73e7f1d456f05177e71b309b2fb8c460e7b7da5d2",
-      "title": "Sri Lanka Repeals Parliamentary Pension Law",
-      "sent_at": "2026-02-20T05:56:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/20/domestic-policy-missteps-drove-sri-lanka-into-crisis-says-sri-lanka-central-bank-chief",
       "content_hash": "3461ac7815cfe75700925e303ebd163a6cb185f29c8e2b784c715fb10a6206c0",
       "title": "Domestic Policy Missteps Drove Sri Lanka Into Crisis, Says Sri Lanka Central Bank Chief",
@@ -887,6 +881,12 @@
       "content_hash": "bc0f004ee1d14e4f7cdfbec4f2e3148de92ed1292eac5659fee29c219ccad4ec",
       "title": "Wanted Criminal ‘Podi Lassi’ To Be Handed Over To Galle Crimes Division After Year-Long Evasion",
       "sent_at": "2026-02-27T04:48:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/2025-a-l-practical-exam-dates-announced-admission-cards-issued",
+      "content_hash": "1fc25c520e7ce7412ce62f4e72b877a3a8aad2294f8a39a4499f7d1c7591bb20",
+      "title": "2025 A/L Practical Exam Dates Announced; Admission Cards Issued",
+      "sent_at": "2026-02-27T07:00:45Z"
     }
   ]
 }
