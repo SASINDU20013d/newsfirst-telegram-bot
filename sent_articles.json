@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/20/cid-summons-maithri-wickremesinghe-in-former-president-probe",
-      "content_hash": "3ebf1d60fb3b9d21ef115cad27cb0f19287e5d6bbe3e5996803ecbc7c60615d1",
-      "title": "CID Summons Maithri Wickremesinghe In Former President Probe",
-      "sent_at": "2026-02-20T02:30:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/20/opposition%e2%80%99s-energy-sector-adjournment-motion-to-be-debated-today",
-      "content_hash": "694922c8959a30b95b2a728ad7f35a620fd233856db8ef22f9e15cc622cad411",
-      "title": "Opposition’s Energy Sector Adjournment Motion To Be Debated Today",
-      "sent_at": "2026-02-20T02:30:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/20/president-dissanayake-pm-modi-will-begin-bilateral-talks-in-new-delhi-today",
-      "content_hash": "651c25147c3c5a9f731aace77d76e032275ee6ee67f6006a7dc80263d09d207e",
-      "title": "President Dissanayake, PM Modi Will Begin Bilateral Talks In New Delhi Today",
-      "sent_at": "2026-02-20T02:30:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/20/akd-holds-high%e2%80%91level-bilateral-talks-with-leaders-of-brazil-uae-france-bhutan",
       "content_hash": "4966460c75e493b8632b77400fa4983962e66816aca46c01c1a3f0558fd9d403",
       "title": "AKD Holds High‑Level Bilateral Talks With Leaders of Brazil, UAE, France & Bhutan",
@@ -929,6 +911,18 @@
       "content_hash": "be2520dc31272f7f473c8d0c655cfa87dad7671e21567f37c2f9eda7f468e4c4",
       "title": "President to Inaugurate ‘Himikama’ Freehold Deeds National Programme in Anuradhapura",
       "sent_at": "2026-02-27T02:28:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/new-circular-issued-to-formalize-government-vehicle-maintenance-and-fuel-monitoring",
+      "content_hash": "d58982a0c0f293df7c1c474d75a695b67b05d3df04d4eddc02b1ebdd105555b0",
+      "title": "New Circular Issued to Formalize Government Vehicle Maintenance and Fuel Monitoring",
+      "sent_at": "2026-02-27T04:48:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/wanted-criminal-%e2%80%98podi-lassi%e2%80%99-to-be-handed-over-to-galle-crimes-division-after-year-long-evasion",
+      "content_hash": "bc0f004ee1d14e4f7cdfbec4f2e3148de92ed1292eac5659fee29c219ccad4ec",
+      "title": "Wanted Criminal ‘Podi Lassi’ To Be Handed Over To Galle Crimes Division After Year-Long Evasion",
+      "sent_at": "2026-02-27T04:48:47Z"
     }
   ]
 }
