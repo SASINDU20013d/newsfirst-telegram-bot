@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/20/domestic-policy-missteps-drove-sri-lanka-into-crisis-says-sri-lanka-central-bank-chief",
-      "content_hash": "3461ac7815cfe75700925e303ebd163a6cb185f29c8e2b784c715fb10a6206c0",
-      "title": "Domestic Policy Missteps Drove Sri Lanka Into Crisis, Says Sri Lanka Central Bank Chief",
-      "sent_at": "2026-02-20T07:02:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/20/former-ministry-secretary-anusha-pelpita-released-on-bail",
-      "content_hash": "1f2b19b187f94ffa1a42b54b6a2effdb078011e65d6c83752665d3823685dd59",
-      "title": "Former Ministry Secretary Anusha Pelpita Released on Bail",
-      "sent_at": "2026-02-20T07:02:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/20/vijitha-to-chair-committee-on-provincial-council-framework",
-      "content_hash": "0fe5cc2b21a76707a231db7abf55985f5861c4ce223a8b25bf1a58e63dbd3fb2",
-      "title": "Vijitha To Chair Committee on Provincial Council Framework",
-      "sent_at": "2026-02-20T07:02:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/20/fugitive-underworld-figure-tutu-linked-to-akuregoda-double-murder-says-public-security-minister",
       "content_hash": "f350e5b047f2a3f43ab670beb033310d9ebe3ef2a484361f340695b62956d9ce",
       "title": "Fugitive Underworld Figure 'Tutu' Linked to Akuregoda Double Murder, Says Public Security Minister",
@@ -887,6 +869,18 @@
       "content_hash": "1fc25c520e7ce7412ce62f4e72b877a3a8aad2294f8a39a4499f7d1c7591bb20",
       "title": "2025 A/L Practical Exam Dates Announced; Admission Cards Issued",
       "sent_at": "2026-02-27T07:00:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/indian-high-commissioner-santosh-jha-highlights-growing-trade-investment-and-tourism-ties-with-sri-lanka",
+      "content_hash": "3a0e7dfa8dde2b003e9b6f8d18adb920dcb4a9215677fdca48a2439340aedb47",
+      "title": "Indian High Commissioner Santosh Jha Highlights Growing Trade, Investment, and Tourism Ties with Sri Lanka",
+      "sent_at": "2026-02-27T07:50:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/sri-lankaindia-partnership-growing-across-key-sectors-says-pm-harini-amarasuriya",
+      "content_hash": "38c03cabdbf65673d2788d62a749204d0b299d471e06451d4eb76c160211017b",
+      "title": "Sri Lanka–India Partnership Growing Across Key Sectors, Says PM Harini Amarasuriya",
+      "sent_at": "2026-02-27T07:50:20Z"
     }
   ]
 }
