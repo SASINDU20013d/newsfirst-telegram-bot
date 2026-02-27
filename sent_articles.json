@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/20/water-board-officials-accused-of-corruption-plot-bailed",
-      "content_hash": "a295ae26e9210303309958f364467661def934613c7c2cc000b0ff910cbaee3c",
-      "title": "Water Board Officials Accused of Corruption Plot Bailed",
-      "sent_at": "2026-02-20T11:36:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/20/balapitiya-hc-hands-death-penalty-to-duo-in-2005-murder",
-      "content_hash": "0c090ebac84ebe73ed2051bd47e46d7816e730dd444c0f5ccacdda1367e84986",
-      "title": "Balapitiya HC Hands Death Penalty to Duo in 2005 Murder",
-      "sent_at": "2026-02-20T13:08:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/20/ca-refixes-hearing-on-trincomalee-coastal-order-challenge",
       "content_hash": "8f4cbd32c7176b8c674204e3bc86443a1a1e8952046e469a43c73444ca3b3ee5",
       "title": "CA Refixes Hearing on Trincomalee Coastal Order Challenge",
@@ -863,6 +851,30 @@
       "content_hash": "7b3bbcb334e0fe902e610a59d943224253915146b175c488dd38d84f7f293758",
       "title": "Court of Appeal Upholds Death Sentence for Heroin Possession",
       "sent_at": "2026-02-27T11:36:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/financial-relief-for-cyclone-affected-students-via-special-mahapola-scholarship-scheme",
+      "content_hash": "713c8a3d614bea9d1eb53767b16c9c42f0ccd7634965355dc69e72d807fd07fa",
+      "title": "Financial Relief for Cyclone-Affected Students via Special Mahapola Scholarship Scheme",
+      "sent_at": "2026-02-27T13:08:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/government-to-introduce-formal-system-for-appointing-school-principals",
+      "content_hash": "fe14b1a7db799d3f619929fa895410d65254d96671d1de189f8aeaceb1e4cef2",
+      "title": "Government To Introduce Formal System For Appointing School Principals",
+      "sent_at": "2026-02-27T13:08:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/podi-lassi-detained-for-seven-days-after-return-from-india",
+      "content_hash": "8e838dc249d32e65019f0313eaa7ba8391c20b38d9228b31873cc1d1d118cab1",
+      "title": "Podi Lassi Detained For Seven Days After Return From India",
+      "sent_at": "2026-02-27T13:08:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/27/three-killed-in-separate-road-accidents-across-sri-lanka",
+      "content_hash": "1bc634a6aa71d4affbf3389e4cc30d946c0530093c4e3004a3537af45bc049d4",
+      "title": "Three Killed in Separate Road Accidents Across Sri Lanka",
+      "sent_at": "2026-02-27T13:08:21Z"
     }
   ]
 }
