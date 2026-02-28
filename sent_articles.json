@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/21/india-sri-lanka-officials-meet-to-assess-usd-450-million-reconstruction-efforts",
-      "content_hash": "0623855ddebdaf56edd2c952f15015732ef028236fed923ee23a98bfdc28ebf2",
-      "title": "India-Sri Lanka Officials Meet To Assess USD 450 Million Reconstruction Efforts",
-      "sent_at": "2026-02-21T07:35:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/21/nearly-9-000-fined-for-seat-belt-violations-on-expressway",
-      "content_hash": "87b101c3dc3fd1831fd09bef64457e1157ac36d5fe295f9b65375f1746616352",
-      "title": "Nearly 9,000 Fined for Seat Belt Violations on Expressway",
-      "sent_at": "2026-02-21T07:35:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/21/man-shot-dead-near-supermarket-in-devundara",
       "content_hash": "b3c0bd5c85bd760c218d1f577285cd311f6d246064110603ea111d8c7da27f4e",
       "title": "Man Shot Dead Near Supermarket in Devundara",
@@ -887,6 +875,24 @@
       "content_hash": "f38047e647977858433740f94a3b06a6a1c09fa842aa24d35da8d251e8d4c911",
       "title": "Israel Says it Has Launched Attack on Iran, as Explosions Reported in Tehran",
       "sent_at": "2026-02-28T07:30:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/air-pollution-levels-rise-in-several-areas-nbro",
+      "content_hash": "ea25e2d4411311eb85789efa02f27edac7fe9f74c0d04948765fc35d93ab75f8",
+      "title": "Air Pollution Levels Rise in Several Areas - NBRO",
+      "sent_at": "2026-02-28T08:34:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/cabinet-approves-emergency-purchase-of-300-000-mt-of-coal",
+      "content_hash": "bdd01bb6d3446160d860da186c7acd7e54c23662f467d81ec171367451b0c084",
+      "title": "Cabinet Approves Emergency Purchase of 300,000 MT of Coal",
+      "sent_at": "2026-02-28T08:35:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/two-suspects-arrested-in-jinthupitiya-shooting",
+      "content_hash": "439b9020fcd3780778adf8650676a512f06538acbaecd75a10b7e546c46d52ee",
+      "title": "Two Suspects Arrested in Jinthupitiya Shooting",
+      "sent_at": "2026-02-28T08:35:12Z"
     }
   ]
 }
