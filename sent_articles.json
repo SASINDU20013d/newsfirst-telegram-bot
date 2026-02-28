@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/21/gammadda-care-and-dare-rebuilds-lives-in-kandy-and-matale-after-cyclone-ditwah",
-      "content_hash": "5e73bba1ddcd3b7fe2dd7d3b8cfaa9e733ec47b735a312ce0198fed5febec365",
-      "title": "Gammadda Care and Dare Rebuilds Lives in Kandy and Matale After Cyclone Ditwah",
-      "sent_at": "2026-02-21T04:39:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/21/two-arrested-over-fake-job-scams-in-romania-and-canada",
-      "content_hash": "ccbbdc084c3f457f851ab3edcbfba161ed77587dbf1afa664821f4960fec30fc",
-      "title": "Two Arrested Over Fake Job Scams In Romania And Canada",
-      "sent_at": "2026-02-21T04:40:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/21/authorities-issue-landslide-alert-as-heavy-showers-forecasted",
       "content_hash": "0eb97e70a408cd9e9b4123c4c4d2c4a49cf6a3cbbafdec4bfd0cfbf00f479bf5",
       "title": "Authorities Issue Landslide Alert As Heavy Showers Forecasted",
@@ -887,6 +875,24 @@
       "content_hash": "d136e34d3e558d437d01f0cc242ed4ef3f42c6121dab83701c686f4fc4a6ea01",
       "title": "Several Trade Unions Withdraw From Post-Ditwah Relief Work Over Allowances",
       "sent_at": "2026-02-28T04:18:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/5-0006-000-children-born-with-birth-defects-annually-ministry-of-health",
+      "content_hash": "94d46ceefd66fc6226e053c240b962a4cd02db9ce7544165c5701fcb3d549143",
+      "title": "5,000–6,000 Children Born With Birth Defects Annually - Ministry of Health",
+      "sent_at": "2026-02-28T05:35:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/multiple-suspects-arrested-in-ahungalla-ambalangoda-with-drugs-and-ammunition",
+      "content_hash": "d460319b2648f2ed0786886429a76c1581bccc98a565059fb3821059fe0352e4",
+      "title": "Multiple Suspects Arrested in Ahungalla, Ambalangoda With Drugs and Ammunition",
+      "sent_at": "2026-02-28T05:35:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/suspect-in-kadawatha-double-murder-arrested-after-return-from-qatar",
+      "content_hash": "e61e19211b35a70faa1c6f30217204bfa462eef8d1688e2b2273524500fb105c",
+      "title": "Suspect in Kadawatha Double Murder Arrested After Return From Qatar",
+      "sent_at": "2026-02-28T05:36:05Z"
     }
   ]
 }
