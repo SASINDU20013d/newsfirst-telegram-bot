@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/21/cr-fc-triumph-over-kandy-sc-in-nail-biting-clash",
-      "content_hash": "f0582eeaadb6863bac19661bdff8617ef5b7271ae331caffb3c8c1d9ee53988e",
-      "title": "CR & FC Triumph Over Kandy SC in Nail-Biting Clash",
-      "sent_at": "2026-02-21T16:34:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/21/trump-ups-tariffs-to-15-day-after-supreme-court-ruling-against-him",
       "content_hash": "10e87e3f6dc10e547f97af93258589b451b2fb03b557e56e7fdc8c8bc48f6977",
       "title": "Trump ups Tariffs to 15% Day after Supreme Court Ruling against him",
@@ -911,6 +905,12 @@
       "content_hash": "38c2da555f4d5769876e328e2909253c325ed47c3dbb47621ff28bfd20597228",
       "title": "CPC Revises Fuel Prices With Effect From Midnight Today (28)",
       "sent_at": "2026-02-28T16:32:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/sri-lanka-grants-free-7-day-visa-extension-for-passengers-of-suspended-middle-eastbound-flights",
+      "content_hash": "38d5eca4cdf10a8d448e424884769723191dc464c4212e15cce39a1b97cb946a",
+      "title": "Sri Lanka Grants Free 7-Day Visa Extension for Passengers of Suspended Middle East–Bound Flights",
+      "sent_at": "2026-02-28T17:24:56Z"
     }
   ]
 }
