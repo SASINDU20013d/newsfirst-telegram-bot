@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/21/authorities-issue-landslide-alert-as-heavy-showers-forecasted",
-      "content_hash": "0eb97e70a408cd9e9b4123c4c4d2c4a49cf6a3cbbafdec4bfd0cfbf00f479bf5",
-      "title": "Authorities Issue Landslide Alert As Heavy Showers Forecasted",
-      "sent_at": "2026-02-21T06:49:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/21/life-term-imposed-for-murder-of-nirodha-niwunhella",
-      "content_hash": "4e4d3b68e70791cd7cdf58401277d0098d03a539cea0f22da217eb68706247e5",
-      "title": "Life Term Imposed for Murder of Nirodha Niwunhella",
-      "sent_at": "2026-02-21T06:50:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/21/u-s-donates-fourth-coast-guard-cutter-to-sri-lanka-navy",
-      "content_hash": "4427f1960048733388d50c38d4f0fbaa4ff9e78716c59bb84231c4876d664d06",
-      "title": "U.S. Donates Fourth Coast Guard Cutter To Sri Lanka Navy",
-      "sent_at": "2026-02-21T06:50:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/21/india-sri-lanka-officials-meet-to-assess-usd-450-million-reconstruction-efforts",
       "content_hash": "0623855ddebdaf56edd2c952f15015732ef028236fed923ee23a98bfdc28ebf2",
       "title": "India-Sri Lanka Officials Meet To Assess USD 450 Million Reconstruction Efforts",
@@ -899,6 +881,12 @@
       "content_hash": "057605ad8e768d478ac7a22455ccda9b8f62429f275ef514f5f08fbe71f47963",
       "title": "Foreign Minister Meets Bremen Mayor to Discuss Trade and Tourism Collaboration",
       "sent_at": "2026-02-28T06:45:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/israel-says-it-has-launched-attack-on-iran-as-explosions-reported-in-tehran",
+      "content_hash": "f38047e647977858433740f94a3b06a6a1c09fa842aa24d35da8d251e8d4c911",
+      "title": "Israel Says it Has Launched Attack on Iran, as Explosions Reported in Tehran",
+      "sent_at": "2026-02-28T07:30:52Z"
     }
   ]
 }
