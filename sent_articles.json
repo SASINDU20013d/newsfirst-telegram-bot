@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/21/man-shot-dead-near-supermarket-in-devundara",
-      "content_hash": "b3c0bd5c85bd760c218d1f577285cd311f6d246064110603ea111d8c7da27f4e",
-      "title": "Man Shot Dead Near Supermarket in Devundara",
-      "sent_at": "2026-02-21T09:34:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/21/president-to-appoint-expert-committee-to-advance-education-reforms",
       "content_hash": "677e6463c5d09e148205c49b2211b24ec7d2be9da6ecc82680ee1048d11b9a13",
       "title": "President to Appoint Expert Committee to Advance Education Reforms",
@@ -893,6 +887,18 @@
       "content_hash": "439b9020fcd3780778adf8650676a512f06538acbaecd75a10b7e546c46d52ee",
       "title": "Two Suspects Arrested in Jinthupitiya Shooting",
       "sent_at": "2026-02-28T08:35:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/sri-lankan-airlines-reroutes-flights-amid-iran-israel-airspace-closure",
+      "content_hash": "5455ab1ecbc4b72c4bc95ed9a930706f2797c57ecf58186ca1295a4639e332fa",
+      "title": "Sri Lankan Airlines Reroutes Flights Amid Iran-Israel Airspace Closure",
+      "sent_at": "2026-02-28T10:28:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/02/28/woman-allegedly-linked-to-%e2%80%9crathmalana-anju%e2%80%9d-drug-network-arrested",
+      "content_hash": "c723225ab5424ebb522b74ee5c36234e6ced5ade9ddcb0df760885d43687bd96",
+      "title": "Woman Allegedly Linked To “Rathmalana Anju” Drug Network Arrested",
+      "sent_at": "2026-02-28T10:28:35Z"
     }
   ]
 }
