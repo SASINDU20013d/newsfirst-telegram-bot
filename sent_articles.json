@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/22/raids-in-anuradhapura-and-mt-lavinia-heroin-and-ice-seized",
-      "content_hash": "7b23d63ab89926e98d075626135ce8b7c0606911e5ca2b613923dbbd23c27274",
-      "title": "Raids in Anuradhapura and Mt. Lavinia: Heroin and ICE Seized",
-      "sent_at": "2026-02-22T10:30:17Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/22/payagala-train-accident-two-dead-third-receiving-treatment",
       "content_hash": "83ddb54619e10af7107aff6ed2e06fcf2b73adea30808eb1d069ea84cdc2bff7",
       "title": "Payagala Train Accident: Two Dead, Third Receiving Treatment",
@@ -875,6 +869,12 @@
       "content_hash": "88118ea088c25a537bd6372350ff133a3c4eca65da0535a62c6a14395896edf6",
       "title": "At least eight people were killed during pro-Iran protests at the United States consulate in the Pakistan megacity of Karachi Today",
       "sent_at": "2026-03-01T09:34:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/01/fuel-supply-safe-but-global-prices-may-rise-ministry-of-energy",
+      "content_hash": "836b51773c3e2f9b1284511be0938aba05a5096e2066d23375e095c28a71a9f3",
+      "title": "Fuel Supply Safe, But Global Prices May Rise - Ministry of Energy",
+      "sent_at": "2026-03-01T10:30:13Z"
     }
   ]
 }
