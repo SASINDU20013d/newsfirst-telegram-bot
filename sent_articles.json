@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/22/payagala-train-accident-two-dead-third-receiving-treatment",
-      "content_hash": "83ddb54619e10af7107aff6ed2e06fcf2b73adea30808eb1d069ea84cdc2bff7",
-      "title": "Payagala Train Accident: Two Dead, Third Receiving Treatment",
-      "sent_at": "2026-02-22T11:26:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/22/from-rescue-to-rebuilding-thousands-flock-to-gammadda%e2%80%99s-%e2%80%98care-dare%e2%80%99-camps-in-central-province",
       "content_hash": "c2078f187baa244097c8a53a4387480d76ff06676f963bce23130e560881e15c",
       "title": "From Rescue to Rebuilding: Thousands Flock to Gammadda’s ‘Care & Dare’ Camps in Central Province",
@@ -875,6 +869,12 @@
       "content_hash": "836b51773c3e2f9b1284511be0938aba05a5096e2066d23375e095c28a71a9f3",
       "title": "Fuel Supply Safe, But Global Prices May Rise - Ministry of Energy",
       "sent_at": "2026-03-01T10:30:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/01/public-servants%e2%80%99-housing-loan-limit-increased-to-rs-5-million",
+      "content_hash": "5838756c06779cf59f2d6ab9f7a849032c4657bcefcc88820b58f07b350826b4",
+      "title": "Public Servants’ Housing Loan Limit Increased To Rs. 5 Million",
+      "sent_at": "2026-03-01T12:57:31Z"
     }
   ]
 }
