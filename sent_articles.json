@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/22/two-arrested-with-heroin-and-ice-in-anuradhapura-and-mount-lavinia",
-      "content_hash": "e24f97560fa4d11c0f7d7ab591e3c7617890802cd8e7a2db5df236954ffe4e59",
-      "title": "Two Arrested with Heroin and Ice in Anuradhapura and Mount Lavinia",
-      "sent_at": "2026-02-22T08:38:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/22/raids-in-anuradhapura-and-mt-lavinia-heroin-and-ice-seized",
       "content_hash": "7b23d63ab89926e98d075626135ce8b7c0606911e5ca2b613923dbbd23c27274",
       "title": "Raids in Anuradhapura and Mt. Lavinia: Heroin and ICE Seized",
@@ -875,6 +869,12 @@
       "content_hash": "efaaf872af146de19c7b258dbb1b7672175e4948f42226ccfab6d4bbcb930042",
       "title": "SriLankan Airlines Cancels Multiple Middle East Flights Amid Airspace Closures",
       "sent_at": "2026-03-01T06:53:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/01/at-least-eight-people-were-killed-during-pro-iran-protests-at-the-united-states-consulate-in-the-pakistan-megacity-of-karachi-today",
+      "content_hash": "88118ea088c25a537bd6372350ff133a3c4eca65da0535a62c6a14395896edf6",
+      "title": "At least eight people were killed during pro-Iran protests at the United States consulate in the Pakistan megacity of Karachi Today",
+      "sent_at": "2026-03-01T09:34:37Z"
     }
   ]
 }
