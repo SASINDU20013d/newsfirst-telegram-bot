@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/22/jaffna-international-airport-terminal-expansion-scheduled-for-completion-by-mid-2027",
-      "content_hash": "5bd553815665229dee695ef866dd699907272b5d8cdc2d21582227273629a89b",
-      "title": "Jaffna International Airport Terminal Expansion Scheduled for Completion By Mid 2027",
-      "sent_at": "2026-02-22T04:52:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/22/sri-lanka-finalizes-mou-for-kks-port-with-india",
-      "content_hash": "9f9266b81736091963465a292580ecf84374ddf49aab542d9ca53e25867da96f",
-      "title": "Sri Lanka Finalizes MoU for KKS Port with India",
-      "sent_at": "2026-02-22T04:52:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/22/100-000-lp-gas-cylinders-to-be-released-daily-to-boost-supply",
       "content_hash": "6053b02cd58d7d2a19d18ae33d1f1e5871e75e72425550c402e60e7acc34c350",
       "title": "100,000 LP Gas Cylinders To Be Released Daily to Boost Supply",
@@ -887,6 +875,18 @@
       "content_hash": "fef1f2f8ca823b4c63caa938bedb049761da5a03ddfb6d8f2ad476251ae9c5ea",
       "title": "Sri Lanka Activates 24-Hour Emergency Response for Nationals Amid Escalating Middle East Tensions",
       "sent_at": "2026-03-01T02:43:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/01/laugfs-gas-plc-to-release-up-to-40-000-lp-gas-cylinders-daily-as-fresh-stocks-arrive",
+      "content_hash": "6a2c615b4b33c2a1ec3c1123e98c3cf669a7bdf2add62d4d29940c3f6cdd87c3",
+      "title": "Laugfs Gas PLC to Release Up to 40,000 LP Gas Cylinders Daily as Fresh Stocks Arrive",
+      "sent_at": "2026-03-01T04:57:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/01/no-disruption-to-the-country-s-fuel-supply-due-to-the-situation-in-the-middle-east-says-cpc",
+      "content_hash": "6b0da9a786fa45685c1d3cde2dca60b10b69c1352b1a5448f26a90621c041f96",
+      "title": "No disruption to the country's fuel supply due to the situation in the Middle East, says CPC",
+      "sent_at": "2026-03-01T04:57:29Z"
     }
   ]
 }
