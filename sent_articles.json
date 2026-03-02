@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/23/mp-namal-rajapaksa-s-oxford-union-address-cancelled-following-student-protests",
-      "content_hash": "96bcceb15874ab5ced57451e7817ff0a8eca3e6444730c4b381fabb03eb43b19",
-      "title": "MP Namal Rajapaksa's Oxford Union Address Cancelled Following Student Protests",
-      "sent_at": "2026-02-23T05:01:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/23/voluntary-drug-rehabilitation-program-sees-success-says-ministry-of-public-security",
-      "content_hash": "ca2e9ff3520fd76c35eb12caeb3ba8f156ef97645d466baed8426d3437a60458",
-      "title": "Voluntary Drug Rehabilitation Program Sees Success, Says Ministry of Public Security",
-      "sent_at": "2026-02-23T05:01:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/23/emergency-hotlines-issued-for-exam-candidates-ahead-of-potential-disasters",
       "content_hash": "d51cacb9f0eda7ec032be6ec48784cba5e24b34e0f12c803324fdabbb74df266",
       "title": "Emergency Hotlines Issued for Exam Candidates Ahead of Potential Disasters",
@@ -857,6 +845,12 @@
       "content_hash": "2492544e06659c35a421f3d396fb9c4fbb5dc7a54bdb49a6846bf5293fe3b244",
       "title": "Sufficient Fuel Stocks Available: CPC Assures as Millions of Stocks Distributed Across the Country",
       "sent_at": "2026-03-02T02:31:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/02/%e2%80%98we-will-not-negotiate-with-the-us%e2%80%99-ali-larijani-the-secretary-of-iran%e2%80%99s-national-security-council",
+      "content_hash": "267e7b2f85878e6c5d0ed55a0a91d6ab6d9a20d931a28d3088adfb1fb3f7e083",
+      "title": "‘We will not negotiate with the US’ - Ali Larijani, the secretary of Iran’s National Security Council",
+      "sent_at": "2026-03-02T05:55:43Z"
     }
   ]
 }
