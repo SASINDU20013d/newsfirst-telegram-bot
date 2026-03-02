@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/23/laugfs-gas-announces-arrival-of-3-500-mt-of-lp-gas-shipment-on-27th-market-release-from-28th",
-      "content_hash": "48753edc1e7bf879a68dbebbb0ccc571372069e1c17ea873934ad5e1444fb1ef",
-      "title": "Laugfs Gas Announces Arrival of 3,500 MT of LP Gas Shipment on 27th, Market Release From 28th",
-      "sent_at": "2026-02-23T11:41:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/23/second-arrest-made-over-akuregoda-double-murder-of-buddhika-mallawarachchi-and-wife",
-      "content_hash": "8d0b930ff53bd9436c602cdca0642506a95421dece0c885993c91c9c0b14714e",
-      "title": "Second Arrest Made Over Akuregoda Double Murder of Buddhika Mallawarachchi and Wife",
-      "sent_at": "2026-02-23T11:42:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/23/presidential-commission-extends-deadline-for-public-complaints-on-colombo-municipal-council-corruption-probe",
       "content_hash": "588a1e7d437b44e35b314e3d30cef137a830df83d3fa884ab69584cab71782ff",
       "title": "Presidential Commission Extends Deadline for Public Complaints on Colombo Municipal Council Corruption Probe",
@@ -863,6 +851,12 @@
       "content_hash": "423779cc7760f12f559f26172e978e5a481e3ce3e578285e08d9c628b3c4f307",
       "title": "Public Emergency Re‑imposed from February 28; 15 Services Declared Essential",
       "sent_at": "2026-03-02T11:34:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/02/no-risk-of-fuel-shortage-sufficient-reserves-available-dr-nalinda-jayatissa-warns-against-panic-buying",
+      "content_hash": "151f992dc5ce5ac30dd3360ee4de2f1caa059d00925cdbe208403d8a6591bde4",
+      "title": "No Risk of Fuel Shortage, Sufficient Reserves Available – Dr. Nalinda Jayatissa Warns Against Panic Buying",
+      "sent_at": "2026-03-02T13:08:47Z"
     }
   ]
 }
