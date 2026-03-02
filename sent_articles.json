@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/23/emergency-hotlines-issued-for-exam-candidates-ahead-of-potential-disasters",
-      "content_hash": "d51cacb9f0eda7ec032be6ec48784cba5e24b34e0f12c803324fdabbb74df266",
-      "title": "Emergency Hotlines Issued for Exam Candidates Ahead of Potential Disasters",
-      "sent_at": "2026-02-23T07:57:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/23/red-alerts-lifted-for-15-divisional-secretariat-divisions-level-2-warnings-for-8-districts-remain-in-effect",
-      "content_hash": "2a62d35af745c4d084add11abe1a77c72c27a1651c5395f9a64c45347eccd6d2",
-      "title": "Red Alerts Lifted for 15 Divisional Secretariat Divisions, Level 2 Warnings for 8 Districts Remain In Effect",
-      "sent_at": "2026-02-23T07:57:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/23/sri-lanka-on-track-for-next-imf-tranche-confirms-deputy-minister",
-      "content_hash": "f1a78ed3b854cca130b3d4dbda197c73aa0abb3d89102c9440a5a98289f61537",
-      "title": "Sri Lanka on Track for Next IMF Tranche, Confirms Deputy Minister",
-      "sent_at": "2026-02-23T07:57:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/23/sri-lanka-sees-export-opportunity-amidst-proposed-u-s-tariffs",
-      "content_hash": "f54853000dc4db6cd17334641d217a2d759f0922811e3ad766f470bbf9f39766",
-      "title": "Sri Lanka Sees Export Opportunity Amidst Proposed U.S. Tariffs",
-      "sent_at": "2026-02-23T07:57:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/23/laugfs-gas-announces-arrival-of-3-500-mt-of-lp-gas-shipment-on-27th-market-release-from-28th",
       "content_hash": "48753edc1e7bf879a68dbebbb0ccc571372069e1c17ea873934ad5e1444fb1ef",
       "title": "Laugfs Gas Announces Arrival of 3,500 MT of LP Gas Shipment on 27th, Market Release From 28th",
@@ -863,6 +839,12 @@
       "content_hash": "d68c7f3f81fb6bbf31aa74d7b32430441b671d89ce3dc4393a460ad0c144cb58",
       "title": "SriLankan Airlines Suspends Key Middle East Operations Due to Airspace Closures; Multiple Flights Cancelled",
       "sent_at": "2026-03-02T07:54:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/02/new-education-reforms-for-grade-6-to-commence-in-2027-says-pm-harini-amarasuriya",
+      "content_hash": "3f1ffeb86853fd3b55373d0ea0b62423459ac337d804b46af6dbe8acf84d8625",
+      "title": "New Education Reforms for Grade 6 to Commence in 2027, says PM Harini Amarasuriya",
+      "sent_at": "2026-03-02T08:52:21Z"
     }
   ]
 }
