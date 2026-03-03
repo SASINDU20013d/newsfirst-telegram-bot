@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/24/former-police-inspector-jagath-nishantha-arrested-over-w15-hotel-shooting-incident",
-      "content_hash": "8cde2ffc347073cd3b4b45a0731554935d4d0ca50900e63020bcbc9fd56e2332",
-      "title": "Former Police Inspector Jagath Nishantha Arrested Over W15 Hotel Shooting Incident",
-      "sent_at": "2026-02-24T06:02:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/24/mayweather-vs-pacquiao-rematch-officially-set-for-september",
-      "content_hash": "aca97e24ab6de0644b2ac6210456360edbd396d0f4dd9587cf3f1800537c3fce",
-      "title": "Mayweather vs. Pacquiao Rematch Officially Set for September",
-      "sent_at": "2026-02-24T06:02:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/24/wadduwa-bus-crash-drivers-admitted-to-panadura-base-hospital-for-treatment",
-      "content_hash": "77c34446f83fe19d570538775443d7f53e82d43e15c34cd2244b1201b7e84224",
-      "title": "Wadduwa Bus Crash; Drivers Admitted to Panadura Base Hospital for Treatment",
-      "sent_at": "2026-02-24T06:02:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/24/sri-lanka%e2%80%99s-registered-political-parties-rise-to-85-amid-election-delays",
       "content_hash": "d303f5ca8e65a6efa6334175112411fbd088a947af78ccf4fd55b84c1dd3912f",
       "title": "Sri Lanka’s Registered Political Parties Rise to 85 Amid Election Delays",
@@ -833,6 +815,36 @@
       "content_hash": "ea1dc23bafd7e8421276f99ddcdcbc46ddb9d29596dba23ab6d58298ed686f26",
       "title": "Sri Lanka Introduces Multiple Support Measures for Stranded Migrant Workers and Tourists",
       "sent_at": "2026-03-03T04:50:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/fuel-distribution-normalising-across-sri-lanka-cpc-chief-says",
+      "content_hash": "5a19ff9ebb10c3e5690de5cb4741f1c2b1dbd0bd9c052a80d3836a39dd74bb92",
+      "title": "Fuel Distribution Normalising Across Sri Lanka, CPC Chief Says",
+      "sent_at": "2026-03-03T06:58:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/special-emergency-response-unit-established-for-overseas-employees-and-tourists",
+      "content_hash": "331e83dc7f09a0545199a105a99a7b5066226fe2eb0e756354d718d23a7b69db",
+      "title": "Special Emergency Response Unit Established for Overseas Employees and Tourists",
+      "sent_at": "2026-03-03T06:58:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/suspect-arrested-at-bia-with-kush",
+      "content_hash": "488a005ea3d70f03d9e8dfd833c3851987071fdbd82ce824ff20b50b22abaf04",
+      "title": "Suspect Arrested at BIA with Kush",
+      "sent_at": "2026-03-03T06:58:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/ten-injured-in-three%e2%80%91vehicle-crash-in-habarana",
+      "content_hash": "ed31736b82f2f610b564849decfd240c41f86b18af36f87a1b540e63f05380d0",
+      "title": "Ten Injured in Three‑Vehicle Crash in Habarana",
+      "sent_at": "2026-03-03T06:58:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/uk%e2%80%91led-core-group-presses-sri-lanka-on-human-rights",
+      "content_hash": "3df4b98a8b26ff4952b00e31d43e94f43b6da950e78bd1353eb9615039e68145",
+      "title": "UK‑Led Core Group Presses Sri Lanka on Human Rights",
+      "sent_at": "2026-03-03T06:58:34Z"
     }
   ]
 }
