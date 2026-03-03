@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/24/sri-lanka%e2%80%99s-registered-political-parties-rise-to-85-amid-election-delays",
-      "content_hash": "d303f5ca8e65a6efa6334175112411fbd088a947af78ccf4fd55b84c1dd3912f",
-      "title": "Sri Lanka’s Registered Political Parties Rise to 85 Amid Election Delays",
-      "sent_at": "2026-02-24T07:12:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/24/76-000-applications-received-under-%e2%80%98himikama%e2%80%99-land-programme",
       "content_hash": "4f64671bee2db423408b32638a4862000d9fbd1ce5c655f7cd4e0f598a394863",
       "title": "76,000 Applications Received Under ‘Himikama’ Land Programme",
@@ -845,6 +839,12 @@
       "content_hash": "3df4b98a8b26ff4952b00e31d43e94f43b6da950e78bd1353eb9615039e68145",
       "title": "UK‑Led Core Group Presses Sri Lanka on Human Rights",
       "sent_at": "2026-03-03T06:58:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/sri-lankan-president-urges-warring-sides-to-act-for-peace",
+      "content_hash": "d6c7185f6020fbc592712bee033a91264ece5b86be8d078fd9e857a3eba8599f",
+      "title": "Sri Lankan President Urges Warring Sides to Act for Peace",
+      "sent_at": "2026-03-03T07:45:20Z"
     }
   ]
 }
