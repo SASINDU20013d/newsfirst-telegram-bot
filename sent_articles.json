@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/24/cbsl%e2%80%99s-bank-consolidation-plan-is-credit-positive-says-fitch",
-      "content_hash": "e82c23ae004b6b12b847f1e4e77176fc18513efc61a775efd80051f509a53175",
-      "title": "CBSL’s Bank Consolidation Plan Is Credit-Positive, Says Fitch",
-      "sent_at": "2026-02-24T11:43:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/24/former-police-inspector-remanded-over-w15-shooting",
-      "content_hash": "caa4b226d8cc8e703f03ee2535aea449fcd136535c02f6fbb3873231a3803fec",
-      "title": "Former Police Inspector Remanded Over W15 Shooting",
-      "sent_at": "2026-02-24T11:43:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/24/expert-panel-to-review-norochcholai-coal-supply",
       "content_hash": "d43d01dcf1102bb0df3360f97f13a834b1853491d6a1f496bea2e8bf5eed168a",
       "title": "Expert Panel to Review Norochcholai Coal Supply",
@@ -809,6 +797,12 @@
       "content_hash": "1cf895d1ff0c37d9cce69fe63da4c87a1a2e8804065fee49ab1d90aabbb496fc",
       "title": "Verdict on Cases Against Sarana Gunawardena on April 30th",
       "sent_at": "2026-03-03T11:36:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/24-hour-nationwide-security-plan-to-protect-tourists-and-foreign-nationals",
+      "content_hash": "f7aa9ab25c2e37560ce4c3d2a57184690b590549fb76d8cee0bcfeb2eb8c62fb",
+      "title": "24-Hour Nationwide Security Plan to Protect Tourists and Foreign Nationals",
+      "sent_at": "2026-03-03T13:07:19Z"
     }
   ]
 }
