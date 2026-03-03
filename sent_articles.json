@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/24/76-000-applications-received-under-%e2%80%98himikama%e2%80%99-land-programme",
-      "content_hash": "4f64671bee2db423408b32638a4862000d9fbd1ce5c655f7cd4e0f598a394863",
-      "title": "76,000 Applications Received Under ‘Himikama’ Land Programme",
-      "sent_at": "2026-02-24T08:55:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/24/customs-officers-launch-black-armband-protest",
-      "content_hash": "2221f701e6a873fc5be68f198645e010484291ef98af9a25fb2799f0e01da6c1",
-      "title": "Customs Officers Launch Black Armband Protest",
-      "sent_at": "2026-02-24T08:55:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/24/luxury-cruise-ship-crystal-symphony-docks-in-trincomalee",
-      "content_hash": "ec38b7a8a593eea8411f6019eda55cff162d5a9979b3de91ca32975e26809454",
-      "title": "Luxury Cruise Ship 'Crystal Symphony' Docks in Trincomalee",
-      "sent_at": "2026-02-24T08:55:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/24/bus-driver-in-fatal-wadduwa-accident-dead-after-being-hospitalized",
       "content_hash": "7a27232d40e197685dabea619aea12b45c4307f49340f8c8e0fd8d174153036e",
       "title": "Bus Driver in Fatal Wadduwa Accident Dead After Being Hospitalized",
@@ -845,6 +827,12 @@
       "content_hash": "d6c7185f6020fbc592712bee033a91264ece5b86be8d078fd9e857a3eba8599f",
       "title": "Sri Lankan President Urges Warring Sides to Act for Peace",
       "sent_at": "2026-03-03T07:45:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/srilankan-airlines-cancels-12-middle-east-flights-amid-regional-airspace-closure",
+      "content_hash": "0c6cfaa821bd218c7e773dadd5468addbd7da194bfedde6691d61bf7f6d19a34",
+      "title": "SriLankan Airlines Cancels 12 Middle East Flights Amid Regional Airspace Closure",
+      "sent_at": "2026-03-03T09:50:16Z"
     }
   ]
 }
