@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/24/committee-on-public-enterprises-to-launch-comprehensive-probe-into-coal-import-procedure",
-      "content_hash": "a1c2b6debf497e623d0b5d60bf50b056a198239ff5e53ef3b65d7e73428baf69",
-      "title": "Committee on Public Enterprises to Launch Comprehensive Probe into Coal Import Procedure",
-      "sent_at": "2026-02-24T02:33:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/24/ministry-of-education-finalizes-new-grade-six-learning-modules-under-reform-plan",
-      "content_hash": "0d35baa5e721611487967d8d5006a0c23a10d56a05fb66942d8b40458127c812",
-      "title": "Ministry of Education Finalizes New Grade Six Learning Modules Under Reform Plan",
-      "sent_at": "2026-02-24T02:33:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/24/all-seven-passengers-dead-after-ranchi-delhi-air-ambulance-crashes-in-jharkhand-s-chatra",
       "content_hash": "e925d0166d956bc34692cd34201f0dd3526fe6ee20e7993b5ec6c71a11025ddf",
       "title": "All Seven Passengers Dead after Ranchi-Delhi Air Ambulance Crashes in Jharkhand's Chatra",
@@ -833,6 +821,30 @@
       "content_hash": "151f992dc5ce5ac30dd3360ee4de2f1caa059d00925cdbe208403d8a6591bde4",
       "title": "No Risk of Fuel Shortage, Sufficient Reserves Available – Dr. Nalinda Jayatissa Warns Against Panic Buying",
       "sent_at": "2026-03-02T13:08:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/cpc-chairman-says-fuel-stocks-issued-at-150-to-maintain-fuel-distribution-says-qr-system-is-not-required",
+      "content_hash": "b346b38630035b58962712a53629a227677e87dd548c7e2e77f858d3c418c14e",
+      "title": "CPC Chairman Says Fuel Stocks Issued at 150% to Maintain Fuel Distribution, Says QR System Is Not Required",
+      "sent_at": "2026-03-03T02:34:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/only-lunar-eclipse-of-2026-visible-in-sri-lanka-today",
+      "content_hash": "4a0a840c08a1163b259a8f77216c9386fff5ddf6e17ba023a53c9ce239fb674a",
+      "title": "Only Lunar Eclipse of 2026 Visible in Sri Lanka Today",
+      "sent_at": "2026-03-03T02:34:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/plans-underway-to-resume-middleeast-flights-via-limited-airspaces-says-minister",
+      "content_hash": "79295e7ee7e72622eed68673d4997fc61823cb1deea3994d87271123b8c03f00",
+      "title": "Plans Underway to Resume MiddleEast Flights Via Limited AirSpaces, Says Minister",
+      "sent_at": "2026-03-03T02:34:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/third-phase-of-2026-first-school-term-begins",
+      "content_hash": "1d863ea162491a62fd6d604a29c648e88362fe3feeb4ac9686d18655efd8de7e",
+      "title": "Third Phase of 2026 First School Term Begins",
+      "sent_at": "2026-03-03T02:34:27Z"
     }
   ]
 }
