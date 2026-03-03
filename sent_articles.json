@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/24/police-foil-gruesome-murder-plan-linked-to-major-drug-bust",
-      "content_hash": "823d6ce0827eaf869ce996df350cd45b0fb4ff4447ba2d3f660e299464d148ae",
-      "title": "Police Foil Gruesome Murder Plan Linked To Major Drug Bust",
-      "sent_at": "2026-02-24T10:53:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/24/cbsl%e2%80%99s-bank-consolidation-plan-is-credit-positive-says-fitch",
       "content_hash": "e82c23ae004b6b12b847f1e4e77176fc18513efc61a775efd80051f509a53175",
       "title": "CBSL’s Bank Consolidation Plan Is Credit-Positive, Says Fitch",
@@ -809,6 +803,12 @@
       "content_hash": "7f06baa9da232b1d4555923b189e3657e8dd98a7051cb9e06b3583774f6ba4bb",
       "title": "208 Middle East Flights Cancelled Over Safety Concerns says Civil Aviation Authority of Sri Lanka",
       "sent_at": "2026-03-03T10:45:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/verdict-on-cases-against-sarana-gunawardena-on-april-30th",
+      "content_hash": "1cf895d1ff0c37d9cce69fe63da4c87a1a2e8804065fee49ab1d90aabbb496fc",
+      "title": "Verdict on Cases Against Sarana Gunawardena on April 30th",
+      "sent_at": "2026-03-03T11:36:41Z"
     }
   ]
 }
