@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/24/expert-panel-to-review-norochcholai-coal-supply",
-      "content_hash": "d43d01dcf1102bb0df3360f97f13a834b1853491d6a1f496bea2e8bf5eed168a",
-      "title": "Expert Panel to Review Norochcholai Coal Supply",
-      "sent_at": "2026-02-24T13:16:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/24/gammadda%e2%80%99s-%e2%80%9ccare-dare%e2%80%9d-receives-sacred-blessings",
       "content_hash": "636e5b0f0f4c7cf16a4b00f76c779ae5ffec900bbb0b0701134154c7f9208993",
       "title": "Gammadda’s “Care & Dare” Receives Sacred Blessings",
@@ -803,6 +797,12 @@
       "content_hash": "f7aa9ab25c2e37560ce4c3d2a57184690b590549fb76d8cee0bcfeb2eb8c62fb",
       "title": "24-Hour Nationwide Security Plan to Protect Tourists and Foreign Nationals",
       "sent_at": "2026-03-03T13:07:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/03/president-invites-pope-leo-xiv-for-an-official-visit-to-sri-lanka",
+      "content_hash": "213e7623de9b6c56e978621c95c8241a761f50f669b803b03990ae5563a8ec86",
+      "title": "President Invites Pope Leo XIV for an Official Visit to Sri Lanka",
+      "sent_at": "2026-03-03T14:49:58Z"
     }
   ]
 }
