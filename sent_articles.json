@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/25/mastermind-question-emerges-as-ex%e2%80%91intel-chief-arrested",
-      "content_hash": "40e1aad41e99098442abd6c623342b15629cd3d25e775e6cfd9680c77803452b",
-      "title": "Mastermind Question Emerges as Ex‑Intel Chief Arrested",
-      "sent_at": "2026-02-25T13:15:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/25/cid-investigates-threats-to-public-security-minister-and-deputy-minister",
       "content_hash": "e12cbacda85c823cef25c415839dd34866b381ce601cada4c6fdab3e438d860f",
       "title": "CID Investigates Threats to Public Security Minister and Deputy Minister",
@@ -779,6 +773,30 @@
       "content_hash": "830182ce1f7d5308624dcd52f9b0f8687a52b4bdd3112a10734d453f7903159d",
       "title": "Sri Lanka to Phase Out CESS on Imported Goods",
       "sent_at": "2026-03-04T13:06:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/be-prepared-for-all-outcomes-says-president",
+      "content_hash": "d8c8f7c764e6bc505e87a7bc977b780cbdfbfb180103d7aaac675e393dc7435a",
+      "title": "Be Prepared for All Outcomes, Says President",
+      "sent_at": "2026-03-04T14:40:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/cabinet-approves-to-repeal-chief-of-defence-staff-act",
+      "content_hash": "9e9b1a94b2dd5c11218b3919aa5a2210a43e179808c342c9bc3490d96abb9e3f",
+      "title": "Cabinet Approves to Repeal Chief of Defence Staff Act",
+      "sent_at": "2026-03-04T14:40:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-extends-solidarity-to-uae-after-attacks",
+      "content_hash": "f50137438527d7b3697d7fefd4ed1e92622f5bc63ae33159eb79392f2f7c0c9b",
+      "title": "Sri Lanka Extends Solidarity to UAE After Attacks",
+      "sent_at": "2026-03-04T14:40:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/us-destroyed-iranian-warship-in-indian-ocean-says-hegseth-no-ship-identified",
+      "content_hash": "38d167632a6e3bb42656fcf754f3d4049821a00b9b0e05a7cb257082b9d1a400",
+      "title": "US Destroyed Iranian Warship in Indian Ocean, Says Hegseth; No Ship Identified",
+      "sent_at": "2026-03-04T14:40:33Z"
     }
   ]
 }
