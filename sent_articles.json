@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/25/foreign-minister-to-attend-germany%e2%80%99s-125th-oav-anniversary",
-      "content_hash": "1c30f002a4c8de1ccca1d485aa3f51ffadbe426dac0dca93238f3e44a6ba78ea",
-      "title": "Foreign Minister to Attend Germany’s 125th OAV Anniversary",
-      "sent_at": "2026-02-25T10:54:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/25/ex-opposition-holds-talks-with-ranil",
       "content_hash": "722e849bf756db836b0615fb0c5f0f5b6b780d65c975beb9706fdae049919146",
       "title": "Ex-Opposition Holds Talks With Ranil",
@@ -779,6 +773,12 @@
       "content_hash": "be980ef05736e327a7267d254a26ca534ae3b23be77a98a46d680bbac59b7335",
       "title": "Six Arrested Over Brutal Killing in Orugodawatta",
       "sent_at": "2026-03-04T10:41:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-navy-confirms-iranian-warship-missing-32-rescued-bodies-recovered-in-ongoing-operation",
+      "content_hash": "c36d2dd1c8f4e68dcb5ca99e31a53fb33d39ad86119e5133ffd23acaeb9133e7",
+      "title": "Sri Lanka Navy Confirms Iranian Warship Missing; 32 Rescued, Bodies Recovered in Ongoing Operation",
+      "sent_at": "2026-03-04T11:34:37Z"
     }
   ]
 }
