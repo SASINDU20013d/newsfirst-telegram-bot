@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/25/avant-garde-writ-cases-thrown-out-by-appeals-court",
-      "content_hash": "05f5fb0b2161ecf9b80b341bfd47a918df9c3068e417af49478a0cc860c22393",
-      "title": "Avant Garde Writ Cases Thrown Out by Appeals Court",
-      "sent_at": "2026-02-25T09:59:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/25/daisy-forrest-released-charges-now-only-against-yoshitha-rajapaksa",
-      "content_hash": "8b01a92c62f2420bc189ac55d22defcf31b1af577a309f3f1de83a1c130692f1",
-      "title": "Daisy Forrest Released; Charges Now Only Against Yoshitha Rajapaksa",
-      "sent_at": "2026-02-25T09:59:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/25/former-intelligence-chief-suresh-salley-held-on-72%e2%80%91hour-detention-order",
-      "content_hash": "00a35bedd2d8c49da500ec29d62ffc97c17a34c8ef7a6d277b27bd0affee3eca",
-      "title": "Former Intelligence Chief Suresh Salley Held on 72‑Hour Detention Order",
-      "sent_at": "2026-02-25T09:59:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/25/sri-lanka%e2%80%99s-foreign-minister-to-visit-romania-for-high%e2%80%91level-talks",
-      "content_hash": "d4c245befed5d2fc075b4b0870d86110940f824c30326a1904e39c0ee05a510c",
-      "title": "Sri Lanka’s Foreign Minister to Visit Romania for High‑Level Talks",
-      "sent_at": "2026-02-25T09:59:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/25/foreign-minister-to-attend-germany%e2%80%99s-125th-oav-anniversary",
       "content_hash": "1c30f002a4c8de1ccca1d485aa3f51ffadbe426dac0dca93238f3e44a6ba78ea",
       "title": "Foreign Minister to Attend Germany’s 125th OAV Anniversary",
@@ -797,6 +773,12 @@
       "content_hash": "e82d525b39b04999fb359cb9372940e91b57e20b76cd7b8cdad8610ba34e60fd",
       "title": "Sri Lanka Rescues 30 From Sinking Iranian Naval Ship",
       "sent_at": "2026-03-04T09:47:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/six-arrested-over-brutal-killing-in-orugodawatta",
+      "content_hash": "be980ef05736e327a7267d254a26ca534ae3b23be77a98a46d680bbac59b7335",
+      "title": "Six Arrested Over Brutal Killing in Orugodawatta",
+      "sent_at": "2026-03-04T10:41:18Z"
     }
   ]
 }
