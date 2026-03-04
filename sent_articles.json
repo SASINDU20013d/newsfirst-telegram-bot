@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/25/litro-gas-shipment-carrying-3-900-metric-tons-of-lp-gas-to-arrive-today",
-      "content_hash": "cc66de2cee3b696fb4c5cd653d3c42b835dfe19aabbd961cdd5a3c7d5b7de002",
-      "title": "Litro Gas Shipment Carrying 3,900 Metric Tons of LP Gas to Arrive Today",
-      "sent_at": "2026-02-25T02:34:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/25/pucsl-calls-for-public-views-on-proposed-13-56-power-tariff-hike",
-      "content_hash": "84576d692a6cca5cc838f2746e235768bafc8c54f4b3054b1a728a449bcce104",
-      "title": "PUCSL Calls For Public Views On Proposed 13.56% Power Tariff Hike",
-      "sent_at": "2026-02-25T02:34:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/25/second-shooter-in-akuregoda-double-murder-arrested",
-      "content_hash": "c9e71d8ceb4b6b90920eef81622eb59bb99c6b1cc97c539066c4062d2c044e98",
-      "title": "Second Shooter in Akuregoda Double Murder Arrested",
-      "sent_at": "2026-02-25T02:34:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/25/sri-lanka-targets-5-billion-tourism-revenue-for-2026",
-      "content_hash": "e5cc636a00e08f12fd6c9b0e0d56258bfe5cf56abe6aa6b5d507cf137981b7ab",
-      "title": "Sri Lanka Targets $5 Billion Tourism Revenue for 2026",
-      "sent_at": "2026-02-25T02:34:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/25/former-intelligence-chief-retired-major-general-suresh-sallay-arrested-over-easter-sunday-attacks",
       "content_hash": "26c390afea824523c2cb5677fe143be3d220f4bc26ffd0a14c1381ce8ba9d713",
       "title": "Former Intelligence Chief Retired Major General Suresh Sallay Arrested Over Easter Sunday Attacks",
@@ -785,6 +761,24 @@
       "content_hash": "f8c5f41cc3705e83055194544749a177ba72a12654a0650638f06d19a2cdae13",
       "title": "Ministry of Foreign Affairs Plans Special Repatriation Mechanism for Sri Lankans in Middle East Amid Potential Risks",
       "sent_at": "2026-03-04T02:27:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/cia-station-in-saudi-arabia-struck-by-iranian-drone",
+      "content_hash": "5b9f5d54277890139ec3bb060e1df2c2985ccce0e869efa92ebadf7d703b8e19",
+      "title": "CIA Station in Saudi Arabia Struck by Iranian Drone",
+      "sent_at": "2026-03-04T04:44:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/export-development-board-flags-potential-export-disruptions-amid-middle-east-situation",
+      "content_hash": "e6b79f05e29a6e82067d67d3fa8b9976cf7adb1b81d665dd81a1ce1a86c2f144",
+      "title": "Export Development Board Flags Potential Export Disruptions Amid Middle East Situation",
+      "sent_at": "2026-03-04T04:44:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/two-arrested-for-illegal-diesel-hoarding-in-galenbindunuwewa-and-pulmoddai",
+      "content_hash": "88bcf530b6e3058f1b7b7f423dfcb59983ecf783dcf7bbb996bce0e6eb89024c",
+      "title": "Two Arrested for Illegal Diesel Hoarding in Galenbindunuwewa and Pulmoddai",
+      "sent_at": "2026-03-04T04:44:10Z"
     }
   ]
 }
