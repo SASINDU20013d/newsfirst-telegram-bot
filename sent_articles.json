@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/25/ex-opposition-holds-talks-with-ranil",
-      "content_hash": "722e849bf756db836b0615fb0c5f0f5b6b780d65c975beb9706fdae049919146",
-      "title": "Ex-Opposition Holds Talks With Ranil",
-      "sent_at": "2026-02-25T11:41:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/25/sampath-manamperi-remanded-until-march-4",
-      "content_hash": "dfad1a8006c72069633a62208e94a2b874446389af6993b42e420675038a6c23",
-      "title": "Sampath Manamperi Remanded Until March 4",
-      "sent_at": "2026-02-25T11:42:01Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/25/mastermind-question-emerges-as-ex%e2%80%91intel-chief-arrested",
       "content_hash": "40e1aad41e99098442abd6c623342b15629cd3d25e775e6cfd9680c77803452b",
       "title": "Mastermind Question Emerges as Ex‑Intel Chief Arrested",
@@ -779,6 +767,18 @@
       "content_hash": "c36d2dd1c8f4e68dcb5ca99e31a53fb33d39ad86119e5133ffd23acaeb9133e7",
       "title": "Sri Lanka Navy Confirms Iranian Warship Missing; 32 Rescued, Bodies Recovered in Ongoing Operation",
       "sent_at": "2026-03-04T11:34:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-navy-rejects-attack-narrative-as-search-for-missing-iranian-warship-crew-widens",
+      "content_hash": "60f44b19321b59157fc33d1c8a19cd23bc269ec0118932bbd640114904338c59",
+      "title": "Sri Lanka Navy Rejects Attack Narrative as Search for Missing Iranian Warship Crew Widens",
+      "sent_at": "2026-03-04T13:06:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-to-phase-out-cess-on-imported-goods",
+      "content_hash": "830182ce1f7d5308624dcd52f9b0f8687a52b4bdd3112a10734d453f7903159d",
+      "title": "Sri Lanka to Phase Out CESS on Imported Goods",
+      "sent_at": "2026-03-04T13:06:17Z"
     }
   ]
 }
