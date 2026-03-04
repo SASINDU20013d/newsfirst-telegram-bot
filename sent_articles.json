@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/25/former-intelligence-chief-retired-major-general-suresh-sallay-arrested-over-easter-sunday-attacks",
-      "content_hash": "26c390afea824523c2cb5677fe143be3d220f4bc26ffd0a14c1381ce8ba9d713",
-      "title": "Former Intelligence Chief Retired Major General Suresh Sallay Arrested Over Easter Sunday Attacks",
-      "sent_at": "2026-02-25T04:56:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/25/deadline-revised-for-degree-qualification-for-graduates-applying-for-teacher-service-exam",
       "content_hash": "863cf4172d8384f6254c2cb847e9d1e27686f285abf467aa75a59a8cc353fc8f",
       "title": "Deadline Revised for Degree Qualification for Graduates Applying for Teacher Service Exam",
@@ -779,6 +773,36 @@
       "content_hash": "88bcf530b6e3058f1b7b7f423dfcb59983ecf783dcf7bbb996bce0e6eb89024c",
       "title": "Two Arrested for Illegal Diesel Hoarding in Galenbindunuwewa and Pulmoddai",
       "sent_at": "2026-03-04T04:44:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/lorry-crashes-into-utility-pole-and-school-van-in-boralesgamuwa",
+      "content_hash": "06d18ff12d3a5d0359a49340a9233bd858b7040555670ea973912535809b94a2",
+      "title": "Lorry Crashes into Utility Pole and School Van in Boralesgamuwa",
+      "sent_at": "2026-03-04T05:48:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/no-use-or-threat-of-force-serves-all-parties-chinese-fm-wang-yi",
+      "content_hash": "19841c99a5072a08efbe3ab30638a8862849153a338c1328e02101d272c3ee13",
+      "title": "No Use or Threat Of Force Serves All Parties : Chinese FM Wang Yi",
+      "sent_at": "2026-03-04T05:48:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-assesses-flight-options-for-possible-middle-east-evacuations",
+      "content_hash": "b7fdfafbd36340f4b95bbc3e76d5b4e2fe24b97364f2a6fbe101588e2d7c845a",
+      "title": "Sri Lanka Assesses Flight Options for Possible Middle East Evacuations",
+      "sent_at": "2026-03-04T05:48:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-imposes-temporary-cargo-limits-on-europe-flights-due-to-middle-east-crisis",
+      "content_hash": "025de2f2c386496952c06a47fe71e9f82b5593e2a19ad28904aa145e76b28c06",
+      "title": "Sri Lanka Imposes Temporary Cargo Limits on Europe Flights Due to Middle East Crisis",
+      "sent_at": "2026-03-04T05:48:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/srilankan-airlines-resumes-limited-middle-east-flights",
+      "content_hash": "b69c9c1a8e9b7a609fccf0accdc1889ff1ee6ed19e7d8510a69334218d5ac9ef",
+      "title": "SriLankan Airlines Resumes Limited Middle East Flights",
+      "sent_at": "2026-03-04T05:48:52Z"
     }
   ]
 }
