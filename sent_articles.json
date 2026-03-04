@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/25/deadline-revised-for-degree-qualification-for-graduates-applying-for-teacher-service-exam",
-      "content_hash": "863cf4172d8384f6254c2cb847e9d1e27686f285abf467aa75a59a8cc353fc8f",
-      "title": "Deadline Revised for Degree Qualification for Graduates Applying for Teacher Service Exam",
-      "sent_at": "2026-02-25T07:14:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/25/fisherman-missing-after-boat-found-ashore-in-ambalantota",
       "content_hash": "37315d11ba6f88c8cd2fef7a9d3f0f54df5da5ee62c185ebb87409271bd82f72",
       "title": "Fisherman Missing After Boat Found Ashore In Ambalantota",
@@ -815,6 +809,18 @@
       "content_hash": "b6570aa4db28cfe3e148aed5b64ca9feef6bf7f5c8a245b7d5fb20220247229f",
       "title": "Sri Lanka Responds to Distress Call from Iranian Naval Ship In Indian Ocean",
       "sent_at": "2026-03-04T06:55:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/trump-rubio-offer-conflicting-reasons-for-us-entry-into-iran-war",
+      "content_hash": "ef3f57fa1916668ff4bea52d7abb4dee146e460e1d24630b3177d87586880089",
+      "title": "Trump, Rubio Offer Conflicting Reasons For US Entry into Iran War",
+      "sent_at": "2026-03-04T07:40:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/04/trump-threatens-to-cut-all-trade-with-spain-slams-uk",
+      "content_hash": "0b323033d62dfffdb5feb971218a340a0f412f17bbfca66e151a981b5d29a440",
+      "title": "Trump Threatens to Cut All Trade With Spain, Slams UK",
+      "sent_at": "2026-03-04T07:40:29Z"
     }
   ]
 }
