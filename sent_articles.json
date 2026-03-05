@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/26/colombo-port-expansion-strengthens-sri-lanka-s-role-in-indo-pacific-trade",
-      "content_hash": "f682240a165a6312e4c4ef8fa3df60fc666aa4f59fd24ecb56eb1f4b30af6758",
-      "title": "Colombo Port Expansion Strengthens Sri Lanka's Role in Indo-Pacific Trade",
-      "sent_at": "2026-02-26T11:42:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/second-akuregoda-gunman-linked-to-10-other-crimes",
-      "content_hash": "1ab02a3d0b52e09f88ddd3e9e5e56712ff225c44b1105fcf219522ba4fdbb3e2",
-      "title": "Second Akuregoda Gunman Linked to 10 Other Crimes",
-      "sent_at": "2026-02-26T11:42:35Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/27/cid-extradites-podi-lassi-from-india-to-face-charges-for-murder-and-drug-trafficking",
       "content_hash": "4fdb3e8226917e068693a5fcea2de6f765133317f4a27bcbf101f0ab5d912c89",
       "title": "CID Extradites \"Podi Lassi\" from India to Face Charges for Murder and Drug Trafficking",
@@ -737,6 +725,30 @@
       "content_hash": "4ba95b19e607e4099409b4e9884ac72f1193a70a148369f6244a5b8cb2c82463",
       "title": "High Court Jails 61-Year-Old Attorney for Fake Deed",
       "sent_at": "2026-03-05T11:37:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/colombo-calls-for-dialogue-to-restore-peace-in-middle-east",
+      "content_hash": "efa1d7649a8111c909d0ecf4157dbfc8dfed6372644d644772d5a3afdb436ab9",
+      "title": "Colombo Calls for Dialogue to Restore Peace in Middle East",
+      "sent_at": "2026-03-05T13:10:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/iran-denies-targeting-azerbaijan",
+      "content_hash": "ab9698323fc9fd7509e7b63222de88d3494b11f99e2d3bbd9907e20bd7644695",
+      "title": "Iran Denies Targeting Azerbaijan",
+      "sent_at": "2026-03-05T13:10:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/petition-filed-against-suresh-salley-s-detention-under-pta",
+      "content_hash": "bdd0bc403f5ba2bf1f0d3cd1b46dd12169cd3ffe10ceb0a444f1a6f4e2758e13",
+      "title": "Petition Filed Against Suresh Salley's Detention Under PTA",
+      "sent_at": "2026-03-05T13:10:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/sri-lanka-suspends-all-regular-middle-east-flights",
+      "content_hash": "d2e716765f287e2e281bcdb9ef8d6d1c817cc6e18512b6b24ac9ed65a088f195",
+      "title": "Sri Lanka Suspends All Regular Middle East Flights",
+      "sent_at": "2026-03-05T13:10:16Z"
     }
   ]
 }
