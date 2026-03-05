@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/26/aswesuma-payments-for-february-to-be-depositted-today",
-      "content_hash": "3d337ff60fee5dd8febee7bf07cbadd57ee973a5e7735b0f910da7e0f1494b75",
-      "title": "Aswesuma Payments for February to be Depositted Today",
-      "sent_at": "2026-02-26T06:00:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/cid-team-departs-to-extradite-notorious-criminal-podi-lassie-from-india",
-      "content_hash": "bd9eec46baedf58f986f744848949e247594d39aba93e262ccfaf3a6f9ac133f",
-      "title": "CID Team Departs to Extradite Notorious Criminal \"Podi Lassie\" from India",
-      "sent_at": "2026-02-26T06:00:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/g-c-e-ordinary-level-examinations-end-today-police-warn-against-post-exam-violence",
-      "content_hash": "8766c10a1cd15de4da2a423ab4476d09936780586927029195cef7ccd8cdcf05",
-      "title": "G.C.E. Ordinary Level Examinations End Today; Police Warn Against Post-Exam Violence",
-      "sent_at": "2026-02-26T06:00:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/26/new-bill-to-combat-organized-crime-ready-for-cabinet-next-week",
       "content_hash": "43854e1788e22fa91f7741c230194c7debd1edf6324a28266538a4122cad1a64",
       "title": "New Bill to Combat Organized Crime Ready for Cabinet Next Week",
@@ -749,6 +731,18 @@
       "content_hash": "758dcd3f8897b5c16d06529340550fca8852568ff19ea0eeff04e6194e17fd15",
       "title": "Sri Lanka in Talks With ICC on Appointing Interim Cricket Administration",
       "sent_at": "2026-03-05T04:47:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/chamara-sampath-accuses-india-of-casting-out-iris-dena-crew",
+      "content_hash": "5e5309db4cc85508a23b8ecdedeea77885905f82ec80f0c36ef4ff5ed0286cf4",
+      "title": "Chamara Sampath Accuses India of 'Casting Out' IRIS Dena Crew",
+      "sent_at": "2026-03-05T06:58:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/maersk-suspends-cargo-bookings-across-multiple-middle-eastern-countries",
+      "content_hash": "65dd35b79bc0aa64fff611daaf7adbf0ef8ae0666d2cbd3ff6ce676c77b41634",
+      "title": "Maersk Suspends Cargo Bookings Across Multiple Middle Eastern Countries",
+      "sent_at": "2026-03-05T06:58:48Z"
     }
   ]
 }
