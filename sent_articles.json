@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/26/education-teaching-diplomas-of-national-colleges-to-be-upgraded-to-degrees",
-      "content_hash": "ee198a7b1b8c1fe1790d3f99826cf5658ae6b3c350222fabf0b8fc3f6b2f7e12",
-      "title": "Education Teaching Diplomas of National Colleges to be Upgraded to Degrees",
-      "sent_at": "2026-02-26T02:30:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/laugfs-gas-to-distribute-lp-gas-stocks-within-the-next-36-hours",
-      "content_hash": "d9541354213053cf5ebb08997f85e685facac17620488ff52e61ff0c05755a88",
-      "title": "LAUGFS Gas to Distribute LP Gas Stocks Within the Next 36 Hours",
-      "sent_at": "2026-02-26T02:30:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/minister-vijitha-herath-departs-for-official-visit-in-germany",
-      "content_hash": "1396e5459639162e886924bbc41c1c2b9ebe29fb389763d525937e2863d018aa",
-      "title": "Minister Vijitha Herath Departs for Official Visit in Germany",
-      "sent_at": "2026-02-26T02:30:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/second-shooter-and-accomplices-detained-for-72-hour-interrogation-in-akuregoda-double-murder",
-      "content_hash": "682ce348748d48fcd15f653fa9de7d8603081cc833017cbbcffd93b3c74df637",
-      "title": "Second Shooter and Accomplices Detained for 72-Hour Interrogation in Akuregoda Double Murder",
-      "sent_at": "2026-02-26T02:30:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/26/109-year-old-loan-shock-indian-family-sends-britain-a-bill-for-an-unpaid-%e2%80%98war-debt%e2%80%99",
       "content_hash": "de74eb9a851a80a7f94fac351682e8ebb64368393ff3aa343a865dda859d09dd",
       "title": "109-Year-Old Loan Shock: Indian Family Sends Britain a Bill for an Unpaid ‘War Debt’",
@@ -803,6 +779,12 @@
       "content_hash": "f76f8e2009e98c07eeff41ee6e5186c75d48121b94102eee9203ff9ebf9ce5f6",
       "title": "CPC Assures No Fuel Shortage Until End Of April",
       "sent_at": "2026-03-05T02:29:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/sri-lanka-in-talks-with-icc-on-appointing-interim-cricket-administration",
+      "content_hash": "758dcd3f8897b5c16d06529340550fca8852568ff19ea0eeff04e6194e17fd15",
+      "title": "Sri Lanka in Talks With ICC on Appointing Interim Cricket Administration",
+      "sent_at": "2026-03-05T04:47:44Z"
     }
   ]
 }
