@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/26/10-000-csd-officers-to-join-police-another-10-000-recruits-coming-this-year",
-      "content_hash": "cede6eb9037b365d57935fca7bfc3a32e6df69f92b82a4635a06c164b9f0fa18",
-      "title": "10,000 CSD Officers to Join Police; Another 10,000 Recruits Coming This Year",
-      "sent_at": "2026-02-26T08:54:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/attempts-to-disrupt-cid-probe-are-an-injustice-to-easter-attacks-victims",
-      "content_hash": "38bfc568b4d71d666f32cf5181d2fca1e30687042c034b0c34a181e73826e1f3",
-      "title": "Attempts to Disrupt CID Probe Are an Injustice to Easter Attacks Victims",
-      "sent_at": "2026-02-26T08:54:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/couple-arrested-in-wellawa-with-rs-4-million-in-illicit-funds",
-      "content_hash": "72dcead6bd22ad79e30482ae13b81852510bfca1d5572f85d917ca0bed73e05a",
-      "title": "Couple Arrested in Wellawa with Rs. 4 Million in Illicit Funds",
-      "sent_at": "2026-02-26T08:55:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/fire-breaks-out-at-kerawalapitiya-waste-disposal-plant",
-      "content_hash": "939d4e63665db6bfee11ed0fa6a5f75fbfe5790fb4b546197aa29f90131b8ab0",
-      "title": "Fire Breaks Out at Kerawalapitiya Waste Disposal Plant",
-      "sent_at": "2026-02-26T08:55:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/parliament-to-convene-from-march-3-6",
-      "content_hash": "cd57333cf9ead4e1e978a7f6c7d0c982351d9a7dfb67fe50b3db899810bd7ffb",
-      "title": "Parliament to Convene from March 3-6",
-      "sent_at": "2026-02-26T08:55:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/russia-considers-fuel-support-for-cuba-as-canada-pledges-food-aid",
-      "content_hash": "597d01d3dfaedda7ca504dc5305811e5c1e169e78cba54d011261abc053775b1",
-      "title": "Russia Considers Fuel Support For Cuba As Canada Pledges Food Aid",
-      "sent_at": "2026-02-26T08:55:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/26/governance-anti-corruption-are-the-next-big-reforms",
       "content_hash": "95007d976f90e90ab2b801b7220e418a4cbdf7227c342766a368430dc4fe2397",
       "title": "Governance & Anti-Corruption Are the Next Big Reforms",
@@ -761,6 +725,24 @@
       "content_hash": "19b3cfa55b6c12f6199e19155e46c340421a6b1896fa45b49daac41573d9041f",
       "title": "Two Indians Arrested at BIA With Large Stock of Narcotics",
       "sent_at": "2026-03-05T08:51:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/imf-chief-warns-middle-east-crisis-could-hit-global-economy",
+      "content_hash": "5f795c3b03a90cceded7e85496fd369301697d75e0de697dcd6591145064a307",
+      "title": "IMF Chief Warns Middle East Crisis Could Hit Global Economy",
+      "sent_at": "2026-03-05T09:51:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/second-iranian-vessel-near-sri-lanka%e2%80%99s-eez-government-says-full-intervention-underway",
+      "content_hash": "a62e1541731af4269d458f47299616714cb8d371800a77da8cce0f6c24113351",
+      "title": "Second Iranian Vessel Near Sri Lanka’s EEZ; Government Says Full Intervention Underway",
+      "sent_at": "2026-03-05T09:51:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/strait-of-hormuz-only-closed-to-ships-from-the-us-israel-and-europe-irgc",
+      "content_hash": "c1d23c5d7d0fdf646ff0dad1bd5c78d15144458b2876990b2b4c0a4fe1881644",
+      "title": "Strait of Hormuz ONLY Closed To Ships From The US, Israel and Europe - IRGC",
+      "sent_at": "2026-03-05T09:51:24Z"
     }
   ]
 }
