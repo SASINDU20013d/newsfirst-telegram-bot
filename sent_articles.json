@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/26/sc-rejects-petitions-challenging-president%e2%80%99s-emergency-proclamation-without-a-hearing",
-      "content_hash": "db0d8e5a367125c98f13e4aab8123334a9af996d80f9c18cfdce19a2910e4930",
-      "title": "SC Rejects Petitions Challenging President’s Emergency Proclamation Without a Hearing",
-      "sent_at": "2026-02-26T10:52:59Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/26/colombo-port-expansion-strengthens-sri-lanka-s-role-in-indo-pacific-trade",
       "content_hash": "f682240a165a6312e4c4ef8fa3df60fc666aa4f59fd24ecb56eb1f4b30af6758",
       "title": "Colombo Port Expansion Strengthens Sri Lanka's Role in Indo-Pacific Trade",
@@ -725,6 +719,24 @@
       "content_hash": "72afaec879daa7a3a98c1cf27d5bfb573a20e15a67063b582043deb64f56b5a6",
       "title": "Qatar Warns Public of \"Elevated Security Threat\"",
       "sent_at": "2026-03-05T10:46:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/asp-rohan-olugala-assumes-duties-as-director-of-walana-anti-corruption-unit",
+      "content_hash": "5febd04a754a5a0c5f6c21e84cbd0e9181dae8dc02b9bc45b2a6aa0704a84897",
+      "title": "ASP Rohan Olugala Assumes Duties as Director of Walana Anti-Corruption Unit",
+      "sent_at": "2026-03-05T11:37:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/china-warns-against-arbitrary-use-of-force-sends-zhai-jun-for-urgent-middle-east-mission",
+      "content_hash": "db5eebe00c3fcaf81305a63dc18c7c3b3f2b62419be53256290b1394020e246a",
+      "title": "China Warns Against 'Arbitrary Use of Force,' Sends Zhai Jun for Urgent Middle East Mission",
+      "sent_at": "2026-03-05T11:37:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/high-court-jails-61-year-old-attorney-for-fake-deed",
+      "content_hash": "4ba95b19e607e4099409b4e9884ac72f1193a70a148369f6244a5b8cb2c82463",
+      "title": "High Court Jails 61-Year-Old Attorney for Fake Deed",
+      "sent_at": "2026-03-05T11:37:16Z"
     }
   ]
 }
