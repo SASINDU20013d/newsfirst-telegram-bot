@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/26/governance-anti-corruption-are-the-next-big-reforms",
-      "content_hash": "95007d976f90e90ab2b801b7220e418a4cbdf7227c342766a368430dc4fe2397",
-      "title": "Governance & Anti-Corruption Are the Next Big Reforms",
-      "sent_at": "2026-02-26T09:55:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/karunananda-keeps-running-in-japan-sri-lankan-olympian-still-taught-in-japanese-schools",
-      "content_hash": "76727eccab62fa91b06823ab0f869279f6da953c2695b6f3b8b4dc4f52006fb5",
-      "title": "'Karunananda Keeps Running in Japan' - Sri Lankan Olympian Still Taught in Japanese Schools",
-      "sent_at": "2026-02-26T09:55:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/sri-lanka-has-room-to-cut-rates-if-growth-slows-cbsl-governor",
-      "content_hash": "3a6ef9784395df7389e6c56d536dffaa01d97259cdd3500d925de2071364dd5a",
-      "title": "Sri Lanka Has Room to Cut Rates if Growth Slows, CBSL Governor",
-      "sent_at": "2026-02-26T09:55:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/sri-lanka-targets-growth-as-key-competitive-advantage",
-      "content_hash": "4d90785e6090109352512e58370884ce727c867dcaf4c5f4021cb82706779a34",
-      "title": "Sri Lanka Targets Growth as Key Competitive Advantage",
-      "sent_at": "2026-02-26T09:55:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/26/sri-lankan-cricket-fans-demand-board-steps-down",
-      "content_hash": "9a8e16dcd3f7a9395a08a00a2f72242e74ffcce0213b58dc585fa14ae8055563",
-      "title": "Sri Lankan Cricket Fans Demand Board Steps Down",
-      "sent_at": "2026-02-26T09:55:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/26/sc-rejects-petitions-challenging-president%e2%80%99s-emergency-proclamation-without-a-hearing",
       "content_hash": "db0d8e5a367125c98f13e4aab8123334a9af996d80f9c18cfdce19a2910e4930",
       "title": "SC Rejects Petitions Challenging President’s Emergency Proclamation Without a Hearing",
@@ -743,6 +713,18 @@
       "content_hash": "c1d23c5d7d0fdf646ff0dad1bd5c78d15144458b2876990b2b4c0a4fe1881644",
       "title": "Strait of Hormuz ONLY Closed To Ships From The US, Israel and Europe - IRGC",
       "sent_at": "2026-03-05T09:51:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/iranian-drones-strike-azerbaijan-airport",
+      "content_hash": "79586308934c604d23d7043c9f83bf7a3aaca314cc50d7a28c1233a47eac19e3",
+      "title": "Iranian Drones Strike Azerbaijan Airport",
+      "sent_at": "2026-03-05T10:46:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/05/qatar-warns-public-of-elevated-security-threat",
+      "content_hash": "72afaec879daa7a3a98c1cf27d5bfb573a20e15a67063b582043deb64f56b5a6",
+      "title": "Qatar Warns Public of \"Elevated Security Threat\"",
+      "sent_at": "2026-03-05T10:46:04Z"
     }
   ]
 }
