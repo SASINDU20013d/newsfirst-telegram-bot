@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/27/nz-under-85kg-rugby-team-to-tour-sri-lanka-in-april-2026",
-      "content_hash": "69704754c243dbb6f0bbf0583eabe627c4d6d2562132da5383ac0dfeeeb7a864",
-      "title": "NZ Under-85kg Rugby Team to Tour Sri Lanka in April 2026",
-      "sent_at": "2026-02-27T09:49:17Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/27/galle-high-court-remands-wife-of-notorious-trafficker-in-assets-probe",
       "content_hash": "151a401729537bc25d9cf82a321eab1e39de53db61e70be663685473f68f1c20",
       "title": "Galle High Court Remands Wife of Notorious Trafficker in Assets Probe",
@@ -797,6 +791,18 @@
       "content_hash": "7ba3590d5d6e6bb583e8c537a691207c85a282b2e595b16972e3961889cd9cf9",
       "title": "US Grants 30-Day Waiver for India to Buy Stranded Russian Oil",
       "sent_at": "2026-03-06T08:44:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/06/assets-of-drug-trafficker-neil-frozen",
+      "content_hash": "e11a28fa2d218b791ba68900f196dccca7e4297975d27eb4063b2eb60a55f1b2",
+      "title": "Assets Of Drug Trafficker 'Neil' Frozen",
+      "sent_at": "2026-03-06T10:40:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/06/sri-lanka-now-has-a-government-people-trust-imf-chief",
+      "content_hash": "a548d103b33bce66849c77996244832c1c9d582a9a5c6af0ae79fce6e8687859",
+      "title": "Sri Lanka Now Has a Government People Trust : IMF Chief",
+      "sent_at": "2026-03-06T10:40:58Z"
     }
   ]
 }
