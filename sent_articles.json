@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/27/indian-high-commissioner-santosh-jha-highlights-growing-trade-investment-and-tourism-ties-with-sri-lanka",
-      "content_hash": "3a0e7dfa8dde2b003e9b6f8d18adb920dcb4a9215677fdca48a2439340aedb47",
-      "title": "Indian High Commissioner Santosh Jha Highlights Growing Trade, Investment, and Tourism Ties with Sri Lanka",
-      "sent_at": "2026-02-27T07:50:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/27/sri-lankaindia-partnership-growing-across-key-sectors-says-pm-harini-amarasuriya",
-      "content_hash": "38c03cabdbf65673d2788d62a749204d0b299d471e06451d4eb76c160211017b",
-      "title": "Sri Lanka–India Partnership Growing Across Key Sectors, Says PM Harini Amarasuriya",
-      "sent_at": "2026-02-27T07:50:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/27/nz-under-85kg-rugby-team-to-tour-sri-lanka-in-april-2026",
       "content_hash": "69704754c243dbb6f0bbf0583eabe627c4d6d2562132da5383ac0dfeeeb7a864",
       "title": "NZ Under-85kg Rugby Team to Tour Sri Lanka in April 2026",
@@ -797,6 +785,18 @@
       "content_hash": "1c3461db60235bdf04d2cd815bcbda92abbffc3c550ceaba0d21b4c44451606c",
       "title": "Search Operations Continue After Fatal Boat Accident",
       "sent_at": "2026-03-06T07:40:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/06/204-personnel-from-iranian-ship-taken-to-welisara-naval-base",
+      "content_hash": "4e0e8816c49fc45636a1e65ede3a7fc3a303933ff84b1e40e3d5a92becfa77d9",
+      "title": "204 Personnel From Iranian Ship Taken to Welisara Naval Base",
+      "sent_at": "2026-03-06T08:43:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/06/us-grants-30-day-waiver-for-india-to-buy-stranded-russian-oil",
+      "content_hash": "7ba3590d5d6e6bb583e8c537a691207c85a282b2e595b16972e3961889cd9cf9",
+      "title": "US Grants 30-Day Waiver for India to Buy Stranded Russian Oil",
+      "sent_at": "2026-03-06T08:44:08Z"
     }
   ]
 }
