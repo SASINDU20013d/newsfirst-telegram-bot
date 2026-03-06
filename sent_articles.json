@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/27/new-circular-issued-to-formalize-government-vehicle-maintenance-and-fuel-monitoring",
-      "content_hash": "d58982a0c0f293df7c1c474d75a695b67b05d3df04d4eddc02b1ebdd105555b0",
-      "title": "New Circular Issued to Formalize Government Vehicle Maintenance and Fuel Monitoring",
-      "sent_at": "2026-02-27T04:48:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/27/wanted-criminal-%e2%80%98podi-lassi%e2%80%99-to-be-handed-over-to-galle-crimes-division-after-year-long-evasion",
-      "content_hash": "bc0f004ee1d14e4f7cdfbec4f2e3148de92ed1292eac5659fee29c219ccad4ec",
-      "title": "Wanted Criminal ‘Podi Lassi’ To Be Handed Over To Galle Crimes Division After Year-Long Evasion",
-      "sent_at": "2026-02-27T04:48:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/27/2025-a-l-practical-exam-dates-announced-admission-cards-issued",
       "content_hash": "1fc25c520e7ce7412ce62f4e72b877a3a8aad2294f8a39a4499f7d1c7591bb20",
       "title": "2025 A/L Practical Exam Dates Announced; Admission Cards Issued",
@@ -791,6 +779,18 @@
       "content_hash": "806a6619d1c5298a1cc61e756caaa9338087f50638388b95adb46b5f26c812a1",
       "title": "President Explains Decision On Iranian Ship",
       "sent_at": "2026-03-06T04:45:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/06/britain-shifts-position-on-iran-starmer-allows-us-to-use-uk-bases",
+      "content_hash": "bf90c724fb85cb57b45917727c6c16ac93d7aec35cbac4c4dd6de9dca0c366bf",
+      "title": "Britain Shifts Position on Iran | Starmer Allows US To Use UK Bases",
+      "sent_at": "2026-03-06T05:49:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/06/iran-labels-strike-on-unarmed-training-ship-a-war-crime",
+      "content_hash": "a278160bbcff5687f17e0c39b5433e99a5ae5b6e5c7b4985cba617ef5873c8a9",
+      "title": "Iran Labels Strike on Unarmed Training Ship a 'War Crime'",
+      "sent_at": "2026-03-06T05:49:51Z"
     }
   ]
 }
