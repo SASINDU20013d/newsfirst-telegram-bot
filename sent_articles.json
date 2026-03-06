@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/27/court-of-appeal-upholds-death-sentence-for-heroin-possession",
-      "content_hash": "7b3bbcb334e0fe902e610a59d943224253915146b175c488dd38d84f7f293758",
-      "title": "Court of Appeal Upholds Death Sentence for Heroin Possession",
-      "sent_at": "2026-02-27T11:36:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/27/financial-relief-for-cyclone-affected-students-via-special-mahapola-scholarship-scheme",
       "content_hash": "713c8a3d614bea9d1eb53767b16c9c42f0ccd7634965355dc69e72d807fd07fa",
       "title": "Financial Relief for Cyclone-Affected Students via Special Mahapola Scholarship Scheme",
@@ -815,6 +809,12 @@
       "content_hash": "61271afee4ac85ea2eaae208b7406a1531cb660650e76ba1095430bf2e23d2a8",
       "title": "UN Welcomes Sri Lanka’s “Humanitarian Assistance” After Rescue of Iranians From Bushehr",
       "sent_at": "2026-03-06T11:33:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/06/not-a-travel-advisory-us-embassy-suggests-alternate-travel-routes-to-citizens-due-to-limited-middle-east-operations",
+      "content_hash": "399f53014612482bafb156976fd20b5b9c34da89f2a14f54299c2987873699c7",
+      "title": "NOT A TRAVEL ADVISORY: US Embassy Suggests Alternate Travel Routes To Citizens Due To Limited Middle East Operations",
+      "sent_at": "2026-03-06T13:05:23Z"
     }
   ]
 }
