@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/27/2025-a-l-practical-exam-dates-announced-admission-cards-issued",
-      "content_hash": "1fc25c520e7ce7412ce62f4e72b877a3a8aad2294f8a39a4499f7d1c7591bb20",
-      "title": "2025 A/L Practical Exam Dates Announced; Admission Cards Issued",
-      "sent_at": "2026-02-27T07:00:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/27/indian-high-commissioner-santosh-jha-highlights-growing-trade-investment-and-tourism-ties-with-sri-lanka",
       "content_hash": "3a0e7dfa8dde2b003e9b6f8d18adb920dcb4a9215677fdca48a2439340aedb47",
       "title": "Indian High Commissioner Santosh Jha Highlights Growing Trade, Investment, and Tourism Ties with Sri Lanka",
@@ -797,6 +791,12 @@
       "content_hash": "762a6c89c6844c72c9b55176606fbf86ab2f308b8b89ccb76cec9deef2c67aea",
       "title": "'Can’t Even Appoint the Mayor of New York' : Iran Mocks Trump’s Bid to Choose Iran’s Leader",
       "sent_at": "2026-03-06T06:56:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/06/search-operations-continue-after-fatal-boat-accident",
+      "content_hash": "1c3461db60235bdf04d2cd815bcbda92abbffc3c550ceaba0d21b4c44451606c",
+      "title": "Search Operations Continue After Fatal Boat Accident",
+      "sent_at": "2026-03-06T07:40:52Z"
     }
   ]
 }
