@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/28/air-pollution-levels-rise-in-several-areas-nbro",
-      "content_hash": "ea25e2d4411311eb85789efa02f27edac7fe9f74c0d04948765fc35d93ab75f8",
-      "title": "Air Pollution Levels Rise in Several Areas - NBRO",
-      "sent_at": "2026-02-28T08:34:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/28/cabinet-approves-emergency-purchase-of-300-000-mt-of-coal",
-      "content_hash": "bdd01bb6d3446160d860da186c7acd7e54c23662f467d81ec171367451b0c084",
-      "title": "Cabinet Approves Emergency Purchase of 300,000 MT of Coal",
-      "sent_at": "2026-02-28T08:35:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/28/two-suspects-arrested-in-jinthupitiya-shooting",
-      "content_hash": "439b9020fcd3780778adf8650676a512f06538acbaecd75a10b7e546c46d52ee",
-      "title": "Two Suspects Arrested in Jinthupitiya Shooting",
-      "sent_at": "2026-02-28T08:35:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/28/sri-lankan-airlines-reroutes-flights-amid-iran-israel-airspace-closure",
       "content_hash": "5455ab1ecbc4b72c4bc95ed9a930706f2797c57ecf58186ca1295a4639e332fa",
       "title": "Sri Lankan Airlines Reroutes Flights Amid Iran-Israel Airspace Closure",
@@ -773,6 +755,18 @@
       "content_hash": "a12971a96f7389c2a91c5580c4d97f9c7714f2aa33928fba3a8ebc421985baef",
       "title": "Suspect Arrested Linked to Overseas Drug Trafficker 'Badowita Asanka'",
       "sent_at": "2026-03-07T07:32:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/house-of-organized-criminal-s-wife-targeted-in-shooting",
+      "content_hash": "249a915c68602dd41c7889b860a7ded94cfd5a797014e9b2da161441fa9bf39d",
+      "title": "House of Organized Criminal's Wife Targeted in Shooting",
+      "sent_at": "2026-03-07T08:37:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/navy-to-continue-aid-for-rescued-iranian-sailors-at-welisara-base",
+      "content_hash": "ba8405d056950aeacf6cdd9c5d4d54dbc861969cb38579e953436b39ef704a59",
+      "title": "Navy to Continue Aid for Rescued Iranian Sailors at Welisara Base",
+      "sent_at": "2026-03-07T08:37:20Z"
     }
   ]
 }
