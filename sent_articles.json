@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/28/5-0006-000-children-born-with-birth-defects-annually-ministry-of-health",
-      "content_hash": "94d46ceefd66fc6226e053c240b962a4cd02db9ce7544165c5701fcb3d549143",
-      "title": "5,000–6,000 Children Born With Birth Defects Annually - Ministry of Health",
-      "sent_at": "2026-02-28T05:35:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/28/multiple-suspects-arrested-in-ahungalla-ambalangoda-with-drugs-and-ammunition",
-      "content_hash": "d460319b2648f2ed0786886429a76c1581bccc98a565059fb3821059fe0352e4",
-      "title": "Multiple Suspects Arrested in Ahungalla, Ambalangoda With Drugs and Ammunition",
-      "sent_at": "2026-02-28T05:35:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/28/suspect-in-kadawatha-double-murder-arrested-after-return-from-qatar",
-      "content_hash": "e61e19211b35a70faa1c6f30217204bfa462eef8d1688e2b2273524500fb105c",
-      "title": "Suspect in Kadawatha Double Murder Arrested After Return From Qatar",
-      "sent_at": "2026-02-28T05:36:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/28/foreign-minister-meets-bremen-mayor-to-discuss-trade-and-tourism-collaboration",
       "content_hash": "057605ad8e768d478ac7a22455ccda9b8f62429f275ef514f5f08fbe71f47963",
       "title": "Foreign Minister Meets Bremen Mayor to Discuss Trade and Tourism Collaboration",
@@ -773,6 +755,24 @@
       "content_hash": "219492a69722280553ad0a1ad634b8ccc398eed7b6c04578754adb7210e43cd4",
       "title": "Flights to the Middle East Face Further Disruption",
       "sent_at": "2026-03-07T02:21:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/akuregoda-double-murder-two-arrested-for-transporting-gunman",
+      "content_hash": "5a33bf004e8ec697edd213bd358fadee96d007c4a93bc043546ead6d3aa100c2",
+      "title": "Akuregoda Double Murder: Two Arrested for Transporting Gunman",
+      "sent_at": "2026-03-07T05:39:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/copa-to-submit-motor-traffic-department-corruption-report-to-attorney-general",
+      "content_hash": "f2c9e92a9c8289d7589bc7867acd6cfb541486308ac9f47b28a860bd52d10f6f",
+      "title": "COPA To Submit Motor Traffic Department Corruption Report To Attorney General",
+      "sent_at": "2026-03-07T05:39:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/vijitha-herath-meets-india-s-external-affairs-minister-s-jaishankar",
+      "content_hash": "5120c7c20f85a19770201d1b3e41a184e92084b1e21f35b2aeec24e0d7637a70",
+      "title": "Vijitha Herath meets India's External Affairs Minister S. Jaishankar",
+      "sent_at": "2026-03-07T05:39:58Z"
     }
   ]
 }
