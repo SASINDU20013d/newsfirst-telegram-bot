@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/28/sri-lankan-born-baker-wins-paris-s-best-baguette-on-debut",
-      "content_hash": "baf43d2ec9b600a221395efa849602bc527136756fc849905d138a9a8fa36e33",
-      "title": "Sri Lankan-born Baker Wins Paris's Best Baguette On Debut!",
-      "sent_at": "2026-02-28T02:11:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/02/28/suresh-salley-to-be-questioned-under-90-day-detention-order",
-      "content_hash": "1625b286338c3a79c84f49f6806f090e6d1793b5f295b5c8166c9ddf37ff01ed",
-      "title": "Suresh Salley to be Questioned Under 90-day Detention Order",
-      "sent_at": "2026-02-28T02:11:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/28/laugfs-and-litro-to-receive-new-lp-gas-shipments",
       "content_hash": "e530808720e89ef0a83e5c73f63d4b07678b7ce227c0731b1c9c85ed87bd395f",
       "title": "Laugfs and Litro To Receive New LP Gas Shipments",
@@ -779,6 +767,24 @@
       "content_hash": "e475d638d802254a18912a289a28a29c4e12fd9c96196e41bd90fa8fa3cd1be5",
       "title": "India Allowed Another Iranian Warship to Dock Days Before Us Sank IRIS Dena: NDTV",
       "sent_at": "2026-03-06T17:38:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/disaster-relief-allowance-scheme-announced",
+      "content_hash": "a91d6bddb376a52152a80697ef40abd1a105b0f23da254410bd7aceb5d4eb78e",
+      "title": "Disaster Relief Allowance Scheme Announced",
+      "sent_at": "2026-03-07T02:21:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/facilities-arranged-for-tourists-stranded-in-sri-lanka-sltda",
+      "content_hash": "b296e92c6f2b8b7170ec844d7b798f9e13fbecc2cfd96a9360b9c4fe29977579",
+      "title": "Facilities Arranged for Tourists Stranded in Sri Lanka - SLTDA",
+      "sent_at": "2026-03-07T02:21:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/flights-to-the-middle-east-face-further-disruption",
+      "content_hash": "219492a69722280553ad0a1ad634b8ccc398eed7b6c04578754adb7210e43cd4",
+      "title": "Flights to the Middle East Face Further Disruption",
+      "sent_at": "2026-03-07T02:21:48Z"
     }
   ]
 }
