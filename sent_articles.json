@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/28/flights-between-sri-lanka-and-middle-east-may-be-cancelled-or-delayed-civil-aviation-authority",
-      "content_hash": "e7e70780f4e4447d9b3063418726f8ccd6243fc4f4969ca045058e689bcc7286",
-      "title": "Flights Between Sri Lanka and Middle East May Be Cancelled or Delayed: Civil Aviation Authority",
-      "sent_at": "2026-02-28T11:23:59Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/28/sri-lanka%e2%80%99s-ambassador-to-israel-confirms-safety-of-sri-lankans-in-israel",
       "content_hash": "4a76e1692be14969b1f16f225c7e64cae779a9be0c84aa4b43fa717647af7c34",
       "title": "Sri Lanka’s Ambassador to Israel Confirms Safety Of Sri Lankans In Israel",
@@ -773,6 +767,18 @@
       "content_hash": "ca143cb807765866cf99cbabf211bef4496fc81c26b2eca1f54b6343291cb797",
       "title": "Ministry Assures Uninterrupted Power Supply Through April",
       "sent_at": "2026-03-07T10:28:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/sri-lanka-reaffirms-unclos%e2%80%91based-approach-to-iranian-crew",
+      "content_hash": "a6b5717830de7632a9c41359e0fbb22dbc282f5a993876a84361853ed6870dda",
+      "title": "Sri Lanka Reaffirms UNCLOS‑Based Approach to Iranian Crew",
+      "sent_at": "2026-03-07T11:24:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/strict-international-law-is-our-shield-sri-lanka-fm-urges-regional-cooperation-on-climate-maritime-security-and-blue-economy",
+      "content_hash": "30027ef6961f79d5074a0f8f8b05d1d3d81a2b7c14f8457a8aa06543887d4d55",
+      "title": "'Strict International Law Is Our Shield' - Sri Lanka FM Urges Regional Cooperation on Climate, Maritime Security, and Blue Economy",
+      "sent_at": "2026-03-07T11:24:20Z"
     }
   ]
 }
