@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/02/28/israel-says-it-has-launched-attack-on-iran-as-explosions-reported-in-tehran",
-      "content_hash": "f38047e647977858433740f94a3b06a6a1c09fa842aa24d35da8d251e8d4c911",
-      "title": "Israel Says it Has Launched Attack on Iran, as Explosions Reported in Tehran",
-      "sent_at": "2026-02-28T07:30:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/02/28/air-pollution-levels-rise-in-several-areas-nbro",
       "content_hash": "ea25e2d4411311eb85789efa02f27edac7fe9f74c0d04948765fc35d93ab75f8",
       "title": "Air Pollution Levels Rise in Several Areas - NBRO",
@@ -767,6 +761,18 @@
       "content_hash": "5120c7c20f85a19770201d1b3e41a184e92084b1e21f35b2aeec24e0d7637a70",
       "title": "Vijitha Herath meets India's External Affairs Minister S. Jaishankar",
       "sent_at": "2026-03-07T05:39:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/lp-gas-supply-stable-two-vessels-carrying-3-700mt-to-arrive-in-sri-lanka",
+      "content_hash": "7ae4ec8afd4721c531b6fc4db8320e326e10157a2ceaf922540053d23c4fc7ab",
+      "title": "LP Gas Supply Stable: Two Vessels carrying 3,700MT To Arrive in Sri Lanka",
+      "sent_at": "2026-03-07T07:32:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/07/suspect-arrested-linked-to-overseas-drug-trafficker-badowita-asanka",
+      "content_hash": "a12971a96f7389c2a91c5580c4d97f9c7714f2aa33928fba3a8ebc421985baef",
+      "title": "Suspect Arrested Linked to Overseas Drug Trafficker 'Badowita Asanka'",
+      "sent_at": "2026-03-07T07:32:18Z"
     }
   ]
 }
