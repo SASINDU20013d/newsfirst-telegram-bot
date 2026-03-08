@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/01/iran-confirms-the-killing-of-supreme-leader-ayatollah-ali-khamenei",
-      "content_hash": "649239c98285cc9483467c9c430d932ec710bcedff56f36d5b1c282c7f4e8a08",
-      "title": "Iran Confirms the Killing of Supreme Leader Ayatollah Ali Khamenei",
-      "sent_at": "2026-03-01T05:54:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/01/srilankan-airlines-cancel-all-flights-to-the-middle-east-amidst-escalating-tensions",
-      "content_hash": "04733d43a632847dc1b84254cd9fcf1bd74222465a8c3f1243d961faf3ff54ba",
-      "title": "SriLankan Airlines Cancel All Flights to the Middle East Amidst Escalating Tensions",
-      "sent_at": "2026-03-01T05:54:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/01/srilankan-airlines-cancels-multiple-middle-east-flights-amid-airspace-closures",
       "content_hash": "efaaf872af146de19c7b258dbb1b7672175e4948f42226ccfab6d4bbcb930042",
       "title": "SriLankan Airlines Cancels Multiple Middle East Flights Amid Airspace Closures",
@@ -773,6 +761,24 @@
       "content_hash": "8f995937536b6fa22e2f9516b5d85d90ad0a88ce1b580fd29ea3ec5e0cf62ad4",
       "title": "Oil Slicks at Hikkaduwa Beach Identified as Lubricant Oil",
       "sent_at": "2026-03-08T04:46:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/08/92-parcels-of-heroin-discovered-on-multi-day-fishing-vessel-seized-in-deep-sea",
+      "content_hash": "8426aaa1501892311826c60e0cf71ad1f0cf3878c6d07586c8cc336dd35cd8de",
+      "title": "92 Parcels of Heroin Discovered on Multi-Day Fishing Vessel Seized in Deep Sea",
+      "sent_at": "2026-03-08T06:51:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/08/deputy-minister-inquires-into-injured-sri-lankans-from-middleeast-tensions",
+      "content_hash": "b59b9ca5f4780d09dd2801c2e5073af6299ba935bcdcd9f42c322874081c1fa8",
+      "title": "Deputy Minister Inquires into Injured Sri Lankans from MiddleEast Tensions",
+      "sent_at": "2026-03-08T06:51:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/08/fire-breaks-out-in-maharagama-seven-fire-engines-deployed-to-contain-the-blaze",
+      "content_hash": "b2f12912599da503b71b4a7e445e1f83f5d8481bb254acd8d43a2e08e851232a",
+      "title": "Fire Breaks Out in Maharagama; Seven Fire Engines Deployed to Contain the Blaze",
+      "sent_at": "2026-03-08T06:51:09Z"
     }
   ]
 }
