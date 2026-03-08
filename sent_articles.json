@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/01/sri-lanka-activates-24-hour-emergency-response-for-nationals-amid-escalating-middle-east-tensions",
-      "content_hash": "fef1f2f8ca823b4c63caa938bedb049761da5a03ddfb6d8f2ad476251ae9c5ea",
-      "title": "Sri Lanka Activates 24-Hour Emergency Response for Nationals Amid Escalating Middle East Tensions",
-      "sent_at": "2026-03-01T02:43:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/01/laugfs-gas-plc-to-release-up-to-40-000-lp-gas-cylinders-daily-as-fresh-stocks-arrive",
       "content_hash": "6a2c615b4b33c2a1ec3c1123e98c3cf669a7bdf2add62d4d29940c3f6cdd87c3",
       "title": "Laugfs Gas PLC to Release Up to 40,000 LP Gas Cylinders Daily as Fresh Stocks Arrive",
@@ -779,6 +773,18 @@
       "content_hash": "9329a73e3e403cb37fdfabaeebd5de05028bbbd74f06d1f5e77ddae51ea216ee",
       "title": "Suspects Arrested with Narcotics in Southern Seas to be Brought to Dikowita Harbor",
       "sent_at": "2026-03-08T02:33:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/08/fire-at-a-furniture-store-in-alawatugoda-brought-under-control",
+      "content_hash": "d5f3abf0b140ee02d5e0ed2bc83655bd4ba42334cb70b347db052ee4a6ebbea1",
+      "title": "Fire at a Furniture Store in Alawatugoda Brought Under Control",
+      "sent_at": "2026-03-08T04:46:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/08/oil-slicks-at-hikkaduwa-beach-identified-as-lubricant-oil",
+      "content_hash": "8f995937536b6fa22e2f9516b5d85d90ad0a88ce1b580fd29ea3ec5e0cf62ad4",
+      "title": "Oil Slicks at Hikkaduwa Beach Identified as Lubricant Oil",
+      "sent_at": "2026-03-08T04:46:23Z"
     }
   ]
 }
