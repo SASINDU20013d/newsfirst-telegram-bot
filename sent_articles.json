@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/01/public-servants%e2%80%99-housing-loan-limit-increased-to-rs-5-million",
-      "content_hash": "5838756c06779cf59f2d6ab9f7a849032c4657bcefcc88820b58f07b350826b4",
-      "title": "Public Servants’ Housing Loan Limit Increased To Rs. 5 Million",
-      "sent_at": "2026-03-01T12:57:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/01/58-injured-3-killed-in-iranian-attacks-in-uae-defense-ministry",
       "content_hash": "ce269790cb211722e31627e06e03eb1e66f8a4977449528fa8ddb35def8748b2",
       "title": "58 Injured, 3 Killed in Iranian Attacks in UAE – Defense Ministry",
@@ -773,6 +767,18 @@
       "content_hash": "c8ed48b4123fdbc0dda3967bce83b1840c0394364ff95dd4e1e00ab0acd9373b",
       "title": "General Managers Appointed To 3 New Power Sector Institutions",
       "sent_at": "2026-03-08T09:34:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/08/no-link-between-hikkaduwa-oil-slick-and-iranian-vessel-says-min-of-environment",
+      "content_hash": "c392be7074f010a083b0b13f64bb8440d51c71d59d510cb3fb28628668127d04",
+      "title": "No link between Hikkaduwa oil slick and Iranian vessel Says Min. of Environment",
+      "sent_at": "2026-03-08T12:57:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/08/police-issue-guidelines-for-obtaining-clearance-reports",
+      "content_hash": "f09d404e87f30c79878329ad1fde10f945a20a0cf31f73c19d64c6f05b22337d",
+      "title": "Police Issue Guidelines for Obtaining Clearance Reports",
+      "sent_at": "2026-03-08T12:58:00Z"
     }
   ]
 }
