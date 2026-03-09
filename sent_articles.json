@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/02/no-risk-of-fuel-shortage-sufficient-reserves-available-dr-nalinda-jayatissa-warns-against-panic-buying",
-      "content_hash": "151f992dc5ce5ac30dd3360ee4de2f1caa059d00925cdbe208403d8a6591bde4",
-      "title": "No Risk of Fuel Shortage, Sufficient Reserves Available – Dr. Nalinda Jayatissa Warns Against Panic Buying",
-      "sent_at": "2026-03-02T13:08:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/03/cpc-chairman-says-fuel-stocks-issued-at-150-to-maintain-fuel-distribution-says-qr-system-is-not-required",
       "content_hash": "b346b38630035b58962712a53629a227677e87dd548c7e2e77f858d3c418c14e",
       "title": "CPC Chairman Says Fuel Stocks Issued at 150% to Maintain Fuel Distribution, Says QR System Is Not Required",
@@ -815,6 +809,18 @@
       "content_hash": "2745bfe152f0ede06ee2f4fa421abacd931a9ba0c417345e5aaf2a69c39f5fda",
       "title": "Sri Lanka Follows Neutral Foreign Policy While Upholding Humanity And International Law, says Deputy Minister of Fisheries",
       "sent_at": "2026-03-09T10:51:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/09/end-of-a-50-year-era-ceb-dissolved-power-sector-split-into-six-companies",
+      "content_hash": "1eb0d6302cd626c54c5f9b19d71c51f2772fcf3459dc7b108e2f9b22ed6742c2",
+      "title": "End of a 50-Year Era: CEB Dissolved, Power Sector Split Into Six Companies",
+      "sent_at": "2026-03-09T13:13:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/09/ex-mp-sajin-de-vass-gunawardena-arrested-over-asset-investigation",
+      "content_hash": "97b8278ce2259fa116056369d14555a1c98fc2975763d5abc16846298fc2e1e3",
+      "title": "Ex-MP Sajin de Vass Gunawardena Arrested Over Asset Investigation",
+      "sent_at": "2026-03-09T13:13:20Z"
     }
   ]
 }
