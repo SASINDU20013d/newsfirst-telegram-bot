@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/02/police-security-heightened-at-fuel-stations-amid-hoarding-concerns",
-      "content_hash": "389a85be741be35b0625c016f99a6e001f3caee220e9134ad674148a2d280737",
-      "title": "Police Security Heightened at Fuel Stations Amid Hoarding Concerns",
-      "sent_at": "2026-03-02T02:31:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/02/sri-lankan-among-injured-in-uae-attacks-emergency-hotlines-open",
-      "content_hash": "e45eff9984990c95eb39e1e40755ce74f0a67550b8b3f02f4519f8fe2e0d0467",
-      "title": "Sri Lankan Among Injured in UAE Attacks; Emergency Hotlines Open",
-      "sent_at": "2026-03-02T02:31:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/02/sufficient-fuel-stocks-available-cpc-assures-as-millions-of-stocks-distributed-across-the-country",
-      "content_hash": "2492544e06659c35a421f3d396fb9c4fbb5dc7a54bdb49a6846bf5293fe3b244",
-      "title": "Sufficient Fuel Stocks Available: CPC Assures as Millions of Stocks Distributed Across the Country",
-      "sent_at": "2026-03-02T02:31:55Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/02/%e2%80%98we-will-not-negotiate-with-the-us%e2%80%99-ali-larijani-the-secretary-of-iran%e2%80%99s-national-security-council",
       "content_hash": "267e7b2f85878e6c5d0ed55a0a91d6ab6d9a20d931a28d3088adfb1fb3f7e083",
       "title": "‘We will not negotiate with the US’ - Ali Larijani, the secretary of Iran’s National Security Council",
@@ -785,6 +767,12 @@
       "content_hash": "5972a84cad2b172c66829658c671f9fa96798e4a4eda0efa293b483c8ba4ac3d",
       "title": "India Make History with Back-to-Back ICC Men’s T20 World Cup Titles",
       "sent_at": "2026-03-08T17:27:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/09/iran-picks-hardliner-mojtaba-khamenei-as-supreme-leader",
+      "content_hash": "206f08d2feb766ddc276903c56befe5aefeb741282a08991c7b0aeecbc7857d1",
+      "title": "Iran Picks Hardliner Mojtaba Khamenei as Supreme Leader",
+      "sent_at": "2026-03-09T02:34:22Z"
     }
   ]
 }
