@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/02/%e2%80%98we-will-not-negotiate-with-the-us%e2%80%99-ali-larijani-the-secretary-of-iran%e2%80%99s-national-security-council",
-      "content_hash": "267e7b2f85878e6c5d0ed55a0a91d6ab6d9a20d931a28d3088adfb1fb3f7e083",
-      "title": "‘We will not negotiate with the US’ - Ali Larijani, the secretary of Iran’s National Security Council",
-      "sent_at": "2026-03-02T05:55:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/02/shipping-lines-requests-to-offload-middle-east-bound-cargo-in-sri-lanka",
       "content_hash": "f5de4077584781ffee65239658fc0bfa2e6f2cbc0c1091404bb61c560ba81259",
       "title": "Shipping Lines' Requests to Offload Middle East-Bound Cargo in Sri Lanka",
@@ -791,6 +785,18 @@
       "content_hash": "664f51df9d3b0f4832b31b0f6b5ebc324a30ca6e58a3c1945f5b825cb22698db",
       "title": "Oil Soars Past $100 A Barrel As US-Israel War On Iran Rages",
       "sent_at": "2026-03-09T04:55:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/09/pc-polls-under-a-new-electoral-system-says-minister",
+      "content_hash": "37e2869b71ed92ea249a2acbf3ba4586ef0562967710023ffccdc15d87f377ef",
+      "title": "PC Polls Under a New Electoral System, Says Minister",
+      "sent_at": "2026-03-09T06:01:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/09/six-suspects-detained-following-major-drug-bust-off-southern-coast",
+      "content_hash": "51ae48d24ca1613370f94d822e4ca5fad2e9ae193d0500e7d29ff6ac23e6fe46",
+      "title": "Six Suspects Detained Following Major Drug Bust off Southern Coast",
+      "sent_at": "2026-03-09T06:01:06Z"
     }
   ]
 }
