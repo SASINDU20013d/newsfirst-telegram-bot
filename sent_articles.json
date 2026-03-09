@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/02/new-education-reforms-for-grade-6-to-commence-in-2027-says-pm-harini-amarasuriya",
-      "content_hash": "3f1ffeb86853fd3b55373d0ea0b62423459ac337d804b46af6dbe8acf84d8625",
-      "title": "New Education Reforms for Grade 6 to Commence in 2027, says PM Harini Amarasuriya",
-      "sent_at": "2026-03-02T08:52:21Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/02/deputy-minister-of-fisheries-assures-uninterrupted-fuel-supply-for-fishermen-urges-public-not-to-panic",
       "content_hash": "efbfdac6b8aa241db9833c637a604ecdf30d956466913c54e108ea9ad857a675",
       "title": "Deputy Minister of Fisheries, Assures Uninterrupted Fuel Supply for Fishermen, Urges Public Not to Panic",
@@ -827,6 +821,12 @@
       "content_hash": "618b635662ae55ae761f82bd7383ce4406eb14c897c0f820277d667db3b7013f",
       "title": "Sri Lanka to Combine 5th & 6th IMF Reviews, Targeting Board Approval in May",
       "sent_at": "2026-03-09T08:52:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/09/sri-lanka-builds-national-network-to-crack-down-on-drugs",
+      "content_hash": "6d386135944fed27778459594a95a4153cb12027d92cf1c84b5bae54b550b826",
+      "title": "Sri Lanka builds national network to crack down on drugs",
+      "sent_at": "2026-03-09T09:57:21Z"
     }
   ]
 }
