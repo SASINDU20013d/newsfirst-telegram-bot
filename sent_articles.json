@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/03/verdict-on-cases-against-sarana-gunawardena-on-april-30th",
-      "content_hash": "1cf895d1ff0c37d9cce69fe63da4c87a1a2e8804065fee49ab1d90aabbb496fc",
-      "title": "Verdict on Cases Against Sarana Gunawardena on April 30th",
-      "sent_at": "2026-03-03T11:36:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/03/24-hour-nationwide-security-plan-to-protect-tourists-and-foreign-nationals",
-      "content_hash": "f7aa9ab25c2e37560ce4c3d2a57184690b590549fb76d8cee0bcfeb2eb8c62fb",
-      "title": "24-Hour Nationwide Security Plan to Protect Tourists and Foreign Nationals",
-      "sent_at": "2026-03-03T13:07:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/03/president-invites-pope-leo-xiv-for-an-official-visit-to-sri-lanka",
       "content_hash": "213e7623de9b6c56e978621c95c8241a761f50f669b803b03990ae5563a8ec86",
       "title": "President Invites Pope Leo XIV for an Official Visit to Sri Lanka",
@@ -845,6 +833,12 @@
       "content_hash": "b89f0d4ff5e15a2f1212c58e1603216689d75cd2f4448abb2a503e31cf4ccd5c",
       "title": "Former Director of CID, Prasad Ranasinghe Arrested",
       "sent_at": "2026-03-10T11:36:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/free-14%e2%80%91day-visa-extension-for-travellers-hit-by-middle-east-conflict",
+      "content_hash": "d63f3003eccef8b77f6c6d4a2c35d259fba85b9732ea7651f0c3320791d4f648",
+      "title": "Free 14‑Day Visa Extension for Travellers Hit by Middle East Conflict",
+      "sent_at": "2026-03-10T13:11:09Z"
     }
   ]
 }
