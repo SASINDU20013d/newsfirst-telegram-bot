@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/03/cpc-chairman-says-fuel-stocks-issued-at-150-to-maintain-fuel-distribution-says-qr-system-is-not-required",
-      "content_hash": "b346b38630035b58962712a53629a227677e87dd548c7e2e77f858d3c418c14e",
-      "title": "CPC Chairman Says Fuel Stocks Issued at 150% to Maintain Fuel Distribution, Says QR System Is Not Required",
-      "sent_at": "2026-03-03T02:34:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/03/only-lunar-eclipse-of-2026-visible-in-sri-lanka-today",
-      "content_hash": "4a0a840c08a1163b259a8f77216c9386fff5ddf6e17ba023a53c9ce239fb674a",
-      "title": "Only Lunar Eclipse of 2026 Visible in Sri Lanka Today",
-      "sent_at": "2026-03-03T02:34:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/03/plans-underway-to-resume-middleeast-flights-via-limited-airspaces-says-minister",
-      "content_hash": "79295e7ee7e72622eed68673d4997fc61823cb1deea3994d87271123b8c03f00",
-      "title": "Plans Underway to Resume MiddleEast Flights Via Limited AirSpaces, Says Minister",
-      "sent_at": "2026-03-03T02:34:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/03/third-phase-of-2026-first-school-term-begins",
-      "content_hash": "1d863ea162491a62fd6d604a29c648e88362fe3feeb4ac9686d18655efd8de7e",
-      "title": "Third Phase of 2026 First School Term Begins",
-      "sent_at": "2026-03-03T02:34:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/03/igp-to-announce-risk-allowance-or-salary-increments-for-police-officers",
       "content_hash": "51b5234b4ef825b473fbb26ff70b6c4104588d7a00e5ed9e49fa28a1d51ae824",
       "title": "IGP to Announce Risk Allowance or Salary Increments for Police Officers",
@@ -863,6 +839,12 @@
       "content_hash": "12bb28a2d751ae24338c0d8dca462d6df0b2c90fb49b479f7850631385b69181",
       "title": "Sri Lanka To Operate Seven Special Flights Today As Middle East Airspace Gradually Reopens",
       "sent_at": "2026-03-10T02:26:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
+      "content_hash": "901e6b0884f54a1d464bf5ec85e7455b8714daf941a1ce51d210d555f340dd66",
+      "title": "Bus Fares to Remain Unchanged Despite Fuel Price Hike",
+      "sent_at": "2026-03-10T04:45:10Z"
     }
   ]
 }
