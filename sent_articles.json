@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/03/igp-to-announce-risk-allowance-or-salary-increments-for-police-officers",
-      "content_hash": "51b5234b4ef825b473fbb26ff70b6c4104588d7a00e5ed9e49fa28a1d51ae824",
-      "title": "IGP to Announce Risk Allowance or Salary Increments for Police Officers",
-      "sent_at": "2026-03-03T04:49:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/03/sri-lanka-introduces-multiple-support-measures-for-stranded-migrant-workers-and-tourists",
-      "content_hash": "ea1dc23bafd7e8421276f99ddcdcbc46ddb9d29596dba23ab6d58298ed686f26",
-      "title": "Sri Lanka Introduces Multiple Support Measures for Stranded Migrant Workers and Tourists",
-      "sent_at": "2026-03-03T04:50:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/03/fuel-distribution-normalising-across-sri-lanka-cpc-chief-says",
       "content_hash": "5a19ff9ebb10c3e5690de5cb4741f1c2b1dbd0bd9c052a80d3836a39dd74bb92",
       "title": "Fuel Distribution Normalising Across Sri Lanka, CPC Chief Says",
@@ -845,6 +833,18 @@
       "content_hash": "901e6b0884f54a1d464bf5ec85e7455b8714daf941a1ce51d210d555f340dd66",
       "title": "Bus Fares to Remain Unchanged Despite Fuel Price Hike",
       "sent_at": "2026-03-10T04:45:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/gunman-connected-to-jinthupitiya-shooting-arrested-in-kolambage-ara",
+      "content_hash": "a56a91735df2c3297da04de0a0ec04f609745a8d57322d58a486f28301627ff6",
+      "title": "Gunman Connected to Jinthupitiya Shooting, Arrested in Kolambage Ara",
+      "sent_at": "2026-03-10T05:49:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/navy-seizes-fishing-vessel-with-drugs-and-weapons",
+      "content_hash": "50bf486ae7077939ed64e4491a3862b1f38aa8304fd121cb39d7978b172b62b1",
+      "title": "Navy Seizes Fishing Vessel With Drugs and Weapons",
+      "sent_at": "2026-03-10T05:49:59Z"
     }
   ]
 }
