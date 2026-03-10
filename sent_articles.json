@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/03/sri-lankan-president-urges-warring-sides-to-act-for-peace",
-      "content_hash": "d6c7185f6020fbc592712bee033a91264ece5b86be8d078fd9e857a3eba8599f",
-      "title": "Sri Lankan President Urges Warring Sides to Act for Peace",
-      "sent_at": "2026-03-03T07:45:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/03/srilankan-airlines-cancels-12-middle-east-flights-amid-regional-airspace-closure",
       "content_hash": "0c6cfaa821bd218c7e773dadd5468addbd7da194bfedde6691d61bf7f6d19a34",
       "title": "SriLankan Airlines Cancels 12 Middle East Flights Amid Regional Airspace Closure",
@@ -839,6 +833,18 @@
       "content_hash": "31631671428385d43f24d5f6d68d56988bc541e13ee060c3f622ed15660e9a92",
       "title": "STF Drug Bust in Nittambuwa: Two Associated of Dubai Waruna Arrested with Large Haul of Ice and Heroin",
       "sent_at": "2026-03-10T06:56:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/icc-cancels-doha-meetings-amid-west-asia-conflict",
+      "content_hash": "0a32542f015403b11f68640fc628887cbbbde978f7daccaa3a1289b24fe405fb",
+      "title": "ICC Cancels Doha Meetings Amid West Asia Conflict",
+      "sent_at": "2026-03-10T08:51:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/navy-foils-gold-smuggling-attempt-suspects-nabbed-with-over-6-kg-of-gold",
+      "content_hash": "91252a4893577d949bba58e140cec89c1b7409db7d63f3e8fb0c0f925d93a39b",
+      "title": "Navy Foils Gold Smuggling Attempt, Suspects Nabbed With Over 6 kg of Gold",
+      "sent_at": "2026-03-10T08:51:29Z"
     }
   ]
 }
