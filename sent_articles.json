@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/03/president-invites-pope-leo-xiv-for-an-official-visit-to-sri-lanka",
-      "content_hash": "213e7623de9b6c56e978621c95c8241a761f50f669b803b03990ae5563a8ec86",
-      "title": "President Invites Pope Leo XIV for an Official Visit to Sri Lanka",
-      "sent_at": "2026-03-03T14:49:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/04/ceylon-petroleum-corporation-to-build-3km-pipeline-from-trincomalee-port-to-china-bay",
       "content_hash": "c19fd583834d740a679960b7b503df22584f38453519c554eeb5413ac736a241",
       "title": "Ceylon Petroleum Corporation to Build 3km Pipeline from Trincomalee Port to China Bay",
@@ -839,6 +833,36 @@
       "content_hash": "d63f3003eccef8b77f6c6d4a2c35d259fba85b9732ea7651f0c3320791d4f648",
       "title": "Free 14‑Day Visa Extension for Travellers Hit by Middle East Conflict",
       "sent_at": "2026-03-10T13:11:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/afghanistan-vs-sri-lanka-series-called-off-due-to-iran-war",
+      "content_hash": "c4db152d4ee331405c900fea143cd6d7381c33975d760a229aedcfd279ec5d5f",
+      "title": "Afghanistan vs Sri Lanka Series Called Off Due To Iran War",
+      "sent_at": "2026-03-10T14:54:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/cabinet-approves-new-economic-watchdog-amid-rising-external-risks",
+      "content_hash": "cd9144cd1cea036a2256bc847d662c7d813e0dbcf94dbb52c147c2e0b59f72dd",
+      "title": "Cabinet Approves New Economic Watchdog Amid Rising External Risks",
+      "sent_at": "2026-03-10T14:54:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/former-director-of-cid-prasad-ranasinghe-granted-bail",
+      "content_hash": "c72224847933e767c4e1cfe7478dc68dc274a7b0ff486329101a65e6b8d298db",
+      "title": "Former Director of CID, Prasad Ranasinghe Granted Bail",
+      "sent_at": "2026-03-10T14:54:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/fuel-stocks-for-weeks-burnt-in-days-amid-public-panic-says-cpc",
+      "content_hash": "783d2d04ee2db4b2491d536ff2319169e1853ca47aa6c236770c2039d92db8f4",
+      "title": "Fuel Stocks for Weeks Burnt in Days Amid Public Panic, Says CPC",
+      "sent_at": "2026-03-10T14:54:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/10/government-justifies-fuel-hike-with-spike-in-consumption-and-global-volatility",
+      "content_hash": "085206430b549695c56696a84f94b287c8f8e0b8f107e11ebcfe1d213c5e465f",
+      "title": "Government Justifies Fuel Hike With Spike in Consumption and Global Volatility",
+      "sent_at": "2026-03-10T14:54:18Z"
     }
   ]
 }
