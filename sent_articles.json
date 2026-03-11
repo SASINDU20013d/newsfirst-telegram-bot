@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/04/six-arrested-over-brutal-killing-in-orugodawatta",
-      "content_hash": "be980ef05736e327a7267d254a26ca534ae3b23be77a98a46d680bbac59b7335",
-      "title": "Six Arrested Over Brutal Killing in Orugodawatta",
-      "sent_at": "2026-03-04T10:41:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-navy-confirms-iranian-warship-missing-32-rescued-bodies-recovered-in-ongoing-operation",
       "content_hash": "c36d2dd1c8f4e68dcb5ca99e31a53fb33d39ad86119e5133ffd23acaeb9133e7",
       "title": "Sri Lanka Navy Confirms Iranian Warship Missing; 32 Rescued, Bodies Recovered in Ongoing Operation",
@@ -875,6 +869,12 @@
       "content_hash": "610e166b66e5a4573f022b25fd580fd792fb22f61c640d4f348577d755140e58",
       "title": "2,000-Year Civilisational Bond; Says BASL Chief At Indian Supreme Court",
       "sent_at": "2026-03-11T09:49:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/11/man-arrested-with-grenade-bullets-and-army-uniforms-in-hingurakgoda",
+      "content_hash": "94fe256d6f578a55394ca6d67e1cef4ca58839a4d4e302ff951587736ebfe5a6",
+      "title": "Man Arrested With Grenade, Bullets And Army Uniforms In Hingurakgoda",
+      "sent_at": "2026-03-11T10:46:07Z"
     }
   ]
 }
