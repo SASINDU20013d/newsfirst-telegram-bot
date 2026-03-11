@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/04/man-found-slain-in-three-wheeler-in-moratuwa",
-      "content_hash": "d335ae89c0cae14d2c2e57555b2c001f177b8bc1a290bebfd38b86b4d8f9ff40",
-      "title": "Man Found Slain in Three-Wheeler in Moratuwa",
-      "sent_at": "2026-03-04T08:45:28Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-rescues-30-from-sinking-iranian-naval-ship",
       "content_hash": "e82d525b39b04999fb359cb9372940e91b57e20b76cd7b8cdad8610ba34e60fd",
       "title": "Sri Lanka Rescues 30 From Sinking Iranian Naval Ship",
@@ -875,6 +869,12 @@
       "content_hash": "5f4c6b9652bc91b94f9f3218ceb895ccd5f055496980c604b64cf3e5faa619b5",
       "title": "WFP and KOICA Partner with Sri Lanka to Boost Nutrition for Nearly 1 Million Children and Mothers",
       "sent_at": "2026-03-11T07:46:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/11/four-new-power-companies-issue-stern-warning-to-striking-staff",
+      "content_hash": "692abc947b6a4cdb394f801941242cade4467f8014073f62f95938e0d6e900d0",
+      "title": "Four New Power Companies Issue Stern Warning to Striking Staff",
+      "sent_at": "2026-03-11T08:50:36Z"
     }
   ]
 }
