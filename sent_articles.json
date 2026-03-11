@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/04/be-prepared-for-all-outcomes-says-president",
-      "content_hash": "d8c8f7c764e6bc505e87a7bc977b780cbdfbfb180103d7aaac675e393dc7435a",
-      "title": "Be Prepared for All Outcomes, Says President",
-      "sent_at": "2026-03-04T14:40:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/04/cabinet-approves-to-repeal-chief-of-defence-staff-act",
-      "content_hash": "9e9b1a94b2dd5c11218b3919aa5a2210a43e179808c342c9bc3490d96abb9e3f",
-      "title": "Cabinet Approves to Repeal Chief of Defence Staff Act",
-      "sent_at": "2026-03-04T14:40:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-extends-solidarity-to-uae-after-attacks",
-      "content_hash": "f50137438527d7b3697d7fefd4ed1e92622f5bc63ae33159eb79392f2f7c0c9b",
-      "title": "Sri Lanka Extends Solidarity to UAE After Attacks",
-      "sent_at": "2026-03-04T14:40:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/04/us-destroyed-iranian-warship-in-indian-ocean-says-hegseth-no-ship-identified",
-      "content_hash": "38d167632a6e3bb42656fcf754f3d4049821a00b9b0e05a7cb257082b9d1a400",
-      "title": "US Destroyed Iranian Warship in Indian Ocean, Says Hegseth; No Ship Identified",
-      "sent_at": "2026-03-04T14:40:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/630-bribery-complaints-reported-in-january-2026-says-ciaboc",
       "content_hash": "7bc6009c7bbf978f0e56fb6266d62e38187b5042d2cb7cf61a2752447b1ee1e9",
       "title": "630 Bribery Complaints Reported In January 2026, says CIABOC",
@@ -863,6 +839,30 @@
       "content_hash": "f4735f3cac099e2a4269dbf7e55cebc4895e4546e8557185fa24b3945b72bc3a",
       "title": "SriLankan Airlines to Increase Weekly Flights to Australia to 14",
       "sent_at": "2026-03-11T13:11:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/11/cid-reveals-explosive-new-claims-linking-ex%e2%80%91intelligence-chief-suresh-salley-to-easter-attacks",
+      "content_hash": "320eeb3d2c43a510f12045262158570e6db745a28f09214be931628328a54e2f",
+      "title": "CID Reveals Explosive New Claims Linking Ex‑Intelligence Chief Suresh Salley to Easter Attacks",
+      "sent_at": "2026-03-11T14:51:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/11/economic-monitoring-committee-convenes-on-market-stabilisation",
+      "content_hash": "c75215f7e474434291054ad3a61a40379633466c922d0be5d88c64132f3de55d",
+      "title": "Economic Monitoring Committee Convenes on Market Stabilisation",
+      "sent_at": "2026-03-11T14:51:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/11/editor-of-lanka-enews-sandaruwan-senadheera-arrested-at-bia",
+      "content_hash": "c7db286b5024a2c02e03ee5018d87fad28be6f6d38cab25e212428012b302a40",
+      "title": "Editor of Lanka eNews Sandaruwan Senadheera Arrested at BIA",
+      "sent_at": "2026-03-11T14:51:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/11/essential-service-violation-striking-electricity-workers-ordered-back-to-work-immediately",
+      "content_hash": "7d24764d358d8d767b9cf8704c3d15142e2d16ea722e2d2bd36df8ce044cc7c7",
+      "title": "Essential Service Violation: Striking Electricity Workers Ordered Back to Work Immediately",
+      "sent_at": "2026-03-11T14:51:49Z"
     }
   ]
 }
