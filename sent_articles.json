@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/04/sri-lanka-rescues-30-from-sinking-iranian-naval-ship",
-      "content_hash": "e82d525b39b04999fb359cb9372940e91b57e20b76cd7b8cdad8610ba34e60fd",
-      "title": "Sri Lanka Rescues 30 From Sinking Iranian Naval Ship",
-      "sent_at": "2026-03-04T09:47:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/04/six-arrested-over-brutal-killing-in-orugodawatta",
       "content_hash": "be980ef05736e327a7267d254a26ca534ae3b23be77a98a46d680bbac59b7335",
       "title": "Six Arrested Over Brutal Killing in Orugodawatta",
@@ -875,6 +869,12 @@
       "content_hash": "692abc947b6a4cdb394f801941242cade4467f8014073f62f95938e0d6e900d0",
       "title": "Four New Power Companies Issue Stern Warning to Striking Staff",
       "sent_at": "2026-03-11T08:50:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/11/2-000-year-civilisational-bond-says-basl-chief-at-indian-supreme-court",
+      "content_hash": "610e166b66e5a4573f022b25fd580fd792fb22f61c640d4f348577d755140e58",
+      "title": "2,000-Year Civilisational Bond; Says BASL Chief At Indian Supreme Court",
+      "sent_at": "2026-03-11T09:49:54Z"
     }
   ]
 }
