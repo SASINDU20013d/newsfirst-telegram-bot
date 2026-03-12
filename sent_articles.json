@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/asp-rohan-olugala-assumes-duties-as-director-of-walana-anti-corruption-unit",
-      "content_hash": "5febd04a754a5a0c5f6c21e84cbd0e9181dae8dc02b9bc45b2a6aa0704a84897",
-      "title": "ASP Rohan Olugala Assumes Duties as Director of Walana Anti-Corruption Unit",
-      "sent_at": "2026-03-05T11:37:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/china-warns-against-arbitrary-use-of-force-sends-zhai-jun-for-urgent-middle-east-mission",
-      "content_hash": "db5eebe00c3fcaf81305a63dc18c7c3b3f2b62419be53256290b1394020e246a",
-      "title": "China Warns Against 'Arbitrary Use of Force,' Sends Zhai Jun for Urgent Middle East Mission",
-      "sent_at": "2026-03-05T11:37:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/high-court-jails-61-year-old-attorney-for-fake-deed",
-      "content_hash": "4ba95b19e607e4099409b4e9884ac72f1193a70a148369f6244a5b8cb2c82463",
-      "title": "High Court Jails 61-Year-Old Attorney for Fake Deed",
-      "sent_at": "2026-03-05T11:37:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/colombo-calls-for-dialogue-to-restore-peace-in-middle-east",
-      "content_hash": "efa1d7649a8111c909d0ecf4157dbfc8dfed6372644d644772d5a3afdb436ab9",
-      "title": "Colombo Calls for Dialogue to Restore Peace in Middle East",
-      "sent_at": "2026-03-05T13:10:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/iran-denies-targeting-azerbaijan",
-      "content_hash": "ab9698323fc9fd7509e7b63222de88d3494b11f99e2d3bbd9907e20bd7644695",
-      "title": "Iran Denies Targeting Azerbaijan",
-      "sent_at": "2026-03-05T13:10:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/petition-filed-against-suresh-salley-s-detention-under-pta",
-      "content_hash": "bdd0bc403f5ba2bf1f0d3cd1b46dd12169cd3ffe10ceb0a444f1a6f4e2758e13",
-      "title": "Petition Filed Against Suresh Salley's Detention Under PTA",
-      "sent_at": "2026-03-05T13:10:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/sri-lanka-suspends-all-regular-middle-east-flights",
-      "content_hash": "d2e716765f287e2e281bcdb9ef8d6d1c817cc6e18512b6b24ac9ed65a088f195",
-      "title": "Sri Lanka Suspends All Regular Middle East Flights",
-      "sent_at": "2026-03-05T13:10:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/suresh-salley-identified-as-third-suspect-in-easter-attacks-probe",
       "content_hash": "2dac59e89de18cf2222e72f30f58d2e6d9d8b063d77b6b5b684be0ccfa419242",
       "title": "Suresh Salley Identified as Third Suspect in Easter Attacks Probe",
@@ -881,6 +839,18 @@
       "content_hash": "9772e0c4ee3296e31c67b8b4d053cc590bc20bcb93a3feea4ac15ba43da4e621",
       "title": "Sri Lanka Reasserts Call for Indian Ocean Zone of Peace",
       "sent_at": "2026-03-12T11:34:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/europe-ready-to-partner-sri-lanka-as-economy-recovers-says-dutch-envoy",
+      "content_hash": "ef930662933926e590d3583885f21f0b9412307d8177ca255adf242aead844f1",
+      "title": "Europe Ready to Partner Sri Lanka as Economy Recovers, Says Dutch Envoy",
+      "sent_at": "2026-03-12T13:10:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/sri-lanka-to-pursue-long-term-power-sector-restructuring",
+      "content_hash": "45df58f07b7ccdb19c6b7bd39692cf2201a89678ef2622d7e98bf1a53d0085b2",
+      "title": "Sri Lanka to Pursue Long-Term Power Sector Restructuring",
+      "sent_at": "2026-03-12T13:11:04Z"
     }
   ]
 }
