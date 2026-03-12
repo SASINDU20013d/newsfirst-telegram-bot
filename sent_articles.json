@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/air-quality-deteriorates-across-sri-lanka-chilaw-records-aqi-167",
-      "content_hash": "b9af5f33d03c6513610615cecac05b72be79404baf7d0450dfa6b150efd67867",
-      "title": "Air Quality Deteriorates Across Sri Lanka; Chilaw Records AQI 167",
-      "sent_at": "2026-03-05T07:44:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/tehran-requests-return-of-all-iris-dena-dead-sri-lanka-races-to-secure-cold-storage",
-      "content_hash": "e7c588ada0a8c045f453c77daf306025e4bc35d444870045957cd290b06d9d67",
-      "title": "Tehran Requests Return of All IRIS Dena Dead; Sri Lanka Races to Secure Cold Storage",
-      "sent_at": "2026-03-05T07:44:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/drone-that-hit-british-base-in-cyprus-wasn-t-launched-from-iran",
       "content_hash": "dfcfde89478fc001dc25748bcc652d8dacb3280f0d7857163dbe5501db92d90e",
       "title": "Drone That Hit British Base in Cyprus Wasn't Launched from Iran",
