@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/imf-chief-warns-middle-east-crisis-could-hit-global-economy",
-      "content_hash": "5f795c3b03a90cceded7e85496fd369301697d75e0de697dcd6591145064a307",
-      "title": "IMF Chief Warns Middle East Crisis Could Hit Global Economy",
-      "sent_at": "2026-03-05T09:51:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/second-iranian-vessel-near-sri-lanka%e2%80%99s-eez-government-says-full-intervention-underway",
-      "content_hash": "a62e1541731af4269d458f47299616714cb8d371800a77da8cce0f6c24113351",
-      "title": "Second Iranian Vessel Near Sri Lanka’s EEZ; Government Says Full Intervention Underway",
-      "sent_at": "2026-03-05T09:51:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/strait-of-hormuz-only-closed-to-ships-from-the-us-israel-and-europe-irgc",
-      "content_hash": "c1d23c5d7d0fdf646ff0dad1bd5c78d15144458b2876990b2b4c0a4fe1881644",
-      "title": "Strait of Hormuz ONLY Closed To Ships From The US, Israel and Europe - IRGC",
-      "sent_at": "2026-03-05T09:51:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/iranian-drones-strike-azerbaijan-airport",
       "content_hash": "79586308934c604d23d7043c9f83bf7a3aaca314cc50d7a28c1233a47eac19e3",
       "title": "Iranian Drones Strike Azerbaijan Airport",
@@ -881,6 +863,18 @@
       "content_hash": "17f17ff4dfab7862a2262d7797926e944bbad0aa25047da2419e1579c3cbdab9",
       "title": "Ambassador-Designates Cleared High Posts Comm.",
       "sent_at": "2026-03-12T09:50:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/ambassador-designates-cleared-high-posts-commitee",
+      "content_hash": "116118f0c980a3c4bdff27209ff9c40623bf9dd3a5497f8bbd661334bbabf49f",
+      "title": "Ambassador-Designates Cleared High Posts Commitee",
+      "sent_at": "2026-03-12T10:44:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/navy-intercepts-multi-day-fishing-trawler-carrying-600kg-of-meth-heroin-and-firearms",
+      "content_hash": "bd3c718cd6fcd0c8dcd6ee0321872d9464f477c8c4e677a8dcef4ba97fcd9d6f",
+      "title": "Navy Intercepts Multi-Day Fishing Trawler Carrying 600kg of Meth, Heroin, and Firearms",
+      "sent_at": "2026-03-12T10:44:18Z"
     }
   ]
 }
