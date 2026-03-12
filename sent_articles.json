@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/sri-lanka-in-talks-with-icc-on-appointing-interim-cricket-administration",
-      "content_hash": "758dcd3f8897b5c16d06529340550fca8852568ff19ea0eeff04e6194e17fd15",
-      "title": "Sri Lanka in Talks With ICC on Appointing Interim Cricket Administration",
-      "sent_at": "2026-03-05T04:47:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/chamara-sampath-accuses-india-of-casting-out-iris-dena-crew",
       "content_hash": "5e5309db4cc85508a23b8ecdedeea77885905f82ec80f0c36ef4ff5ed0286cf4",
       "title": "Chamara Sampath Accuses India of 'Casting Out' IRIS Dena Crew",
@@ -863,6 +857,12 @@
       "content_hash": "e07a518931b80475fcac66565516af525480a90e3f3935712fbd14167f751759",
       "title": "Public Consultations for Proposed Electricity Tariff Hike Begins - PUCSL",
       "sent_at": "2026-03-12T02:31:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/global-growth-to-hold-steady-in-2026-if-oil-shock-fades-quickly-fitch",
+      "content_hash": "4f08c171e8aa870c7d56aa860688c611ca33a1ac2aa60a10f67a4b0f4807046a",
+      "title": "Global Growth to Hold Steady in 2026, If Oil Shock Fades Quickly : Fitch",
+      "sent_at": "2026-03-12T04:50:23Z"
     }
   ]
 }
