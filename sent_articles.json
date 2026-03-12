@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/suresh-salley-identified-as-third-suspect-in-easter-attacks-probe",
-      "content_hash": "2dac59e89de18cf2222e72f30f58d2e6d9d8b063d77b6b5b684be0ccfa419242",
-      "title": "Suresh Salley Identified as Third Suspect in Easter Attacks Probe",
-      "sent_at": "2026-03-05T14:51:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/underworld-figure-%e2%80%9cpodi-lassie%e2%80%9d-remanded-until-march-17",
-      "content_hash": "c2de68e925d7c9b9a8e32014e4582f90261417f3b3dce7fde725c6a9f10eca9d",
-      "title": "Underworld Figure “Podi Lassie” Remanded Until March 17",
-      "sent_at": "2026-03-05T14:51:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/sri-lanka-acts-on-principle-not-pressure-president",
       "content_hash": "d26b843c07380c99d1b5e606550f59ca01194b4d4e156fdd69385d9f12a11228",
       "title": "Sri Lanka Acts on Principle, Not Pressure : President",
@@ -851,6 +839,18 @@
       "content_hash": "45df58f07b7ccdb19c6b7bd39692cf2201a89678ef2622d7e98bf1a53d0085b2",
       "title": "Sri Lanka to Pursue Long-Term Power Sector Restructuring",
       "sent_at": "2026-03-12T13:11:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/fake-documents-illegal-registrations-four-motor-traffic-staff-arrested-and-remanded",
+      "content_hash": "42d2c39c7971b3ade70694c9943a2ffed3ee8b6972907a7de206d73487e35dcd",
+      "title": "Fake Documents, Illegal Registrations: Four Motor Traffic Staff Arrested and Remanded",
+      "sent_at": "2026-03-12T14:54:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/nothing-justifies-killing-children-unicef-urges-halt-to-middle-east-fighting",
+      "content_hash": "48bed46db0eedbcacbe37e242be3644bb0c05c1dd1b4be7dd8a4c58950dc9fe9",
+      "title": "'Nothing Justifies Killing Children': UNICEF Urges Halt to Middle East Fighting",
+      "sent_at": "2026-03-12T14:54:18Z"
     }
   ]
 }
