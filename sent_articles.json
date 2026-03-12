@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/iranian-drones-strike-azerbaijan-airport",
-      "content_hash": "79586308934c604d23d7043c9f83bf7a3aaca314cc50d7a28c1233a47eac19e3",
-      "title": "Iranian Drones Strike Azerbaijan Airport",
-      "sent_at": "2026-03-05T10:46:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/qatar-warns-public-of-elevated-security-threat",
-      "content_hash": "72afaec879daa7a3a98c1cf27d5bfb573a20e15a67063b582043deb64f56b5a6",
-      "title": "Qatar Warns Public of \"Elevated Security Threat\"",
-      "sent_at": "2026-03-05T10:46:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/asp-rohan-olugala-assumes-duties-as-director-of-walana-anti-corruption-unit",
       "content_hash": "5febd04a754a5a0c5f6c21e84cbd0e9181dae8dc02b9bc45b2a6aa0704a84897",
       "title": "ASP Rohan Olugala Assumes Duties as Director of Walana Anti-Corruption Unit",
@@ -875,6 +863,24 @@
       "content_hash": "bd3c718cd6fcd0c8dcd6ee0321872d9464f477c8c4e677a8dcef4ba97fcd9d6f",
       "title": "Navy Intercepts Multi-Day Fishing Trawler Carrying 600kg of Meth, Heroin, and Firearms",
       "sent_at": "2026-03-12T10:44:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/ambassador-designates-cleared-high-posts-committee",
+      "content_hash": "5c2f2c9987000830064017927d8e02744ccc668399ab45aa6d0db925d4f663d4",
+      "title": "Ambassador-Designates Cleared High Posts Committee",
+      "sent_at": "2026-03-12T11:34:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/aswasuma-allowances-for-march-credited-to-beneficiary-bank-accounts",
+      "content_hash": "820958e1991b04cd9be48b44967262c5e6b328197ae73d8270652d05e8cf11dc",
+      "title": "Aswasuma Allowances for March Credited to Beneficiary Bank Accounts",
+      "sent_at": "2026-03-12T11:34:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/sri-lanka-reasserts-call-for-indian-ocean-zone-of-peace",
+      "content_hash": "9772e0c4ee3296e31c67b8b4d053cc590bc20bcb93a3feea4ac15ba43da4e621",
+      "title": "Sri Lanka Reasserts Call for Indian Ocean Zone of Peace",
+      "sent_at": "2026-03-12T11:34:46Z"
     }
   ]
 }
