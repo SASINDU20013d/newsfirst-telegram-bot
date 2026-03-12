@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/drone-that-hit-british-base-in-cyprus-wasn-t-launched-from-iran",
-      "content_hash": "dfcfde89478fc001dc25748bcc652d8dacb3280f0d7857163dbe5501db92d90e",
-      "title": "Drone That Hit British Base in Cyprus Wasn't Launched from Iran",
-      "sent_at": "2026-03-05T08:51:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/iran-warns-us-of-consequences-after-frigate-dena-strike-in-international-waters",
-      "content_hash": "0d88c1a483d93cf60fd812d3b41017a0e11622e984f9f4cdfefb3afaf3cf927c",
-      "title": "Iran Warns US of Consequences After Frigate Dena Strike in International Waters",
-      "sent_at": "2026-03-05T08:51:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/two-indians-arrested-at-bia-with-large-stock-of-narcotics",
-      "content_hash": "19b3cfa55b6c12f6199e19155e46c340421a6b1896fa45b49daac41573d9041f",
-      "title": "Two Indians Arrested at BIA With Large Stock of Narcotics",
-      "sent_at": "2026-03-05T08:51:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/imf-chief-warns-middle-east-crisis-could-hit-global-economy",
       "content_hash": "5f795c3b03a90cceded7e85496fd369301697d75e0de697dcd6591145064a307",
       "title": "IMF Chief Warns Middle East Crisis Could Hit Global Economy",
@@ -881,6 +863,18 @@
       "content_hash": "030f2596844003d480e9c5b02950df9e3b602700ac224ec51733798a2b6767ea",
       "title": "Navy Finds Assault Rifles, Pistols and Drug Cargo on Fishing Vessel",
       "sent_at": "2026-03-12T07:02:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/ciaboc-asks-cbsl-whether-paid-rs-1-84-bn",
+      "content_hash": "38fb0018b0c5d63fa1a2488a3ccf20d53de3e82faddfd989b2bf473cc56b0885",
+      "title": "CIABOC Asks CBSL Whether Paid Rs. 1.84 Bn",
+      "sent_at": "2026-03-12T08:51:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/ex-srilankan-airlines-ceo-appears-before-ciaboc",
+      "content_hash": "ea9daf3d1f9ed2a018753e4d5267107db393477b8485aee9a9a033c10af68a94",
+      "title": "Ex-SriLankan Airlines CEO Appears Before CIABOC",
+      "sent_at": "2026-03-12T08:51:30Z"
     }
   ]
 }
