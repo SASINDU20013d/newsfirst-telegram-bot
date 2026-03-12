@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/630-bribery-complaints-reported-in-january-2026-says-ciaboc",
-      "content_hash": "7bc6009c7bbf978f0e56fb6266d62e38187b5042d2cb7cf61a2752447b1ee1e9",
-      "title": "630 Bribery Complaints Reported In January 2026, says CIABOC",
-      "sent_at": "2026-03-05T02:29:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/84-bodies-recovered-from-sunken-iris-dena",
-      "content_hash": "818e3afa18c9c1da36597c288b68cf7189498082be518203e0fe631835f3756a",
-      "title": "84 Bodies Recovered From Sunken 'IRIS DENA'",
-      "sent_at": "2026-03-05T02:29:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/civil-aviation-authority-confirms-07-middle-east-flights-today-amid-airspace-closures",
-      "content_hash": "37dc0a529d9752b48475cefe5be4fdb5e0311a271d0f4f2587f2e06a5db4bf7b",
-      "title": "Civil Aviation Authority Confirms 07 Middle East Flights Today Amid Airspace Closures",
-      "sent_at": "2026-03-05T02:29:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/cpc-assures-no-fuel-shortage-until-end-of-april",
-      "content_hash": "f76f8e2009e98c07eeff41ee6e5186c75d48121b94102eee9203ff9ebf9ce5f6",
-      "title": "CPC Assures No Fuel Shortage Until End Of April",
-      "sent_at": "2026-03-05T02:29:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/sri-lanka-in-talks-with-icc-on-appointing-interim-cricket-administration",
       "content_hash": "758dcd3f8897b5c16d06529340550fca8852568ff19ea0eeff04e6194e17fd15",
       "title": "Sri Lanka in Talks With ICC on Appointing Interim Cricket Administration",
@@ -869,6 +845,24 @@
       "content_hash": "22cd89125eb608cf2fa794579686bcbc66d04a1c9baae586b98b75917a5c499b",
       "title": "Kandy SC Out of SLR Sevens Series After Missing Entry Deadline",
       "sent_at": "2026-03-11T16:57:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/fuel-stocks-sufficient-until-end-of-april-chairman-of-cpc",
+      "content_hash": "69d9bab1875ad138536a932fea32a5c5074d7d757c16f96985355c10a051984e",
+      "title": "Fuel Stocks Sufficient Until End of April, Chairman of CPC",
+      "sent_at": "2026-03-12T02:31:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/prime-minister-visits-the-international-rice-research-institute-in-philippines-initiates-discussions-to-modernize-sri-lanka%e2%80%99s-paddy-sector",
+      "content_hash": "8608551c1ca5adf5750cf1a32b8452a5f17c3f7ce1e484a42bd78d902f4c6b13",
+      "title": "Prime Minister Visits the International Rice Research Institute in Philippines, Initiates Discussions to Modernize Sri Lanka’s Paddy Sector",
+      "sent_at": "2026-03-12T02:31:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/public-consultations-for-proposed-electricity-tariff-hike-begins-pucsl",
+      "content_hash": "e07a518931b80475fcac66565516af525480a90e3f3935712fbd14167f751759",
+      "title": "Public Consultations for Proposed Electricity Tariff Hike Begins - PUCSL",
+      "sent_at": "2026-03-12T02:31:44Z"
     }
   ]
 }
