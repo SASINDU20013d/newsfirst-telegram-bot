@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/05/chamara-sampath-accuses-india-of-casting-out-iris-dena-crew",
-      "content_hash": "5e5309db4cc85508a23b8ecdedeea77885905f82ec80f0c36ef4ff5ed0286cf4",
-      "title": "Chamara Sampath Accuses India of 'Casting Out' IRIS Dena Crew",
-      "sent_at": "2026-03-05T06:58:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/05/maersk-suspends-cargo-bookings-across-multiple-middle-eastern-countries",
-      "content_hash": "65dd35b79bc0aa64fff611daaf7adbf0ef8ae0666d2cbd3ff6ce676c77b41634",
-      "title": "Maersk Suspends Cargo Bookings Across Multiple Middle Eastern Countries",
-      "sent_at": "2026-03-05T06:58:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/05/air-quality-deteriorates-across-sri-lanka-chilaw-records-aqi-167",
       "content_hash": "b9af5f33d03c6513610615cecac05b72be79404baf7d0450dfa6b150efd67867",
       "title": "Air Quality Deteriorates Across Sri Lanka; Chilaw Records AQI 167",
@@ -875,6 +863,36 @@
       "content_hash": "e6ba8047c1e751079b1be9c8fbe6ce5364cb0454069b094328757b46e28461ae",
       "title": "Sri Lanka Among First to Launch Large-Scale Kunming Biodiversity Action",
       "sent_at": "2026-03-12T05:55:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/etf-benefits-extended-to-private-sector-employees-in-the-transport-industry",
+      "content_hash": "d18fbe43707b406b5de40798ce5394c7f2846d98054f8b7b21fdb99cb5f8a623",
+      "title": "ETF Benefits Extended to Private Sector Employees in the Transport Industry",
+      "sent_at": "2026-03-12T07:01:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/fishing-vessel-seized-by-navy-brought-to-dikowita-harbour",
+      "content_hash": "131365b800b3c222b7e66aa340e823683ab6004221024cc34d918089bbae41d8",
+      "title": "Fishing Vessel Seized by Navy Brought to Dikowita Harbour",
+      "sent_at": "2026-03-12T07:01:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/four-fuel-ships-to-arrive-this-month-carrying-up-to-40-000-metric-tons-each",
+      "content_hash": "71d888d3f7fdb8e8ce4e043bf6de4ca7e8b7d003e003b60f59b4c7c033fd202e",
+      "title": "Four Fuel Ships to Arrive This Month Carrying Up to 40,000 Metric Tons Each",
+      "sent_at": "2026-03-12T07:02:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/iran-demands-reparations-to-end-conflict",
+      "content_hash": "26dfe8771d8ea32cee0a5cf4f0526ce709cf96ca7c6493ca196c9f6d44b06a5b",
+      "title": "Iran Demands Reparations to End Conflict",
+      "sent_at": "2026-03-12T07:02:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/12/navy-finds-assault-rifles-pistols-and-drug-cargo-on-fishing-vessel",
+      "content_hash": "030f2596844003d480e9c5b02950df9e3b602700ac224ec51733798a2b6767ea",
+      "title": "Navy Finds Assault Rifles, Pistols and Drug Cargo on Fishing Vessel",
+      "sent_at": "2026-03-12T07:02:05Z"
     }
   ]
 }
