@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/06/search-operations-continue-after-fatal-boat-accident",
-      "content_hash": "1c3461db60235bdf04d2cd815bcbda92abbffc3c550ceaba0d21b4c44451606c",
-      "title": "Search Operations Continue After Fatal Boat Accident",
-      "sent_at": "2026-03-06T07:40:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/06/204-personnel-from-iranian-ship-taken-to-welisara-naval-base",
       "content_hash": "4e0e8816c49fc45636a1e65ede3a7fc3a303933ff84b1e40e3d5a92becfa77d9",
       "title": "204 Personnel From Iranian Ship Taken to Welisara Naval Base",
@@ -839,6 +833,18 @@
       "content_hash": "4ab39b370a462ab003e413aa334e62babb99d10fe51be1ca4aac959a911f6220",
       "title": "US CENTCOM Confirms KC‑135 Crash During Operation Epic Fury",
       "sent_at": "2026-03-13T05:52:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/15-flights-to-operate-between-middle-east-and-colombo",
+      "content_hash": "90b725ea1945b4c017301719b243e1389f80ae03e39eb187020132b83448f3de",
+      "title": "15 Flights To Operate Between Middle East And Colombo",
+      "sent_at": "2026-03-13T07:49:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/committee-to-submit-middle-east-impact-proposals",
+      "content_hash": "094b31c004e5b6604a39bc10508f7b9148b914ff5c13e1266473d8df431dcfed",
+      "title": "Committee To Submit Middle East Impact Proposals",
+      "sent_at": "2026-03-13T07:49:24Z"
     }
   ]
 }
