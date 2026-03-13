@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/06/17-sri-lankans-evacuated-to-safe-areas-in-lebanon",
-      "content_hash": "52b4aabef8c83b4bb58a60878a026dd1f0ef9d1f3ec57b526b7c9041d7d7947f",
-      "title": "17 Sri Lankans Evacuated To Safe Areas In Lebanon",
-      "sent_at": "2026-03-06T04:45:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/06/cope-to-inspect-norochcholai-power-plant-today",
-      "content_hash": "0ad0632c77c9ab73958538d3a8854dc725a6dbf20481c0154664b929cd1855e8",
-      "title": "COPE To Inspect Norochcholai Power Plant Today",
-      "sent_at": "2026-03-06T04:45:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/06/no-change-in-litro-gas-prices-for-march",
-      "content_hash": "7d5341ac60ee4a66cd7dfca6df4fca5076254fc2b56fd6b3b75f8d50155934c2",
-      "title": "No Change In Litro Gas Prices For March",
-      "sent_at": "2026-03-06T04:45:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/06/president-explains-decision-on-iranian-ship",
-      "content_hash": "806a6619d1c5298a1cc61e756caaa9338087f50638388b95adb46b5f26c812a1",
-      "title": "President Explains Decision On Iranian Ship",
-      "sent_at": "2026-03-06T04:45:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/06/britain-shifts-position-on-iran-starmer-allows-us-to-use-uk-bases",
       "content_hash": "bf90c724fb85cb57b45917727c6c16ac93d7aec35cbac4c4dd6de9dca0c366bf",
       "title": "Britain Shifts Position on Iran | Starmer Allows US To Use UK Bases",
@@ -851,6 +827,18 @@
       "content_hash": "c066c9e89ad176c7dc35692c9376c28124b4f037d4d535781aed7cf3aa14cd25",
       "title": "Power Unions To Hold Talks With President",
       "sent_at": "2026-03-13T02:29:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/school-owner-to-be-produced-in-court-over-student-death",
+      "content_hash": "a8d66ec8cd60e54588d7b6f0e9c0cb0dec71471f11b1713caef25bee5479662d",
+      "title": "School Owner To Be Produced In Court Over Student Death",
+      "sent_at": "2026-03-13T04:47:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/seized-drug-stock-to-be-destroyed-today",
+      "content_hash": "a2814ede5e72bcb45cff18f309ca4e83057b85a29fb7a7d3b32bdf29ce8d5a21",
+      "title": "Seized Drug Stock To Be Destroyed Today",
+      "sent_at": "2026-03-13T04:47:48Z"
     }
   ]
 }
