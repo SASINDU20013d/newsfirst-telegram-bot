@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/06/assets-of-drug-trafficker-neil-frozen",
-      "content_hash": "e11a28fa2d218b791ba68900f196dccca7e4297975d27eb4063b2eb60a55f1b2",
-      "title": "Assets Of Drug Trafficker 'Neil' Frozen",
-      "sent_at": "2026-03-06T10:40:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/06/sri-lanka-now-has-a-government-people-trust-imf-chief",
-      "content_hash": "a548d103b33bce66849c77996244832c1c9d582a9a5c6af0ae79fce6e8687859",
-      "title": "Sri Lanka Now Has a Government People Trust : IMF Chief",
-      "sent_at": "2026-03-06T10:40:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/06/salary-commission-to-address-public-sector-pay-gaps",
       "content_hash": "0ccfd59acb7fc80863488ebc39775e6efedc27fc9e5ac41fd440caa08c3f6978",
       "title": "Salary Commission To Address Public Sector Pay Gaps",
@@ -851,6 +839,12 @@
       "content_hash": "d55f8649060469b69577a82179079ae1e45a9653deac9855f0d1923eb2451a7f",
       "title": "Sri Lanka Moves to Source Fuel from Russia After Sanctions Lifted",
       "sent_at": "2026-03-13T09:44:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/trump-administration-underestimated-iran-war%e2%80%99s-impact",
+      "content_hash": "e95a8916b9bfd2d81ce32d353226bb515dba0f0f98fc0adbf76f69be4dfb3813",
+      "title": "Trump Administration Underestimated Iran War’s Impact",
+      "sent_at": "2026-03-13T10:42:04Z"
     }
   ]
 }
