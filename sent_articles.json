@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/06/not-a-travel-advisory-us-embassy-suggests-alternate-travel-routes-to-citizens-due-to-limited-middle-east-operations",
-      "content_hash": "399f53014612482bafb156976fd20b5b9c34da89f2a14f54299c2987873699c7",
-      "title": "NOT A TRAVEL ADVISORY: US Embassy Suggests Alternate Travel Routes To Citizens Due To Limited Middle East Operations",
-      "sent_at": "2026-03-06T13:05:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/06/sri-lanka-freezes-property-belonging-to-fugitive-crime-boss",
       "content_hash": "e5b74ac39576b319fb4bc2887592df8d69ecde80b2e4719a0eea55537878a92c",
       "title": "Sri Lanka Freezes Property Belonging to Fugitive Crime Boss",
@@ -839,6 +833,12 @@
       "content_hash": "bd25c32f221d217783f50add3879947b81c53ac023d9c2be6e6518f9d624d040",
       "title": "Bribery Commission Finalises Probe Against Shasheendra",
       "sent_at": "2026-03-13T11:34:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/s-satheestharan-appointed-as-high-court-judge",
+      "content_hash": "fed372c8524aca4343a642fa36a1691566b7805f38b323a3d0efa8d37a049be6",
+      "title": "S. Satheestharan Appointed as High Court Judge",
+      "sent_at": "2026-03-13T13:08:41Z"
     }
   ]
 }
