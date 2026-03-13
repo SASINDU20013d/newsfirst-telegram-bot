@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/06/salary-commission-to-address-public-sector-pay-gaps",
-      "content_hash": "0ccfd59acb7fc80863488ebc39775e6efedc27fc9e5ac41fd440caa08c3f6978",
-      "title": "Salary Commission To Address Public Sector Pay Gaps",
-      "sent_at": "2026-03-06T11:33:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/06/sri-lanka%e2%80%99s-economic-crisis-could-have-been-avoided-if-reforms-began-a-year-earlier",
-      "content_hash": "33e392e51ed28b6794e2e15cc431fcc9ce0f532f5ba026275525085e1caaf9cc",
-      "title": "Sri Lanka’s Economic Crisis Could Have Been Avoided if Reforms Began a Year Earlier",
-      "sent_at": "2026-03-06T11:33:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/06/un-welcomes-sri-lanka%e2%80%99s-%e2%80%9chumanitarian-assistance%e2%80%9d-after-rescue-of-iranians-from-bushehr",
-      "content_hash": "61271afee4ac85ea2eaae208b7406a1531cb660650e76ba1095430bf2e23d2a8",
-      "title": "UN Welcomes Sri Lanka’s “Humanitarian Assistance” After Rescue of Iranians From Bushehr",
-      "sent_at": "2026-03-06T11:33:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/06/not-a-travel-advisory-us-embassy-suggests-alternate-travel-routes-to-citizens-due-to-limited-middle-east-operations",
       "content_hash": "399f53014612482bafb156976fd20b5b9c34da89f2a14f54299c2987873699c7",
       "title": "NOT A TRAVEL ADVISORY: US Embassy Suggests Alternate Travel Routes To Citizens Due To Limited Middle East Operations",
@@ -845,6 +827,18 @@
       "content_hash": "e95a8916b9bfd2d81ce32d353226bb515dba0f0f98fc0adbf76f69be4dfb3813",
       "title": "Trump Administration Underestimated Iran War’s Impact",
       "sent_at": "2026-03-13T10:42:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/ask-maps-google-reinvents-exploration-and-navigation",
+      "content_hash": "0594f9c55f7d51ac4467b7d07f74499bb344e1fbf459cecda7043729c651ee44",
+      "title": "'Ask Maps' : Google Reinvents Exploration and Navigation",
+      "sent_at": "2026-03-13T11:34:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/bribery-commission-finalises-probe-against-shasheendra",
+      "content_hash": "bd25c32f221d217783f50add3879947b81c53ac023d9c2be6e6518f9d624d040",
+      "title": "Bribery Commission Finalises Probe Against Shasheendra",
+      "sent_at": "2026-03-13T11:34:58Z"
     }
   ]
 }
