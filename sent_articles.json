@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/06/britain-shifts-position-on-iran-starmer-allows-us-to-use-uk-bases",
-      "content_hash": "bf90c724fb85cb57b45917727c6c16ac93d7aec35cbac4c4dd6de9dca0c366bf",
-      "title": "Britain Shifts Position on Iran | Starmer Allows US To Use UK Bases",
-      "sent_at": "2026-03-06T05:49:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/06/iran-labels-strike-on-unarmed-training-ship-a-war-crime",
-      "content_hash": "a278160bbcff5687f17e0c39b5433e99a5ae5b6e5c7b4985cba617ef5873c8a9",
-      "title": "Iran Labels Strike on Unarmed Training Ship a 'War Crime'",
-      "sent_at": "2026-03-06T05:49:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/06/can%e2%80%99t-even-appoint-the-mayor-of-new-york-iran-mocks-trump%e2%80%99s-bid-to-choose-iran%e2%80%99s-leader",
       "content_hash": "762a6c89c6844c72c9b55176606fbf86ab2f308b8b89ccb76cec9deef2c67aea",
       "title": "'Can’t Even Appoint the Mayor of New York' : Iran Mocks Trump’s Bid to Choose Iran’s Leader",
@@ -839,6 +827,24 @@
       "content_hash": "a2814ede5e72bcb45cff18f309ca4e83057b85a29fb7a7d3b32bdf29ce8d5a21",
       "title": "Seized Drug Stock To Be Destroyed Today",
       "sent_at": "2026-03-13T04:47:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/khamenei-says-all-us-bases-in-region-must-close",
+      "content_hash": "f0fd5b8efb802170f7ba6a667b054be1392a19532aedcea40be59d5f6b7cab52",
+      "title": "Khamenei Says All US Bases In Region Must Close",
+      "sent_at": "2026-03-13T05:52:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/trump-says-iran-paying-a-big-price",
+      "content_hash": "513d988c1e0e36fd8c3e97a55aae403347f16c398ac83c1d5a4682ea58382a06",
+      "title": "Trump Says Iran 'Paying a Big Price'",
+      "sent_at": "2026-03-13T05:52:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/13/us-centcom-confirms-kc%e2%80%91135-crash-during-operation-epic-fury",
+      "content_hash": "4ab39b370a462ab003e413aa334e62babb99d10fe51be1ca4aac959a911f6220",
+      "title": "US CENTCOM Confirms KC‑135 Crash During Operation Epic Fury",
+      "sent_at": "2026-03-13T05:52:53Z"
     }
   ]
 }
