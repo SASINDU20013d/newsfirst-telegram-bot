@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/07/sri-lanka-reaffirms-unclos%e2%80%91based-approach-to-iranian-crew",
-      "content_hash": "a6b5717830de7632a9c41359e0fbb22dbc282f5a993876a84361853ed6870dda",
-      "title": "Sri Lanka Reaffirms UNCLOS‑Based Approach to Iranian Crew",
-      "sent_at": "2026-03-07T11:24:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/07/strict-international-law-is-our-shield-sri-lanka-fm-urges-regional-cooperation-on-climate-maritime-security-and-blue-economy",
-      "content_hash": "30027ef6961f79d5074a0f8f8b05d1d3d81a2b7c14f8457a8aa06543887d4d55",
-      "title": "'Strict International Law Is Our Shield' - Sri Lanka FM Urges Regional Cooperation on Climate, Maritime Security, and Blue Economy",
-      "sent_at": "2026-03-07T11:24:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/07/india-says-allowing-iranian-ship-into-kochi-was-a-humanitarian-decision-not-a-security-failure",
       "content_hash": "efea081b71c1301ad0a5f5e391d1e8e29e5a2b751a2be3c790869dd857721a91",
       "title": "India Says Allowing Iranian Ship Into Kochi Was a Humanitarian Decision, Not a Security Failure",
@@ -815,6 +803,12 @@
       "content_hash": "77946848123fa9e0939c5d6c1f789d8e2d5a6934fd208314dc84c437735fe989",
       "title": "Ministry Advises Against Online Classes for Young Children",
       "sent_at": "2026-03-14T10:33:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/14/two-fatal-stabbings-reported-in-katana-and-kuragala",
+      "content_hash": "4260e367eda37bc69f617d5b457f508cab75c87f8adf59491871758e17a7714a",
+      "title": "Two Fatal Stabbings Reported in Katana and Kuragala",
+      "sent_at": "2026-03-14T11:28:18Z"
     }
   ]
 }
