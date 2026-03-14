@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/07/lp-gas-supply-stable-two-vessels-carrying-3-700mt-to-arrive-in-sri-lanka",
-      "content_hash": "7ae4ec8afd4721c531b6fc4db8320e326e10157a2ceaf922540053d23c4fc7ab",
-      "title": "LP Gas Supply Stable: Two Vessels carrying 3,700MT To Arrive in Sri Lanka",
-      "sent_at": "2026-03-07T07:32:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/07/suspect-arrested-linked-to-overseas-drug-trafficker-badowita-asanka",
-      "content_hash": "a12971a96f7389c2a91c5580c4d97f9c7714f2aa33928fba3a8ebc421985baef",
-      "title": "Suspect Arrested Linked to Overseas Drug Trafficker 'Badowita Asanka'",
-      "sent_at": "2026-03-07T07:32:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/07/house-of-organized-criminal-s-wife-targeted-in-shooting",
       "content_hash": "249a915c68602dd41c7889b860a7ded94cfd5a797014e9b2da161441fa9bf39d",
       "title": "House of Organized Criminal's Wife Targeted in Shooting",
@@ -833,6 +821,18 @@
       "content_hash": "23c2284a0179e52b4479e894e44c2922e086c76e71fff7253bb32509b5d27301",
       "title": "1,800 Cases of Rat Fever (Leptospirosis) Reported Across the Country This Year",
       "sent_at": "2026-03-14T06:54:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/14/imf-team-to-visit-sri-lanka-for-review",
+      "content_hash": "e8ba64211c695d58c86a88d4a88a1e737d4a8ad357696ceb5b2e936a1e24724b",
+      "title": "IMF Team to Visit Sri Lanka for Review",
+      "sent_at": "2026-03-14T07:37:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/14/road-accidents-claim-the-lives-of-three-people",
+      "content_hash": "92c0cb573723c48efed8281f561fb552d8dff33885fd85f8e912caa23915051f",
+      "title": "Road Accidents Claim the Lives of Three People",
+      "sent_at": "2026-03-14T07:37:45Z"
     }
   ]
 }
