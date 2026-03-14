@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/07/family-feud-ends-in-death-in-minneriya",
-      "content_hash": "520907351d3cc752ce251852f78218a575125a5928f7f3663c36e181213d1ae0",
-      "title": "Family Feud Ends in Death in Minneriya",
-      "sent_at": "2026-03-07T10:28:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/07/ministry-assures-uninterrupted-power-supply-through-april",
-      "content_hash": "ca143cb807765866cf99cbabf211bef4496fc81c26b2eca1f54b6343291cb797",
-      "title": "Ministry Assures Uninterrupted Power Supply Through April",
-      "sent_at": "2026-03-07T10:28:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/07/sri-lanka-reaffirms-unclos%e2%80%91based-approach-to-iranian-crew",
       "content_hash": "a6b5717830de7632a9c41359e0fbb22dbc282f5a993876a84361853ed6870dda",
       "title": "Sri Lanka Reaffirms UNCLOS‑Based Approach to Iranian Crew",
@@ -821,6 +809,12 @@
       "content_hash": "0e866789beb92a9327b2e1aeea430d950ea4a198000913397538a57755c32285",
       "title": "Economic Monitoring Committee to Reconvene on March 16",
       "sent_at": "2026-03-14T08:40:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/14/ministry-advises-against-online-classes-for-young-children",
+      "content_hash": "77946848123fa9e0939c5d6c1f789d8e2d5a6934fd208314dc84c437735fe989",
+      "title": "Ministry Advises Against Online Classes for Young Children",
+      "sent_at": "2026-03-14T10:33:56Z"
     }
   ]
 }
