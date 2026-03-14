@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/07/disaster-relief-allowance-scheme-announced",
-      "content_hash": "a91d6bddb376a52152a80697ef40abd1a105b0f23da254410bd7aceb5d4eb78e",
-      "title": "Disaster Relief Allowance Scheme Announced",
-      "sent_at": "2026-03-07T02:21:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/07/facilities-arranged-for-tourists-stranded-in-sri-lanka-sltda",
-      "content_hash": "b296e92c6f2b8b7170ec844d7b798f9e13fbecc2cfd96a9360b9c4fe29977579",
-      "title": "Facilities Arranged for Tourists Stranded in Sri Lanka - SLTDA",
-      "sent_at": "2026-03-07T02:21:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/07/flights-to-the-middle-east-face-further-disruption",
-      "content_hash": "219492a69722280553ad0a1ad634b8ccc398eed7b6c04578754adb7210e43cd4",
-      "title": "Flights to the Middle East Face Further Disruption",
-      "sent_at": "2026-03-07T02:21:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/07/akuregoda-double-murder-two-arrested-for-transporting-gunman",
       "content_hash": "5a33bf004e8ec697edd213bd358fadee96d007c4a93bc043546ead6d3aa100c2",
       "title": "Akuregoda Double Murder: Two Arrested for Transporting Gunman",
@@ -827,6 +809,12 @@
       "content_hash": "fed372c8524aca4343a642fa36a1691566b7805f38b323a3d0efa8d37a049be6",
       "title": "S. Satheestharan Appointed as High Court Judge",
       "sent_at": "2026-03-13T13:08:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/14/amber-advisory-for-warm-weather-heat-index-expected-to-reach-caution-level-in-several-areas",
+      "content_hash": "3e18b2d365c57d62173c63cb8386834cda586b0d9c4f4d3080e8b8119b96f127",
+      "title": "Amber Advisory for Warm Weather: Heat Index Expected to Reach Caution Level in Several Areas",
+      "sent_at": "2026-03-14T02:27:24Z"
     }
   ]
 }
