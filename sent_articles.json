@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/07/house-of-organized-criminal-s-wife-targeted-in-shooting",
-      "content_hash": "249a915c68602dd41c7889b860a7ded94cfd5a797014e9b2da161441fa9bf39d",
-      "title": "House of Organized Criminal's Wife Targeted in Shooting",
-      "sent_at": "2026-03-07T08:37:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/07/navy-to-continue-aid-for-rescued-iranian-sailors-at-welisara-base",
-      "content_hash": "ba8405d056950aeacf6cdd9c5d4d54dbc861969cb38579e953436b39ef704a59",
-      "title": "Navy to Continue Aid for Rescued Iranian Sailors at Welisara Base",
-      "sent_at": "2026-03-07T08:37:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/07/sri-lankans-consume-3x-more-sugar-than-recommended",
       "content_hash": "49d0b288fa0f43e14829ba1346b006d6659da39ca8e10e3525a8890abb345e32",
       "title": "Sri Lankans Consume 3x More Sugar Than Recommended",
@@ -833,6 +821,12 @@
       "content_hash": "92c0cb573723c48efed8281f561fb552d8dff33885fd85f8e912caa23915051f",
       "title": "Road Accidents Claim the Lives of Three People",
       "sent_at": "2026-03-14T07:37:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/14/economic-monitoring-committee-to-reconvene-on-march-16",
+      "content_hash": "0e866789beb92a9327b2e1aeea430d950ea4a198000913397538a57755c32285",
+      "title": "Economic Monitoring Committee to Reconvene on March 16",
+      "sent_at": "2026-03-14T08:40:45Z"
     }
   ]
 }
