@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/07/akuregoda-double-murder-two-arrested-for-transporting-gunman",
-      "content_hash": "5a33bf004e8ec697edd213bd358fadee96d007c4a93bc043546ead6d3aa100c2",
-      "title": "Akuregoda Double Murder: Two Arrested for Transporting Gunman",
-      "sent_at": "2026-03-07T05:39:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/07/copa-to-submit-motor-traffic-department-corruption-report-to-attorney-general",
-      "content_hash": "f2c9e92a9c8289d7589bc7867acd6cfb541486308ac9f47b28a860bd52d10f6f",
-      "title": "COPA To Submit Motor Traffic Department Corruption Report To Attorney General",
-      "sent_at": "2026-03-07T05:39:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/07/vijitha-herath-meets-india-s-external-affairs-minister-s-jaishankar",
-      "content_hash": "5120c7c20f85a19770201d1b3e41a184e92084b1e21f35b2aeec24e0d7637a70",
-      "title": "Vijitha Herath meets India's External Affairs Minister S. Jaishankar",
-      "sent_at": "2026-03-07T05:39:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/07/lp-gas-supply-stable-two-vessels-carrying-3-700mt-to-arrive-in-sri-lanka",
       "content_hash": "7ae4ec8afd4721c531b6fc4db8320e326e10157a2ceaf922540053d23c4fc7ab",
       "title": "LP Gas Supply Stable: Two Vessels carrying 3,700MT To Arrive in Sri Lanka",
@@ -839,6 +821,12 @@
       "content_hash": "e221795d72946636b688fc7ad51cb351863d57886cd4de4d87b7805a79a697f0",
       "title": "Suspect Arrested With Firearms and Ammunition in Kaduwela",
       "sent_at": "2026-03-14T04:45:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/14/we-will-maintain-the-fuel-lines-lanka-ioc-md-assures-fuel-security",
+      "content_hash": "e181ee61b5348b617907ace7a1c235ecb9fb02ac56434c62db2897a83cc38b60",
+      "title": "\"We will maintain the fuel lines\": Lanka IOC MD Assures Fuel Security",
+      "sent_at": "2026-03-14T05:49:43Z"
     }
   ]
 }
