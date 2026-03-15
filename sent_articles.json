@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/08/high-heat-levels-expected-to-persist-until-may",
-      "content_hash": "634df815c818abca683535935e7f62026eb60b61fd31f45f83781aedb00bb2ef",
-      "title": "High Heat Levels Expected to Persist Until May",
-      "sent_at": "2026-03-08T02:33:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/08/mfa-initiates-special-program-for-sri-lankans-in-middle-east-amid-tensions",
-      "content_hash": "93fb4da2e4d16710cde2935d5fc73eb109bddfd2ad63e4d68c67756900e0e96c",
-      "title": "MFA Initiates Special Program for Sri Lankans in Middle East Amid Tensions",
-      "sent_at": "2026-03-08T02:33:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/08/suspects-arrested-with-narcotics-in-southern-seas-to-be-brought-to-dikowita-harbor",
-      "content_hash": "9329a73e3e403cb37fdfabaeebd5de05028bbbd74f06d1f5e77ddae51ea216ee",
-      "title": "Suspects Arrested with Narcotics in Southern Seas to be Brought to Dikowita Harbor",
-      "sent_at": "2026-03-08T02:33:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/08/fire-at-a-furniture-store-in-alawatugoda-brought-under-control",
       "content_hash": "d5f3abf0b140ee02d5e0ed2bc83655bd4ba42334cb70b347db052ee4a6ebbea1",
       "title": "Fire at a Furniture Store in Alawatugoda Brought Under Control",
@@ -803,6 +785,30 @@
       "content_hash": "4260e367eda37bc69f617d5b457f508cab75c87f8adf59491871758e17a7714a",
       "title": "Two Fatal Stabbings Reported in Katana and Kuragala",
       "sent_at": "2026-03-14T11:28:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/bahrain-saudi-arabian-grands-prix-will-not-take-place-in-april",
+      "content_hash": "d390da54aae67e22a5762f49c127d4c30184eb277fce4d7329c36e0923c02a5a",
+      "title": "Bahrain, Saudi Arabian Grands Prix Will Not Take Place in April",
+      "sent_at": "2026-03-15T02:47:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/here-s-how-to-grab-your-fuel-pass-qr-code",
+      "content_hash": "b400ff0638ee3242a14e3f14d0b6a9da88794ad7e1b38dea9625831b7357d8c8",
+      "title": "Here's How to Grab Your Fuel Pass QR Code",
+      "sent_at": "2026-03-15T02:47:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/qr-weekly-fuel-limits-motorcycles-5l-cars-15l",
+      "content_hash": "a02ea3184e64d5a5a86ae3b0ecc8172b6816e2b7fb5171a6b7232392a09171c5",
+      "title": "QR Weekly Fuel Limits : Motorcycles 5L, Cars 15L",
+      "sent_at": "2026-03-15T02:47:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/sri-lanka-reintroduces-qr-based-national-fuel-pass-system",
+      "content_hash": "ff7cd159e981167163d79657c9de3349d96260fe211f8776e7a83724a9c1a87d",
+      "title": "Sri Lanka Reintroduces QR-Based National Fuel Pass System",
+      "sent_at": "2026-03-15T02:47:57Z"
     }
   ]
 }
