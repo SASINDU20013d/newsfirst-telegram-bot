@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/08/92-parcels-of-heroin-discovered-on-multi-day-fishing-vessel-seized-in-deep-sea",
-      "content_hash": "8426aaa1501892311826c60e0cf71ad1f0cf3878c6d07586c8cc336dd35cd8de",
-      "title": "92 Parcels of Heroin Discovered on Multi-Day Fishing Vessel Seized in Deep Sea",
-      "sent_at": "2026-03-08T06:51:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/08/deputy-minister-inquires-into-injured-sri-lankans-from-middleeast-tensions",
-      "content_hash": "b59b9ca5f4780d09dd2801c2e5073af6299ba935bcdcd9f42c322874081c1fa8",
-      "title": "Deputy Minister Inquires into Injured Sri Lankans from MiddleEast Tensions",
-      "sent_at": "2026-03-08T06:51:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/08/fire-breaks-out-in-maharagama-seven-fire-engines-deployed-to-contain-the-blaze",
-      "content_hash": "b2f12912599da503b71b4a7e445e1f83f5d8481bb254acd8d43a2e08e851232a",
-      "title": "Fire Breaks Out in Maharagama; Seven Fire Engines Deployed to Contain the Blaze",
-      "sent_at": "2026-03-08T06:51:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/08/deputy-minister-inquires-into-injured-sri-lankans-from-middle-east-tensions",
       "content_hash": "9b0790172251209f0bd3ec73e58e2a820bdc37adebd5aefccfcf6808e36f7bdf",
       "title": "Deputy Minister Inquires into Injured Sri Lankans from Middle East Tensions",
@@ -827,6 +809,30 @@
       "content_hash": "ed46d47ad5de24822c46d23a953f40bcd3ae2f7998c8cab0617228bf287635ea",
       "title": "No Price Hikes for Rice During Festive Season",
       "sent_at": "2026-03-15T05:09:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/new-qr-code-registration-to-be-available-by-noon",
+      "content_hash": "2f36c1d2581804a4d044193b0328a8bb9eaeae6a5220dfd4e48a29e8453c8809",
+      "title": "New QR Code Registration To Be Available By Noon",
+      "sent_at": "2026-03-15T07:03:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/no-need-for-public-fear-over-fuel-supplies-fuel-supply-secure-says-distributors%e2%80%99-association",
+      "content_hash": "2261c3a6813269b1b72c2f1fd0847424a059103ebb259ec3dd1ab36e5c9559c5",
+      "title": "'No Need for Public Fear Over Fuel Supplies' - Fuel Supply Secure, Says Distributors’ Association",
+      "sent_at": "2026-03-15T07:03:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/solutions-underway-for-new-registrations-for-fuel-purchases-under-the-qr-code-system",
+      "content_hash": "402781936fdd6462523869076aa148041cbd93470230d1c381cd99b9cb3a4f44",
+      "title": "Solutions Underway for New Registrations for Fuel Purchases Under the QR Code System",
+      "sent_at": "2026-03-15T07:04:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/the-fuel-situation-qr%e2%80%99s-all-you-need-to-know",
+      "content_hash": "4f86cd32ba3eb9a20301492b6b5b0537a2ee66d4f65ce0fdcb43b77601c49fea",
+      "title": "The Fuel Situation & QR’s: All You Need to Know",
+      "sent_at": "2026-03-15T07:04:04Z"
     }
   ]
 }
