@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/08/deputy-minister-inquires-into-injured-sri-lankans-from-middle-east-tensions",
-      "content_hash": "9b0790172251209f0bd3ec73e58e2a820bdc37adebd5aefccfcf6808e36f7bdf",
-      "title": "Deputy Minister Inquires into Injured Sri Lankans from Middle East Tensions",
-      "sent_at": "2026-03-08T08:36:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/08/general-managers-appointed-to-3-new-power-sector-institutions",
       "content_hash": "c8ed48b4123fdbc0dda3967bce83b1840c0394364ff95dd4e1e00ab0acd9373b",
       "title": "General Managers Appointed To 3 New Power Sector Institutions",
@@ -839,6 +833,18 @@
       "content_hash": "68994d1a48ee83c4bca767f5a90de3f8b737b82d9d4a6bc06069bbf79e5660bb",
       "title": "Minister Urges Public Cooperation for National Fuel Pass Reimplementation Amid Global Challenges",
       "sent_at": "2026-03-15T07:50:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/fuel-available-no-need-to-queue-cpc-explains-fuel-qr-system-and-assures-supplies-until-end-of-april",
+      "content_hash": "8c25b1ad89affc2cc0e499ff36c83439ff1617274b8bdcd5899949e7795edf7e",
+      "title": "Fuel Available, No Need to Queue : CPC Explains Fuel QR System and Assures Supplies Until End of April",
+      "sent_at": "2026-03-15T08:41:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/not-a-2022-repeat-minister-explains-why-fuel-use-must-be-managed-now",
+      "content_hash": "10c82359cdec09520192dd19d9384dc8ec645ee9c84d9db0a8c78643c239cf62",
+      "title": "NOT a 2022 Repeat: Minister Explains Why Fuel Use Must Be Managed Now",
+      "sent_at": "2026-03-15T08:42:03Z"
     }
   ]
 }
