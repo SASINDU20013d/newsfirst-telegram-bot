@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/08/over-103-kg-of-drugs-seized-from-fishing-vessel-in-deep-sea-operation",
-      "content_hash": "dcfef07bd40b7ffbf682a9df17fd595fb49d21a148820aa48a1131c5146f29bd",
-      "title": "Over 103 kg of Drugs Seized From Fishing Vessel in Deep Sea Operation",
-      "sent_at": "2026-03-08T13:42:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/08/global-voices-converge-at-raisina-dialogue-to-champion-women%e2%80%99s-economic-power",
       "content_hash": "bb5b968a6524ddf9ffecb15ef3f1504f3fd6f8ef3f9887504f52a522f84dd33a",
       "title": "Global Voices Converge at Raisina Dialogue to Champion Women’s Economic Power",
@@ -833,6 +827,12 @@
       "content_hash": "f56e575a96fd0696506b76f1782326103f47223859668b731aa81d361dafafa6",
       "title": "President Reviews Essential Services Amid Middle East Conflict",
       "sent_at": "2026-03-15T11:31:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/navy-arrests-five-suspects-seizes-fishing-vessel-with-drugs-off-dondra",
+      "content_hash": "f1ea624da265c3352c5938dec6fe999e55e45707e49b0305d47375910ce2e340",
+      "title": "Navy Arrests Five Suspects, Seizes Fishing Vessel With Drugs Off Dondra",
+      "sent_at": "2026-03-15T13:51:56Z"
     }
   ]
 }
