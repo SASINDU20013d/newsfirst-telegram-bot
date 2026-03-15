@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/08/fire-at-a-furniture-store-in-alawatugoda-brought-under-control",
-      "content_hash": "d5f3abf0b140ee02d5e0ed2bc83655bd4ba42334cb70b347db052ee4a6ebbea1",
-      "title": "Fire at a Furniture Store in Alawatugoda Brought Under Control",
-      "sent_at": "2026-03-08T04:46:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/08/oil-slicks-at-hikkaduwa-beach-identified-as-lubricant-oil",
-      "content_hash": "8f995937536b6fa22e2f9516b5d85d90ad0a88ce1b580fd29ea3ec5e0cf62ad4",
-      "title": "Oil Slicks at Hikkaduwa Beach Identified as Lubricant Oil",
-      "sent_at": "2026-03-08T04:46:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/08/92-parcels-of-heroin-discovered-on-multi-day-fishing-vessel-seized-in-deep-sea",
       "content_hash": "8426aaa1501892311826c60e0cf71ad1f0cf3878c6d07586c8cc336dd35cd8de",
       "title": "92 Parcels of Heroin Discovered on Multi-Day Fishing Vessel Seized in Deep Sea",
@@ -809,6 +797,36 @@
       "content_hash": "ff7cd159e981167163d79657c9de3349d96260fe211f8776e7a83724a9c1a87d",
       "title": "Sri Lanka Reintroduces QR-Based National Fuel Pass System",
       "sent_at": "2026-03-15T02:47:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/demand-for-drinking-water-rises-amidst-dry-weather",
+      "content_hash": "1abb9b637a290ce352fae8a91d355798a33949951dc3430e793503f723b58cdf",
+      "title": "Demand for Drinking Water Rises Amidst Dry Weather",
+      "sent_at": "2026-03-15T05:09:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/fuel-ship-with-35-000-metric-tons-scheduled-to-arrive-tomorrow",
+      "content_hash": "40794884bf271de8be882bdee0381462ec5997341a7f9ab9dbef74d313f7ab2e",
+      "title": "Fuel Ship with 35,000 Metric Tons Scheduled to Arrive Tomorrow",
+      "sent_at": "2026-03-15T05:09:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/heat-advisory-issued-for-several-provinces-thundershowers-expected-tomorrow",
+      "content_hash": "2a76d8db237ebf395ee03b2a705b6551496e615bbce958be9160f8466c6be28d",
+      "title": "Heat Advisory Issued for Several Provinces; Thundershowers Expected Tomorrow",
+      "sent_at": "2026-03-15T05:09:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/obama-s-old-men-cause-80-of-problems-quote-goes-viral-again",
+      "content_hash": "5f9d1a4c232f6d7cc79db93e91a0a508c8c371d08f2f9b04d465eb6273635788",
+      "title": "Obama's \"Old Men Cause 80% of Problems\" Quote Goes Viral, Again",
+      "sent_at": "2026-03-15T05:09:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/15/undefined",
+      "content_hash": "ed46d47ad5de24822c46d23a953f40bcd3ae2f7998c8cab0617228bf287635ea",
+      "title": "No Price Hikes for Rice During Festive Season",
+      "sent_at": "2026-03-15T05:09:30Z"
     }
   ]
 }
