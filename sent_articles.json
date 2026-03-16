@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/09/sri-lanka-follows-neutral-foreign-policy-while-upholding-humanity-and-international-law-says-deputy-minister-of-fisheries",
-      "content_hash": "2745bfe152f0ede06ee2f4fa421abacd931a9ba0c417345e5aaf2a69c39f5fda",
-      "title": "Sri Lanka Follows Neutral Foreign Policy While Upholding Humanity And International Law, says Deputy Minister of Fisheries",
-      "sent_at": "2026-03-09T10:51:21Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/09/end-of-a-50-year-era-ceb-dissolved-power-sector-split-into-six-companies",
       "content_hash": "1eb0d6302cd626c54c5f9b19d71c51f2772fcf3459dc7b108e2f9b22ed6742c2",
       "title": "End of a 50-Year Era: CEB Dissolved, Power Sector Split Into Six Companies",
@@ -845,6 +839,30 @@
       "content_hash": "a602fb02460db80b0c732a5e8d5e3dc5f50d3b6f94574bc62d2b334ae1ec77b4",
       "title": "Port Of Fujairah Hit Again: Oil Loading Suspended For Second Time In Three Days",
       "sent_at": "2026-03-16T09:02:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/former-mp-sajin-de-vass-indicted-on-corruption-charges",
+      "content_hash": "32b2aa8137bd54a4b9ba380535f87cbaa1d6282f60485e75d6c43ffde93ab524",
+      "title": "Former MP Sajin de Vass Indicted on Corruption Charges",
+      "sent_at": "2026-03-16T11:51:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/no-qr-needed-farmers-to-receive-15-20-liters-of-fuel-per-acre-for-plowing-and-harvesting",
+      "content_hash": "bb7220f953720f29548705190609572e536541ff782766df01268dab747360c6",
+      "title": "No QR Needed: Farmers to Receive 15-20 Liters of Fuel Per Acre for Plowing and Harvesting",
+      "sent_at": "2026-03-16T11:51:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/police-constable-injured-after-trap-gun-discharges-during-raid-in-yalagamuwa-uva-paranagama",
+      "content_hash": "a2001f072abf8bcc2aac16dbf4e8b611be9ce39e46bb25851ffb348f375c5100",
+      "title": "Police Constable Injured After Trap Gun Discharges During Raid In Yalagamuwa, Uva Paranagama",
+      "sent_at": "2026-03-16T11:51:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/uda-launches-mother-lanka-digital-platform-to-enhance-public-participation-in-urban-planning",
+      "content_hash": "09c72fff812400b0145a2b3e04742b19e782b4a00b1748233068e5da5b3c4692",
+      "title": "UDA Launches 'Mother Lanka Digital' Platform to Enhance Public Participation in Urban Planning",
+      "sent_at": "2026-03-16T11:51:26Z"
     }
   ]
 }
