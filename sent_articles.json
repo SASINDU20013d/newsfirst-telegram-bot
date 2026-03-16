@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/09/ice-drug-bust-leads-to-revelations-of-multiple-robberies",
-      "content_hash": "fedce86a89a8bed86e207be6c0dcb168d038a56faaee696d79c5483597827f12",
-      "title": "Ice Drug Bust Leads to Revelations of Multiple Robberies",
-      "sent_at": "2026-03-09T08:51:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/indian-national-arrested-at-bia-with-2kg-of-kush",
-      "content_hash": "54860401cfe4048b115b887f18df1946023fa89d1f3df5a82f7beef41a2473e8",
-      "title": "Indian National Arrested at BIA with 2kg of Kush",
-      "sent_at": "2026-03-09T08:52:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/iris-dena-tragedy-10-still-hospitalised-in-karapitiya",
-      "content_hash": "f143df7db68e8d53c400df4ae8c54a9e99462cca1d58075a7db66aea85d08ee1",
-      "title": "IRIS Dena Tragedy: 10 Still Hospitalised in Karapitiya",
-      "sent_at": "2026-03-09T08:52:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/islandwide-oral-health-data-collection-starts-tomorrow",
-      "content_hash": "f3b83c918445599c0319fd985dd0e67118532253377f556d9d9986b9b1880a1a",
-      "title": "Islandwide Oral Health Data Collection Starts Tomorrow",
-      "sent_at": "2026-03-09T08:52:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/reckless-riding-clip-goes-viral-suspect-arrested",
-      "content_hash": "6dbaff2ad88002239c4aeb31c66c052320336118150c2aad7b8004ad24dd5b7c",
-      "title": "Reckless Riding Clip Goes Viral; Suspect Arrested",
-      "sent_at": "2026-03-09T08:52:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/sri-lanka-has-%e2%80%9cgood-space%e2%80%9d-to-absorb-oil-price-shocks",
-      "content_hash": "609e9f113994d685595c2c104dad6de29bfc84aa3d7047c5d31b6965164d8f24",
-      "title": "Sri Lanka Has “Good Space” to Absorb Oil Price Shocks",
-      "sent_at": "2026-03-09T08:52:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/sri-lanka-to-combine-5th-6th-imf-reviews-targeting-board-approval-in-may",
-      "content_hash": "618b635662ae55ae761f82bd7383ce4406eb14c897c0f820277d667db3b7013f",
-      "title": "Sri Lanka to Combine 5th & 6th IMF Reviews, Targeting Board Approval in May",
-      "sent_at": "2026-03-09T08:52:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/09/sri-lanka-builds-national-network-to-crack-down-on-drugs",
       "content_hash": "6d386135944fed27778459594a95a4153cb12027d92cf1c84b5bae54b550b826",
       "title": "Sri Lanka builds national network to crack down on drugs",
@@ -869,6 +827,30 @@
       "content_hash": "e0f76e218d182b8eec0924c4d6b2d47681b7e086bb2d5164e76978daec42989a",
       "title": "Woman Arrested in Mannar for Laundering Illicit Gold Assets",
       "sent_at": "2026-03-16T07:24:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/australia-rules-out-sending-assets-to-strait-of-hormuz",
+      "content_hash": "47b697f4c8edf32fef04bfd2cf6ab2b83d2c5c4dddb9bcdbbae582cd5b05a691",
+      "title": "Australia Rules Out Sending Assets to Strait of Hormuz",
+      "sent_at": "2026-03-16T09:02:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/iran-rejects-ceasefire-says-it-never-sought-talks",
+      "content_hash": "be1610f2180190d11df1b65440fc315a997bbaf67371314c10d88c7365e96547",
+      "title": "Iran Rejects Ceasefire, Says It Never Sought Talks",
+      "sent_at": "2026-03-16T09:02:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/oil-prices-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz",
+      "content_hash": "e73f13e9af1708775656c217d1856523d3fb0bfbfb52f889356e927344b731f7",
+      "title": "Oil Prices Rising as Trump Seeks Coalition To Reopen Strait of Hormuz",
+      "sent_at": "2026-03-16T09:02:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/port-of-fujairah-hit-again-oil-loading-suspended-for-second-time-in-three-days",
+      "content_hash": "a602fb02460db80b0c732a5e8d5e3dc5f50d3b6f94574bc62d2b334ae1ec77b4",
+      "title": "Port Of Fujairah Hit Again: Oil Loading Suspended For Second Time In Three Days",
+      "sent_at": "2026-03-16T09:02:40Z"
     }
   ]
 }
