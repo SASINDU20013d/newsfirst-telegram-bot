@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/09/sri-lanka-cricket-appoints-gary-kirsten-as-head-coach",
-      "content_hash": "5ffad017074e6a6f6beb40dd5c9848a32cd35e0ad832e014102181ec60e63de7",
-      "title": "Sri Lanka Cricket Appoints Gary Kirsten As Head Coach",
-      "sent_at": "2026-03-09T14:55:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/09/edl-takes-over-electricity-distribution-from-ceb-under-new-power-sector-reforms",
       "content_hash": "60901fdfdca85f902f6674f4a56c4a0e0414cd34ae2da6481696aed4ffa486e3",
       "title": "EDL Takes Over Electricity Distribution From CEB Under New Power Sector Reforms",
@@ -875,6 +869,12 @@
       "content_hash": "0db79a3a3812c58d4eac8096323183ef516eb02414afd94aeb194784a7546c67",
       "title": "Vessel Intercepted Off Beruwala Brought To Dikowita Harbor With Six Suspects And Suspected Narcotics",
       "sent_at": "2026-03-16T13:22:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/government-declares-every-wednesday-a-special-holiday-amid-fuel-preparedness-measures",
+      "content_hash": "d10b5c21794301d3901f063cafc26d3a22cb68ff497b98256abda541eaf9aeed",
+      "title": "Government Declares Every Wednesday a Special Holiday Amid Fuel Preparedness Measures",
+      "sent_at": "2026-03-16T15:04:59Z"
     }
   ]
 }
