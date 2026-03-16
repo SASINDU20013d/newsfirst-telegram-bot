@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/09/ceb-dissolved-six-new-successor-companies-to-take-over",
-      "content_hash": "03825b43ca7cb217d2252988b0bf302aae52b9d038326b5b68bd3a336412aa82",
-      "title": "CEB Dissolved: Six New Successor Companies to Take Over",
-      "sent_at": "2026-03-09T04:55:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/litro-releases-3-700-mt-of-gas-today",
-      "content_hash": "347459b853c849e763034f4a203406b71fa5360f80c2af904f09c8bfb56dcc79",
-      "title": "Litro Releases 3,700 MT of Gas Today",
-      "sent_at": "2026-03-09T04:55:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/oil-soars-past-100-a-barrel-as-us-israel-war-on-iran-rages",
-      "content_hash": "664f51df9d3b0f4832b31b0f6b5ebc324a30ca6e58a3c1945f5b825cb22698db",
-      "title": "Oil Soars Past $100 A Barrel As US-Israel War On Iran Rages",
-      "sent_at": "2026-03-09T04:55:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/09/pc-polls-under-a-new-electoral-system-says-minister",
       "content_hash": "37e2869b71ed92ea249a2acbf3ba4586ef0562967710023ffccdc15d87f377ef",
       "title": "PC Polls Under a New Electoral System, Says Minister",
@@ -845,6 +827,12 @@
       "content_hash": "ea00c86eadd2e8fa559f4a3f99c29e03f55ced953a10ae5576e888b645eaf949",
       "title": "President Discusses Essential Service Continuity Amid Middle East Tensions, Considers Implementation of Remote Work",
       "sent_at": "2026-03-16T02:48:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/work-from-home-under-consideration-decision-expected-soon-minister",
+      "content_hash": "01943e55c0762bbf827d14dda860020f84f07f9ecd7c3aff10cc5e3b3947e0b7",
+      "title": "Work from home Under Consideration, Decision Expected Soon: Minister",
+      "sent_at": "2026-03-16T05:20:50Z"
     }
   ]
 }
