@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/09/iran-picks-hardliner-mojtaba-khamenei-as-supreme-leader",
-      "content_hash": "206f08d2feb766ddc276903c56befe5aefeb741282a08991c7b0aeecbc7857d1",
-      "title": "Iran Picks Hardliner Mojtaba Khamenei as Supreme Leader",
-      "sent_at": "2026-03-09T02:34:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/09/ceb-dissolved-six-new-successor-companies-to-take-over",
       "content_hash": "03825b43ca7cb217d2252988b0bf302aae52b9d038326b5b68bd3a336412aa82",
       "title": "CEB Dissolved: Six New Successor Companies to Take Over",
@@ -827,6 +821,30 @@
       "content_hash": "aeb5a20c9f33e414410a96278f0b0d9a49496b487f09fb3617b8077e6a615b1c",
       "title": "Sri Lanka Witnesses Record-Breaking Blockbuster with Dharmayuddhaya 2",
       "sent_at": "2026-03-15T14:35:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/ambulances-get-fuel-under-a-special-priority-category-in-the-qr-based-fuel-distribution-system",
+      "content_hash": "99f2fb0ddc57037b6f718737d7faf225aedfcbee3f511d9bfaa736559648bc62",
+      "title": "Ambulances Get Fuel Under A Special Priority Category in the QR Based Fuel Distribution System",
+      "sent_at": "2026-03-16T02:48:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/over-100-000-mt-of-fuel-released-within-ten-days",
+      "content_hash": "6c1b2890f9c25a1face76bd28dd40fee5373fa6a80cfe7e2439a66358d2782e9",
+      "title": "Over 100,000 MT of Fuel Released Within Ten Days",
+      "sent_at": "2026-03-16T02:48:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/police-on-high-alert-during-the-implementation-of-qr-based-fuel-distribution-system",
+      "content_hash": "e6bc29c54f6fbf00d102e488f3d361e09c9717bbf2ac2e958d0584ffba3e641a",
+      "title": "Police On High Alert During the Implementation of QR Based Fuel Distribution System",
+      "sent_at": "2026-03-16T02:48:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/president-discusses-essential-service-continuity-amid-middle-east-tensions-considers-implementation-of-remote-work",
+      "content_hash": "ea00c86eadd2e8fa559f4a3f99c29e03f55ced953a10ae5576e888b645eaf949",
+      "title": "President Discusses Essential Service Continuity Amid Middle East Tensions, Considers Implementation of Remote Work",
+      "sent_at": "2026-03-16T02:48:34Z"
     }
   ]
 }
