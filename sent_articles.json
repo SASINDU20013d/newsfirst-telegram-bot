@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/09/end-of-a-50-year-era-ceb-dissolved-power-sector-split-into-six-companies",
-      "content_hash": "1eb0d6302cd626c54c5f9b19d71c51f2772fcf3459dc7b108e2f9b22ed6742c2",
-      "title": "End of a 50-Year Era: CEB Dissolved, Power Sector Split Into Six Companies",
-      "sent_at": "2026-03-09T13:13:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/09/ex-mp-sajin-de-vass-gunawardena-arrested-over-asset-investigation",
-      "content_hash": "97b8278ce2259fa116056369d14555a1c98fc2975763d5abc16846298fc2e1e3",
-      "title": "Ex-MP Sajin de Vass Gunawardena Arrested Over Asset Investigation",
-      "sent_at": "2026-03-09T13:13:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/09/sri-lanka-cricket-appoints-gary-kirsten-as-head-coach",
       "content_hash": "5ffad017074e6a6f6beb40dd5c9848a32cd35e0ad832e014102181ec60e63de7",
       "title": "Sri Lanka Cricket Appoints Gary Kirsten As Head Coach",
@@ -863,6 +851,30 @@
       "content_hash": "09c72fff812400b0145a2b3e04742b19e782b4a00b1748233068e5da5b3c4692",
       "title": "UDA Launches 'Mother Lanka Digital' Platform to Enhance Public Participation in Urban Planning",
       "sent_at": "2026-03-16T11:51:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/government-clarifies-fuel-pass-rules-for-new-and-changed-vehicles",
+      "content_hash": "6ceb39e653549c3bbc2bf344dbe21da96fa7e5692b69610a1a849cb3c8de8d6a",
+      "title": "Government Clarifies Fuel Pass Rules for New and Changed Vehicles",
+      "sent_at": "2026-03-16T13:22:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/no-60-litre-limit-for-passenger-bus-services",
+      "content_hash": "9cc2801ac684c092b2ab4cf6e0ceeb25210c16fde54961d0212d7ccab796d07c",
+      "title": "No 60-Litre Limit for Passenger Bus Services",
+      "sent_at": "2026-03-16T13:22:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/transport-sector-calls-for-distance-based-fuel-distribution",
+      "content_hash": "e46006991e9204865c12e5ea592528779d8d70a2fb5c0e5e7c177e8c2fdf43e1",
+      "title": "Transport Sector Calls for Distance-Based Fuel Distribution",
+      "sent_at": "2026-03-16T13:22:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/16/vessel-intercepted-off-beruwala-brought-to-dikowita-harbor-with-six-suspects-and-suspected-narcotics",
+      "content_hash": "0db79a3a3812c58d4eac8096323183ef516eb02414afd94aeb194784a7546c67",
+      "title": "Vessel Intercepted Off Beruwala Brought To Dikowita Harbor With Six Suspects And Suspected Narcotics",
+      "sent_at": "2026-03-16T13:22:51Z"
     }
   ]
 }
