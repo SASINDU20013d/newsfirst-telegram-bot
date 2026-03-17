@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/10/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
-      "content_hash": "901e6b0884f54a1d464bf5ec85e7455b8714daf941a1ce51d210d555f340dd66",
-      "title": "Bus Fares to Remain Unchanged Despite Fuel Price Hike",
-      "sent_at": "2026-03-10T04:45:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/10/gunman-connected-to-jinthupitiya-shooting-arrested-in-kolambage-ara",
       "content_hash": "a56a91735df2c3297da04de0a0ec04f609745a8d57322d58a486f28301627ff6",
       "title": "Gunman Connected to Jinthupitiya Shooting, Arrested in Kolambage Ara",
@@ -845,6 +839,36 @@
       "content_hash": "53616631ccef74812d6916dc6526d5f2864bb4f173d4f23fd7b428ef5755ece4",
       "title": "Deputy Minister of Digital Economy Confirms Solutions to Technical Issues in QR System",
       "sent_at": "2026-03-17T02:31:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/flights-to-middle-east-remain-heavily-disrupted-amid-regional-conflict",
+      "content_hash": "c6f3ecbc8734039c7b84d22da8936ee6d502f22d808ff17bafb0db60ed69bab2",
+      "title": "Flights to Middle East Remain Heavily Disrupted Amid Regional Conflict",
+      "sent_at": "2026-03-17T04:55:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/over-379-000-new-vehicles-registered-for-qr-based-fuel-distribution-system",
+      "content_hash": "5272f8f5c2afc7327f3c059c3b32ba3eabda4265939c91ee05c7d452691d24b0",
+      "title": "Over 379,000 New Vehicles Registered for QR Based Fuel Distribution System",
+      "sent_at": "2026-03-17T04:55:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/sri-lanka-navy-seizes-drug-laden-fishing-vessels-off-beruwala-and-dondra",
+      "content_hash": "c58bc7ee38318c522094b1b0ddc62a8dd0b30e36a866268652a18046cf3dfdb0",
+      "title": "Sri Lanka Navy Seizes Drug-Laden Fishing Vessels Off Beruwala and Dondra",
+      "sent_at": "2026-03-17T04:55:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/ugc-advises-universities-to-shift-lectures-online-amid-fuel-crisis",
+      "content_hash": "bc71a18445ef420e6e1a867f27befc148d1bbdd99e776f363059be6bc1649a4f",
+      "title": "UGC Advises Universities to Shift Lectures Online Amid Fuel Crisis",
+      "sent_at": "2026-03-17T04:55:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/uk-will-not-be-drawn-into-wider-war-but-pushes-to-secure-hormuz",
+      "content_hash": "fa45cc087fbffaff2f0a1408976d51ac0bc304a2a6b4514a23f12f3ca002e571",
+      "title": "UK Will Not Be Drawn Into Wider War but Pushes to Secure Hormuz",
+      "sent_at": "2026-03-17T04:55:32Z"
     }
   ]
 }
