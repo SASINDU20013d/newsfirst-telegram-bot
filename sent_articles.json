@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/10/gunman-connected-to-jinthupitiya-shooting-arrested-in-kolambage-ara",
-      "content_hash": "a56a91735df2c3297da04de0a0ec04f609745a8d57322d58a486f28301627ff6",
-      "title": "Gunman Connected to Jinthupitiya Shooting, Arrested in Kolambage Ara",
-      "sent_at": "2026-03-10T05:49:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/navy-seizes-fishing-vessel-with-drugs-and-weapons",
-      "content_hash": "50bf486ae7077939ed64e4491a3862b1f38aa8304fd121cb39d7978b172b62b1",
-      "title": "Navy Seizes Fishing Vessel With Drugs and Weapons",
-      "sent_at": "2026-03-10T05:49:59Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/10/iran-says-negotiations-with-us-not-on-the-table-anymore",
       "content_hash": "f69625f1f24938dc4ebc6108c382f4aef83ec29361e9dfd0a69070f382eedc68",
       "title": "Iran Says Negotiations With US 'Not on the Table Anymore'",
@@ -869,6 +857,18 @@
       "content_hash": "fa45cc087fbffaff2f0a1408976d51ac0bc304a2a6b4514a23f12f3ca002e571",
       "title": "UK Will Not Be Drawn Into Wider War but Pushes to Secure Hormuz",
       "sent_at": "2026-03-17T04:55:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/all-tuition-classes-banned-on-wednesday-public-holiday",
+      "content_hash": "c11c14792456d8f6060098bcff8864462ff5ffeb5679a0cc877b5d1946929cdf",
+      "title": "All Tuition Classes Banned on Wednesday Public Holiday",
+      "sent_at": "2026-03-17T06:02:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/public-transport-to-be-restricted-on-wednesday-public-holiday",
+      "content_hash": "62f1d26a75dd0f22558ff705498ff33b7ca486e1c2de1de0771b9653a4f40264",
+      "title": "Public Transport to Be Restricted on Wednesday Public Holiday",
+      "sent_at": "2026-03-17T06:02:41Z"
     }
   ]
 }
