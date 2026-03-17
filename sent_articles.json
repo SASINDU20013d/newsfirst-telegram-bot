@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/10/litro-gas-prices-to-rise-from-midnight-tonight",
-      "content_hash": "698db7fec01c2fe01ff8614b2b614d2474a2195c7aa49cd69f0c7ce4eecce5fb",
-      "title": "Litro Gas Prices to Rise from Midnight Tonight",
-      "sent_at": "2026-03-10T17:55:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/11/electricity-unions-continues-strikes-amid-ongoing-negotiations",
       "content_hash": "221abcf5c382a684aa54b56f519c16d41d6822e53e46fe8d35d0bac1b9eb683c",
       "title": "Electricity Unions Continues Strikes Amid Ongoing Negotiations",
@@ -839,6 +833,12 @@
       "content_hash": "d5f86e5b7e39e977e008639c4cc111624e44596dab9bd9e3501ffc5d25d3b306",
       "title": "Private Sector Granted Temporary Fuel Import Licenses for Exporters and Tourism",
       "sent_at": "2026-03-17T16:11:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/special-public-holiday-declared-new-wednesday-train-schedule-released",
+      "content_hash": "0e0a425aeebf342badd44a21ef6495d67b63d8a106b5777569e54732fceb0727",
+      "title": "Special Public Holiday Declared; New Wednesday Train Schedule Released",
+      "sent_at": "2026-03-17T18:01:30Z"
     }
   ]
 }
