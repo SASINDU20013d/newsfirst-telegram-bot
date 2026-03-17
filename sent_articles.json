@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/10/icc-cancels-doha-meetings-amid-west-asia-conflict",
-      "content_hash": "0a32542f015403b11f68640fc628887cbbbde978f7daccaa3a1289b24fe405fb",
-      "title": "ICC Cancels Doha Meetings Amid West Asia Conflict",
-      "sent_at": "2026-03-10T08:51:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/navy-foils-gold-smuggling-attempt-suspects-nabbed-with-over-6-kg-of-gold",
-      "content_hash": "91252a4893577d949bba58e140cec89c1b7409db7d63f3e8fb0c0f925d93a39b",
-      "title": "Navy Foils Gold Smuggling Attempt, Suspects Nabbed With Over 6 kg of Gold",
-      "sent_at": "2026-03-10T08:51:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/10/canadian-couple-arrested-at-bia-with-rs-321-million-worth-of-kush",
       "content_hash": "98d65cbe47064589456f44d3204ed0a1eb33c47d1ab035aa3b273f47a1404da6",
       "title": "Canadian Couple Arrested at BIA with Rs. 321 Million Worth of Kush",
@@ -845,6 +833,18 @@
       "content_hash": "62f1d26a75dd0f22558ff705498ff33b7ca486e1c2de1de0771b9653a4f40264",
       "title": "Public Transport to Be Restricted on Wednesday Public Holiday",
       "sent_at": "2026-03-17T06:02:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/former-president-gotabaya-rajapaksa-appears-before-ciaboc-records-statement-on-housing-complex-probe",
+      "content_hash": "6b032ceead5865f822b89174ff8f188b716534b8092270900c73c980757be445",
+      "title": "Former President Gotabaya Rajapaksa Appears Before CIABOC; Records Statement on Housing Complex Probe",
+      "sent_at": "2026-03-17T08:58:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/rs-3-billion-heroin-seizure-fishing-vessel-owner-son-arrested-in-ambalangoda",
+      "content_hash": "552eaa9c2e39772a6fc6aecaa8883b036ee3b84071325e8ef8a322fc1f6c3988",
+      "title": "Rs. 3 Billion Heroin Seizure: Fishing Vessel Owner, Son Arrested In Ambalangoda",
+      "sent_at": "2026-03-17T08:58:07Z"
     }
   ]
 }
