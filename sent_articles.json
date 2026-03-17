@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/10/mahapola-scholarship-allowance-increased-to-rs-10-000-payments-begin-today",
-      "content_hash": "4d29e1d784094e065d586e82afb45fe756b9c4ce84bbc0844b7f4d2ee619193a",
-      "title": "Mahapola Scholarship Allowance Increased To Rs. 10,000; Payments Begin Today",
-      "sent_at": "2026-03-10T02:26:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/pm-harini-amarasuriya-to-address-international-women%e2%80%99s-day-event-at-adb-headquarters-in-manila",
-      "content_hash": "469d8a322027cd13371bbe39ed44f9b54df5a0e4ec7fedf629ac4b95a150e5c1",
-      "title": "PM Harini Amarasuriya To Address International Women’s Day Event At ADB Headquarters in Manila",
-      "sent_at": "2026-03-10T02:26:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/preserved-remains-of-nadungamuwa-raja-on-public-display-from-tomorrow",
-      "content_hash": "ce5e0c7aceb58336f1f2020bdbe0f91f7e9e7a852c7bf4f6f34ac1fe1e723e3e",
-      "title": "Preserved Remains of Nadungamuwa Raja on Public Display from Tomorrow",
-      "sent_at": "2026-03-10T02:26:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/sri-lanka-to-operate-seven-special-flights-today-as-middle-east-airspace-gradually-reopens",
-      "content_hash": "12bb28a2d751ae24338c0d8dca462d6df0b2c90fb49b479f7850631385b69181",
-      "title": "Sri Lanka To Operate Seven Special Flights Today As Middle East Airspace Gradually Reopens",
-      "sent_at": "2026-03-10T02:26:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/10/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
       "content_hash": "901e6b0884f54a1d464bf5ec85e7455b8714daf941a1ce51d210d555f340dd66",
       "title": "Bus Fares to Remain Unchanged Despite Fuel Price Hike",
@@ -863,6 +839,12 @@
       "content_hash": "d10b5c21794301d3901f063cafc26d3a22cb68ff497b98256abda541eaf9aeed",
       "title": "Government Declares Every Wednesday a Special Holiday Amid Fuel Preparedness Measures",
       "sent_at": "2026-03-16T15:04:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/deputy-minister-of-digital-economy-confirms-solutions-to-technical-issues-in-qr-system",
+      "content_hash": "53616631ccef74812d6916dc6526d5f2864bb4f173d4f23fd7b428ef5755ece4",
+      "title": "Deputy Minister of Digital Economy Confirms Solutions to Technical Issues in QR System",
+      "sent_at": "2026-03-17T02:31:44Z"
     }
   ]
 }
