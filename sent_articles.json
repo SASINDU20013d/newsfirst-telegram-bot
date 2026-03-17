@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/10/afghanistan-vs-sri-lanka-series-called-off-due-to-iran-war",
-      "content_hash": "c4db152d4ee331405c900fea143cd6d7381c33975d760a229aedcfd279ec5d5f",
-      "title": "Afghanistan vs Sri Lanka Series Called Off Due To Iran War",
-      "sent_at": "2026-03-10T14:54:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/cabinet-approves-new-economic-watchdog-amid-rising-external-risks",
-      "content_hash": "cd9144cd1cea036a2256bc847d662c7d813e0dbcf94dbb52c147c2e0b59f72dd",
-      "title": "Cabinet Approves New Economic Watchdog Amid Rising External Risks",
-      "sent_at": "2026-03-10T14:54:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/former-director-of-cid-prasad-ranasinghe-granted-bail",
-      "content_hash": "c72224847933e767c4e1cfe7478dc68dc274a7b0ff486329101a65e6b8d298db",
-      "title": "Former Director of CID, Prasad Ranasinghe Granted Bail",
-      "sent_at": "2026-03-10T14:54:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/fuel-stocks-for-weeks-burnt-in-days-amid-public-panic-says-cpc",
-      "content_hash": "783d2d04ee2db4b2491d536ff2319169e1853ca47aa6c236770c2039d92db8f4",
-      "title": "Fuel Stocks for Weeks Burnt in Days Amid Public Panic, Says CPC",
-      "sent_at": "2026-03-10T14:54:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/government-justifies-fuel-hike-with-spike-in-consumption-and-global-volatility",
-      "content_hash": "085206430b549695c56696a84f94b287c8f8e0b8f107e11ebcfe1d213c5e465f",
-      "title": "Government Justifies Fuel Hike With Spike in Consumption and Global Volatility",
-      "sent_at": "2026-03-10T14:54:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/10/sri-lanka-says-new-policies-will-attract-global-investors",
       "content_hash": "3d4d2829bc68266431051001c12221faebbb48feebdfa356f72825f97b06e5bf",
       "title": "Sri Lanka Says New Policies Will Attract Global Investors",
@@ -839,6 +809,30 @@
       "content_hash": "a9b04ebe4e2dbff82ed85e79ca2a688434a26ac759175ed4b03e0eeedae4b808",
       "title": "Government Will Take Every Possible Step to Ease Public Hardship, Says Justice Minister",
       "sent_at": "2026-03-17T11:45:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/fuel-consumption-nearly-doubles-in-march",
+      "content_hash": "cf9996ad13120649591b314a0d2fc7323fef5086f7e9c23e3fb6ceef43dc1dc6",
+      "title": "Fuel Consumption Nearly Doubles In March",
+      "sent_at": "2026-03-17T15:01:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/government-declares-mid-week-holiday-to-avoid-economic-disruption-amidst-global-energy-crisis",
+      "content_hash": "85fe915320f6561ce05aecfe0759e9e1d1e9bbbeb4eb3f044f2fd458cc02dc46",
+      "title": "Government Declares Mid-Week Holiday To Avoid Economic Disruption Amidst Global Energy Crisis",
+      "sent_at": "2026-03-17T15:01:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/president-urges-all-ministries-to-ensure-sustainable-fuel-use",
+      "content_hash": "339c0f19992060690871e8346f37062b56b0293c42aa1017875046c108aee6eb",
+      "title": "President Urges All Ministries To Ensure Sustainable Fuel Use",
+      "sent_at": "2026-03-17T15:01:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/state-institutions-adopt-measures-to-conserve-fuel-following-wednesday-government-holiday",
+      "content_hash": "cee056ae787e1fb5d157de68b0e28ef5ad7e956da65cf2907ac402460e0d6a1b",
+      "title": "State Institutions Adopt Measures to Conserve Fuel Following Wednesday Government Holiday",
+      "sent_at": "2026-03-17T15:01:28Z"
     }
   ]
 }
