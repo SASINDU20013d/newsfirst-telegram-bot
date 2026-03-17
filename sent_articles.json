@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/10/canadian-couple-arrested-at-bia-with-rs-321-million-worth-of-kush",
-      "content_hash": "98d65cbe47064589456f44d3204ed0a1eb33c47d1ab035aa3b273f47a1404da6",
-      "title": "Canadian Couple Arrested at BIA with Rs. 321 Million Worth of Kush",
-      "sent_at": "2026-03-10T11:36:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/10/former-director-of-cid-prasad-ranasinghe-arrested",
-      "content_hash": "b89f0d4ff5e15a2f1212c58e1603216689d75cd2f4448abb2a503e31cf4ccd5c",
-      "title": "Former Director of CID, Prasad Ranasinghe Arrested",
-      "sent_at": "2026-03-10T11:36:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/10/free-14%e2%80%91day-visa-extension-for-travellers-hit-by-middle-east-conflict",
       "content_hash": "d63f3003eccef8b77f6c6d4a2c35d259fba85b9732ea7651f0c3320791d4f648",
       "title": "Free 14‑Day Visa Extension for Travellers Hit by Middle East Conflict",
@@ -851,6 +839,12 @@
       "content_hash": "3f02eb0d769bd07708bc5798316c5e60f4ef3e787cb9c79641172f6cba3bd3f3",
       "title": "Schools Shift to Home-Based Learning on Wednesdays",
       "sent_at": "2026-03-17T09:59:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/17/government-will-take-every-possible-step-to-ease-public-hardship-says-justice-minister",
+      "content_hash": "a9b04ebe4e2dbff82ed85e79ca2a688434a26ac759175ed4b03e0eeedae4b808",
+      "title": "Government Will Take Every Possible Step to Ease Public Hardship, Says Justice Minister",
+      "sent_at": "2026-03-17T11:45:48Z"
     }
   ]
 }
