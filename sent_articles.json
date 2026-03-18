@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/11/colombo-holds-206-iranian-naval-personnel-vows-to-follow-international-law",
-      "content_hash": "89350ef03f2277a5b8dbc87865e191027a561759676502bc6d792b76e47911ab",
-      "title": "Colombo Holds 206 Iranian Naval Personnel, Vows to Follow International Law",
-      "sent_at": "2026-03-11T05:52:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/economic-monitoring-committee-meets-in-colombo",
-      "content_hash": "1e9830c46e201e258f24796ffaf1130ec4555a975bf2e66e6af4df2591b39eb2",
-      "title": "Economic Monitoring Committee Meets In Colombo",
-      "sent_at": "2026-03-11T05:52:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/engine-trouble-delays-transfer-of-iranian-vessel-to-trincomalee",
-      "content_hash": "e1fc28eadab92115f5785fdaaef3912070ef58764460b2d1b3d76c93bad62676",
-      "title": "Engine Trouble Delays Transfer of Iranian Vessel to Trincomalee",
-      "sent_at": "2026-03-11T05:52:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/three-suspects-arrested-at-kahathuduwa-expressway-entrance-with-heroin-and-ice",
-      "content_hash": "a479b94aab8ab89e466f8b1d48ac3de087fd37041e5965d11dc327923a134782",
-      "title": "Three Suspects Arrested At Kahathuduwa Expressway Entrance With Heroin And Ice",
-      "sent_at": "2026-03-11T05:53:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/vehicle-number-plate-issuance-to-resume-within-two-months-after-10-month-halt",
-      "content_hash": "608804ce8c5ea77a2484d86797fe3b0f130333e957698d9c47d8941d34198258",
-      "title": "Vehicle Number Plate Issuance To Resume Within Two Months After 10-Month Halt",
-      "sent_at": "2026-03-11T05:53:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/11/slbfe-assures-safety-measures-for-sri-lankans-in-middle-east-amid-ongoing-conflict",
       "content_hash": "53358c704ecf8baeb6c96b55e5513bd0a4772024f4b1fe234be37a1672e05ad7",
       "title": "SLBFE Assures Safety Measures For Sri Lankans In Middle East Amid Ongoing Conflict",
@@ -851,6 +821,24 @@
       "content_hash": "1f125682f41d0e2d76140e718ebb9c1b2a57c8c5a25069ffb15abbad9488db10",
       "title": "Man And Woman Arrested At Bandaranaike International Airport With Over 10Kg Of Kush",
       "sent_at": "2026-03-18T05:00:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/5-5-million-fuel-qr-codes-issued-1-2-million-yet-to-register",
+      "content_hash": "51ec4f161bedef209bc65bfa0c9d0ffbabfa2e6fa675ea94a363fc2b2b2a2f0d",
+      "title": "5.5 Million Fuel QR Codes Issued, 1.2 Million Yet To Register",
+      "sent_at": "2026-03-18T06:04:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/cpc-says-qr-code-issues-fixed-for-600-000-fuel-users",
+      "content_hash": "1bbd57f4be975a5079ffb6ae34451a6fdc514280a00df0fe78e5a8f19a6469b9",
+      "title": "CPC says QR Code Issues Fixed For 600,000 Fuel Users",
+      "sent_at": "2026-03-18T06:04:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/iran-confirms-security-chief-ali-larijani-killed",
+      "content_hash": "1fe7674eca532a8cd79d5446a83341ef2934b5aabad534b94c1afc3c7bc0f172",
+      "title": "Iran Confirms Security Chief Ali Larijani Killed",
+      "sent_at": "2026-03-18T06:05:02Z"
     }
   ]
 }
