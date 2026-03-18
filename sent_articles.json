@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/11/slbfe-assures-safety-measures-for-sri-lankans-in-middle-east-amid-ongoing-conflict",
-      "content_hash": "53358c704ecf8baeb6c96b55e5513bd0a4772024f4b1fe234be37a1672e05ad7",
-      "title": "SLBFE Assures Safety Measures For Sri Lankans In Middle East Amid Ongoing Conflict",
-      "sent_at": "2026-03-11T07:00:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/sri-lanka-court-orders-release-of-84-iranian-sailors%e2%80%99-bodies-to-embassy-officials",
-      "content_hash": "bd5f7947e514aa716aa7d3371034e77ac811264a73d673488c63db5afaf5a921",
-      "title": "Sri Lanka Court Orders Release of 84 Iranian Sailors’ Bodies to Embassy Officials",
-      "sent_at": "2026-03-11T07:00:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/sri-lanka-must-build-an-economy-strong-enough-to-withstand-any-shock",
-      "content_hash": "6bee5e495a75748e400dfeefb95ae49b98b081cc3aec190baccc5c12b01b07bf",
-      "title": "Sri Lanka Must Build an Economy Strong Enough to Withstand Any Shock",
-      "sent_at": "2026-03-11T07:00:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/11/sri-lanka-confirms-multiple-middle-east-flight-operations",
       "content_hash": "8242fc662df286c87a004e6c0dd452af94785ea1ff59b7d9904b505e73e1010b",
       "title": "Sri Lanka Confirms Multiple Middle East Flight Operations",
@@ -839,6 +821,42 @@
       "content_hash": "1fe7674eca532a8cd79d5446a83341ef2934b5aabad534b94c1afc3c7bc0f172",
       "title": "Iran Confirms Security Chief Ali Larijani Killed",
       "sent_at": "2026-03-18T06:05:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/colombo-city-halts-vehicle-parking-charges",
+      "content_hash": "a296cb7bc328f37f0b5e9eb89f18d6ee187b4c2ee0b8ec076bd0dbd2e4d45efd",
+      "title": "Colombo City Halts Vehicle Parking Charges",
+      "sent_at": "2026-03-18T07:15:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/fuel-issued-on-oddeven-number-plate-system-from-today",
+      "content_hash": "7ded9ee2313d3ede1587ddbf831f599acb99a2bef6583154a47201ae828f489f",
+      "title": "Fuel Issued on Odd–Even Number Plate System from Today",
+      "sent_at": "2026-03-18T07:15:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/pucsl-to-announce-power-tariff-decision-this-month",
+      "content_hash": "4ed0cc7b3b605eaa50ab4609af46de080c6fcbbfcd5dda7808201687a9e8448b",
+      "title": "PUCSL To Announce Power Tariff Decision This Month",
+      "sent_at": "2026-03-18T07:15:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/special-whatsapp-channel-opened-to-resolve-fuel-qr-code-problems",
+      "content_hash": "87944b69dc77beb0efef751b39065ac2730dab3606c33500d0a7bc1224437397",
+      "title": "Special WhatsApp Channel Opened to Resolve Fuel QR Code Problems",
+      "sent_at": "2026-03-18T07:15:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/sri-lanka-moves-to-safeguard-air-services-amid-global-fuel-crisis",
+      "content_hash": "c27a0ece5155bf63dc879ca0c0e16b1765dfb9ea1f1355a3c7c160e891978af9",
+      "title": "Sri Lanka Moves to Safeguard Air Services Amid Global Fuel Crisis",
+      "sent_at": "2026-03-18T07:15:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/tourists-waiting-to-travel-to-sri-lanka-will-get-a-one%e2%80%91month-visa-extension",
+      "content_hash": "37be98dd8cb1fba94506ba4ccbef3105c01be3a137a5fb3ee146bb3aa1c31085",
+      "title": "Tourists Waiting To Travel To Sri Lanka Will Get A One‑Month Visa Extension",
+      "sent_at": "2026-03-18T07:15:47Z"
     }
   ]
 }
