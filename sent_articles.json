@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/11/electricity-unions-continues-strikes-amid-ongoing-negotiations",
-      "content_hash": "221abcf5c382a684aa54b56f519c16d41d6822e53e46fe8d35d0bac1b9eb683c",
-      "title": "Electricity Unions Continues Strikes Amid Ongoing Negotiations",
-      "sent_at": "2026-03-11T02:25:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/litro-gas-raises-gas-prices-while-laugfs-yet-to-decide-on-revision",
-      "content_hash": "8d7463770b825dc1311cbe4b513a6b0cf92fa4c36619c806c6aa458c726ec8b8",
-      "title": "Litro Gas Raises Gas Prices While Laugfs Yet To Decide On Revision",
-      "sent_at": "2026-03-11T02:25:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/slbfe-allocates-emergency-funds-to-embassies-to-assist-sri-lankans-in-middle-east-amid-conflict",
-      "content_hash": "ec7cb04bff0f9f60454d683549f120097e9ef0681334fc57d762d7c47ccddb10",
-      "title": "SLBFE Allocates Emergency Funds To Embassies To Assist Sri Lankans In Middle East Amid Conflict",
-      "sent_at": "2026-03-11T02:25:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/11/colombo-holds-206-iranian-naval-personnel-vows-to-follow-international-law",
       "content_hash": "89350ef03f2277a5b8dbc87865e191027a561759676502bc6d792b76e47911ab",
       "title": "Colombo Holds 206 Iranian Naval Personnel, Vows to Follow International Law",
@@ -839,6 +821,30 @@
       "content_hash": "0e0a425aeebf342badd44a21ef6495d67b63d8a106b5777569e54732fceb0727",
       "title": "Special Public Holiday Declared; New Wednesday Train Schedule Released",
       "sent_at": "2026-03-17T18:01:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/cpc-to-launch-whatsapp-support-for-qr-issue",
+      "content_hash": "1b087b2c5512b1123230cddab957abe98f2d06c2f7757cb72fbc54629629a1c5",
+      "title": "CPC To Launch WhatsApp Support For QR Issue",
+      "sent_at": "2026-03-18T02:37:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/litro-gas-assures-steady-gas-supply-with-regular-shipments",
+      "content_hash": "a33368c31a55b17f3edd3d6c862427ee441bcaa7725725d7ceb89b522c61b4f4",
+      "title": "Litro Gas Assures Steady Gas Supply With Regular Shipments",
+      "sent_at": "2026-03-18T02:37:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/mid-week-holiday-declared-to-cut-energy-use",
+      "content_hash": "be5146f9c31b7fce01bdae87ecb6ce58464d6a25d3dbe360410969e591359522",
+      "title": "Mid-Week Holiday Declared To Cut Energy Use",
+      "sent_at": "2026-03-18T02:37:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/train-services-to-operate-on-saturday-schedule-today",
+      "content_hash": "24eaa546c48dc347e5ba23c05f26567292a1bdaa05ff60fb713d1a9feb2a6d3a",
+      "title": "Train Services To Operate On Saturday Schedule Today",
+      "sent_at": "2026-03-18T02:37:22Z"
     }
   ]
 }
