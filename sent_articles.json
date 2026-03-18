@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/11/sri-lanka-confirms-multiple-middle-east-flight-operations",
-      "content_hash": "8242fc662df286c87a004e6c0dd452af94785ea1ff59b7d9904b505e73e1010b",
-      "title": "Sri Lanka Confirms Multiple Middle East Flight Operations",
-      "sent_at": "2026-03-11T07:46:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/sri-lankan-airlines-boosts-colombomelbourne-flights",
-      "content_hash": "0b08fc7a6a98bf007b72b2dae6398e13f102c2725a9252ccf537ffd770c08c29",
-      "title": "Sri Lankan Airlines Boosts Colombo–Melbourne Flights",
-      "sent_at": "2026-03-11T07:46:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/wfp-and-koica-partner-with-sri-lanka-to-boost-nutrition-for-nearly-1-million-children-and-mothers",
-      "content_hash": "5f4c6b9652bc91b94f9f3218ceb895ccd5f055496980c604b64cf3e5faa619b5",
-      "title": "WFP and KOICA Partner with Sri Lanka to Boost Nutrition for Nearly 1 Million Children and Mothers",
-      "sent_at": "2026-03-11T07:46:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/four-new-power-companies-issue-stern-warning-to-striking-staff",
-      "content_hash": "692abc947b6a4cdb394f801941242cade4467f8014073f62f95938e0d6e900d0",
-      "title": "Four New Power Companies Issue Stern Warning to Striking Staff",
-      "sent_at": "2026-03-11T08:50:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/11/2-000-year-civilisational-bond-says-basl-chief-at-indian-supreme-court",
       "content_hash": "610e166b66e5a4573f022b25fd580fd792fb22f61c640d4f348577d755140e58",
       "title": "2,000-Year Civilisational Bond; Says BASL Chief At Indian Supreme Court",
@@ -857,6 +833,36 @@
       "content_hash": "37be98dd8cb1fba94506ba4ccbef3105c01be3a137a5fb3ee146bb3aa1c31085",
       "title": "Tourists Waiting To Travel To Sri Lanka Will Get A One‑Month Visa Extension",
       "sent_at": "2026-03-18T07:15:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/authorities-warn-traders-against-hoarding-as-fuel-supply-secured-for-essential-food-transport",
+      "content_hash": "7dd87b2de005d23e9108493355d2fa3546dd93623e395ea097cc6a695fadb9a8",
+      "title": "Authorities Warn Traders Against Hoarding as Fuel Supply Secured for Essential Food Transport",
+      "sent_at": "2026-03-18T08:55:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/food-supply-takes-priority-as-akd-orders-fuel-conservation-plans",
+      "content_hash": "7b4ebb1d795688bd96076d4ea0061d5121f4d4089e7267d159072c689ed7da65",
+      "title": "Food Supply Takes Priority as AKD Orders Fuel Conservation Plans",
+      "sent_at": "2026-03-18T08:56:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/iran-says-us-responsible-for-strait-of-hormuz-crisis",
+      "content_hash": "fc58b156d5763d397e3869405c8ff812c249d94ae3871dd243e968eac4d02d5e",
+      "title": "Iran Says US Responsible for Strait of Hormuz Crisis",
+      "sent_at": "2026-03-18T08:56:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/macron-rules-out-french-role-in-strait-of-hormuz-operations",
+      "content_hash": "88f8037b5539cb4e33ad0ce9e5709fab3f8025323998fe65d619f0f18e397aed",
+      "title": "Macron Rules Out French Role in Strait of Hormuz Operations",
+      "sent_at": "2026-03-18T08:56:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/the-system-continues-iran-says-assassinations-will-not-shake-state",
+      "content_hash": "c42576fa227fc9ea5b44d485b48a53d0db67c229e6b035dfa34b5d2c18d8f687",
+      "title": "The System Continues: Iran Says Assassinations Will Not Shake State",
+      "sent_at": "2026-03-18T08:56:15Z"
     }
   ]
 }
