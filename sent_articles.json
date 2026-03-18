@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/11/2-000-year-civilisational-bond-says-basl-chief-at-indian-supreme-court",
-      "content_hash": "610e166b66e5a4573f022b25fd580fd792fb22f61c640d4f348577d755140e58",
-      "title": "2,000-Year Civilisational Bond; Says BASL Chief At Indian Supreme Court",
-      "sent_at": "2026-03-11T09:49:54Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/11/man-arrested-with-grenade-bullets-and-army-uniforms-in-hingurakgoda",
       "content_hash": "94fe256d6f578a55394ca6d67e1cef4ca58839a4d4e302ff951587736ebfe5a6",
       "title": "Man Arrested With Grenade, Bullets And Army Uniforms In Hingurakgoda",
@@ -863,6 +857,18 @@
       "content_hash": "c42576fa227fc9ea5b44d485b48a53d0db67c229e6b035dfa34b5d2c18d8f687",
       "title": "The System Continues: Iran Says Assassinations Will Not Shake State",
       "sent_at": "2026-03-18T08:56:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/about-90-ships-cross-strait-of-hormuz-as-iran-exports-millions-of-barrels-of-oil-despite-war",
+      "content_hash": "380622a8e6d70825e052263ca2b30ee8f4dc463b5e1b06780d9836a157427996",
+      "title": "About 90 Ships Cross Strait of Hormuz as Iran Exports Millions of Barrels of Oil Despite War",
+      "sent_at": "2026-03-18T09:59:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/four-dead-in-bus-collision-near-weerawila-prison-junction",
+      "content_hash": "1588036aee848f2a4962433517250f88dfbcc88625ef4ff972700f4b6e5c70da",
+      "title": "Four Dead in Bus Collision Near Weerawila Prison Junction",
+      "sent_at": "2026-03-18T09:59:49Z"
     }
   ]
 }
