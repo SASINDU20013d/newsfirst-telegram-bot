@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/11/cid-reveals-explosive-new-claims-linking-ex%e2%80%91intelligence-chief-suresh-salley-to-easter-attacks",
-      "content_hash": "320eeb3d2c43a510f12045262158570e6db745a28f09214be931628328a54e2f",
-      "title": "CID Reveals Explosive New Claims Linking Ex‑Intelligence Chief Suresh Salley to Easter Attacks",
-      "sent_at": "2026-03-11T14:51:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/economic-monitoring-committee-convenes-on-market-stabilisation",
-      "content_hash": "c75215f7e474434291054ad3a61a40379633466c922d0be5d88c64132f3de55d",
-      "title": "Economic Monitoring Committee Convenes on Market Stabilisation",
-      "sent_at": "2026-03-11T14:51:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/editor-of-lanka-enews-sandaruwan-senadheera-arrested-at-bia",
-      "content_hash": "c7db286b5024a2c02e03ee5018d87fad28be6f6d38cab25e212428012b302a40",
-      "title": "Editor of Lanka eNews Sandaruwan Senadheera Arrested at BIA",
-      "sent_at": "2026-03-11T14:51:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/11/essential-service-violation-striking-electricity-workers-ordered-back-to-work-immediately",
-      "content_hash": "7d24764d358d8d767b9cf8704c3d15142e2d16ea722e2d2bd36df8ce044cc7c7",
-      "title": "Essential Service Violation: Striking Electricity Workers Ordered Back to Work Immediately",
-      "sent_at": "2026-03-11T14:51:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/11/kandy-sc-out-of-slr-sevens-series-after-missing-entry-deadline",
       "content_hash": "22cd89125eb608cf2fa794579686bcbc66d04a1c9baae586b98b75917a5c499b",
       "title": "Kandy SC Out of SLR Sevens Series After Missing Entry Deadline",
@@ -863,6 +839,30 @@
       "content_hash": "c76b5bd70cbf784a7a8bbcef1abbc06333c6a1b919b976ec7041296416a1866b",
       "title": "One Dead, Four Injured In Kuliyapitiya Accident",
       "sent_at": "2026-03-18T10:56:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/fuel-distribution-disparities-emerge-as-private-companies-face-scrutiny",
+      "content_hash": "91eab6a458bfcf18ca2320e73db01b5f442d54a2ecbcac3962b9311ac7d2fd7c",
+      "title": "Fuel Distribution Disparities Emerge as Private Companies Face Scrutiny",
+      "sent_at": "2026-03-18T15:07:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/office-trains-to-operate-normally-tomorrow",
+      "content_hash": "4f9794c1944c9ae4c7bfc9278ed47f59b2e2e565a1290abb926c1ec46e425e24",
+      "title": "Office Trains to Operate Normally Tomorrow",
+      "sent_at": "2026-03-18T15:07:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/qr-system-key-to-cutting-fuel-use-by-up-to-25",
+      "content_hash": "b7373d8bd7d93af57f6420b2243d1138c04dd293f709650e448e2c22af2a582d",
+      "title": "QR System Key to Cutting Fuel Use by Up to 25%",
+      "sent_at": "2026-03-18T15:07:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/sri-lanka-pushes-homegrown-digital-tourism-platforms",
+      "content_hash": "ed973ad3ad77a171b8fe1c5bf4c8ad52bfbfbee5c2d11baea11ba4dc0a19f7d4",
+      "title": "Sri Lanka Pushes Homegrown Digital Tourism Platforms",
+      "sent_at": "2026-03-18T15:07:54Z"
     }
   ]
 }
