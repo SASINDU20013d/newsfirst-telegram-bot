@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/11/man-arrested-with-grenade-bullets-and-army-uniforms-in-hingurakgoda",
-      "content_hash": "94fe256d6f578a55394ca6d67e1cef4ca58839a4d4e302ff951587736ebfe5a6",
-      "title": "Man Arrested With Grenade, Bullets And Army Uniforms In Hingurakgoda",
-      "sent_at": "2026-03-11T10:46:07Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/11/srilankan-airlines-to-increase-weekly-flights-to-australia-to-14",
       "content_hash": "f4735f3cac099e2a4269dbf7e55cebc4895e4546e8557185fa24b3945b72bc3a",
       "title": "SriLankan Airlines to Increase Weekly Flights to Australia to 14",
@@ -869,6 +863,12 @@
       "content_hash": "1588036aee848f2a4962433517250f88dfbcc88625ef4ff972700f4b6e5c70da",
       "title": "Four Dead in Bus Collision Near Weerawila Prison Junction",
       "sent_at": "2026-03-18T09:59:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/18/one-dead-four-injured-in-kuliyapitiya-accident",
+      "content_hash": "c76b5bd70cbf784a7a8bbcef1abbc06333c6a1b919b976ec7041296416a1866b",
+      "title": "One Dead, Four Injured In Kuliyapitiya Accident",
+      "sent_at": "2026-03-18T10:56:10Z"
     }
   ]
 }
