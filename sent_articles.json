@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/no-price-hikes-in-vegetable-prices-in-the-long-term-despite-surge-in-fuel-costs",
-      "content_hash": "8b96bd53d90d0e392d4d8deb1a2063ab2ceb96f5f8481bed9a0100edbe4c9d67",
-      "title": "No Price Hikes in Vegetable Prices in the Long Term Despite Surge in Fuel Costs",
-      "sent_at": "2026-03-12T05:54:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/sri-lanka-among-first-to-launch-large-scale-kunming-biodiversity-action",
-      "content_hash": "e6ba8047c1e751079b1be9c8fbe6ce5364cb0454069b094328757b46e28461ae",
-      "title": "Sri Lanka Among First to Launch Large-Scale Kunming Biodiversity Action",
-      "sent_at": "2026-03-12T05:55:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/12/etf-benefits-extended-to-private-sector-employees-in-the-transport-industry",
       "content_hash": "d18fbe43707b406b5de40798ce5394c7f2846d98054f8b7b21fdb99cb5f8a623",
       "title": "ETF Benefits Extended to Private Sector Employees in the Transport Industry",
@@ -863,6 +851,18 @@
       "content_hash": "54d248ed1c17c99543165dfaa3e037bcc1b0c01783da36d7a7e98f22479e5e75",
       "title": "Up to $15,000 US Visa Bonds for 50 Nations - Sri Lanka Excluded",
       "sent_at": "2026-03-19T04:57:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/israel-attacks-iran-s-south-pars-gas-field-iran-retaliates-with-strikes-on-qatar-s-ras-laffan",
+      "content_hash": "f7b7d032ef8487ecdf072697378831b15d30922b5f3366f9ea357e0c7193f75d",
+      "title": "Israel Attacks Iran's South Pars Gas Field; Iran Retaliates with Strikes on Qatar's Ras Laffan",
+      "sent_at": "2026-03-19T06:00:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/qatar-reassures-sri-lanka-on-energy-supplies-and-migrant-safety",
+      "content_hash": "7346fdd200effce4da7801ee1e4b182acfbdb50f22c43654f862e8fe4cad1ef1",
+      "title": "Qatar Reassures Sri Lanka on Energy Supplies and Migrant Safety",
+      "sent_at": "2026-03-19T06:00:48Z"
     }
   ]
 }
