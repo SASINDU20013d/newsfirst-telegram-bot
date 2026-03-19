@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/fake-documents-illegal-registrations-four-motor-traffic-staff-arrested-and-remanded",
-      "content_hash": "42d2c39c7971b3ade70694c9943a2ffed3ee8b6972907a7de206d73487e35dcd",
-      "title": "Fake Documents, Illegal Registrations: Four Motor Traffic Staff Arrested and Remanded",
-      "sent_at": "2026-03-12T14:54:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/nothing-justifies-killing-children-unicef-urges-halt-to-middle-east-fighting",
-      "content_hash": "48bed46db0eedbcacbe37e242be3644bb0c05c1dd1b4be7dd8a4c58950dc9fe9",
-      "title": "'Nothing Justifies Killing Children': UNICEF Urges Halt to Middle East Fighting",
-      "sent_at": "2026-03-12T14:54:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/12/sri-lanka-navy-seizes-largest-narcotics-haul-of-the-year-in-major-anti-smuggling-operation",
       "content_hash": "d0dece9fc862c350dc4dcd1ca9f27fb86aa5d9081d67cb7e0c9f071c1ddc8d3b",
       "title": "Sri Lanka Navy Seizes Largest Narcotics Haul of the Year in Major Anti-Smuggling Operation",
@@ -869,6 +857,12 @@
       "content_hash": "49c0dbda4d6bbd921780c493af1525a97192b092496e67e44b30fefbeec15ffb",
       "title": "SC Finds Rights Violation in Arrest of Wasantha Mudalige",
       "sent_at": "2026-03-19T14:53:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/march-26-imf-visit-to-focus-on-combined-reviews-and-middle-east-fallout",
+      "content_hash": "b1b4c6ad5507440ba8406c31a3819e37eb49ac640e36ebb6eaf6447966f63d32",
+      "title": "March 26 IMF Visit to Focus on Combined Reviews and Middle East Fallout",
+      "sent_at": "2026-03-19T15:58:32Z"
     }
   ]
 }
