@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/ciaboc-asks-cbsl-whether-paid-rs-1-84-bn",
-      "content_hash": "38fb0018b0c5d63fa1a2488a3ccf20d53de3e82faddfd989b2bf473cc56b0885",
-      "title": "CIABOC Asks CBSL Whether Paid Rs. 1.84 Bn",
-      "sent_at": "2026-03-12T08:51:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/ex-srilankan-airlines-ceo-appears-before-ciaboc",
-      "content_hash": "ea9daf3d1f9ed2a018753e4d5267107db393477b8485aee9a9a033c10af68a94",
-      "title": "Ex-SriLankan Airlines CEO Appears Before CIABOC",
-      "sent_at": "2026-03-12T08:51:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/ambassador-designates-cleared-high-posts-comm",
-      "content_hash": "17f17ff4dfab7862a2262d7797926e944bbad0aa25047da2419e1579c3cbdab9",
-      "title": "Ambassador-Designates Cleared High Posts Comm.",
-      "sent_at": "2026-03-12T09:50:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/12/ambassador-designates-cleared-high-posts-commitee",
       "content_hash": "116118f0c980a3c4bdff27209ff9c40623bf9dd3a5497f8bbd661334bbabf49f",
       "title": "Ambassador-Designates Cleared High Posts Commitee",
@@ -869,6 +851,24 @@
       "content_hash": "0edd80bdea31820b6a3a9bb12668ba9c82e6799bfb8acb08d081300dfe2df4d4",
       "title": "Ex‑SriLankan Airlines CEO Claims Rs. 60 Mn Paid to Mahinda Rajapaksa in Airbus Deal",
       "sent_at": "2026-03-19T08:50:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/how-many-cargo-ships-are-passing-hormuz-strait",
+      "content_hash": "64b9f26b60a55f8ca0caa35b0308a22b1ec7035881263198dc080082257b4209",
+      "title": "How Many Cargo Ships Are Passing Hormuz strait?",
+      "sent_at": "2026-03-19T09:51:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/us-national-debt-surges-past-39-trillion-just-weeks-into-war-in-iran",
+      "content_hash": "af79af5704a74fd84c8b586d4f9780e6bcf0a4124ea33b6187cbd6d1e96fb8b2",
+      "title": "US National Debt Surges Past $39 TRILLION Just Weeks Into War in Iran",
+      "sent_at": "2026-03-19T09:51:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/us-special-envoy-sergio-gor-meets-president-akd",
+      "content_hash": "d7b4732dd82ae0cf2a0d1cd6eb987b085493521f296e4710cb522b75e9def7db",
+      "title": "US Special Envoy Sergio Gor Meets President AKD",
+      "sent_at": "2026-03-19T09:51:44Z"
     }
   ]
 }
