@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/europe-ready-to-partner-sri-lanka-as-economy-recovers-says-dutch-envoy",
-      "content_hash": "ef930662933926e590d3583885f21f0b9412307d8177ca255adf242aead844f1",
-      "title": "Europe Ready to Partner Sri Lanka as Economy Recovers, Says Dutch Envoy",
-      "sent_at": "2026-03-12T13:10:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/sri-lanka-to-pursue-long-term-power-sector-restructuring",
-      "content_hash": "45df58f07b7ccdb19c6b7bd39692cf2201a89678ef2622d7e98bf1a53d0085b2",
-      "title": "Sri Lanka to Pursue Long-Term Power Sector Restructuring",
-      "sent_at": "2026-03-12T13:11:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/12/fake-documents-illegal-registrations-four-motor-traffic-staff-arrested-and-remanded",
       "content_hash": "42d2c39c7971b3ade70694c9943a2ffed3ee8b6972907a7de206d73487e35dcd",
       "title": "Fake Documents, Illegal Registrations: Four Motor Traffic Staff Arrested and Remanded",
@@ -851,6 +839,12 @@
       "content_hash": "983f0d0d97b4adb88abb675945cceb4425459a8f0624216c00a61f6c0b395f5a",
       "title": "Man Arrested In Mt. Lavinia For Plotting Murder",
       "sent_at": "2026-03-19T10:47:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/what-began-as-an-aircraft-deal-is-now-one-of-sri-lanka%e2%80%99s-biggest-corruption-pobes",
+      "content_hash": "25e0106201ce6d2189b965cc67e9642461cd3c3673326f324f7ceb973f976269",
+      "title": "What Began As An Aircraft Deal Is Now One of Sri Lanka’s Biggest Corruption Pobes",
+      "sent_at": "2026-03-19T13:15:29Z"
     }
   ]
 }
