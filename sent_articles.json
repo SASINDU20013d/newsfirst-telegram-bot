@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/fuel-stocks-sufficient-until-end-of-april-chairman-of-cpc",
-      "content_hash": "69d9bab1875ad138536a932fea32a5c5074d7d757c16f96985355c10a051984e",
-      "title": "Fuel Stocks Sufficient Until End of April, Chairman of CPC",
-      "sent_at": "2026-03-12T02:31:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/prime-minister-visits-the-international-rice-research-institute-in-philippines-initiates-discussions-to-modernize-sri-lanka%e2%80%99s-paddy-sector",
-      "content_hash": "8608551c1ca5adf5750cf1a32b8452a5f17c3f7ce1e484a42bd78d902f4c6b13",
-      "title": "Prime Minister Visits the International Rice Research Institute in Philippines, Initiates Discussions to Modernize Sri Lanka’s Paddy Sector",
-      "sent_at": "2026-03-12T02:31:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/public-consultations-for-proposed-electricity-tariff-hike-begins-pucsl",
-      "content_hash": "e07a518931b80475fcac66565516af525480a90e3f3935712fbd14167f751759",
-      "title": "Public Consultations for Proposed Electricity Tariff Hike Begins - PUCSL",
-      "sent_at": "2026-03-12T02:31:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/12/global-growth-to-hold-steady-in-2026-if-oil-shock-fades-quickly-fitch",
       "content_hash": "4f08c171e8aa870c7d56aa860688c611ca33a1ac2aa60a10f67a4b0f4807046a",
       "title": "Global Growth to Hold Steady in 2026, If Oil Shock Fades Quickly : Fitch",
@@ -857,6 +839,24 @@
       "content_hash": "ed973ad3ad77a171b8fe1c5bf4c8ad52bfbfbee5c2d11baea11ba4dc0a19f7d4",
       "title": "Sri Lanka Pushes Homegrown Digital Tourism Platforms",
       "sent_at": "2026-03-18T15:07:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/18-sri-lankans-in-israel-to-return-home-due-to-violation-of-immigration-laws",
+      "content_hash": "4d72e120dcac97b9cf9705f704c15afcb1b432c6c8a39ecd77ab30c763c78668",
+      "title": "18 Sri Lankans in Israel To Return Home Due to Violation of Immigration Laws",
+      "sent_at": "2026-03-19T02:38:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/fake-fuel-qr-codes-circulating-online-public-urged-to-remain-vigilant",
+      "content_hash": "aa96fc0b50cf3a6fea16bb354bf85adf6a46f75cb9835e10c66ea98dd5d14f3f",
+      "title": "Fake Fuel QR Codes Circulating Online: Public Urged to Remain Vigilant",
+      "sent_at": "2026-03-19T02:38:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/special-window-to-purchase-fuel-for-those-yet-to-register-under-qr-code-system-today",
+      "content_hash": "f8c7eab2d1a0152d743b44736dea050f76ca4685f3c3536a02833e3c7362a287",
+      "title": "Special Window to Purchase Fuel For Those Yet To Register Under QR Code System Today",
+      "sent_at": "2026-03-19T02:38:46Z"
     }
   ]
 }
