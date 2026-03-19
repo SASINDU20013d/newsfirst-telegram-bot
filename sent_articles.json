@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/ambassador-designates-cleared-high-posts-commitee",
-      "content_hash": "116118f0c980a3c4bdff27209ff9c40623bf9dd3a5497f8bbd661334bbabf49f",
-      "title": "Ambassador-Designates Cleared High Posts Commitee",
-      "sent_at": "2026-03-12T10:44:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/navy-intercepts-multi-day-fishing-trawler-carrying-600kg-of-meth-heroin-and-firearms",
-      "content_hash": "bd3c718cd6fcd0c8dcd6ee0321872d9464f477c8c4e677a8dcef4ba97fcd9d6f",
-      "title": "Navy Intercepts Multi-Day Fishing Trawler Carrying 600kg of Meth, Heroin, and Firearms",
-      "sent_at": "2026-03-12T10:44:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/12/ambassador-designates-cleared-high-posts-committee",
       "content_hash": "5c2f2c9987000830064017927d8e02744ccc668399ab45aa6d0db925d4f663d4",
       "title": "Ambassador-Designates Cleared High Posts Committee",
@@ -869,6 +857,18 @@
       "content_hash": "d7b4732dd82ae0cf2a0d1cd6eb987b085493521f296e4710cb522b75e9def7db",
       "title": "US Special Envoy Sergio Gor Meets President AKD",
       "sent_at": "2026-03-19T09:51:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/kuliyapitiya-helmet-assault-suspect-arrested-after-video-goes-viral",
+      "content_hash": "cbcf07640995e91dbfb4f353973fc57b6c1455cf15568ed2d2a38de8cb78a459",
+      "title": "Kuliyapitiya Helmet Assault: Suspect Arrested After Video Goes Viral",
+      "sent_at": "2026-03-19T10:47:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/man-arrested-in-mt-lavinia-for-plotting-murder",
+      "content_hash": "983f0d0d97b4adb88abb675945cceb4425459a8f0624216c00a61f6c0b395f5a",
+      "title": "Man Arrested In Mt. Lavinia For Plotting Murder",
+      "sent_at": "2026-03-19T10:47:33Z"
     }
   ]
 }
