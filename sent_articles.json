@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/global-growth-to-hold-steady-in-2026-if-oil-shock-fades-quickly-fitch",
-      "content_hash": "4f08c171e8aa870c7d56aa860688c611ca33a1ac2aa60a10f67a4b0f4807046a",
-      "title": "Global Growth to Hold Steady in 2026, If Oil Shock Fades Quickly : Fitch",
-      "sent_at": "2026-03-12T04:50:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/12/no-price-hikes-in-vegetable-prices-in-the-long-term-despite-surge-in-fuel-costs",
       "content_hash": "8b96bd53d90d0e392d4d8deb1a2063ab2ceb96f5f8481bed9a0100edbe4c9d67",
       "title": "No Price Hikes in Vegetable Prices in the Long Term Despite Surge in Fuel Costs",
@@ -857,6 +851,18 @@
       "content_hash": "f8c7eab2d1a0152d743b44736dea050f76ca4685f3c3536a02833e3c7362a287",
       "title": "Special Window to Purchase Fuel For Those Yet To Register Under QR Code System Today",
       "sent_at": "2026-03-19T02:38:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/ministry-of-digital-economy-introduces-new-feature-to-resolve-issues-in-obtaining-vehicle-fuel-qr-codes",
+      "content_hash": "9b80ee64080ed3d0fcc1655ed1929f677b20f6bb1373b7b936add0e0cf9351b5",
+      "title": "Ministry of Digital Economy Introduces New Feature to Resolve Issues in Obtaining Vehicle Fuel QR Codes",
+      "sent_at": "2026-03-19T04:57:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/up-to-15-000-us-visa-bonds-for-50-nations-sri-lanka-excluded",
+      "content_hash": "54d248ed1c17c99543165dfaa3e037bcc1b0c01783da36d7a7e98f22479e5e75",
+      "title": "Up to $15,000 US Visa Bonds for 50 Nations - Sri Lanka Excluded",
+      "sent_at": "2026-03-19T04:57:52Z"
     }
   ]
 }
