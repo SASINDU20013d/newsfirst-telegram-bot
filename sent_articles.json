@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/sri-lanka-navy-seizes-largest-narcotics-haul-of-the-year-in-major-anti-smuggling-operation",
-      "content_hash": "d0dece9fc862c350dc4dcd1ca9f27fb86aa5d9081d67cb7e0c9f071c1ddc8d3b",
-      "title": "Sri Lanka Navy Seizes Largest Narcotics Haul of the Year in Major Anti-Smuggling Operation",
-      "sent_at": "2026-03-12T17:06:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/13/aviation-fuel-price-surge-may-push-up-airfares",
       "content_hash": "1379d0b1557a3db8003878b7fcfdfca177caccd243f52d1208e56f41768d8d2e",
       "title": "Aviation Fuel Price Surge May Push Up Airfares",
@@ -869,6 +863,18 @@
       "content_hash": "a045ec69105b7747f2bf991505990cbb7458215bd84817406da1c65b6f112603",
       "title": "SriLankan Airlines Completes $175M Bond Restructuring With Over 99% Participation",
       "sent_at": "2026-03-19T17:01:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/3-commando-mountain-warfare-team-rescues-youth-in-distress-at-horton-plains",
+      "content_hash": "706f0cd2a22f6f161abc461da062a630e5ce644dc191ca1705878de9c2121291",
+      "title": "3 Commando Mountain Warfare Team Rescues Youth in Distress at Horton Plains",
+      "sent_at": "2026-03-19T17:55:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/imf-schedules-sri-lanka-mission-from-march-23-to-april-9-for-key-fifth-and-sixth-program-reviews",
+      "content_hash": "ab77f7076c9119eefd4c3d3612a4c539f1e52460d5a620b8e9e0d442c1518cc6",
+      "title": "IMF Schedules Sri Lanka Mission from March 23 to April 9 for Key Fifth and Sixth Program Reviews",
+      "sent_at": "2026-03-19T17:55:48Z"
     }
   ]
 }
