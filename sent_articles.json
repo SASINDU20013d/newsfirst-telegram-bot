@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/12/etf-benefits-extended-to-private-sector-employees-in-the-transport-industry",
-      "content_hash": "d18fbe43707b406b5de40798ce5394c7f2846d98054f8b7b21fdb99cb5f8a623",
-      "title": "ETF Benefits Extended to Private Sector Employees in the Transport Industry",
-      "sent_at": "2026-03-12T07:01:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/fishing-vessel-seized-by-navy-brought-to-dikowita-harbour",
-      "content_hash": "131365b800b3c222b7e66aa340e823683ab6004221024cc34d918089bbae41d8",
-      "title": "Fishing Vessel Seized by Navy Brought to Dikowita Harbour",
-      "sent_at": "2026-03-12T07:01:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/four-fuel-ships-to-arrive-this-month-carrying-up-to-40-000-metric-tons-each",
-      "content_hash": "71d888d3f7fdb8e8ce4e043bf6de4ca7e8b7d003e003b60f59b4c7c033fd202e",
-      "title": "Four Fuel Ships to Arrive This Month Carrying Up to 40,000 Metric Tons Each",
-      "sent_at": "2026-03-12T07:02:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/iran-demands-reparations-to-end-conflict",
-      "content_hash": "26dfe8771d8ea32cee0a5cf4f0526ce709cf96ca7c6493ca196c9f6d44b06a5b",
-      "title": "Iran Demands Reparations to End Conflict",
-      "sent_at": "2026-03-12T07:02:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/12/navy-finds-assault-rifles-pistols-and-drug-cargo-on-fishing-vessel",
-      "content_hash": "030f2596844003d480e9c5b02950df9e3b602700ac224ec51733798a2b6767ea",
-      "title": "Navy Finds Assault Rifles, Pistols and Drug Cargo on Fishing Vessel",
-      "sent_at": "2026-03-12T07:02:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/12/ciaboc-asks-cbsl-whether-paid-rs-1-84-bn",
       "content_hash": "38fb0018b0c5d63fa1a2488a3ccf20d53de3e82faddfd989b2bf473cc56b0885",
       "title": "CIABOC Asks CBSL Whether Paid Rs. 1.84 Bn",
@@ -863,6 +833,12 @@
       "content_hash": "7346fdd200effce4da7801ee1e4b182acfbdb50f22c43654f862e8fe4cad1ef1",
       "title": "Qatar Reassures Sri Lanka on Energy Supplies and Migrant Safety",
       "sent_at": "2026-03-19T06:00:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/19/pentagon-asks-white-house-to-approve-200b-request-to-congress-for-iran-war",
+      "content_hash": "468a6c29ca640e6a11e76861f958a9e83d4a1eb04e8b9007f501433cda0a6b6a",
+      "title": "Pentagon asks White House to approve $200B request to Congress for Iran war",
+      "sent_at": "2026-03-19T07:04:45Z"
     }
   ]
 }
