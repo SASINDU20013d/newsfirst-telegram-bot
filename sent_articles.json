@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/13/school-owner-to-be-produced-in-court-over-student-death",
-      "content_hash": "a8d66ec8cd60e54588d7b6f0e9c0cb0dec71471f11b1713caef25bee5479662d",
-      "title": "School Owner To Be Produced In Court Over Student Death",
-      "sent_at": "2026-03-13T04:47:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/13/seized-drug-stock-to-be-destroyed-today",
-      "content_hash": "a2814ede5e72bcb45cff18f309ca4e83057b85a29fb7a7d3b32bdf29ce8d5a21",
-      "title": "Seized Drug Stock To Be Destroyed Today",
-      "sent_at": "2026-03-13T04:47:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/13/khamenei-says-all-us-bases-in-region-must-close",
       "content_hash": "f0fd5b8efb802170f7ba6a667b054be1392a19532aedcea40be59d5f6b7cab52",
       "title": "Khamenei Says All US Bases In Region Must Close",
@@ -869,6 +857,30 @@
       "content_hash": "4c58a4cc6077677a47e3c087f832533d221adfcbca1675e3473dd11fd3a5f1d8",
       "title": "Fuel Supply for Private Buses Expanded Through SLTB Depots",
       "sent_at": "2026-03-20T02:30:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/cpc-lodges-complaint-with-cid-over-fraudulent-fuel-qr-codes",
+      "content_hash": "ce3cf88ab7d7f2bd3d73cc129fc7f8b074e37ed6c4e5c1b317440709cc93fecf",
+      "title": "CPC Lodges Complaint with CID Over Fraudulent Fuel QR Codes",
+      "sent_at": "2026-03-20T04:50:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/crackdown-on-fuel-hoarding-two-nabbed-with-illegal-diesel-stocks",
+      "content_hash": "8dd2a0fd464fd43ee79caedf7394ca9fb1a4d7fd3e824c43a407f120a1656e9d",
+      "title": "Crackdown on Fuel Hoarding: Two Nabbed with Illegal Diesel Stocks",
+      "sent_at": "2026-03-20T04:50:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/president-to-address-parliament-on-middle-east-crisis-impact",
+      "content_hash": "396035acab620040376640910ef7e2de48fa913e2fc972c5f732f4a141429d3d",
+      "title": "President to Address Parliament on Middle East Crisis Impact",
+      "sent_at": "2026-03-20T04:50:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/special-fuel-supply-program-launched-for-industrialists",
+      "content_hash": "e9407039cc9fd74a87bcfafaacc0d5814593de6d458caa87999425db78aaf0dd",
+      "title": "Special Fuel Supply Program Launched for Industrialists",
+      "sent_at": "2026-03-20T04:50:27Z"
     }
   ]
 }
