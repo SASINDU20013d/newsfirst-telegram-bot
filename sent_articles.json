@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/13/15-flights-to-operate-between-middle-east-and-colombo",
-      "content_hash": "90b725ea1945b4c017301719b243e1389f80ae03e39eb187020132b83448f3de",
-      "title": "15 Flights To Operate Between Middle East And Colombo",
-      "sent_at": "2026-03-13T07:49:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/13/committee-to-submit-middle-east-impact-proposals",
-      "content_hash": "094b31c004e5b6604a39bc10508f7b9148b914ff5c13e1266473d8df431dcfed",
-      "title": "Committee To Submit Middle East Impact Proposals",
-      "sent_at": "2026-03-13T07:49:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/13/armand-%e2%80%9cmondo%e2%80%9d-duplantis-breaks-his-own-world-record-for-the-15th-time-in-pole-vault",
       "content_hash": "fb2aa8a9a95cf48539ebe5dcaab9269d36206c2f53ff75bac372d2377ea3c85a",
       "title": "Armand “Mondo” Duplantis Breaks His Own World Record for the 15th Time in Pole Vault",
@@ -893,6 +881,12 @@
       "content_hash": "2a3b0b8b9cae8005fc0a8f68e239530bce7fbc331e89d8f2c05d7737cfdea951",
       "title": "When Iran Sought Port Access, US Jets Also Asked to Land: President Explains Decision",
       "sent_at": "2026-03-20T07:02:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/sri-lanka-carefully-schedules-shipments-and-fills-gaps",
+      "content_hash": "b81dfb71780bdbc95881790a793695b76a66e2bf6edecb03955705380bc72c7a",
+      "title": "Sri Lanka Carefully Schedules Shipments and Fills Gaps",
+      "sent_at": "2026-03-20T07:50:30Z"
     }
   ]
 }
