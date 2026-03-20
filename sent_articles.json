@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/13/ask-maps-google-reinvents-exploration-and-navigation",
-      "content_hash": "0594f9c55f7d51ac4467b7d07f74499bb344e1fbf459cecda7043729c651ee44",
-      "title": "'Ask Maps' : Google Reinvents Exploration and Navigation",
-      "sent_at": "2026-03-13T11:34:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/13/bribery-commission-finalises-probe-against-shasheendra",
-      "content_hash": "bd25c32f221d217783f50add3879947b81c53ac023d9c2be6e6518f9d624d040",
-      "title": "Bribery Commission Finalises Probe Against Shasheendra",
-      "sent_at": "2026-03-13T11:34:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/13/s-satheestharan-appointed-as-high-court-judge",
       "content_hash": "fed372c8524aca4343a642fa36a1691566b7805f38b323a3d0efa8d37a049be6",
       "title": "S. Satheestharan Appointed as High Court Judge",
@@ -887,6 +875,18 @@
       "content_hash": "c9660eb2868f7b72876fd1adef5adaa583976126cdd7a0dec222e54b039c55e3",
       "title": "Temporary Gas Release Permission Granted",
       "sent_at": "2026-03-20T10:42:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/ex-us-counterterrorism-director-disputes-claims-iran-was-nearing-a-nuke",
+      "content_hash": "dcd0d8fff17e9384a79f606e2cfed8cbf61dd6be83e481db1dae4cb599a885c3",
+      "title": "Ex-US Counterterrorism Director Disputes Claims Iran Was Nearing a Nuke",
+      "sent_at": "2026-03-20T11:35:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/former-minister-johnston-fernando-and-four-others-remanded-until-april-2nd",
+      "content_hash": "c70fe2debd5febcd8e4066ea3bfe364a43ec8414b9cb0f1b035caff663c46c30",
+      "title": "Former Minister Johnston Fernando and Four Others Remanded Until April 2nd",
+      "sent_at": "2026-03-20T11:35:15Z"
     }
   ]
 }
