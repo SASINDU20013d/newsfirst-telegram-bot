@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/13/trump-administration-underestimated-iran-war%e2%80%99s-impact",
-      "content_hash": "e95a8916b9bfd2d81ce32d353226bb515dba0f0f98fc0adbf76f69be4dfb3813",
-      "title": "Trump Administration Underestimated Iran War’s Impact",
-      "sent_at": "2026-03-13T10:42:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/13/ask-maps-google-reinvents-exploration-and-navigation",
       "content_hash": "0594f9c55f7d51ac4467b7d07f74499bb344e1fbf459cecda7043729c651ee44",
       "title": "'Ask Maps' : Google Reinvents Exploration and Navigation",
@@ -869,6 +863,30 @@
       "content_hash": "b81dfb71780bdbc95881790a793695b76a66e2bf6edecb03955705380bc72c7a",
       "title": "Sri Lanka Carefully Schedules Shipments and Fills Gaps",
       "sent_at": "2026-03-20T07:50:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/court-permits-statement-recording-from-convict-duminda-silva-over-alleged-rs-5-million-bribe",
+      "content_hash": "4de658bb0f8d65a6ec808b195446ec16b706f4d86b5aaf7d66b10f461a353491",
+      "title": "Court Permits Statement Recording from Convict Duminda Silva Over Alleged Rs. 5 Million Bribe",
+      "sent_at": "2026-03-20T10:42:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/man-fined-jailed-for-illegal-petrol-transport-in-mount-lavinia",
+      "content_hash": "94c0acb5650c7786d875bb0b205b44d40750a8300ab87c61de63e66d47beb5fc",
+      "title": "Man Fined, Jailed for Illegal Petrol Transport in Mount Lavinia",
+      "sent_at": "2026-03-20T10:42:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/police-crack-down-on-illegal-vehicle-trade-in-separate-western-province-operations",
+      "content_hash": "2ba9bf584b6e2c1f2e27dcfd67ac8697b498fba471ca226b1f7fd4b14865683c",
+      "title": "Police Crack Down on Illegal Vehicle Trade in Separate Western Province Operations",
+      "sent_at": "2026-03-20T10:42:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/temporary-gas-release-permission-granted",
+      "content_hash": "c9660eb2868f7b72876fd1adef5adaa583976126cdd7a0dec222e54b039c55e3",
+      "title": "Temporary Gas Release Permission Granted",
+      "sent_at": "2026-03-20T10:42:33Z"
     }
   ]
 }
