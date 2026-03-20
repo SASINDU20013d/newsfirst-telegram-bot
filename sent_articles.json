@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/13/aviation-fuel-price-surge-may-push-up-airfares",
-      "content_hash": "1379d0b1557a3db8003878b7fcfdfca177caccd243f52d1208e56f41768d8d2e",
-      "title": "Aviation Fuel Price Surge May Push Up Airfares",
-      "sent_at": "2026-03-13T02:29:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/13/navy-drug-bust-suspects-to-face-court",
-      "content_hash": "2598dcf3cc8207a1740c27679f5203ff93bb3ee1898d89362381e65c8e3a5270",
-      "title": "Navy Drug Bust Suspects To Face Court",
-      "sent_at": "2026-03-13T02:29:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/13/power-unions-to-hold-talks-with-president",
-      "content_hash": "c066c9e89ad176c7dc35692c9376c28124b4f037d4d535781aed7cf3aa14cd25",
-      "title": "Power Unions To Hold Talks With President",
-      "sent_at": "2026-03-13T02:29:54Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/13/school-owner-to-be-produced-in-court-over-student-death",
       "content_hash": "a8d66ec8cd60e54588d7b6f0e9c0cb0dec71471f11b1713caef25bee5479662d",
       "title": "School Owner To Be Produced In Court Over Student Death",
@@ -875,6 +857,18 @@
       "content_hash": "ab77f7076c9119eefd4c3d3612a4c539f1e52460d5a620b8e9e0d442c1518cc6",
       "title": "IMF Schedules Sri Lanka Mission from March 23 to April 9 for Key Fifth and Sixth Program Reviews",
       "sent_at": "2026-03-19T17:55:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/crackdown-on-fraudulent-fuel-qr-codes-as-600-000-generated-in-a-day",
+      "content_hash": "b272e58d358f875b693ef767f7cdcff1b0986f4244e98894e7efb3d801dcfa08",
+      "title": "Crackdown on Fraudulent Fuel QR Codes as 600,000 Generated in a Day",
+      "sent_at": "2026-03-20T02:30:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/fuel-supply-for-private-buses-expanded-through-sltb-depots",
+      "content_hash": "4c58a4cc6077677a47e3c087f832533d221adfcbca1675e3473dd11fd3a5f1d8",
+      "title": "Fuel Supply for Private Buses Expanded Through SLTB Depots",
+      "sent_at": "2026-03-20T02:30:26Z"
     }
   ]
 }
