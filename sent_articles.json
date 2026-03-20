@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/13/khamenei-says-all-us-bases-in-region-must-close",
-      "content_hash": "f0fd5b8efb802170f7ba6a667b054be1392a19532aedcea40be59d5f6b7cab52",
-      "title": "Khamenei Says All US Bases In Region Must Close",
-      "sent_at": "2026-03-13T05:52:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/13/trump-says-iran-paying-a-big-price",
-      "content_hash": "513d988c1e0e36fd8c3e97a55aae403347f16c398ac83c1d5a4682ea58382a06",
-      "title": "Trump Says Iran 'Paying a Big Price'",
-      "sent_at": "2026-03-13T05:52:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/13/us-centcom-confirms-kc%e2%80%91135-crash-during-operation-epic-fury",
-      "content_hash": "4ab39b370a462ab003e413aa334e62babb99d10fe51be1ca4aac959a911f6220",
-      "title": "US CENTCOM Confirms KC‑135 Crash During Operation Epic Fury",
-      "sent_at": "2026-03-13T05:52:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/13/15-flights-to-operate-between-middle-east-and-colombo",
       "content_hash": "90b725ea1945b4c017301719b243e1389f80ae03e39eb187020132b83448f3de",
       "title": "15 Flights To Operate Between Middle East And Colombo",
@@ -881,6 +863,24 @@
       "content_hash": "e9407039cc9fd74a87bcfafaacc0d5814593de6d458caa87999425db78aaf0dd",
       "title": "Special Fuel Supply Program Launched for Industrialists",
       "sent_at": "2026-03-20T04:50:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/nine-year-old-girl-killed-in-crocodile-attack",
+      "content_hash": "df21584b8a7016fc347c65cbaf405f0393cddef6d5c617c804f7ab23b7dc17f6",
+      "title": "Nine-Year-Old Girl Killed in Crocodile Attack",
+      "sent_at": "2026-03-20T05:55:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/trump%e2%80%99s-pearl-harbor-remark-creates-awkward-moment-for-japanese-prime-minister",
+      "content_hash": "3d51e608f1e44dcb2afeedf6da382e44abd9ad10bc79146a9ab2a2c8c57c4955",
+      "title": "Trump’s Pearl Harbor Remark Creates Awkward Moment for Japanese Prime Minister",
+      "sent_at": "2026-03-20T05:55:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/20/two-arrested-in-drug-raids-in-katunayake-and-orugodawatta",
+      "content_hash": "5ea9f95a9722fb96702aae65b8c0666b89977ac7c861ffd77e779615cb7159ed",
+      "title": "Two Arrested in Drug Raids in Katunayake and Orugodawatta",
+      "sent_at": "2026-03-20T05:55:29Z"
     }
   ]
 }
