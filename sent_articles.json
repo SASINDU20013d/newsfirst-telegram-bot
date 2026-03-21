@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/14/ministry-advises-against-online-classes-for-young-children",
-      "content_hash": "77946848123fa9e0939c5d6c1f789d8e2d5a6934fd208314dc84c437735fe989",
-      "title": "Ministry Advises Against Online Classes for Young Children",
-      "sent_at": "2026-03-14T10:33:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/14/two-fatal-stabbings-reported-in-katana-and-kuragala",
       "content_hash": "4260e367eda37bc69f617d5b457f508cab75c87f8adf59491871758e17a7714a",
       "title": "Two Fatal Stabbings Reported in Katana and Kuragala",
@@ -965,6 +959,12 @@
       "content_hash": "e67d9ac27409dcc292ba5c63e75c3d440d3196489a31d18c938ad37c63c63d54",
       "title": "Voice Teens Sri Lanka Returns: Gen Alpha Talent Takes Center Stage",
       "sent_at": "2026-03-21T10:32:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/individual-arrested-over-misleading-content-targeting-tourism",
+      "content_hash": "f24c27288be9e7896b79ead77b98ffd7566d8a7385ef2159e2169d1cf1014547",
+      "title": "Individual Arrested Over Misleading Content Targeting Tourism",
+      "sent_at": "2026-03-21T11:27:32Z"
     }
   ]
 }
