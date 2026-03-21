@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/14/economic-monitoring-committee-to-reconvene-on-march-16",
-      "content_hash": "0e866789beb92a9327b2e1aeea430d950ea4a198000913397538a57755c32285",
-      "title": "Economic Monitoring Committee to Reconvene on March 16",
-      "sent_at": "2026-03-14T08:40:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/14/ministry-advises-against-online-classes-for-young-children",
       "content_hash": "77946848123fa9e0939c5d6c1f789d8e2d5a6934fd208314dc84c437735fe989",
       "title": "Ministry Advises Against Online Classes for Young Children",
@@ -953,6 +947,12 @@
       "content_hash": "1c9c05155e0d5a9ed33aa8cf7fdceab5efd2749ea7aee416b76896f649f1391e",
       "title": "Sri Lanka Japan Discuss Regional Security Cooperation",
       "sent_at": "2026-03-21T08:39:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/15-arrested-in-ratmalana-with-weapons-and-narcotics",
+      "content_hash": "39bcbb701e9da8986cf7b5979585819b17f3da0c3c33924c6628976b4f9a0ea6",
+      "title": "15 Arrested in Ratmalana with Weapons and Narcotics",
+      "sent_at": "2026-03-21T09:36:46Z"
     }
   ]
 }
