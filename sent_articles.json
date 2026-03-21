@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/14/two-fatal-stabbings-reported-in-katana-and-kuragala",
-      "content_hash": "4260e367eda37bc69f617d5b457f508cab75c87f8adf59491871758e17a7714a",
-      "title": "Two Fatal Stabbings Reported in Katana and Kuragala",
-      "sent_at": "2026-03-14T11:28:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/15/bahrain-saudi-arabian-grands-prix-will-not-take-place-in-april",
       "content_hash": "d390da54aae67e22a5762f49c127d4c30184eb277fce4d7329c36e0923c02a5a",
       "title": "Bahrain, Saudi Arabian Grands Prix Will Not Take Place in April",
@@ -965,6 +959,12 @@
       "content_hash": "f24c27288be9e7896b79ead77b98ffd7566d8a7385ef2159e2169d1cf1014547",
       "title": "Individual Arrested Over Misleading Content Targeting Tourism",
       "sent_at": "2026-03-21T11:27:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/daughter-and-son-in-law-arrested-for-murder-of-lecturer-of-jaffna-university",
+      "content_hash": "d511b066cbe96d6ab22de12a4e16a581809e613ccee241858419fe09118a50ab",
+      "title": "Daughter and Son-in-Law Arrested for Murder of Lecturer of Jaffna University",
+      "sent_at": "2026-03-21T12:58:39Z"
     }
   ]
 }
