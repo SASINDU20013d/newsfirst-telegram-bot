@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/14/amber-advisory-for-warm-weather-heat-index-expected-to-reach-caution-level-in-several-areas",
-      "content_hash": "3e18b2d365c57d62173c63cb8386834cda586b0d9c4f4d3080e8b8119b96f127",
-      "title": "Amber Advisory for Warm Weather: Heat Index Expected to Reach Caution Level in Several Areas",
-      "sent_at": "2026-03-14T02:27:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/14/bodies-of-84-iranian-sailors-repatriated",
       "content_hash": "df574f638c5a007f2390b180b263b172302a701f2662cbe33ca352ffd7611821",
       "title": "Bodies of 84 Iranian Sailors Repatriated",
@@ -929,6 +923,30 @@
       "content_hash": "a164aca047f9d1a418d775287c6a52cbe36dc8c401a99ce662818d43c08be167",
       "title": "Fuel Plan Launched to Ease Colombo Port Congestion and Support Container Transport",
       "sent_at": "2026-03-21T02:24:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/inter-club-rugby-sevens-tournament-kicks-off-after-four-year-hiatus",
+      "content_hash": "4a799d076ed5fe61cf3ccf1c02a2cd154559b57194b9404235ec0b5e7e47fe94",
+      "title": "Inter-Club Rugby Sevens Tournament Kicks Off After Four-Year Hiatus",
+      "sent_at": "2026-03-21T04:40:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/iran-fires-2-ballistic-missiles-towards-us-uk-military-bases-in-diego-garcia",
+      "content_hash": "6fb720ad0adef06149c969115901605bdd168341650c00846fd2aba36f7e2734",
+      "title": "Iran fires 2 ballistic missiles towards US, UK military bases in Diego Garcia",
+      "sent_at": "2026-03-21T04:40:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/muslims-celebrate-eid-ul-fitr-as-leaders-urge-unity-and-strength",
+      "content_hash": "91b87337c6238fd26ff4592b5a77409180f134abfd19c9de9bfe13b72110664b",
+      "title": "Muslims Celebrate Eid ul-Fitr as Leaders Urge Unity and Strength",
+      "sent_at": "2026-03-21T04:40:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/us-temporarily-lifts-sanctions-on-iranian-oil-stuck-at-sea",
+      "content_hash": "6c3713a94aae2f6a262e7cf361637c861959e6db4626657ce9b95fe000016515",
+      "title": "US Temporarily lifts Sanctions on Iranian Oil stuck at sea",
+      "sent_at": "2026-03-21T04:40:40Z"
     }
   ]
 }
