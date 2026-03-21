@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/14/imf-team-to-visit-sri-lanka-for-review",
-      "content_hash": "e8ba64211c695d58c86a88d4a88a1e737d4a8ad357696ceb5b2e936a1e24724b",
-      "title": "IMF Team to Visit Sri Lanka for Review",
-      "sent_at": "2026-03-14T07:37:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/14/road-accidents-claim-the-lives-of-three-people",
-      "content_hash": "92c0cb573723c48efed8281f561fb552d8dff33885fd85f8e912caa23915051f",
-      "title": "Road Accidents Claim the Lives of Three People",
-      "sent_at": "2026-03-14T07:37:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/14/economic-monitoring-committee-to-reconvene-on-march-16",
       "content_hash": "0e866789beb92a9327b2e1aeea430d950ea4a198000913397538a57755c32285",
       "title": "Economic Monitoring Committee to Reconvene on March 16",
@@ -935,6 +923,36 @@
       "content_hash": "d9d1d2464fd888ded257e60d86047136ad5fdb6171ad3f7cd88c41e4515acd92",
       "title": "Man Killed After Dispute In Horana",
       "sent_at": "2026-03-21T07:35:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/fuel-data-drive-for-food-transport-sector",
+      "content_hash": "b9765958b944261739813afb725e2165403685c5b4d97faf89e80cfd23e66eb0",
+      "title": "Fuel Data Drive For Food Transport Sector",
+      "sent_at": "2026-03-21T08:39:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/global-crude-oil-prices-rise-above-110",
+      "content_hash": "469ba645ff4ddfe222f2080c9bfd80b37990a7671b6bce0ee4eb1f833f81a086",
+      "title": "Global Crude Oil Prices Rise Above $110",
+      "sent_at": "2026-03-21T08:39:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/meeting-between-the-president-and-party-leaders",
+      "content_hash": "388e31733420079de6b12f4a01dfabe267f3213d2933c45080224d6cc1bad0f5",
+      "title": "Meeting Between the President and Party Leaders",
+      "sent_at": "2026-03-21T08:39:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/police-heroes-day-commemorated-in-sri-lanka",
+      "content_hash": "9428a290221c0bbe35991bdd31a386d943b7246ae6412462bc16af9c34af9520",
+      "title": "Police Heroes Day Commemorated In Sri Lanka",
+      "sent_at": "2026-03-21T08:39:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/sri-lanka-japan-discuss-regional-security-cooperation",
+      "content_hash": "1c9c05155e0d5a9ed33aa8cf7fdceab5efd2749ea7aee416b76896f649f1391e",
+      "title": "Sri Lanka Japan Discuss Regional Security Cooperation",
+      "sent_at": "2026-03-21T08:39:18Z"
     }
   ]
 }
