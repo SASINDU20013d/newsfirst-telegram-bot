@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/14/1-800-cases-of-rat-fever-leptospirosis-reported-across-the-country-this-year",
-      "content_hash": "23c2284a0179e52b4479e894e44c2922e086c76e71fff7253bb32509b5d27301",
-      "title": "1,800 Cases of Rat Fever (Leptospirosis) Reported Across the Country This Year",
-      "sent_at": "2026-03-14T06:54:07Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/14/imf-team-to-visit-sri-lanka-for-review",
       "content_hash": "e8ba64211c695d58c86a88d4a88a1e737d4a8ad357696ceb5b2e936a1e24724b",
       "title": "IMF Team to Visit Sri Lanka for Review",
@@ -917,6 +911,30 @@
       "content_hash": "6c3713a94aae2f6a262e7cf361637c861959e6db4626657ce9b95fe000016515",
       "title": "US Temporarily lifts Sanctions on Iranian Oil stuck at sea",
       "sent_at": "2026-03-21T04:40:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/bts-is-back-global-phenomenon-returns-to-seoul-stage",
+      "content_hash": "49110c2570be13b13bdbb70f482fa0748e619b00e1ee042f9bcdc970d6b3ef12",
+      "title": "BTS Is Back: Global Phenomenon Returns To Seoul Stage",
+      "sent_at": "2026-03-21T07:35:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/cid-arrests-two-suspects-with-firearms-in-payagala",
+      "content_hash": "b95c65a4062fe9ac588747d6d794d1e1242ebe6ed146a332575718684e1af90b",
+      "title": "CID Arrests Two Suspects with Firearms in Payagala",
+      "sent_at": "2026-03-21T07:35:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/four-more-suspects-arrested-for-illegal-fuel-possession-and-sales",
+      "content_hash": "24abf76222a3e7ea19a4e84ea3327863079228e8aaa0c9006c9289af1a68901f",
+      "title": "Four More Suspects Arrested for Illegal Fuel Possession and Sales",
+      "sent_at": "2026-03-21T07:35:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/21/man-killed-after-dispute-in-horana",
+      "content_hash": "d9d1d2464fd888ded257e60d86047136ad5fdb6171ad3f7cd88c41e4515acd92",
+      "title": "Man Killed After Dispute In Horana",
+      "sent_at": "2026-03-21T07:35:42Z"
     }
   ]
 }
