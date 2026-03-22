@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/15/president-reviews-essential-services-amid-middle-east-conflict",
-      "content_hash": "f56e575a96fd0696506b76f1782326103f47223859668b731aa81d361dafafa6",
-      "title": "President Reviews Essential Services Amid Middle East Conflict",
-      "sent_at": "2026-03-15T11:31:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/15/navy-arrests-five-suspects-seizes-fishing-vessel-with-drugs-off-dondra",
       "content_hash": "f1ea624da265c3352c5938dec6fe999e55e45707e49b0305d47375910ce2e340",
       "title": "Navy Arrests Five Suspects, Seizes Fishing Vessel With Drugs Off Dondra",
@@ -971,6 +965,12 @@
       "content_hash": "bfb8d52fb05800213bae34129858c16acbdc7925910eae400e3e14b7f96420fe",
       "title": ":Colombo to Reinstate City Parking Fees from Tomorrow After Temporary Waiver",
       "sent_at": "2026-03-22T11:27:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/22/colombo-to-reinstate-city-parking-fees-from-tomorrow-23-after-temporary-waiver",
+      "content_hash": "653c56b24ef3ae7e4616e43fba2d0dc444d3f5433576b6667a158f743b94864a",
+      "title": "Colombo to Reinstate City Parking Fees from Tomorrow (23) After Temporary Waiver",
+      "sent_at": "2026-03-22T13:00:39Z"
     }
   ]
 }
