@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/15/minister-urges-public-cooperation-for-national-fuel-pass-reimplementation-amid-global-challenges",
-      "content_hash": "68994d1a48ee83c4bca767f5a90de3f8b737b82d9d4a6bc06069bbf79e5660bb",
-      "title": "Minister Urges Public Cooperation for National Fuel Pass Reimplementation Amid Global Challenges",
-      "sent_at": "2026-03-15T07:50:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/15/fuel-available-no-need-to-queue-cpc-explains-fuel-qr-system-and-assures-supplies-until-end-of-april",
       "content_hash": "8c25b1ad89affc2cc0e499ff36c83439ff1617274b8bdcd5899949e7795edf7e",
       "title": "Fuel Available, No Need to Queue : CPC Explains Fuel QR System and Assures Supplies Until End of April",
@@ -965,6 +959,12 @@
       "content_hash": "0aa31c50ad2b69dae250a7785499fcb810ff3e1d6fe88675cfc01248dd2381f9",
       "title": "Government Provides Rs. 20 Billion Fuel Subsidies; New Crude Oil Shipments Scheduled to Sustain Refinery Operations",
       "sent_at": "2026-03-22T07:40:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/22/proposals-on-bus-fare-changes-to-reach-cabinet-tomorrow",
+      "content_hash": "ca2837046a4d7bc770a563a5f7ae2d9b2b546e85d0893256e90076f13f98943d",
+      "title": "Proposals on Bus Fare Changes to Reach Cabinet Tomorrow",
+      "sent_at": "2026-03-22T08:40:00Z"
     }
   ]
 }
