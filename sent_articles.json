@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/15/demand-for-drinking-water-rises-amidst-dry-weather",
-      "content_hash": "1abb9b637a290ce352fae8a91d355798a33949951dc3430e793503f723b58cdf",
-      "title": "Demand for Drinking Water Rises Amidst Dry Weather",
-      "sent_at": "2026-03-15T05:09:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/fuel-ship-with-35-000-metric-tons-scheduled-to-arrive-tomorrow",
-      "content_hash": "40794884bf271de8be882bdee0381462ec5997341a7f9ab9dbef74d313f7ab2e",
-      "title": "Fuel Ship with 35,000 Metric Tons Scheduled to Arrive Tomorrow",
-      "sent_at": "2026-03-15T05:09:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/heat-advisory-issued-for-several-provinces-thundershowers-expected-tomorrow",
-      "content_hash": "2a76d8db237ebf395ee03b2a705b6551496e615bbce958be9160f8466c6be28d",
-      "title": "Heat Advisory Issued for Several Provinces; Thundershowers Expected Tomorrow",
-      "sent_at": "2026-03-15T05:09:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/obama-s-old-men-cause-80-of-problems-quote-goes-viral-again",
-      "content_hash": "5f9d1a4c232f6d7cc79db93e91a0a508c8c371d08f2f9b04d465eb6273635788",
-      "title": "Obama's \"Old Men Cause 80% of Problems\" Quote Goes Viral, Again",
-      "sent_at": "2026-03-15T05:09:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/undefined",
-      "content_hash": "ed46d47ad5de24822c46d23a953f40bcd3ae2f7998c8cab0617228bf287635ea",
-      "title": "No Price Hikes for Rice During Festive Season",
-      "sent_at": "2026-03-15T05:09:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/15/new-qr-code-registration-to-be-available-by-noon",
       "content_hash": "2f36c1d2581804a4d044193b0328a8bb9eaeae6a5220dfd4e48a29e8453c8809",
       "title": "New QR Code Registration To Be Available By Noon",
@@ -1001,6 +971,12 @@
       "content_hash": "f64d21aabe7aa2de7a2194347e03b3001c84ecdbef663e754ac7d23f7dfde0e7",
       "title": "World Water Day Focus on Water and Gender: Where Water Flows, Equality Grows",
       "sent_at": "2026-03-22T04:55:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/22/sinopec-raises-fuel-prices-with-effect-from-midnight-today-22",
+      "content_hash": "55175d42c7e31ed76627efe26baf3652b77d201a6ca0efaebdb9d2b1cbd947c8",
+      "title": "Sinopec Raises Fuel Prices With Effect From Midnight Today (22)",
+      "sent_at": "2026-03-22T05:56:52Z"
     }
   ]
 }
