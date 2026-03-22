@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/15/bahrain-saudi-arabian-grands-prix-will-not-take-place-in-april",
-      "content_hash": "d390da54aae67e22a5762f49c127d4c30184eb277fce4d7329c36e0923c02a5a",
-      "title": "Bahrain, Saudi Arabian Grands Prix Will Not Take Place in April",
-      "sent_at": "2026-03-15T02:47:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/here-s-how-to-grab-your-fuel-pass-qr-code",
-      "content_hash": "b400ff0638ee3242a14e3f14d0b6a9da88794ad7e1b38dea9625831b7357d8c8",
-      "title": "Here's How to Grab Your Fuel Pass QR Code",
-      "sent_at": "2026-03-15T02:47:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/qr-weekly-fuel-limits-motorcycles-5l-cars-15l",
-      "content_hash": "a02ea3184e64d5a5a86ae3b0ecc8172b6816e2b7fb5171a6b7232392a09171c5",
-      "title": "QR Weekly Fuel Limits : Motorcycles 5L, Cars 15L",
-      "sent_at": "2026-03-15T02:47:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/sri-lanka-reintroduces-qr-based-national-fuel-pass-system",
-      "content_hash": "ff7cd159e981167163d79657c9de3349d96260fe211f8776e7a83724a9c1a87d",
-      "title": "Sri Lanka Reintroduces QR-Based National Fuel Pass System",
-      "sent_at": "2026-03-15T02:47:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/15/demand-for-drinking-water-rises-amidst-dry-weather",
       "content_hash": "1abb9b637a290ce352fae8a91d355798a33949951dc3430e793503f723b58cdf",
       "title": "Demand for Drinking Water Rises Amidst Dry Weather",
@@ -1013,6 +989,18 @@
       "content_hash": "39b4ea6a28d9bb28b1ec04018f4f1c97261eb7b2ce3eaa2ef6c0ed9e57c8b889",
       "title": "Showers Expected in Several Provinces; Rise in Heat Levels Expected",
       "sent_at": "2026-03-22T02:39:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/22/two-arrested-for-illegal-possession-of-fuel",
+      "content_hash": "b404e5c1fc9347fc9fcb1d87700711f746cf0d5d1acf9eea816e16b9fcb2f84f",
+      "title": "Two Arrested for Illegal Possession of Fuel",
+      "sent_at": "2026-03-22T04:55:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/22/world-water-day-focus-on-water-and-gender-where-water-flows-equality-grows",
+      "content_hash": "f64d21aabe7aa2de7a2194347e03b3001c84ecdbef663e754ac7d23f7dfde0e7",
+      "title": "World Water Day Focus on Water and Gender: Where Water Flows, Equality Grows",
+      "sent_at": "2026-03-22T04:55:58Z"
     }
   ]
 }
