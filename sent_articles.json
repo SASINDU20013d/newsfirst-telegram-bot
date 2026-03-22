@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/15/new-qr-code-registration-to-be-available-by-noon",
-      "content_hash": "2f36c1d2581804a4d044193b0328a8bb9eaeae6a5220dfd4e48a29e8453c8809",
-      "title": "New QR Code Registration To Be Available By Noon",
-      "sent_at": "2026-03-15T07:03:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/no-need-for-public-fear-over-fuel-supplies-fuel-supply-secure-says-distributors%e2%80%99-association",
-      "content_hash": "2261c3a6813269b1b72c2f1fd0847424a059103ebb259ec3dd1ab36e5c9559c5",
-      "title": "'No Need for Public Fear Over Fuel Supplies' - Fuel Supply Secure, Says Distributors’ Association",
-      "sent_at": "2026-03-15T07:03:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/solutions-underway-for-new-registrations-for-fuel-purchases-under-the-qr-code-system",
-      "content_hash": "402781936fdd6462523869076aa148041cbd93470230d1c381cd99b9cb3a4f44",
-      "title": "Solutions Underway for New Registrations for Fuel Purchases Under the QR Code System",
-      "sent_at": "2026-03-15T07:04:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/15/the-fuel-situation-qr%e2%80%99s-all-you-need-to-know",
-      "content_hash": "4f86cd32ba3eb9a20301492b6b5b0537a2ee66d4f65ce0fdcb43b77601c49fea",
-      "title": "The Fuel Situation & QR’s: All You Need to Know",
-      "sent_at": "2026-03-15T07:04:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/15/minister-urges-public-cooperation-for-national-fuel-pass-reimplementation-amid-global-challenges",
       "content_hash": "68994d1a48ee83c4bca767f5a90de3f8b737b82d9d4a6bc06069bbf79e5660bb",
       "title": "Minister Urges Public Cooperation for National Fuel Pass Reimplementation Amid Global Challenges",
@@ -977,6 +953,18 @@
       "content_hash": "55175d42c7e31ed76627efe26baf3652b77d201a6ca0efaebdb9d2b1cbd947c8",
       "title": "Sinopec Raises Fuel Prices With Effect From Midnight Today (22)",
       "sent_at": "2026-03-22T05:56:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/22/caa-deploys-special-teams-to-prevent-artificial-shortages-in-the-market-during-the-festive-season",
+      "content_hash": "1b7960aa07bbbfd52b474bb74d5db2b225f1b9372ea9681a8890c077e23d407d",
+      "title": "CAA Deploys Special Teams to Prevent Artificial Shortages in the Market During the Festive Season",
+      "sent_at": "2026-03-22T07:40:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/22/government-provides-rs-20-billion-fuel-subsidies-new-crude-oil-shipments-scheduled-to-sustain-refinery-operations",
+      "content_hash": "0aa31c50ad2b69dae250a7785499fcb810ff3e1d6fe88675cfc01248dd2381f9",
+      "title": "Government Provides Rs. 20 Billion Fuel Subsidies; New Crude Oil Shipments Scheduled to Sustain Refinery Operations",
+      "sent_at": "2026-03-22T07:40:33Z"
     }
   ]
 }
