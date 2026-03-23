@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/16/work-from-home-under-consideration-decision-expected-soon-minister",
-      "content_hash": "01943e55c0762bbf827d14dda860020f84f07f9ecd7c3aff10cc5e3b3947e0b7",
-      "title": "Work from home Under Consideration, Decision Expected Soon: Minister",
-      "sent_at": "2026-03-16T05:20:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/16/768-flights-cancelled-amid-middle-east-crisis-tourist-arrivals-to-sri-lanka-drop-30",
       "content_hash": "33418700b06f285e6528cc4ae282361602a88b8483b554f9f050536a5b50d168",
       "title": "768 Flights Cancelled Amid Middle East Crisis; Tourist Arrivals To Sri Lanka Drop 30%",
@@ -977,6 +971,66 @@
       "content_hash": "ec9a84e8154b0e8310381fcca108eea7f803a45eb2ea09ba2462e95844a9c1cc",
       "title": "Vehicle Parking Fees in Colombo Reinstated from Today",
       "sent_at": "2026-03-23T05:06:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/%e2%80%98zombie-tankers%e2%80%99-cross-hormuz-despite-being-scrapped-years-ago",
+      "content_hash": "ef8c263bceab903b6a3486e8dd412c86614ff68ae698f95b7ea9d3d752ddbbe6",
+      "title": "‘Zombie Tankers’ Cross Hormuz Despite Being Scrapped Years Ago",
+      "sent_at": "2026-03-23T07:17:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/arjuna-ranatunga-and-brother-indicted-for-causing-rs-800-mn-loss-to-cpc",
+      "content_hash": "6e4516ce1bfa5533e6ee2aa8cd3aace5e9c895838be12313ff8decbf1b4da237",
+      "title": "Arjuna Ranatunga and Brother Indicted For Causing Rs. 800 Mn Loss To CPC",
+      "sent_at": "2026-03-23T07:17:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/close-associate-of-organized-crime-figure-%e2%80%9cpanadura-rana%e2%80%9d-nabbed-with-narcotics",
+      "content_hash": "3c9036b3d9b28f0460571c45e67fca74df901ae000fe9863a48598846573b1f5",
+      "title": "Close Associate of Organized Crime Figure “Panadura Rana” Nabbed with Narcotics",
+      "sent_at": "2026-03-23T07:17:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/global-stocks-slide-oil-jumps-after-trump%e2%80%99s-48-hour-hormuz-ultimatum",
+      "content_hash": "d82d9a50801978391deb6d40c003e790a9bf58aec7452a653c50f6bec175b040",
+      "title": "Global Stocks Slide, Oil Jumps After Trump’s 48-Hour Hormuz Ultimatum",
+      "sent_at": "2026-03-23T07:17:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/hormuz-crisis-tops-agenda-in-trump-starmer-phone-call",
+      "content_hash": "346fd268c2a9bb3165926f8f1465bad8c41c8ac2d56c214f7049b75ad4e0d794",
+      "title": "Hormuz Crisis Tops Agenda in Trump-Starmer Phone Call",
+      "sent_at": "2026-03-23T07:17:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/iran%e2%80%99s-irgc-any-strike-on-electricity-will-be-met-in-kind",
+      "content_hash": "7c27c180c6c225d0acc3a88caf767c9ef8c39a21e2df7206968372d77dde3999",
+      "title": "Iran’s IRGC: Any Strike on Electricity Will Be Met in Kind",
+      "sent_at": "2026-03-23T07:17:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/iran-imposes-2-million-transit-fee-on-vessels-crossing-strait-of-hormuz",
+      "content_hash": "d3f7e5592f3500a94b0965e9921d5f555397b37c987a706865ea11484e7dce5f",
+      "title": "Iran Imposes $2 Million Transit Fee on Vessels Crossing Strait of Hormuz",
+      "sent_at": "2026-03-23T07:17:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/sri-lanka-expects-major-fuel-shipments-through-mid-april",
+      "content_hash": "4b833cd8631bf3bffd96502e430d5dce083cb561022e47cbf6789713e2bbaec9",
+      "title": "Sri Lanka Expects Major Fuel Shipments Through Mid-April",
+      "sent_at": "2026-03-23T07:17:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/sri-lanka-has-sufficient-aviation-fuel-until-april-16-caa",
+      "content_hash": "233fd9841e75428632428c59cd1f7486813962ff5639bbb03c84f414ea2eaece",
+      "title": "Sri Lanka Has Sufficient Aviation Fuel Until April 16 - CAA",
+      "sent_at": "2026-03-23T07:17:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/tehran-demands-reparations-from-us-and-israel-over-nuclear-facility-strikes",
+      "content_hash": "f75f0b72554aa74bd508ba7cf4ba66a9e97db0f65cfae04c5b73d344bfbbc80c",
+      "title": "Tehran Demands Reparations From US and Israel Over Nuclear Facility Strikes",
+      "sent_at": "2026-03-23T07:17:31Z"
     }
   ]
 }
