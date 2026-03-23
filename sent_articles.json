@@ -1,78 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/16/768-flights-cancelled-amid-middle-east-crisis-tourist-arrivals-to-sri-lanka-drop-30",
-      "content_hash": "33418700b06f285e6528cc4ae282361602a88b8483b554f9f050536a5b50d168",
-      "title": "768 Flights Cancelled Amid Middle East Crisis; Tourist Arrivals To Sri Lanka Drop 30%",
-      "sent_at": "2026-03-16T07:24:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/cpc-to-monitor-fuel-stocks-and-qr-sales-at-all-fuel-stations",
-      "content_hash": "1b668cbad82ef5fd992e7a004a697fb2b717e22b3d2cd7f2a40c9a5db7412841",
-      "title": "CPC to Monitor Fuel Stocks and QR Sales at All Fuel Stations",
-      "sent_at": "2026-03-16T07:24:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/economic-monitoring-committee-to-convene-today-to-address-impacts-of-global-tensions",
-      "content_hash": "42521f9cf7652087d4a650c11c1a54222cd89b41e3d5a16009a65d8871986322",
-      "title": "Economic Monitoring Committee to Convene Today to Address Impacts of Global Tensions",
-      "sent_at": "2026-03-16T07:24:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/navy-seize-123-packets-of-heroin-in-deep-sea-raid-south-of-dondra",
-      "content_hash": "83f1d80fde83fa2ccc365f50c7cb099cdd3d0a0706859b8f94b377f2aef9d1ba",
-      "title": "Navy Seize 123 Packets of Heroin in Deep-Sea Raid South of Dondra",
-      "sent_at": "2026-03-16T07:24:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/oscars-2026-here-s-the-full-list-of-winners",
-      "content_hash": "d66b128695e683a5d1dedb87ba02b80418b271995798896ee5548e0cc58ba006",
-      "title": "Oscars 2026: Here's The Full List of Winners",
-      "sent_at": "2026-03-16T07:24:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/sri-lanka-released-45-days-of-fuel-in-nine-days-as-qr-system-becomes-mandatory",
-      "content_hash": "20fb4128bb43fa7e7e0332be1f83a84c2dd33257043fd980530b074a8cfcad4b",
-      "title": "Sri Lanka Released 45 Days of Fuel in Nine Days as QR System Becomes Mandatory",
-      "sent_at": "2026-03-16T07:24:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/two-passengers-from-bangkok-arrested-at-bia-with-over-rs-16-million-worth-of-kush",
-      "content_hash": "c750ab23f35f6e59303f921638d6f603f831971664df9ce269ad4d59634ba7cd",
-      "title": "Two Passengers From Bangkok Arrested at BIA With Over Rs. 16 Million Worth of 'Kush'",
-      "sent_at": "2026-03-16T07:24:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/woman-arrested-in-mannar-for-laundering-illicit-gold-assets",
-      "content_hash": "e0f76e218d182b8eec0924c4d6b2d47681b7e086bb2d5164e76978daec42989a",
-      "title": "Woman Arrested in Mannar for Laundering Illicit Gold Assets",
-      "sent_at": "2026-03-16T07:24:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/australia-rules-out-sending-assets-to-strait-of-hormuz",
-      "content_hash": "47b697f4c8edf32fef04bfd2cf6ab2b83d2c5c4dddb9bcdbbae582cd5b05a691",
-      "title": "Australia Rules Out Sending Assets to Strait of Hormuz",
-      "sent_at": "2026-03-16T09:02:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/iran-rejects-ceasefire-says-it-never-sought-talks",
-      "content_hash": "be1610f2180190d11df1b65440fc315a997bbaf67371314c10d88c7365e96547",
-      "title": "Iran Rejects Ceasefire, Says It Never Sought Talks",
-      "sent_at": "2026-03-16T09:02:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/oil-prices-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz",
-      "content_hash": "e73f13e9af1708775656c217d1856523d3fb0bfbfb52f889356e927344b731f7",
-      "title": "Oil Prices Rising as Trump Seeks Coalition To Reopen Strait of Hormuz",
-      "sent_at": "2026-03-16T09:02:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/port-of-fujairah-hit-again-oil-loading-suspended-for-second-time-in-three-days",
-      "content_hash": "a602fb02460db80b0c732a5e8d5e3dc5f50d3b6f94574bc62d2b334ae1ec77b4",
-      "title": "Port Of Fujairah Hit Again: Oil Loading Suspended For Second Time In Three Days",
-      "sent_at": "2026-03-16T09:02:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/16/former-mp-sajin-de-vass-indicted-on-corruption-charges",
       "content_hash": "32b2aa8137bd54a4b9ba380535f87cbaa1d6282f60485e75d6c43ffde93ab524",
       "title": "Former MP Sajin de Vass Indicted on Corruption Charges",
@@ -1031,6 +959,24 @@
       "content_hash": "f75f0b72554aa74bd508ba7cf4ba66a9e97db0f65cfae04c5b73d344bfbbc80c",
       "title": "Tehran Demands Reparations From US and Israel Over Nuclear Facility Strikes",
       "sent_at": "2026-03-23T07:17:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/australia-warns-of-fuel-supply-%e2%80%98bumps%e2%80%99-as-six-fuel-tankers-cancelled-or-delayed",
+      "content_hash": "f13dc588c480cc795e94fb32a7043d7ba49f500f964d4b8610874267002ad674",
+      "title": "Australia Warns of Fuel Supply ‘Bumps’ As Six Fuel Tankers Cancelled or Delayed",
+      "sent_at": "2026-03-23T09:02:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/iran-ready-to-supply-oil-to-sri-lanka-in-case-of-shortage-says-ambassador",
+      "content_hash": "1101296b6aedd944875e7f834ba17ed4f7825daa1a44048b9ce04689190138df",
+      "title": "Iran Ready to Supply Oil to Sri Lanka in Case of Shortage, Says Ambassador",
+      "sent_at": "2026-03-23T09:02:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/iran-threatens-to-mine-persian-gulf-if-its-coasts-or-islands-are-attacked",
+      "content_hash": "48f28f74f2f1502c9283e846dad0d08e0800023d61a220543fb272ec25223981",
+      "title": "Iran Threatens To Mine Persian Gulf If Its Coasts or Islands Are Attacked",
+      "sent_at": "2026-03-23T09:02:47Z"
     }
   ]
 }
