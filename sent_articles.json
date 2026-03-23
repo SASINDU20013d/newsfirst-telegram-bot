@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/16/former-mp-sajin-de-vass-indicted-on-corruption-charges",
-      "content_hash": "32b2aa8137bd54a4b9ba380535f87cbaa1d6282f60485e75d6c43ffde93ab524",
-      "title": "Former MP Sajin de Vass Indicted on Corruption Charges",
-      "sent_at": "2026-03-16T11:51:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/no-qr-needed-farmers-to-receive-15-20-liters-of-fuel-per-acre-for-plowing-and-harvesting",
-      "content_hash": "bb7220f953720f29548705190609572e536541ff782766df01268dab747360c6",
-      "title": "No QR Needed: Farmers to Receive 15-20 Liters of Fuel Per Acre for Plowing and Harvesting",
-      "sent_at": "2026-03-16T11:51:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/police-constable-injured-after-trap-gun-discharges-during-raid-in-yalagamuwa-uva-paranagama",
-      "content_hash": "a2001f072abf8bcc2aac16dbf4e8b611be9ce39e46bb25851ffb348f375c5100",
-      "title": "Police Constable Injured After Trap Gun Discharges During Raid In Yalagamuwa, Uva Paranagama",
-      "sent_at": "2026-03-16T11:51:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/uda-launches-mother-lanka-digital-platform-to-enhance-public-participation-in-urban-planning",
-      "content_hash": "09c72fff812400b0145a2b3e04742b19e782b4a00b1748233068e5da5b3c4692",
-      "title": "UDA Launches 'Mother Lanka Digital' Platform to Enhance Public Participation in Urban Planning",
-      "sent_at": "2026-03-16T11:51:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/16/government-clarifies-fuel-pass-rules-for-new-and-changed-vehicles",
       "content_hash": "6ceb39e653549c3bbc2bf344dbe21da96fa7e5692b69610a1a849cb3c8de8d6a",
       "title": "Government Clarifies Fuel Pass Rules for New and Changed Vehicles",
@@ -1007,6 +983,36 @@
       "content_hash": "bc5e5d0bd9638e7d11aad9a5ae90d33c4d54e5da398acad291d0927ee9c20904",
       "title": "Trump Announces Five‑Day Pause on Strikes Against Iran",
       "sent_at": "2026-03-23T11:48:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/bus-fares-rise-minimum-charge-now-rs-30",
+      "content_hash": "bf1146511f87ac492d8778e44e30dedd545c374bb579b24e6f75b27446f17f94",
+      "title": "Bus Fares Rise: Minimum Charge Now Rs. 30/-",
+      "sent_at": "2026-03-23T13:17:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/iran-denies-us-talks-calls-trump%e2%80%99s-claims-a-ploy",
+      "content_hash": "866cb74f312782bb58777bac7ca01c7aa15ef6d246729a45b42ae014a88b85ed",
+      "title": "Iran Denies US Talks, Calls Trump’s Claims a Ploy",
+      "sent_at": "2026-03-23T13:17:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/iris-dena-was-on-peaceful-visit-not-ready-for-war",
+      "content_hash": "9c5fc1a0e4a804a7f5c9b3d152628777234a8ea1da7aaa9f421cc9508fdceaf9",
+      "title": "IRIS Dena Was on Peaceful Visit, Not Ready for War",
+      "sent_at": "2026-03-23T13:17:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/mattala-airport-to-be-used-as-emergency-operations-hub",
+      "content_hash": "8970574c9816b0be251abcacc4222a975123829c263162c0a9a7597988e26629",
+      "title": "Mattala Airport to Be Used as Emergency Operations Hub",
+      "sent_at": "2026-03-23T13:17:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/president-urges-power-conservation-during-peak-hours",
+      "content_hash": "ce4c58e762bf00c88ed0f3314c1a681c0edf75dc13e2cc41e340c7ef0715253f",
+      "title": "President Urges Power Conservation During Peak Hours",
+      "sent_at": "2026-03-23T13:17:36Z"
     }
   ]
 }
