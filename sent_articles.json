@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/16/ambulances-get-fuel-under-a-special-priority-category-in-the-qr-based-fuel-distribution-system",
-      "content_hash": "99f2fb0ddc57037b6f718737d7faf225aedfcbee3f511d9bfaa736559648bc62",
-      "title": "Ambulances Get Fuel Under A Special Priority Category in the QR Based Fuel Distribution System",
-      "sent_at": "2026-03-16T02:48:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/over-100-000-mt-of-fuel-released-within-ten-days",
-      "content_hash": "6c1b2890f9c25a1face76bd28dd40fee5373fa6a80cfe7e2439a66358d2782e9",
-      "title": "Over 100,000 MT of Fuel Released Within Ten Days",
-      "sent_at": "2026-03-16T02:48:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/police-on-high-alert-during-the-implementation-of-qr-based-fuel-distribution-system",
-      "content_hash": "e6bc29c54f6fbf00d102e488f3d361e09c9717bbf2ac2e958d0584ffba3e641a",
-      "title": "Police On High Alert During the Implementation of QR Based Fuel Distribution System",
-      "sent_at": "2026-03-16T02:48:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/16/president-discusses-essential-service-continuity-amid-middle-east-tensions-considers-implementation-of-remote-work",
-      "content_hash": "ea00c86eadd2e8fa559f4a3f99c29e03f55ced953a10ae5576e888b645eaf949",
-      "title": "President Discusses Essential Service Continuity Amid Middle East Tensions, Considers Implementation of Remote Work",
-      "sent_at": "2026-03-16T02:48:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/16/work-from-home-under-consideration-decision-expected-soon-minister",
       "content_hash": "01943e55c0762bbf827d14dda860020f84f07f9ecd7c3aff10cc5e3b3947e0b7",
       "title": "Work from home Under Consideration, Decision Expected Soon: Minister",
@@ -983,6 +959,24 @@
       "content_hash": "7d3ef445eae738173807b8f08815270c0e545b51c277756c953dc6a13aec349c",
       "title": "Probes Launched on Illegal Use of QR Codes",
       "sent_at": "2026-03-23T02:39:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/adb-president-masato-kanda-arrives-in-sri-lanka",
+      "content_hash": "078b759959485761d9a983fdabac2b94b82d54df6c8584a0f8d98847b0392b40",
+      "title": "ADB President Masato Kanda Arrives in Sri Lanka",
+      "sent_at": "2026-03-23T05:06:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/fifth-commercial-high-court-to-open-today",
+      "content_hash": "4e0614ef0a583dcac9c0bb6ff98168c86f80061869177bd2da21e51d22f6b0e5",
+      "title": "Fifth Commercial High Court to Open Today",
+      "sent_at": "2026-03-23T05:06:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/23/vehicle-parking-fees-in-colombo-reinstated-from-today",
+      "content_hash": "ec9a84e8154b0e8310381fcca108eea7f803a45eb2ea09ba2462e95844a9c1cc",
+      "title": "Vehicle Parking Fees in Colombo Reinstated from Today",
+      "sent_at": "2026-03-23T05:06:56Z"
     }
   ]
 }
