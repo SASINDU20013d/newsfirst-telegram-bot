@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/17/government-opens-spot-tenders-fast-tracks-ship-based-fuel-supplies",
-      "content_hash": "76f989cc02f0e600900c22cfad4001bd4d7f0344768b4225897297fa8d31d2b6",
-      "title": "Government Opens Spot Tenders, Fast-Tracks Ship-Based Fuel Supplies",
-      "sent_at": "2026-03-17T16:11:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/17/private-sector-granted-temporary-fuel-import-licenses-for-exporters-and-tourism",
-      "content_hash": "d5f86e5b7e39e977e008639c4cc111624e44596dab9bd9e3501ffc5d25d3b306",
-      "title": "Private Sector Granted Temporary Fuel Import Licenses for Exporters and Tourism",
-      "sent_at": "2026-03-17T16:11:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/17/special-public-holiday-declared-new-wednesday-train-schedule-released",
       "content_hash": "0e0a425aeebf342badd44a21ef6495d67b63d8a106b5777569e54732fceb0727",
       "title": "Special Public Holiday Declared; New Wednesday Train Schedule Released",
@@ -1091,6 +1079,18 @@
       "content_hash": "ad96c6f92706efebcc2f21e89af9af55ba2a37194e9d20c1582ae8397f63fbc7",
       "title": "Sri Lanka Has Sufficient Litro and Laugfs Gas Stocks, Cabinet Spokesman Says",
       "sent_at": "2026-03-24T15:03:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/modi-akd-discuss-west-asia-crisis-and-energy-security-concerns",
+      "content_hash": "2c697a01fbc9b2bba21c729a4a3d2e25f3d010e0ec1a0cbb8293dc87b35870db",
+      "title": "Modi, AKD Discuss West Asia Crisis and Energy Security Concerns",
+      "sent_at": "2026-03-24T16:13:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/pe-plus-pvt-ltd-celebrates-its-25th-anniversary",
+      "content_hash": "195ab1545592696f7ae222d0cf72356e98af8a3df6f6888320097b33ca6038b9",
+      "title": "PE Plus (Pvt) Ltd. Celebrates its 25th Anniversary",
+      "sent_at": "2026-03-24T16:13:54Z"
     }
   ]
 }
