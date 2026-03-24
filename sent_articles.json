@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/17/schools-shift-to-home-based-learning-on-wednesdays",
-      "content_hash": "3f02eb0d769bd07708bc5798316c5e60f4ef3e787cb9c79641172f6cba3bd3f3",
-      "title": "Schools Shift to Home-Based Learning on Wednesdays",
-      "sent_at": "2026-03-17T09:59:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/17/government-will-take-every-possible-step-to-ease-public-hardship-says-justice-minister",
       "content_hash": "a9b04ebe4e2dbff82ed85e79ca2a688434a26ac759175ed4b03e0eeedae4b808",
       "title": "Government Will Take Every Possible Step to Ease Public Hardship, Says Justice Minister",
@@ -1007,6 +1001,24 @@
       "content_hash": "26723b621fd114fcfd408cdaa2969b00710d79dc8a9647c484deaf7bc37a9ccd",
       "title": "Thousands Sign Petition Demanding Resignation of SL Cricket Chairman",
       "sent_at": "2026-03-24T08:58:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/adb-president-masato-kanda-to-meet-president-anura-kumara-dissanayake",
+      "content_hash": "e875ffa605c11d1a864b29b80738d8486a728d44f2e50150580a931b1b4dad0c",
+      "title": "ADB President Masato Kanda to Meet President Anura Kumara Dissanayake",
+      "sent_at": "2026-03-24T09:59:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/chief-inspector-linton-de-silva-transferred-with-immediate-effect",
+      "content_hash": "8eb47cfe0221e1694ce44757d4dd0387852cdf61be8740abd24fa0a5562b93a6",
+      "title": "Chief Inspector Linton de Silva Transferred with Immediate Effect",
+      "sent_at": "2026-03-24T09:59:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/three-associates-of-notorious-crime-figures-arrested-by-stf",
+      "content_hash": "33de7811ed4fcd965f7dc21ed22bc2535247fdf8071ed35af8aec47b70cddec1",
+      "title": "Three Associates of Notorious Crime Figures Arrested by STF",
+      "sent_at": "2026-03-24T09:59:33Z"
     }
   ]
 }
