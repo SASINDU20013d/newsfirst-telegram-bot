@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/17/government-will-take-every-possible-step-to-ease-public-hardship-says-justice-minister",
-      "content_hash": "a9b04ebe4e2dbff82ed85e79ca2a688434a26ac759175ed4b03e0eeedae4b808",
-      "title": "Government Will Take Every Possible Step to Ease Public Hardship, Says Justice Minister",
-      "sent_at": "2026-03-17T11:45:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/17/fuel-consumption-nearly-doubles-in-march",
       "content_hash": "cf9996ad13120649591b314a0d2fc7323fef5086f7e9c23e3fb6ceef43dc1dc6",
       "title": "Fuel Consumption Nearly Doubles In March",
@@ -1037,6 +1031,24 @@
       "content_hash": "5c25ac995f09b59d0fb69003b91f2913be6d8dbd6082fbc75e9e8c3d2d519d66",
       "title": "State-of-the-Art CT Angiography System From Japan to Sri Jayewardenepura Hospital",
       "sent_at": "2026-03-24T10:55:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/%e2%80%98willing-to-host-us-iran-talks%e2%80%99-pakistan",
+      "content_hash": "df9781ad2d25970279166968efe9b904ae32bcfd5d467a30accfab25b25371f0",
+      "title": "‘Willing To Host US-Iran talks’: Pakistan",
+      "sent_at": "2026-03-24T11:48:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/adb-president-meets-sri-lanka-central-bank-governor",
+      "content_hash": "8f12a3c027db2af3278cd03d5010b1fd4fc83ae15a63db36c9718fe1cacd6275",
+      "title": "ADB President Meets Sri Lanka Central Bank Governor",
+      "sent_at": "2026-03-24T11:48:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/world-must-choose-between-gaza-and-child-torturers-iran-s-parliament-speaker",
+      "content_hash": "4e38b65fcae927bb5a6f223a6d0c6f93bd7479eac057fff3b846d23b1b32282b",
+      "title": "World Must Choose Between Gaza and 'Child Torturers' - Iran's Parliament Speaker",
+      "sent_at": "2026-03-24T11:48:47Z"
     }
   ]
 }
