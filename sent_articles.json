@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/17/fuel-consumption-nearly-doubles-in-march",
-      "content_hash": "cf9996ad13120649591b314a0d2fc7323fef5086f7e9c23e3fb6ceef43dc1dc6",
-      "title": "Fuel Consumption Nearly Doubles In March",
-      "sent_at": "2026-03-17T15:01:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/17/government-declares-mid-week-holiday-to-avoid-economic-disruption-amidst-global-energy-crisis",
-      "content_hash": "85fe915320f6561ce05aecfe0759e9e1d1e9bbbeb4eb3f044f2fd458cc02dc46",
-      "title": "Government Declares Mid-Week Holiday To Avoid Economic Disruption Amidst Global Energy Crisis",
-      "sent_at": "2026-03-17T15:01:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/17/president-urges-all-ministries-to-ensure-sustainable-fuel-use",
-      "content_hash": "339c0f19992060690871e8346f37062b56b0293c42aa1017875046c108aee6eb",
-      "title": "President Urges All Ministries To Ensure Sustainable Fuel Use",
-      "sent_at": "2026-03-17T15:01:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/17/state-institutions-adopt-measures-to-conserve-fuel-following-wednesday-government-holiday",
-      "content_hash": "cee056ae787e1fb5d157de68b0e28ef5ad7e956da65cf2907ac402460e0d6a1b",
-      "title": "State Institutions Adopt Measures to Conserve Fuel Following Wednesday Government Holiday",
-      "sent_at": "2026-03-17T15:01:28Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/17/government-opens-spot-tenders-fast-tracks-ship-based-fuel-supplies",
       "content_hash": "76f989cc02f0e600900c22cfad4001bd4d7f0344768b4225897297fa8d31d2b6",
       "title": "Government Opens Spot Tenders, Fast-Tracks Ship-Based Fuel Supplies",
@@ -1085,6 +1061,36 @@
       "content_hash": "1307a21e0c3a4c54c46a911c9f22115d1ce7a7eb7ef8082dcce4b40b04ad4f13",
       "title": "State Sector Told to Slash Fuel and Power Use by 25%",
       "sent_at": "2026-03-24T13:21:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/applications-open-for-2026-gce-a-level-exam",
+      "content_hash": "b8930fbbefa8f39b21ea16d50bc4b7a4b84cb889fea2a91e9f5700afdbeb7c2a",
+      "title": "Applications Open for 2026 GCE A/Level Exam",
+      "sent_at": "2026-03-24T15:02:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/bribery-commission-seeks-warrants-in-airbus-scandal",
+      "content_hash": "9110bca2813f955751563c51441f53dc2b7fe513e229c6ab7c69f0b33cb99e5d",
+      "title": "Bribery Commission Seeks Warrants in Airbus Scandal",
+      "sent_at": "2026-03-24T15:02:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/former-mp-sajin-vass-remanded-until-april-2",
+      "content_hash": "c2db83214e432ee95847b786d38eba7d12502538d9a088c569a150cf0fb0d4f5",
+      "title": "Former MP Sajin Vass Remanded Until April 2",
+      "sent_at": "2026-03-24T15:02:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/record-electricity-demand-met-without-power-cuts",
+      "content_hash": "59fec853a0af0a7a67bfcd017169e2519b2cbdb366e57b2ce3ddfa139e320688",
+      "title": "Record Electricity Demand Met Without Power Cuts",
+      "sent_at": "2026-03-24T15:03:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/sri-lanka-has-sufficient-litro-and-laugfs-gas-stocks-cabinet-spokesman-says",
+      "content_hash": "ad96c6f92706efebcc2f21e89af9af55ba2a37194e9d20c1582ae8397f63fbc7",
+      "title": "Sri Lanka Has Sufficient Litro and Laugfs Gas Stocks, Cabinet Spokesman Says",
+      "sent_at": "2026-03-24T15:03:06Z"
     }
   ]
 }
