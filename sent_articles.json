@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/17/former-president-gotabaya-rajapaksa-appears-before-ciaboc-records-statement-on-housing-complex-probe",
-      "content_hash": "6b032ceead5865f822b89174ff8f188b716534b8092270900c73c980757be445",
-      "title": "Former President Gotabaya Rajapaksa Appears Before CIABOC; Records Statement on Housing Complex Probe",
-      "sent_at": "2026-03-17T08:58:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/17/rs-3-billion-heroin-seizure-fishing-vessel-owner-son-arrested-in-ambalangoda",
-      "content_hash": "552eaa9c2e39772a6fc6aecaa8883b036ee3b84071325e8ef8a322fc1f6c3988",
-      "title": "Rs. 3 Billion Heroin Seizure: Fishing Vessel Owner, Son Arrested In Ambalangoda",
-      "sent_at": "2026-03-17T08:58:07Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/17/schools-shift-to-home-based-learning-on-wednesdays",
       "content_hash": "3f02eb0d769bd07708bc5798316c5e60f4ef3e787cb9c79641172f6cba3bd3f3",
       "title": "Schools Shift to Home-Based Learning on Wednesdays",
@@ -1013,6 +1001,12 @@
       "content_hash": "47ec8fe118f86b8ac4681b4ef33479e6ad60512d4730fcc260797a642fe75560",
       "title": "ID Registration Services Fully Restored After System Failure",
       "sent_at": "2026-03-24T07:16:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/thousands-sign-petition-demanding-resignation-of-sl-cricket-chairman",
+      "content_hash": "26723b621fd114fcfd408cdaa2969b00710d79dc8a9647c484deaf7bc37a9ccd",
+      "title": "Thousands Sign Petition Demanding Resignation of SL Cricket Chairman",
+      "sent_at": "2026-03-24T08:58:20Z"
     }
   ]
 }
