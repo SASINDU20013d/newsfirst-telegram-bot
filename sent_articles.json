@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/17/all-tuition-classes-banned-on-wednesday-public-holiday",
-      "content_hash": "c11c14792456d8f6060098bcff8864462ff5ffeb5679a0cc877b5d1946929cdf",
-      "title": "All Tuition Classes Banned on Wednesday Public Holiday",
-      "sent_at": "2026-03-17T06:02:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/17/public-transport-to-be-restricted-on-wednesday-public-holiday",
-      "content_hash": "62f1d26a75dd0f22558ff705498ff33b7ca486e1c2de1de0771b9653a4f40264",
-      "title": "Public Transport to Be Restricted on Wednesday Public Holiday",
-      "sent_at": "2026-03-17T06:02:41Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/17/former-president-gotabaya-rajapaksa-appears-before-ciaboc-records-statement-on-housing-complex-probe",
       "content_hash": "6b032ceead5865f822b89174ff8f188b716534b8092270900c73c980757be445",
       "title": "Former President Gotabaya Rajapaksa Appears Before CIABOC; Records Statement on Housing Complex Probe",
@@ -1001,6 +989,24 @@
       "content_hash": "db8efd5f8f387873f4317ceea9855151514df9bb088050a4535508fe5c73f271",
       "title": "South Korea Restricts Car Use By Public Employees",
       "sent_at": "2026-03-24T04:57:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/earthquake-of-magnitude-7-6-strikes-tonga-islands",
+      "content_hash": "494ce7b027a8283eb2d8a74dc01b46a877159acb85dee853d0bfcb9844448af5",
+      "title": "Earthquake of Magnitude 7.6 Strikes Tonga Islands",
+      "sent_at": "2026-03-24T06:02:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/irgc-claims-%e2%80%98record-phase%e2%80%99-in-war-timeline-with-new-missile-attacks",
+      "content_hash": "45e04710a3a9d68324b770cabf6efb516746bea315089f153c86abfb456c5f64",
+      "title": "IRGC Claims ‘Record Phase’ in War Timeline With New Missile Attacks",
+      "sent_at": "2026-03-24T06:02:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/24/sri-lanka-exams-will-proceed-as-planned",
+      "content_hash": "6f252e7c4d0012fc4c38a123ebc2b4dbd326fa53dd3b19484911f7e8caaef04a",
+      "title": "Sri Lanka: Exams Will Proceed as Planned",
+      "sent_at": "2026-03-24T06:02:42Z"
     }
   ]
 }
