@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/18/cpc-to-launch-whatsapp-support-for-qr-issue",
-      "content_hash": "1b087b2c5512b1123230cddab957abe98f2d06c2f7757cb72fbc54629629a1c5",
-      "title": "CPC To Launch WhatsApp Support For QR Issue",
-      "sent_at": "2026-03-18T02:37:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/18/litro-gas-assures-steady-gas-supply-with-regular-shipments",
-      "content_hash": "a33368c31a55b17f3edd3d6c862427ee441bcaa7725725d7ceb89b522c61b4f4",
-      "title": "Litro Gas Assures Steady Gas Supply With Regular Shipments",
-      "sent_at": "2026-03-18T02:37:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/18/mid-week-holiday-declared-to-cut-energy-use",
-      "content_hash": "be5146f9c31b7fce01bdae87ecb6ce58464d6a25d3dbe360410969e591359522",
-      "title": "Mid-Week Holiday Declared To Cut Energy Use",
-      "sent_at": "2026-03-18T02:37:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/18/train-services-to-operate-on-saturday-schedule-today",
-      "content_hash": "24eaa546c48dc347e5ba23c05f26567292a1bdaa05ff60fb713d1a9feb2a6d3a",
-      "title": "Train Services To Operate On Saturday Schedule Today",
-      "sent_at": "2026-03-18T02:37:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/18/man-and-woman-arrested-at-bandaranaike-international-airport-with-over-10kg-of-kush",
       "content_hash": "1f125682f41d0e2d76140e718ebb9c1b2a57c8c5a25069ffb15abbad9488db10",
       "title": "Man And Woman Arrested At Bandaranaike International Airport With Over 10Kg Of Kush",
@@ -1091,6 +1067,24 @@
       "content_hash": "09655cad62c84e3002f7a92ceb2c9bd26e71e2037c27858a4fcee854a97f3c30",
       "title": "Sri Lanka on the Weekly Energy-Saving Holiday Starting Today",
       "sent_at": "2026-03-25T02:36:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/iranian-military-mocks-trump%e2%80%99s-claim-of-us-iran-negotiations",
+      "content_hash": "7e7effd5824ba8a342646eb3d6d83e683552d35d9ec8409031c2f0f26bbba4fc",
+      "title": "Iranian Military Mocks Trump’s Claim of US-Iran Negotiations",
+      "sent_at": "2026-03-25T04:57:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/middle-east-tensions-trigger-surge-in-demand-for-sri-lankan-tea",
+      "content_hash": "feab81e5e3b9f5014d1a4cba1d7764bf019f241b3f2026a2fe91d9710b6617cf",
+      "title": "Middle East Tensions Trigger Surge in Demand for Sri Lankan Tea",
+      "sent_at": "2026-03-25T04:57:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/rs-177-billion-project-to-restore-infrastructure-damaged-by-cyclone-ditwah-begins-today",
+      "content_hash": "ae923748b040d9050e931a4e7cc0e34e6853c300460a88e0dcaddae1979a7d3f",
+      "title": "Rs. 177 Billion Project to Restore Infrastructure Damaged by Cyclone Ditwah Begins Today",
+      "sent_at": "2026-03-25T04:57:43Z"
     }
   ]
 }
