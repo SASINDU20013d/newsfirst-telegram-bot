@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/18/man-and-woman-arrested-at-bandaranaike-international-airport-with-over-10kg-of-kush",
-      "content_hash": "1f125682f41d0e2d76140e718ebb9c1b2a57c8c5a25069ffb15abbad9488db10",
-      "title": "Man And Woman Arrested At Bandaranaike International Airport With Over 10Kg Of Kush",
-      "sent_at": "2026-03-18T05:00:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/18/5-5-million-fuel-qr-codes-issued-1-2-million-yet-to-register",
       "content_hash": "51ec4f161bedef209bc65bfa0c9d0ffbabfa2e6fa675ea94a363fc2b2b2a2f0d",
       "title": "5.5 Million Fuel QR Codes Issued, 1.2 Million Yet To Register",
@@ -1085,6 +1079,30 @@
       "content_hash": "ae923748b040d9050e931a4e7cc0e34e6853c300460a88e0dcaddae1979a7d3f",
       "title": "Rs. 177 Billion Project to Restore Infrastructure Damaged by Cyclone Ditwah Begins Today",
       "sent_at": "2026-03-25T04:57:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/japan-supports-sri-lanka-with-emergency-radio-grant-worth-rs-55m",
+      "content_hash": "ecd8a50a0242da4a6ccb18f1ea13bde4fa70ef2a040da994f40c562c6a675356",
+      "title": "Japan Supports Sri Lanka with Emergency Radio Grant Worth Rs. 55M",
+      "sent_at": "2026-03-25T06:03:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/sri-lanka-holds-overnight-policy-rate-at-7-75-amidst-the-middle-east-tensions-fast-tracking-inflation-target",
+      "content_hash": "90949f4f273ca1486fb78d3ca048e6302f2c1becc4eec2f7d60d810d4ec31783",
+      "title": "Sri Lanka Holds Overnight Policy Rate at 7.75% Amidst the Middle East Tensions Fast-Tracking Inflation Target",
+      "sent_at": "2026-03-25T06:03:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/trump-links-iran-%e2%80%98gift%e2%80%99-to-strait-of-hormuz-claims-strong-us-bargaining-position",
+      "content_hash": "81bb644ad91171024dcbad55fa5c06a7b4b975da0d847f6c49c8a9c5ae7263ff",
+      "title": "Trump Links Iran ‘Gift’ to Strait of Hormuz, Claims Strong US Bargaining Position",
+      "sent_at": "2026-03-25T06:03:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/two-arrested-at-bia-with-rs-15-mn-worth-of-smuggled-cigarettes",
+      "content_hash": "83d927c82c98786b7ff33670904e7d86a3a35b10347dcd02d79d9c27412e2bb8",
+      "title": "Two Arrested at BIA with Rs. 15 Mn Worth of Smuggled Cigarettes",
+      "sent_at": "2026-03-25T06:03:43Z"
     }
   ]
 }
