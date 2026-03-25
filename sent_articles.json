@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/18/about-90-ships-cross-strait-of-hormuz-as-iran-exports-millions-of-barrels-of-oil-despite-war",
-      "content_hash": "380622a8e6d70825e052263ca2b30ee8f4dc463b5e1b06780d9836a157427996",
-      "title": "About 90 Ships Cross Strait of Hormuz as Iran Exports Millions of Barrels of Oil Despite War",
-      "sent_at": "2026-03-18T09:59:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/18/four-dead-in-bus-collision-near-weerawila-prison-junction",
-      "content_hash": "1588036aee848f2a4962433517250f88dfbcc88625ef4ff972700f4b6e5c70da",
-      "title": "Four Dead in Bus Collision Near Weerawila Prison Junction",
-      "sent_at": "2026-03-18T09:59:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/18/one-dead-four-injured-in-kuliyapitiya-accident",
       "content_hash": "c76b5bd70cbf784a7a8bbcef1abbc06333c6a1b919b976ec7041296416a1866b",
       "title": "One Dead, Four Injured In Kuliyapitiya Accident",
@@ -1073,6 +1061,18 @@
       "content_hash": "427ec47ded0708595b10d3d18d47f6dd537ce2949ccd7003ba5b2e1fd2ac2408",
       "title": "Senior DIG Sanjeewa Dharmaratne Appointed Acting IGP",
       "sent_at": "2026-03-25T09:58:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/remittances-stay-strong-as-tourism-slumps-17-amid-middle-east-crisis-cbsl",
+      "content_hash": "41b83df9b53c42bed0ac29c85211827cb5a163f5a6426da9ea1d51f20f5936e3",
+      "title": "Remittances Stay Strong as Tourism Slumps 17% Amid Middle East Crisis: CBSL",
+      "sent_at": "2026-03-25T10:53:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/sri-lanka-in-stronger-position-than-past-years-to-handle-external-shocks",
+      "content_hash": "b7d19a523d2e6922c3a5f03f2b52f7527a46532835ebc873ad7bf7a898b0ad95",
+      "title": "Sri Lanka in Stronger Position Than Past Years to Handle External Shocks",
+      "sent_at": "2026-03-25T10:53:26Z"
     }
   ]
 }
