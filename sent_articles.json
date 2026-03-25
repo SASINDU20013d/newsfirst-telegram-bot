@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/18/5-5-million-fuel-qr-codes-issued-1-2-million-yet-to-register",
-      "content_hash": "51ec4f161bedef209bc65bfa0c9d0ffbabfa2e6fa675ea94a363fc2b2b2a2f0d",
-      "title": "5.5 Million Fuel QR Codes Issued, 1.2 Million Yet To Register",
-      "sent_at": "2026-03-18T06:04:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/18/cpc-says-qr-code-issues-fixed-for-600-000-fuel-users",
-      "content_hash": "1bbd57f4be975a5079ffb6ae34451a6fdc514280a00df0fe78e5a8f19a6469b9",
-      "title": "CPC says QR Code Issues Fixed For 600,000 Fuel Users",
-      "sent_at": "2026-03-18T06:04:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/18/iran-confirms-security-chief-ali-larijani-killed",
-      "content_hash": "1fe7674eca532a8cd79d5446a83341ef2934b5aabad534b94c1afc3c7bc0f172",
-      "title": "Iran Confirms Security Chief Ali Larijani Killed",
-      "sent_at": "2026-03-18T06:05:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/18/colombo-city-halts-vehicle-parking-charges",
-      "content_hash": "a296cb7bc328f37f0b5e9eb89f18d6ee187b4c2ee0b8ec076bd0dbd2e4d45efd",
-      "title": "Colombo City Halts Vehicle Parking Charges",
-      "sent_at": "2026-03-18T07:15:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/18/fuel-issued-on-oddeven-number-plate-system-from-today",
-      "content_hash": "7ded9ee2313d3ede1587ddbf831f599acb99a2bef6583154a47201ae828f489f",
-      "title": "Fuel Issued on Odd–Even Number Plate System from Today",
-      "sent_at": "2026-03-18T07:15:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/18/pucsl-to-announce-power-tariff-decision-this-month",
       "content_hash": "4ed0cc7b3b605eaa50ab4609af46de080c6fcbbfcd5dda7808201687a9e8448b",
       "title": "PUCSL To Announce Power Tariff Decision This Month",
@@ -1103,6 +1073,36 @@
       "content_hash": "83d927c82c98786b7ff33670904e7d86a3a35b10347dcd02d79d9c27412e2bb8",
       "title": "Two Arrested at BIA with Rs. 15 Mn Worth of Smuggled Cigarettes",
       "sent_at": "2026-03-25T06:03:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/7-stolen-dogs-escape-and-walk-nearly-17-km-together-to-find-their-way-home",
+      "content_hash": "1e57d06330a1431f4e69964ad3ecdb0a83d94211d8566858ecd068faba097294",
+      "title": "7 Stolen Dogs Escape and Walk Nearly 17 Km Together to Find Their Way Home",
+      "sent_at": "2026-03-25T07:15:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/cbsl-highlights-massive-growth-in-digital-payments",
+      "content_hash": "50c1f615d11200e00f8c57c22c7886be194bab7597473dfaf2cee0e4ec592d99",
+      "title": "CBSL Highlights Massive Growth in Digital Payments",
+      "sent_at": "2026-03-25T07:15:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/no-requests-to-repatriate-from-sri-lankans-in-middle-east-despite-conflicts",
+      "content_hash": "9f5e825446131dc16f95f07651ea4addc093e8392cc9f309bf3bbdb9008d6b29",
+      "title": "No Requests to Repatriate from Sri Lankans in Middle East Despite Conflicts",
+      "sent_at": "2026-03-25T07:15:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/over-200-cases-on-fraudulent-qr-codes-under-investigation",
+      "content_hash": "ca68ace73254ebe545fa48731212dc31025923728de642335be4c2590b8b299b",
+      "title": "Over 200 Cases on Fraudulent QR Codes Under Investigation",
+      "sent_at": "2026-03-25T07:15:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/25/sri-lanka-rupee-slips-as-middle-east-conflict-triggers-regional-currency-pressures",
+      "content_hash": "77250517c0b830a43d36f84b521ac836ea2d59f6bd025a314a328b93d1e7546a",
+      "title": "Sri Lanka Rupee Slips as Middle East Conflict Triggers Regional Currency Pressures",
+      "sent_at": "2026-03-25T07:15:36Z"
     }
   ]
 }
