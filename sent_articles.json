@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/19/what-began-as-an-aircraft-deal-is-now-one-of-sri-lanka%e2%80%99s-biggest-corruption-pobes",
-      "content_hash": "25e0106201ce6d2189b965cc67e9642461cd3c3673326f324f7ceb973f976269",
-      "title": "What Began As An Aircraft Deal Is Now One of Sri Lanka’s Biggest Corruption Pobes",
-      "sent_at": "2026-03-19T13:15:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/19/fuel-issued-today-under-qr-system-special-opportunity-for-those-without-qr-codes",
       "content_hash": "4982ba12d90dbd186cc2891a9bc7f4cc68c063ae975c84ac9cdf6f62c2ce5bd8",
       "title": "Fuel Issued Today Under QR System, Special Opportunity for Those Without QR Codes",
@@ -1067,6 +1061,12 @@
       "content_hash": "f814835bab805ed398fe297d2831e5714851e897527c713dd64344d8d69f2d26",
       "title": "Trump Tells Iran to 'Get Serious,' Warns Tehran That Time for Talks Is Running Out",
       "sent_at": "2026-03-26T11:53:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/russia-ready-to-deliver-refined-fuel-to-sri-lanka",
+      "content_hash": "e36dfcbdb4c8f14dd098cdb1b214eb9b2351bfebf9fc47d9ce3d5ef2859becf3",
+      "title": "Russia Ready to Deliver Refined Fuel to Sri Lanka",
+      "sent_at": "2026-03-26T13:26:58Z"
     }
   ]
 }
