@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/19/how-many-cargo-ships-are-passing-hormuz-strait",
-      "content_hash": "64b9f26b60a55f8ca0caa35b0308a22b1ec7035881263198dc080082257b4209",
-      "title": "How Many Cargo Ships Are Passing Hormuz strait?",
-      "sent_at": "2026-03-19T09:51:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/us-national-debt-surges-past-39-trillion-just-weeks-into-war-in-iran",
-      "content_hash": "af79af5704a74fd84c8b586d4f9780e6bcf0a4124ea33b6187cbd6d1e96fb8b2",
-      "title": "US National Debt Surges Past $39 TRILLION Just Weeks Into War in Iran",
-      "sent_at": "2026-03-19T09:51:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/us-special-envoy-sergio-gor-meets-president-akd",
-      "content_hash": "d7b4732dd82ae0cf2a0d1cd6eb987b085493521f296e4710cb522b75e9def7db",
-      "title": "US Special Envoy Sergio Gor Meets President AKD",
-      "sent_at": "2026-03-19T09:51:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/19/kuliyapitiya-helmet-assault-suspect-arrested-after-video-goes-viral",
       "content_hash": "cbcf07640995e91dbfb4f353973fc57b6c1455cf15568ed2d2a38de8cb78a459",
       "title": "Kuliyapitiya Helmet Assault: Suspect Arrested After Video Goes Viral",
@@ -1049,6 +1031,24 @@
       "content_hash": "6b0acaf59a849bdfb98ee57decf083ca5cf25f1dc10e4465bd75bd89fd9dc78a",
       "title": "US-Iran : What Are Each Side’s Demands & Is A Deal Possible?",
       "sent_at": "2026-03-26T09:02:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/sri-lanka-navy-seizes-indian-trawler-and-detains-4-fishermen-north-of-delft-island",
+      "content_hash": "233fff4fdc55bba49b9ae83de80e9acc789723339cde803a59ea8574dfbec00a",
+      "title": "Sri Lanka Navy Seizes Indian Trawler and Detains 4 Fishermen North of Delft Island",
+      "sent_at": "2026-03-26T10:08:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/stock-of-illegal-pills-worth-60-million-found-in-kalpitiya",
+      "content_hash": "14878271eba68d3cd813612d7f7d933397a3a550dfbf2cd289d3058d7c3c450f",
+      "title": "Stock of Illegal Pills Worth 60 Million Found in Kalpitiya",
+      "sent_at": "2026-03-26T10:08:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/wife-of-alleged-organized-criminal-%e2%80%98modara-nipuna%e2%80%99-arrested-by-cid",
+      "content_hash": "9fbef587c6613234294a2d6e3dfa1a8b9d23d84ee3588ff5ac45813a4dd81897",
+      "title": "Wife of Alleged Organized Criminal ‘Modara Nipuna’ Arrested by CID",
+      "sent_at": "2026-03-26T10:08:12Z"
     }
   ]
 }
