@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/19/18-sri-lankans-in-israel-to-return-home-due-to-violation-of-immigration-laws",
-      "content_hash": "4d72e120dcac97b9cf9705f704c15afcb1b432c6c8a39ecd77ab30c763c78668",
-      "title": "18 Sri Lankans in Israel To Return Home Due to Violation of Immigration Laws",
-      "sent_at": "2026-03-19T02:38:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/fake-fuel-qr-codes-circulating-online-public-urged-to-remain-vigilant",
-      "content_hash": "aa96fc0b50cf3a6fea16bb354bf85adf6a46f75cb9835e10c66ea98dd5d14f3f",
-      "title": "Fake Fuel QR Codes Circulating Online: Public Urged to Remain Vigilant",
-      "sent_at": "2026-03-19T02:38:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/special-window-to-purchase-fuel-for-those-yet-to-register-under-qr-code-system-today",
-      "content_hash": "f8c7eab2d1a0152d743b44736dea050f76ca4685f3c3536a02833e3c7362a287",
-      "title": "Special Window to Purchase Fuel For Those Yet To Register Under QR Code System Today",
-      "sent_at": "2026-03-19T02:38:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/19/ministry-of-digital-economy-introduces-new-feature-to-resolve-issues-in-obtaining-vehicle-fuel-qr-codes",
       "content_hash": "9b80ee64080ed3d0fcc1655ed1929f677b20f6bb1373b7b936add0e0cf9351b5",
       "title": "Ministry of Digital Economy Introduces New Feature to Resolve Issues in Obtaining Vehicle Fuel QR Codes",
@@ -1061,6 +1043,30 @@
       "content_hash": "094d09711f36cca4498cb4c64b8f5e2a662b1944f894dea8a157c8c81cdb0686",
       "title": "Russian Deputy Energy Minister to Visit Sri Lanka This Week to Discuss Energy Solutions",
       "sent_at": "2026-03-25T15:04:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/extreme-heat-alert-issued-for-multiple-regions-amid-health-concerns",
+      "content_hash": "5990e46e34fb879b20f078ff3f387c005144c550a75390d4f1a20b94d90918ce",
+      "title": "Extreme Heat Alert Issued for Multiple Regions Amid Health Concerns",
+      "sent_at": "2026-03-26T02:43:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/government-moves-to-cut-prices-on-600-essential-items-for-festive-season",
+      "content_hash": "f69f952a8138ad0a8966369ce0edc2b906bdcae1d5915961a82cc4ff614331a2",
+      "title": "Government Moves to Cut Prices on 600 Essential Items for Festive Season",
+      "sent_at": "2026-03-26T02:43:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/imfcentral-bank-talks-begin-on-next-eff-tranche",
+      "content_hash": "08da09d49419628316df8743473220c699c7402c1a4dfacec22c834922b1d412",
+      "title": "IMF–Central Bank Talks Begin on Next EFF Tranche",
+      "sent_at": "2026-03-26T02:43:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/russian-deputy-energy-minister-arrives-for-key-talks-on-sri-lanka%e2%80%99s-energy-crisis",
+      "content_hash": "8100c0590284fdbaa1e630c16aea05d23e64e4c9c7ada483689ee231b93d213f",
+      "title": "Russian Deputy Energy Minister Arrives for Key Talks on Sri Lanka’s Energy Crisis",
+      "sent_at": "2026-03-26T02:43:58Z"
     }
   ]
 }
