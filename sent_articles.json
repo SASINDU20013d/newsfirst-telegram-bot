@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/19/cpc-makes-qr-code-mandatory-for-fuel-one-day-relief-for-unregistered-motorists",
-      "content_hash": "975fd0a47e24436d405078574678d9f112a41e59786e0a988fef6a2b42810ea3",
-      "title": "CPC Makes QR Code Mandatory for Fuel, One-Day Relief for Unregistered Motorists",
-      "sent_at": "2026-03-19T07:53:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/five-arrested-across-sri-lanka-for-illegal-fuel-hoarding",
-      "content_hash": "1a5aa032cd8682ca6211ff6520016817aecd45dc4e318edfb0c405cdc2163089",
-      "title": "Five Arrested Across Sri Lanka for Illegal Fuel Hoarding",
-      "sent_at": "2026-03-19T07:53:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/new-oddeven-qr-fuel-distribution-system-begins-today",
-      "content_hash": "1a992af570e6e7750e21869194da791fc217ad8287498281c233530c92183460",
-      "title": "New Odd–Even QR Fuel Distribution System Begins Today",
-      "sent_at": "2026-03-19T07:53:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/u-s-special-envoy-gor%e2%80%99s-in-sri-lanka-for-high-level-engagements",
-      "content_hash": "e763228b1062b2f45b787f3a31c2a593f218920bafde2e7b1451b01406c687e5",
-      "title": "U.S. Special Envoy Gor’s in Sri Lanka For High-level Engagements",
-      "sent_at": "2026-03-19T07:53:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/ex%e2%80%91srilankan-airlines-ceo-claims-rs-60-mn-paid-to-mahinda-rajapaksa-in-airbus-deal",
-      "content_hash": "0edd80bdea31820b6a3a9bb12668ba9c82e6799bfb8acb08d081300dfe2df4d4",
-      "title": "Ex‑SriLankan Airlines CEO Claims Rs. 60 Mn Paid to Mahinda Rajapaksa in Airbus Deal",
-      "sent_at": "2026-03-19T08:50:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/19/how-many-cargo-ships-are-passing-hormuz-strait",
       "content_hash": "64b9f26b60a55f8ca0caa35b0308a22b1ec7035881263198dc080082257b4209",
       "title": "How Many Cargo Ships Are Passing Hormuz strait?",
@@ -1061,6 +1031,24 @@
       "content_hash": "e180f1435a5ae4aab583b77dc5fd498569133d126ba25e21a25e0ae6ad7a7215",
       "title": "Russian Deputy Energy Minister Meets President Anura Kumara Dissanayake",
       "sent_at": "2026-03-26T07:15:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/army-gathers-key-intelligence-on-southern-sea-drug-networks",
+      "content_hash": "5a49a1d6aa2f6167f037d3bcf6ec833cce4078477ef84e46cff2fbead35dda2b",
+      "title": "Army Gathers Key Intelligence On Southern Sea Drug Networks",
+      "sent_at": "2026-03-26T09:02:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/two-arrested-at-bia-with-rs-100-million-kush",
+      "content_hash": "2d7469db749e78acfc02c93bc9e463671cb2c34a40060c8470a18556f3639653",
+      "title": "Two Arrested at BIA With Rs. 100 Million Kush",
+      "sent_at": "2026-03-26T09:02:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/us-iran-what-are-each-side%e2%80%99s-demands-is-a-deal-possible",
+      "content_hash": "6b0acaf59a849bdfb98ee57decf083ca5cf25f1dc10e4465bd75bd89fd9dc78a",
+      "title": "US-Iran : What Are Each Side’s Demands & Is A Deal Possible?",
+      "sent_at": "2026-03-26T09:02:41Z"
     }
   ]
 }
