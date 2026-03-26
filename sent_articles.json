@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/19/kuliyapitiya-helmet-assault-suspect-arrested-after-video-goes-viral",
-      "content_hash": "cbcf07640995e91dbfb4f353973fc57b6c1455cf15568ed2d2a38de8cb78a459",
-      "title": "Kuliyapitiya Helmet Assault: Suspect Arrested After Video Goes Viral",
-      "sent_at": "2026-03-19T10:47:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/man-arrested-in-mt-lavinia-for-plotting-murder",
-      "content_hash": "983f0d0d97b4adb88abb675945cceb4425459a8f0624216c00a61f6c0b395f5a",
-      "title": "Man Arrested In Mt. Lavinia For Plotting Murder",
-      "sent_at": "2026-03-19T10:47:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/19/what-began-as-an-aircraft-deal-is-now-one-of-sri-lanka%e2%80%99s-biggest-corruption-pobes",
       "content_hash": "25e0106201ce6d2189b965cc67e9642461cd3c3673326f324f7ceb973f976269",
       "title": "What Began As An Aircraft Deal Is Now One of Sri Lanka’s Biggest Corruption Pobes",
@@ -1049,6 +1037,36 @@
       "content_hash": "9fbef587c6613234294a2d6e3dfa1a8b9d23d84ee3588ff5ac45813a4dd81897",
       "title": "Wife of Alleged Organized Criminal ‘Modara Nipuna’ Arrested by CID",
       "sent_at": "2026-03-26T10:08:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/caasl-confirms-continued-middle-east-flight-connectivity-amid-selective-suspensions",
+      "content_hash": "850546dc22feca1dd8b2b708caaa9726ae4d4a30d26f4691059053800f5777f8",
+      "title": "CAASL Confirms Continued Middle East Flight Connectivity Amid Selective Suspensions",
+      "sent_at": "2026-03-26T11:53:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/energy-cooperation-in-focus-as-president-scheduled-to-meet-russian-envoy",
+      "content_hash": "e013dc797ed3da790ed685acbb531e5de115f8453ff272fc0fc9259e74c8ad8c",
+      "title": "Energy Cooperation in Focus as President Scheduled to Meet Russian Envoy",
+      "sent_at": "2026-03-26T11:53:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/germany-hormuz-closure-is-an-economic-catastrophe",
+      "content_hash": "64f9eb64393c3e7473ef4a7b10d93075a93cb410527c4721e2e65b94d37608c1",
+      "title": "Germany: Hormuz Closure Is an Economic Catastrophe",
+      "sent_at": "2026-03-26T11:53:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/irgc-launches-82nd-wave-of-missile-drone-strikes-against-us-israeli-assets",
+      "content_hash": "056ff4e33a8bb552abc99b66d23ddd2dfe6005ec343dfc99520fee8bd894902e",
+      "title": "IRGC Launches 82nd Wave of Missile, Drone Strikes Against US-Israeli Assets",
+      "sent_at": "2026-03-26T11:53:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/trump-tells-iran-to-get-serious-warns-tehran-that-time-for-talks-is-running-out",
+      "content_hash": "f814835bab805ed398fe297d2831e5714851e897527c713dd64344d8d69f2d26",
+      "title": "Trump Tells Iran to 'Get Serious,' Warns Tehran That Time for Talks Is Running Out",
+      "sent_at": "2026-03-26T11:53:25Z"
     }
   ]
 }
