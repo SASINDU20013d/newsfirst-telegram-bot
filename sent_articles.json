@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/19/israel-attacks-iran-s-south-pars-gas-field-iran-retaliates-with-strikes-on-qatar-s-ras-laffan",
-      "content_hash": "f7b7d032ef8487ecdf072697378831b15d30922b5f3366f9ea357e0c7193f75d",
-      "title": "Israel Attacks Iran's South Pars Gas Field; Iran Retaliates with Strikes on Qatar's Ras Laffan",
-      "sent_at": "2026-03-19T06:00:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/qatar-reassures-sri-lanka-on-energy-supplies-and-migrant-safety",
-      "content_hash": "7346fdd200effce4da7801ee1e4b182acfbdb50f22c43654f862e8fe4cad1ef1",
-      "title": "Qatar Reassures Sri Lanka on Energy Supplies and Migrant Safety",
-      "sent_at": "2026-03-19T06:00:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/pentagon-asks-white-house-to-approve-200b-request-to-congress-for-iran-war",
-      "content_hash": "468a6c29ca640e6a11e76861f958a9e83d4a1eb04e8b9007f501433cda0a6b6a",
-      "title": "Pentagon asks White House to approve $200B request to Congress for Iran war",
-      "sent_at": "2026-03-19T07:04:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/19/cpc-makes-qr-code-mandatory-for-fuel-one-day-relief-for-unregistered-motorists",
       "content_hash": "975fd0a47e24436d405078574678d9f112a41e59786e0a988fef6a2b42810ea3",
       "title": "CPC Makes QR Code Mandatory for Fuel, One-Day Relief for Unregistered Motorists",
@@ -1067,6 +1049,18 @@
       "content_hash": "a705196fa1d1abe7814306a22dce2e015e81af4dab7b6179ce3bde05387cc2f2",
       "title": "Three Arrested At Bandaranaike International Airport With Over 120,200 Illegal Cigarettes",
       "sent_at": "2026-03-26T05:10:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/cpc-confirms-new-shipments-and-over-6-million-qr-registrations",
+      "content_hash": "a2697801dfa660f5c9e9974ef987b3233657795b33372314f3f6f64258f2e149",
+      "title": "CPC Confirms New Shipments And Over 6 Million QR Registrations",
+      "sent_at": "2026-03-26T07:15:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/russian-deputy-energy-minister-meets-president-anura-kumara-dissanayake",
+      "content_hash": "e180f1435a5ae4aab583b77dc5fd498569133d126ba25e21a25e0ae6ad7a7215",
+      "title": "Russian Deputy Energy Minister Meets President Anura Kumara Dissanayake",
+      "sent_at": "2026-03-26T07:15:43Z"
     }
   ]
 }
