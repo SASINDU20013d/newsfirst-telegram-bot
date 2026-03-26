@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/19/ministry-of-digital-economy-introduces-new-feature-to-resolve-issues-in-obtaining-vehicle-fuel-qr-codes",
-      "content_hash": "9b80ee64080ed3d0fcc1655ed1929f677b20f6bb1373b7b936add0e0cf9351b5",
-      "title": "Ministry of Digital Economy Introduces New Feature to Resolve Issues in Obtaining Vehicle Fuel QR Codes",
-      "sent_at": "2026-03-19T04:57:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/19/up-to-15-000-us-visa-bonds-for-50-nations-sri-lanka-excluded",
-      "content_hash": "54d248ed1c17c99543165dfaa3e037bcc1b0c01783da36d7a7e98f22479e5e75",
-      "title": "Up to $15,000 US Visa Bonds for 50 Nations - Sri Lanka Excluded",
-      "sent_at": "2026-03-19T04:57:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/19/israel-attacks-iran-s-south-pars-gas-field-iran-retaliates-with-strikes-on-qatar-s-ras-laffan",
       "content_hash": "f7b7d032ef8487ecdf072697378831b15d30922b5f3366f9ea357e0c7193f75d",
       "title": "Israel Attacks Iran's South Pars Gas Field; Iran Retaliates with Strikes on Qatar's Ras Laffan",
@@ -1067,6 +1055,18 @@
       "content_hash": "8100c0590284fdbaa1e630c16aea05d23e64e4c9c7ada483689ee231b93d213f",
       "title": "Russian Deputy Energy Minister Arrives for Key Talks on Sri Lanka’s Energy Crisis",
       "sent_at": "2026-03-26T02:43:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/salley-returned-to-cid-custody-after-hospital-treatment",
+      "content_hash": "15bb365cc5f98694a7aec9749217c99ee633529c9ab3a1f823e72b056500228f",
+      "title": "Salley Returned To CID Custody After Hospital Treatment",
+      "sent_at": "2026-03-26T05:10:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/26/three-arrested-at-bandaranaike-international-airport-with-over-120-200-illegal-cigarettes",
+      "content_hash": "a705196fa1d1abe7814306a22dce2e015e81af4dab7b6179ce3bde05387cc2f2",
+      "title": "Three Arrested At Bandaranaike International Airport With Over 120,200 Illegal Cigarettes",
+      "sent_at": "2026-03-26T05:10:12Z"
     }
   ]
 }
