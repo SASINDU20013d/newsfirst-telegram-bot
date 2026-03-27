@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/20/cpc-lodges-complaint-with-cid-over-fraudulent-fuel-qr-codes",
-      "content_hash": "ce3cf88ab7d7f2bd3d73cc129fc7f8b074e37ed6c4e5c1b317440709cc93fecf",
-      "title": "CPC Lodges Complaint with CID Over Fraudulent Fuel QR Codes",
-      "sent_at": "2026-03-20T04:50:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/crackdown-on-fuel-hoarding-two-nabbed-with-illegal-diesel-stocks",
-      "content_hash": "8dd2a0fd464fd43ee79caedf7394ca9fb1a4d7fd3e824c43a407f120a1656e9d",
-      "title": "Crackdown on Fuel Hoarding: Two Nabbed with Illegal Diesel Stocks",
-      "sent_at": "2026-03-20T04:50:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/president-to-address-parliament-on-middle-east-crisis-impact",
-      "content_hash": "396035acab620040376640910ef7e2de48fa913e2fc972c5f732f4a141429d3d",
-      "title": "President to Address Parliament on Middle East Crisis Impact",
-      "sent_at": "2026-03-20T04:50:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/special-fuel-supply-program-launched-for-industrialists",
-      "content_hash": "e9407039cc9fd74a87bcfafaacc0d5814593de6d458caa87999425db78aaf0dd",
-      "title": "Special Fuel Supply Program Launched for Industrialists",
-      "sent_at": "2026-03-20T04:50:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/20/nine-year-old-girl-killed-in-crocodile-attack",
       "content_hash": "df21584b8a7016fc347c65cbaf405f0393cddef6d5c617c804f7ab23b7dc17f6",
       "title": "Nine-Year-Old Girl Killed in Crocodile Attack",
@@ -1025,6 +1001,12 @@
       "content_hash": "877dff997f766373e411be1340f8f881e65cc679008b172b9c3d2c4f80cd2a6f",
       "title": "National Integrity Week Begins Today",
       "sent_at": "2026-03-27T02:45:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/jet-a1-fuel-stocks-sufficient-until-mid-may",
+      "content_hash": "50d58b444a65a9274ef80252a1c80cc5d1e0f2ef9f351441bef53d1419237457",
+      "title": "Jet A1 Fuel Stocks Sufficient Until Mid-May",
+      "sent_at": "2026-03-27T05:11:04Z"
     }
   ]
 }
