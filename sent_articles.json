@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/20/crackdown-on-fraudulent-fuel-qr-codes-as-600-000-generated-in-a-day",
-      "content_hash": "b272e58d358f875b693ef767f7cdcff1b0986f4244e98894e7efb3d801dcfa08",
-      "title": "Crackdown on Fraudulent Fuel QR Codes as 600,000 Generated in a Day",
-      "sent_at": "2026-03-20T02:30:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/fuel-supply-for-private-buses-expanded-through-sltb-depots",
-      "content_hash": "4c58a4cc6077677a47e3c087f832533d221adfcbca1675e3473dd11fd3a5f1d8",
-      "title": "Fuel Supply for Private Buses Expanded Through SLTB Depots",
-      "sent_at": "2026-03-20T02:30:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/20/cpc-lodges-complaint-with-cid-over-fraudulent-fuel-qr-codes",
       "content_hash": "ce3cf88ab7d7f2bd3d73cc129fc7f8b074e37ed6c4e5c1b317440709cc93fecf",
       "title": "CPC Lodges Complaint with CID Over Fraudulent Fuel QR Codes",
@@ -1025,6 +1013,18 @@
       "content_hash": "922de9799453eb0b014b7fc95d16fbced3e15a706a79c2e16cd19c21af8203bf",
       "title": "Russia Pledges Comprehensive Support to Sri Lanka Beyond Energy Sector",
       "sent_at": "2026-03-26T15:09:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/id-services-suspended-until-further-notice",
+      "content_hash": "f4e220f8e20e9ab632a2c765ece54bb16f0fae24a55d9752bcbb694dcc7f0a0d",
+      "title": "ID Services Suspended Until Further Notice",
+      "sent_at": "2026-03-27T02:45:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/national-integrity-week-begins-today",
+      "content_hash": "877dff997f766373e411be1340f8f881e65cc679008b172b9c3d2c4f80cd2a6f",
+      "title": "National Integrity Week Begins Today",
+      "sent_at": "2026-03-27T02:45:56Z"
     }
   ]
 }
