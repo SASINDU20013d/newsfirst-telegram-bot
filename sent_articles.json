@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/20/sri-lanka-carefully-schedules-shipments-and-fills-gaps",
-      "content_hash": "b81dfb71780bdbc95881790a793695b76a66e2bf6edecb03955705380bc72c7a",
-      "title": "Sri Lanka Carefully Schedules Shipments and Fills Gaps",
-      "sent_at": "2026-03-20T07:50:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/20/court-permits-statement-recording-from-convict-duminda-silva-over-alleged-rs-5-million-bribe",
       "content_hash": "4de658bb0f8d65a6ec808b195446ec16b706f4d86b5aaf7d66b10f461a353491",
       "title": "Court Permits Statement Recording from Convict Duminda Silva Over Alleged Rs. 5 Million Bribe",
@@ -1001,6 +995,24 @@
       "content_hash": "1e0013fbfcd3568709e37a55b83fd4f374c3440fe5936ae2c5474265a4ddbd36",
       "title": "Upcountry Rail Services To Resume Soon",
       "sent_at": "2026-03-27T07:14:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/ex-health-minister-fined-rs-75m-over-rights-violation",
+      "content_hash": "b8c92aa1c99ee4e2e8a26c50ada6ea6788ee49f3ec0fde481226b961ab35f38e",
+      "title": "Ex-Health Minister Fined Rs. 75M Over Rights Violation",
+      "sent_at": "2026-03-27T08:58:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/gammadda-back-in-action-water-purification-system-handed-over-in-galnewa",
+      "content_hash": "0b81a1de7be392569d56acdc523c2d7bad74726673b5e73a1c84a1da004a1138",
+      "title": "Gammadda Back in Action: Water Purification System Handed Over in Galnewa",
+      "sent_at": "2026-03-27T08:58:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/no-price-increase-for-confectionery-until-may",
+      "content_hash": "20297372ff92baa7767dea1d7eee35952273fdd8b6b1c8375bddff0017b2cb46",
+      "title": "No Price Increase For Confectionery Until May",
+      "sent_at": "2026-03-27T08:59:00Z"
     }
   ]
 }
