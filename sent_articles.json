@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/20/nine-year-old-girl-killed-in-crocodile-attack",
-      "content_hash": "df21584b8a7016fc347c65cbaf405f0393cddef6d5c617c804f7ab23b7dc17f6",
-      "title": "Nine-Year-Old Girl Killed in Crocodile Attack",
-      "sent_at": "2026-03-20T05:55:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/trump%e2%80%99s-pearl-harbor-remark-creates-awkward-moment-for-japanese-prime-minister",
-      "content_hash": "3d51e608f1e44dcb2afeedf6da382e44abd9ad10bc79146a9ab2a2c8c57c4955",
-      "title": "Trump’s Pearl Harbor Remark Creates Awkward Moment for Japanese Prime Minister",
-      "sent_at": "2026-03-20T05:55:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/two-arrested-in-drug-raids-in-katunayake-and-orugodawatta",
-      "content_hash": "5ea9f95a9722fb96702aae65b8c0666b89977ac7c861ffd77e779615cb7159ed",
-      "title": "Two Arrested in Drug Raids in Katunayake and Orugodawatta",
-      "sent_at": "2026-03-20T05:55:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/sri-lanka-in-talks-with-emirates-qatar-to-position-mattala-as-alternative-transit-hub",
-      "content_hash": "de918ee253a6ecb7cd63b927b8e5a0908f353bdc7d0debef29de6ba42f19ee54",
-      "title": "Sri Lanka in Talks With Emirates, Qatar to Position Mattala as Alternative Transit Hub",
-      "sent_at": "2026-03-20T07:02:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/when-iran-sought-port-access-us-jets-also-asked-to-land-president-explains-decision",
-      "content_hash": "2a3b0b8b9cae8005fc0a8f68e239530bce7fbc331e89d8f2c05d7737cfdea951",
-      "title": "When Iran Sought Port Access, US Jets Also Asked to Land: President Explains Decision",
-      "sent_at": "2026-03-20T07:02:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/20/sri-lanka-carefully-schedules-shipments-and-fills-gaps",
       "content_hash": "b81dfb71780bdbc95881790a793695b76a66e2bf6edecb03955705380bc72c7a",
       "title": "Sri Lanka Carefully Schedules Shipments and Fills Gaps",
@@ -1007,6 +977,30 @@
       "content_hash": "50d58b444a65a9274ef80252a1c80cc5d1e0f2ef9f351441bef53d1419237457",
       "title": "Jet A1 Fuel Stocks Sufficient Until Mid-May",
       "sent_at": "2026-03-27T05:11:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/china-support-needed-for-ocean-management",
+      "content_hash": "eb4aae18a2d537fe9715c61fb70ea68f0226a3d7ce8c0720de9c4b7a866a224e",
+      "title": "China Support Needed For Ocean Management",
+      "sent_at": "2026-03-27T07:14:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/fuel-talks-with-russia-suppliers-today",
+      "content_hash": "77725eb7e6c4c3e98a05f3ca3d77a686712715bf1267c4c9c660d7dfb222128b",
+      "title": "Fuel Talks With Russia Suppliers Today",
+      "sent_at": "2026-03-27T07:14:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/two-suspects-arrested-for-extortion-in-ambalangoda",
+      "content_hash": "897737af6373fdd36300c9db114dd8537d148ae43ae22bcfdcb9e5f9bda384a8",
+      "title": "Two Suspects Arrested for Extortion in Ambalangoda",
+      "sent_at": "2026-03-27T07:14:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/upcountry-rail-services-to-resume-soon",
+      "content_hash": "1e0013fbfcd3568709e37a55b83fd4f374c3440fe5936ae2c5474265a4ddbd36",
+      "title": "Upcountry Rail Services To Resume Soon",
+      "sent_at": "2026-03-27T07:14:39Z"
     }
   ]
 }
