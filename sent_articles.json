@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/20/ex-us-counterterrorism-director-disputes-claims-iran-was-nearing-a-nuke",
-      "content_hash": "dcd0d8fff17e9384a79f606e2cfed8cbf61dd6be83e481db1dae4cb599a885c3",
-      "title": "Ex-US Counterterrorism Director Disputes Claims Iran Was Nearing a Nuke",
-      "sent_at": "2026-03-20T11:35:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/20/former-minister-johnston-fernando-and-four-others-remanded-until-april-2nd",
-      "content_hash": "c70fe2debd5febcd8e4066ea3bfe364a43ec8414b9cb0f1b035caff663c46c30",
-      "title": "Former Minister Johnston Fernando and Four Others Remanded Until April 2nd",
-      "sent_at": "2026-03-20T11:35:15Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/20/fuel-prices-president-details-costs-taxes-and-market-risks",
       "content_hash": "a98c11029a62e14d6cc7f263e0d341c3dbfb4bd03bee9be6b8b019757f071a80",
       "title": "Fuel Prices: President Details Costs, Taxes, and Market Risks",
@@ -995,6 +983,30 @@
       "content_hash": "e060da0e883c80e84b20ca18f74b473d429838677b7f97d33726bd6e22894c4b",
       "title": "Police Warn Against Online Shopping Scams",
       "sent_at": "2026-03-27T09:57:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/customs-seize-rs-30-mn-worth-of-foreign-cigarettes-at-bia",
+      "content_hash": "369c881bb4d1804093a40fb115cd850ff103625b87c8ffa6df71cc29ab3fdc44",
+      "title": "Customs Seize Rs. 30 Mn Worth of Foreign Cigarettes at BIA",
+      "sent_at": "2026-03-27T11:43:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/how-one-water-project-changed-an-entire-village",
+      "content_hash": "6780ee64cc8189e6bdbd3048d6ae7ac136474e7803d7927469836ffc3c78e024",
+      "title": "How One Water Project Changed an Entire Village",
+      "sent_at": "2026-03-27T11:43:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/japan-signs-grant-to-deliver-low-floor-buses-for-sri-lanka%e2%80%99s-public-transport",
+      "content_hash": "cb5f34b5a6d6c32aa21acf5e9399a588222c856367d3a4e5a13e77ed8cb9e328",
+      "title": "Japan Signs Grant to Deliver Low-Floor Buses for Sri Lanka’s Public Transport",
+      "sent_at": "2026-03-27T11:44:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/27/misje-kandy-sets-sail-as-colombo-dockyard-completes-norwegian-vessel-series",
+      "content_hash": "3c54deacee4893f264032182d95159b9907c5e368361e67cf895d1e104395d86",
+      "title": "'Misje Kandy' Sets Sail As Colombo Dockyard Completes Norwegian Vessel Series",
+      "sent_at": "2026-03-27T11:44:03Z"
     }
   ]
 }
