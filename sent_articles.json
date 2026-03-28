@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/21/bts-is-back-global-phenomenon-returns-to-seoul-stage",
-      "content_hash": "49110c2570be13b13bdbb70f482fa0748e619b00e1ee042f9bcdc970d6b3ef12",
-      "title": "BTS Is Back: Global Phenomenon Returns To Seoul Stage",
-      "sent_at": "2026-03-21T07:35:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/21/cid-arrests-two-suspects-with-firearms-in-payagala",
-      "content_hash": "b95c65a4062fe9ac588747d6d794d1e1242ebe6ed146a332575718684e1af90b",
-      "title": "CID Arrests Two Suspects with Firearms in Payagala",
-      "sent_at": "2026-03-21T07:35:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/21/four-more-suspects-arrested-for-illegal-fuel-possession-and-sales",
-      "content_hash": "24abf76222a3e7ea19a4e84ea3327863079228e8aaa0c9006c9289af1a68901f",
-      "title": "Four More Suspects Arrested for Illegal Fuel Possession and Sales",
-      "sent_at": "2026-03-21T07:35:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/21/man-killed-after-dispute-in-horana",
-      "content_hash": "d9d1d2464fd888ded257e60d86047136ad5fdb6171ad3f7cd88c41e4515acd92",
-      "title": "Man Killed After Dispute In Horana",
-      "sent_at": "2026-03-21T07:35:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/21/fuel-data-drive-for-food-transport-sector",
       "content_hash": "b9765958b944261739813afb725e2165403685c5b4d97faf89e80cfd23e66eb0",
       "title": "Fuel Data Drive For Food Transport Sector",
