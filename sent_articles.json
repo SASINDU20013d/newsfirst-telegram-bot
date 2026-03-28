@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/21/daughter-and-son-in-law-arrested-for-murder-of-lecturer-of-jaffna-university",
-      "content_hash": "d511b066cbe96d6ab22de12a4e16a581809e613ccee241858419fe09118a50ab",
-      "title": "Daughter and Son-in-Law Arrested for Murder of Lecturer of Jaffna University",
-      "sent_at": "2026-03-21T12:58:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/21/global-fuel-prices-surge-40-amid-rising-middle-east-tensions-nations-enforce-crisis-measures",
       "content_hash": "c00c9923c840ad1c4457f99797db958ec586a07c15a8c7cfb3b9ff9cc6cbaefd",
       "title": "Global Fuel Prices Surge 40% Amid Rising Middle East Tensions; Nations Enforce Crisis Measures",
@@ -941,6 +935,12 @@
       "content_hash": "cee548663e3ec902b26839276091117b53dbc7e043477fe7d7a7fa0409cd49ca",
       "title": "Ceylon Petroleum Officials Appointed To Address Fuel Issues Across Ministries",
       "sent_at": "2026-03-28T11:31:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/28/lanka-coal-company-ships-to-arrive-from-april-20-5-vessels-bringing-coal-from-south-africa",
+      "content_hash": "3ed8b7c0666eaa248b73691056fa99f1c43af597e0f4af3475cc8361871ce466",
+      "title": "Lanka Coal Company Ships To Arrive From April 20, 5 Vessels Bringing Coal From South Africa",
+      "sent_at": "2026-03-28T13:03:57Z"
     }
   ]
 }
