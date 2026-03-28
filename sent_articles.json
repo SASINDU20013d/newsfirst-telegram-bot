@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/21/weekly-fuel-quotas-revised-cpc",
-      "content_hash": "9cf0687feb3c6a98cbbdff2f03fbb5b58cbde78ac5b628096bb2ac2387221e3c",
-      "title": "Weekly Fuel Quotas Revised - CPC",
-      "sent_at": "2026-03-21T15:30:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/21/cpc-fuel-prices-revised-with-effect-from-midnight-today",
       "content_hash": "5adba79b647203f11afba34a3707d8440dc9b4ab3e9c0fcb0c77209ee279e8e0",
       "title": "CPC Fuel Prices Revised with effect from Midnight Today",
