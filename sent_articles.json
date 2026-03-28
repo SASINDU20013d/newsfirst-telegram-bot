@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/21/15-arrested-in-ratmalana-with-weapons-and-narcotics",
-      "content_hash": "39bcbb701e9da8986cf7b5979585819b17f3da0c3c33924c6628976b4f9a0ea6",
-      "title": "15 Arrested in Ratmalana with Weapons and Narcotics",
-      "sent_at": "2026-03-21T09:36:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/21/severe-lightning-warning-issued-for-four-districts",
       "content_hash": "dce3f8d5ccbc6877c282b454bdcd70da42dec3aebd785f071fcb0c2cf1e8cbab",
       "title": "Severe Lightning Warning Issued for Four Districts",
@@ -953,6 +947,12 @@
       "content_hash": "68df366d1cabda44aa58d60f170735e0b387c36998afb57b1a010ce0cb9a81e8",
       "title": "Man Arrested in Warakapola With 1,235L of Diesel",
       "sent_at": "2026-03-28T08:46:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/28/police-arrest-drug-suspect-in-balumgala-ice-and-heroin-seized",
+      "content_hash": "d93deea1742d316371cbcadd10cf56ee368fac3d496ae4438a3e44a452cd1bd7",
+      "title": "Police Arrest Drug Suspect In Balumgala: Ice And Heroin Seized",
+      "sent_at": "2026-03-28T09:41:58Z"
     }
   ]
 }
