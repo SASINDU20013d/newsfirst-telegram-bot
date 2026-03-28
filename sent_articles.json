@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/21/inter-club-rugby-sevens-tournament-kicks-off-after-four-year-hiatus",
-      "content_hash": "4a799d076ed5fe61cf3ccf1c02a2cd154559b57194b9404235ec0b5e7e47fe94",
-      "title": "Inter-Club Rugby Sevens Tournament Kicks Off After Four-Year Hiatus",
-      "sent_at": "2026-03-21T04:40:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/21/iran-fires-2-ballistic-missiles-towards-us-uk-military-bases-in-diego-garcia",
-      "content_hash": "6fb720ad0adef06149c969115901605bdd168341650c00846fd2aba36f7e2734",
-      "title": "Iran fires 2 ballistic missiles towards US, UK military bases in Diego Garcia",
-      "sent_at": "2026-03-21T04:40:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/21/muslims-celebrate-eid-ul-fitr-as-leaders-urge-unity-and-strength",
-      "content_hash": "91b87337c6238fd26ff4592b5a77409180f134abfd19c9de9bfe13b72110664b",
-      "title": "Muslims Celebrate Eid ul-Fitr as Leaders Urge Unity and Strength",
-      "sent_at": "2026-03-21T04:40:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/21/us-temporarily-lifts-sanctions-on-iranian-oil-stuck-at-sea",
-      "content_hash": "6c3713a94aae2f6a262e7cf361637c861959e6db4626657ce9b95fe000016515",
-      "title": "US Temporarily lifts Sanctions on Iranian Oil stuck at sea",
-      "sent_at": "2026-03-21T04:40:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/21/bts-is-back-global-phenomenon-returns-to-seoul-stage",
       "content_hash": "49110c2570be13b13bdbb70f482fa0748e619b00e1ee042f9bcdc970d6b3ef12",
       "title": "BTS Is Back: Global Phenomenon Returns To Seoul Stage",
@@ -983,6 +959,18 @@
       "content_hash": "84697ffa4a4be4a8680a4d4ef54389bcc5b2ffcc3b3da6cc679e86a25dafca42",
       "title": "No Fuel Shortage During the Festive Season - CPC",
       "sent_at": "2026-03-28T02:35:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/28/2-dead-7-injured-in-cab-tractor-collision-in-girandurukotte",
+      "content_hash": "cde7096901eb86529063b1046654042eabe3168f17c28a601a5c032b53598be0",
+      "title": "2 Dead, 7 Injured in Cab-tractor Collision in Girandurukotte",
+      "sent_at": "2026-03-28T04:56:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/28/commissioner-general-of-motor-traffic-arrested",
+      "content_hash": "c65e3fc83e957898ba8a5c71ec5ff65c3d8dab179eb502e53a15b6f8a7832a44",
+      "title": "Commissioner General of Motor Traffic Arrested",
+      "sent_at": "2026-03-28T04:56:52Z"
     }
   ]
 }
