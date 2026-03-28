@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/21/individual-arrested-over-misleading-content-targeting-tourism",
-      "content_hash": "f24c27288be9e7896b79ead77b98ffd7566d8a7385ef2159e2169d1cf1014547",
-      "title": "Individual Arrested Over Misleading Content Targeting Tourism",
-      "sent_at": "2026-03-21T11:27:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/21/daughter-and-son-in-law-arrested-for-murder-of-lecturer-of-jaffna-university",
       "content_hash": "d511b066cbe96d6ab22de12a4e16a581809e613ccee241858419fe09118a50ab",
       "title": "Daughter and Son-in-Law Arrested for Murder of Lecturer of Jaffna University",
@@ -941,6 +935,12 @@
       "content_hash": "d93deea1742d316371cbcadd10cf56ee368fac3d496ae4438a3e44a452cd1bd7",
       "title": "Police Arrest Drug Suspect In Balumgala: Ice And Heroin Seized",
       "sent_at": "2026-03-28T09:41:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/28/ceylon-petroleum-officials-appointed-to-address-fuel-issues-across-ministries",
+      "content_hash": "cee548663e3ec902b26839276091117b53dbc7e043477fe7d7a7fa0409cd49ca",
+      "title": "Ceylon Petroleum Officials Appointed To Address Fuel Issues Across Ministries",
+      "sent_at": "2026-03-28T11:31:56Z"
     }
   ]
 }
