@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/22/four-sri-lankans-injured-in-iranian-missile-attack-on-israel%e2%80%99s-dimona",
-      "content_hash": "295809165c3253c1c5fe9ab882ea951b88c6aac62c65bc1051fa8049b1ad8c82",
-      "title": "Four Sri Lankans Injured in Iranian Missile Attack on Israel’s Dimona",
-      "sent_at": "2026-03-22T10:32:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/22/over-153-phone-numbers-probed-over-fuel-qr-code-abuse",
-      "content_hash": "669373faf55826f4d560df49a299e9b2c93912be38ca4fc511b88cb7d8768f8b",
-      "title": "Over 153 Phone Numbers Probed Over Fuel QR Code Abuse",
-      "sent_at": "2026-03-22T10:32:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/22/colombo-to-reinstate-city-parking-fees-from-tomorrow-after-temporary-waiver",
       "content_hash": "bfb8d52fb05800213bae34129858c16acbdc7925910eae400e3e14b7f96420fe",
       "title": ":Colombo to Reinstate City Parking Fees from Tomorrow After Temporary Waiver",
@@ -911,6 +899,12 @@
       "content_hash": "b362902a685b3f4d137ffa5835477debd84c448b60787a65818be6aee60251cb",
       "title": "Heroin Seizure in Peliyagoda: 1.6 Kg Found in Suspect’s Possession",
       "sent_at": "2026-03-29T09:41:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/state-of-public-emergency-extended-as-essential-services-to-continue",
+      "content_hash": "c6de0146fd9a3f521557324a43c5d0c5792a40aca96132b13366813b57d051db",
+      "title": "State of Public Emergency Extended as Essential Services to Continue",
+      "sent_at": "2026-03-29T10:38:56Z"
     }
   ]
 }
