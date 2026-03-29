@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/22/sinopec-raises-fuel-prices-with-effect-from-midnight-today-22",
-      "content_hash": "55175d42c7e31ed76627efe26baf3652b77d201a6ca0efaebdb9d2b1cbd947c8",
-      "title": "Sinopec Raises Fuel Prices With Effect From Midnight Today (22)",
-      "sent_at": "2026-03-22T05:56:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/22/caa-deploys-special-teams-to-prevent-artificial-shortages-in-the-market-during-the-festive-season",
       "content_hash": "1b7960aa07bbbfd52b474bb74d5db2b225f1b9372ea9681a8890c077e23d407d",
       "title": "CAA Deploys Special Teams to Prevent Artificial Shortages in the Market During the Festive Season",
@@ -917,6 +911,18 @@
       "content_hash": "961d76bef7849b4a8747e0ef19bf5243d90552e3a87496af1b53319598e36bea",
       "title": "Three Students Arrested After Video of Assault Went Viral",
       "sent_at": "2026-03-29T05:15:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/centralized-electronic-system-for-asset-and-liability-declaration-to-be-introduced",
+      "content_hash": "f99880838e49b6641622f0027d3d7faec8e94e2e5900f01a36bbb197a501b804",
+      "title": "Centralized Electronic System for Asset and Liability Declaration, to be Introduced",
+      "sent_at": "2026-03-29T07:12:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/ioc-fuel-tanker-arrives-in-colombo-following-diplomatic-conversation-between-india-and-sri-lanka",
+      "content_hash": "19b44d9cdbee2b8161fc5f3abd18a76da919a34214f192441f435830bf2f9fd6",
+      "title": "IOC Fuel Tanker Arrives in Colombo Following Diplomatic Conversation between India and Sri Lanka",
+      "sent_at": "2026-03-29T07:12:04Z"
     }
   ]
 }
