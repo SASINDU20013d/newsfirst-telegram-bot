@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/22/two-arrested-for-illegal-possession-of-fuel",
-      "content_hash": "b404e5c1fc9347fc9fcb1d87700711f746cf0d5d1acf9eea816e16b9fcb2f84f",
-      "title": "Two Arrested for Illegal Possession of Fuel",
-      "sent_at": "2026-03-22T04:55:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/22/world-water-day-focus-on-water-and-gender-where-water-flows-equality-grows",
-      "content_hash": "f64d21aabe7aa2de7a2194347e03b3001c84ecdbef663e754ac7d23f7dfde0e7",
-      "title": "World Water Day Focus on Water and Gender: Where Water Flows, Equality Grows",
-      "sent_at": "2026-03-22T04:55:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/22/sinopec-raises-fuel-prices-with-effect-from-midnight-today-22",
       "content_hash": "55175d42c7e31ed76627efe26baf3652b77d201a6ca0efaebdb9d2b1cbd947c8",
       "title": "Sinopec Raises Fuel Prices With Effect From Midnight Today (22)",
@@ -917,6 +905,18 @@
       "content_hash": "6944898cfd6d1708cbdc601c256663a161f328bc7072ce8d3bea31c22e1603c4",
       "title": "Water Supply Suspended for Dehiwala and Surrounding Areas",
       "sent_at": "2026-03-29T02:49:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/sri-lanka-railways-to-introduce-digital-ticketing-system",
+      "content_hash": "2249f6dc69b288764e7284bf1eb01ea566b388cb0559933ef73076b801643cfb",
+      "title": "Sri Lanka Railways to Introduce Digital Ticketing System",
+      "sent_at": "2026-03-29T05:15:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/three-students-arrested-after-video-of-assault-went-viral",
+      "content_hash": "961d76bef7849b4a8747e0ef19bf5243d90552e3a87496af1b53319598e36bea",
+      "title": "Three Students Arrested After Video of Assault Went Viral",
+      "sent_at": "2026-03-29T05:15:02Z"
     }
   ]
 }
