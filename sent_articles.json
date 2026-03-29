@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/22/fifth-commercial-high-court-to-open-tomorrow",
-      "content_hash": "ab8eef7e42c189e25dde990246306ee9072485230600f726e89c891a25f004ec",
-      "title": "Fifth Commercial High Court to Open Tomorrow",
-      "sent_at": "2026-03-22T02:39:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/22/fuel-prices-and-qr-quotas-revised-from-midnight-yesterday",
-      "content_hash": "36f04c4822a6bb23bd9822239dfa027d81baeb21e9e1e2b0bc84cde9319dd6b3",
-      "title": "Fuel Prices and QR Quotas Revised from Midnight Yesterday",
-      "sent_at": "2026-03-22T02:39:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/22/postal-deliveries-to-be-carried-out-every-other-day-department-of-posts",
-      "content_hash": "2b03bbe2e26addab9b98939c9d8b1843c26b48a834ccfdf8945e2ef684c10251",
-      "title": "Postal Deliveries To Be Carried Out Every Other Day - Department of Posts",
-      "sent_at": "2026-03-22T02:39:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/22/showers-expected-in-several-provinces-rise-in-heat-levels-expected",
-      "content_hash": "39b4ea6a28d9bb28b1ec04018f4f1c97261eb7b2ce3eaa2ef6c0ed9e57c8b889",
-      "title": "Showers Expected in Several Provinces; Rise in Heat Levels Expected",
-      "sent_at": "2026-03-22T02:39:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/22/two-arrested-for-illegal-possession-of-fuel",
       "content_hash": "b404e5c1fc9347fc9fcb1d87700711f746cf0d5d1acf9eea816e16b9fcb2f84f",
       "title": "Two Arrested for Illegal Possession of Fuel",
@@ -917,6 +893,30 @@
       "content_hash": "3ed8b7c0666eaa248b73691056fa99f1c43af597e0f4af3475cc8361871ce466",
       "title": "Lanka Coal Company Ships To Arrive From April 20, 5 Vessels Bringing Coal From South Africa",
       "sent_at": "2026-03-28T13:03:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/fuel-tanker-to-arrive-from-india-today",
+      "content_hash": "86ff071cc366f52b54bd5f91faa88569efa2f60e53e832a7356b880b00b48e3f",
+      "title": "Fuel Tanker to Arrive from India Today",
+      "sent_at": "2026-03-29T02:49:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/high-temperatures-to-persist-until-may",
+      "content_hash": "64ff29f6c7e2ee7b1d79e4918ff52222367d8cc16b6fe26c7fe4fc69c1bbc274",
+      "title": "High Temperatures to Persist Until May",
+      "sent_at": "2026-03-29T02:49:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/mandatory-display-of-revised-bus-fares-rpta-western-province",
+      "content_hash": "3d0db49212984336ec5922d3b66cf917697b57c711ca61fd20f260a5ac3615ef",
+      "title": "Mandatory Display of Revised Bus Fares - RPTA Western Province",
+      "sent_at": "2026-03-29T02:49:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/water-supply-suspended-for-dehiwala-and-surrounding-areas",
+      "content_hash": "6944898cfd6d1708cbdc601c256663a161f328bc7072ce8d3bea31c22e1603c4",
+      "title": "Water Supply Suspended for Dehiwala and Surrounding Areas",
+      "sent_at": "2026-03-29T02:49:57Z"
     }
   ]
 }
