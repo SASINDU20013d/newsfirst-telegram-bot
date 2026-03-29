@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/22/colombo-to-reinstate-city-parking-fees-from-tomorrow-23-after-temporary-waiver",
-      "content_hash": "653c56b24ef3ae7e4616e43fba2d0dc444d3f5433576b6667a158f743b94864a",
-      "title": "Colombo to Reinstate City Parking Fees from Tomorrow (23) After Temporary Waiver",
-      "sent_at": "2026-03-22T13:00:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/22/diesel-powered-nights-but-no-blackouts-fuel-supply-secured",
       "content_hash": "40dee6aa61a7ad00bf5170144b4eee8d79ff016b66f86186b2ed61bd7312cb22",
       "title": "Diesel-Powered Nights, But No Blackouts & Fuel Supply Secured",
@@ -899,6 +893,12 @@
       "content_hash": "c6de0146fd9a3f521557324a43c5d0c5792a40aca96132b13366813b57d051db",
       "title": "State of Public Emergency Extended as Essential Services to Continue",
       "sent_at": "2026-03-29T10:38:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/29/applications-open-for-453-medical-officer-posts",
+      "content_hash": "41cde16459362520b6a9d44943e5492dd0e8486b5aa3231c05d2c9092d002d66",
+      "title": "Applications Open for 453 Medical Officer Posts",
+      "sent_at": "2026-03-29T13:04:40Z"
     }
   ]
 }
