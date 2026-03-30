@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/23/australia-warns-of-fuel-supply-%e2%80%98bumps%e2%80%99-as-six-fuel-tankers-cancelled-or-delayed",
-      "content_hash": "f13dc588c480cc795e94fb32a7043d7ba49f500f964d4b8610874267002ad674",
-      "title": "Australia Warns of Fuel Supply ‘Bumps’ As Six Fuel Tankers Cancelled or Delayed",
-      "sent_at": "2026-03-23T09:02:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/iran-ready-to-supply-oil-to-sri-lanka-in-case-of-shortage-says-ambassador",
-      "content_hash": "1101296b6aedd944875e7f834ba17ed4f7825daa1a44048b9ce04689190138df",
-      "title": "Iran Ready to Supply Oil to Sri Lanka in Case of Shortage, Says Ambassador",
-      "sent_at": "2026-03-23T09:02:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/iran-threatens-to-mine-persian-gulf-if-its-coasts-or-islands-are-attacked",
-      "content_hash": "48f28f74f2f1502c9283e846dad0d08e0800023d61a220543fb272ec25223981",
-      "title": "Iran Threatens To Mine Persian Gulf If Its Coasts or Islands Are Attacked",
-      "sent_at": "2026-03-23T09:02:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/23/china-warns-of-%e2%80%98vicious-cycle%e2%80%99-as-hormuz-tensions-escalate",
       "content_hash": "88875eae33d44bd92dcaca40602f3b8b4be936e7a50a6a1301f1f0e0d527c908",
       "title": "China Warns of ‘Vicious Cycle’ as Hormuz Tensions Escalate",
@@ -863,6 +845,12 @@
       "content_hash": "d3c1f545ecd719ee0db9c5ec1098ba374ec20034d0e0755bccf96ef2ac4e54b1",
       "title": "Russian Deputy Minister of Foreign Affairs Andrey Rudenko to Arrive in Sri Lanka Tomorrow",
       "sent_at": "2026-03-30T07:49:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/commissioner-general-of-motor-traffic-remanded-until-april-10",
+      "content_hash": "bed9e30dd329e2643e704200cea50417c007d350671d43ead956e9e52c551075",
+      "title": "Commissioner General of Motor Traffic Remanded Until April 10",
+      "sent_at": "2026-03-30T09:18:08Z"
     }
   ]
 }
