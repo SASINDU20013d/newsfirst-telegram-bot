@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/23/china-warns-of-%e2%80%98vicious-cycle%e2%80%99-as-hormuz-tensions-escalate",
-      "content_hash": "88875eae33d44bd92dcaca40602f3b8b4be936e7a50a6a1301f1f0e0d527c908",
-      "title": "China Warns of ‘Vicious Cycle’ as Hormuz Tensions Escalate",
-      "sent_at": "2026-03-23T11:47:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/first-kilometer-fare-for-three-wheelers-raised-to-rs-110",
-      "content_hash": "b95c8a3e4dd79d5a7b3e991aff7a062fe141507825e9fe90a354ea315ebe8076",
-      "title": "First Kilometer Fare for Three-Wheelers Raised to Rs. 110/-",
-      "sent_at": "2026-03-23T11:47:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/former-dehiwala-oic-apologizes-for-wrongful-pta-arrest-pays-rs-2-million-compensation",
-      "content_hash": "800adbd44a5658437e1091d088c61c6c062ff29c7a4213a741abc31bf940e709",
-      "title": "Former Dehiwala OIC Apologizes For Wrongful PTA Arrest, Pays Rs. 2 Million Compensation",
-      "sent_at": "2026-03-23T11:47:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/prices-of-bakery-products-increase-by-rs-10-from-midnight",
-      "content_hash": "65facb7252f58dd0b62e0df1ae444bece06cc8fa906b2e5a3d4e717f2d99ae97",
-      "title": "Prices Of Bakery Products Increase By Rs.10/- from Midnight",
-      "sent_at": "2026-03-23T11:48:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/trump-announces-five%e2%80%91day-pause-on-strikes-against-iran",
-      "content_hash": "bc5e5d0bd9638e7d11aad9a5ae90d33c4d54e5da398acad291d0927ee9c20904",
-      "title": "Trump Announces Five‑Day Pause on Strikes Against Iran",
-      "sent_at": "2026-03-23T11:48:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/bus-fares-rise-minimum-charge-now-rs-30",
-      "content_hash": "bf1146511f87ac492d8778e44e30dedd545c374bb579b24e6f75b27446f17f94",
-      "title": "Bus Fares Rise: Minimum Charge Now Rs. 30/-",
-      "sent_at": "2026-03-23T13:17:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/iran-denies-us-talks-calls-trump%e2%80%99s-claims-a-ploy",
-      "content_hash": "866cb74f312782bb58777bac7ca01c7aa15ef6d246729a45b42ae014a88b85ed",
-      "title": "Iran Denies US Talks, Calls Trump’s Claims a Ploy",
-      "sent_at": "2026-03-23T13:17:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/iris-dena-was-on-peaceful-visit-not-ready-for-war",
-      "content_hash": "9c5fc1a0e4a804a7f5c9b3d152628777234a8ea1da7aaa9f421cc9508fdceaf9",
-      "title": "IRIS Dena Was on Peaceful Visit, Not Ready for War",
-      "sent_at": "2026-03-23T13:17:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/mattala-airport-to-be-used-as-emergency-operations-hub",
-      "content_hash": "8970574c9816b0be251abcacc4222a975123829c263162c0a9a7597988e26629",
-      "title": "Mattala Airport to Be Used as Emergency Operations Hub",
-      "sent_at": "2026-03-23T13:17:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/president-urges-power-conservation-during-peak-hours",
-      "content_hash": "ce4c58e762bf00c88ed0f3314c1a681c0edf75dc13e2cc41e340c7ef0715253f",
-      "title": "President Urges Power Conservation During Peak Hours",
-      "sent_at": "2026-03-23T13:17:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/24/govt-considers-special-fuel-permit-system-for-large-and-medium-scale-industries",
       "content_hash": "fc9dfa09a5eac88960db7fefca47a3c4b51c1cfaf364067ef60f1eefd7f34400",
       "title": "Govt. Considers Special Fuel Permit System For Large and Medium-Scale Industries",
@@ -857,6 +797,30 @@
       "content_hash": "6b5be9dab1551d8a8d9bf85db432197f2a0534e416dadd1778afd19df59b82f2",
       "title": "PUCSL Announces Electricity Tariff Revision Effective April 1",
       "sent_at": "2026-03-30T11:06:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/auditor-general-conducting-forensic-audit-into-health-ministry-procurements-under-former-minister-keheliya",
+      "content_hash": "672fcbaa18433d46ffc2363d7f6fc0e7ef30377307ed86b6b53c5d90ad02aa70",
+      "title": "Auditor General Conducting Forensic Audit Into Health Ministry Procurements Under Former Minister Keheliya",
+      "sent_at": "2026-03-30T13:43:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/cpc-to-follow-odd-number-fuel-distribution-tomorrow-decision-on-following-day-pending",
+      "content_hash": "26ab87698d621019b7628e85e72a249841606313d47fb9fb9a4fa3f3aec7f8f8",
+      "title": "CPC to Follow \"Odd-Number\" Fuel Distribution Tomorrow; Decision on Following Day Pending",
+      "sent_at": "2026-03-30T13:43:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/electricity-tariffs-to-rise-from-april-1-with-minimal-impact-on-low-consumption-households",
+      "content_hash": "5bfa617adbf53606958a3de96ec11adf18029d1bedeb1d9cd6c011f489fd4947",
+      "title": "Electricity Tariffs To Rise From April 1 With Minimal Impact On Low-Consumption Households",
+      "sent_at": "2026-03-30T13:43:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/suspended-jail-sentences-for-illegal-petrol-possession-and-sale-in-anuradhapura",
+      "content_hash": "b6fb7fa1dfddeb1ff7c8495af59aed4dbb2ea26542f79479ee7b79736cf79061",
+      "title": "Suspended Jail Sentences For Illegal Petrol Possession And Sale In Anuradhapura",
+      "sent_at": "2026-03-30T13:43:16Z"
     }
   ]
 }
