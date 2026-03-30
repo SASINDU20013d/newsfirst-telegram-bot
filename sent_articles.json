@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/23/%e2%80%98zombie-tankers%e2%80%99-cross-hormuz-despite-being-scrapped-years-ago",
-      "content_hash": "ef8c263bceab903b6a3486e8dd412c86614ff68ae698f95b7ea9d3d752ddbbe6",
-      "title": "‘Zombie Tankers’ Cross Hormuz Despite Being Scrapped Years Ago",
-      "sent_at": "2026-03-23T07:17:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/arjuna-ranatunga-and-brother-indicted-for-causing-rs-800-mn-loss-to-cpc",
-      "content_hash": "6e4516ce1bfa5533e6ee2aa8cd3aace5e9c895838be12313ff8decbf1b4da237",
-      "title": "Arjuna Ranatunga and Brother Indicted For Causing Rs. 800 Mn Loss To CPC",
-      "sent_at": "2026-03-23T07:17:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/close-associate-of-organized-crime-figure-%e2%80%9cpanadura-rana%e2%80%9d-nabbed-with-narcotics",
-      "content_hash": "3c9036b3d9b28f0460571c45e67fca74df901ae000fe9863a48598846573b1f5",
-      "title": "Close Associate of Organized Crime Figure “Panadura Rana” Nabbed with Narcotics",
-      "sent_at": "2026-03-23T07:17:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/global-stocks-slide-oil-jumps-after-trump%e2%80%99s-48-hour-hormuz-ultimatum",
-      "content_hash": "d82d9a50801978391deb6d40c003e790a9bf58aec7452a653c50f6bec175b040",
-      "title": "Global Stocks Slide, Oil Jumps After Trump’s 48-Hour Hormuz Ultimatum",
-      "sent_at": "2026-03-23T07:17:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/hormuz-crisis-tops-agenda-in-trump-starmer-phone-call",
-      "content_hash": "346fd268c2a9bb3165926f8f1465bad8c41c8ac2d56c214f7049b75ad4e0d794",
-      "title": "Hormuz Crisis Tops Agenda in Trump-Starmer Phone Call",
-      "sent_at": "2026-03-23T07:17:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/iran%e2%80%99s-irgc-any-strike-on-electricity-will-be-met-in-kind",
-      "content_hash": "7c27c180c6c225d0acc3a88caf767c9ef8c39a21e2df7206968372d77dde3999",
-      "title": "Iran’s IRGC: Any Strike on Electricity Will Be Met in Kind",
-      "sent_at": "2026-03-23T07:17:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/iran-imposes-2-million-transit-fee-on-vessels-crossing-strait-of-hormuz",
-      "content_hash": "d3f7e5592f3500a94b0965e9921d5f555397b37c987a706865ea11484e7dce5f",
-      "title": "Iran Imposes $2 Million Transit Fee on Vessels Crossing Strait of Hormuz",
-      "sent_at": "2026-03-23T07:17:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/sri-lanka-expects-major-fuel-shipments-through-mid-april",
-      "content_hash": "4b833cd8631bf3bffd96502e430d5dce083cb561022e47cbf6789713e2bbaec9",
-      "title": "Sri Lanka Expects Major Fuel Shipments Through Mid-April",
-      "sent_at": "2026-03-23T07:17:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/sri-lanka-has-sufficient-aviation-fuel-until-april-16-caa",
-      "content_hash": "233fd9841e75428632428c59cd1f7486813962ff5639bbb03c84f414ea2eaece",
-      "title": "Sri Lanka Has Sufficient Aviation Fuel Until April 16 - CAA",
-      "sent_at": "2026-03-23T07:17:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/tehran-demands-reparations-from-us-and-israel-over-nuclear-facility-strikes",
-      "content_hash": "f75f0b72554aa74bd508ba7cf4ba66a9e97db0f65cfae04c5b73d344bfbbc80c",
-      "title": "Tehran Demands Reparations From US and Israel Over Nuclear Facility Strikes",
-      "sent_at": "2026-03-23T07:17:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/23/australia-warns-of-fuel-supply-%e2%80%98bumps%e2%80%99-as-six-fuel-tankers-cancelled-or-delayed",
       "content_hash": "f13dc588c480cc795e94fb32a7043d7ba49f500f964d4b8610874267002ad674",
       "title": "Australia Warns of Fuel Supply ‘Bumps’ As Six Fuel Tankers Cancelled or Delayed",
@@ -893,6 +833,36 @@
       "content_hash": "06365740af2e1137d93dd2549d8445386389bd94c57a173c5cb2fe4be01fc7b5",
       "title": "\"Surakimu Lanka\" National Program Launched to Combat Energy Crisis",
       "sent_at": "2026-03-30T05:29:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/cpc-confirms-sufficient-fuel-stocks-until-may",
+      "content_hash": "95248a67dadc7406cecddbef1211833cc56e2b9dd0e4d51755dfc7b9b5da917b",
+      "title": "CPC Confirms Sufficient Fuel Stocks Until May",
+      "sent_at": "2026-03-30T07:49:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/hambantota-international-port-invests-usd-108-million-in-new-cranes-expands-container-terminal-capacity-to-2-million-teu",
+      "content_hash": "ccfc0780c6f6f963030d96b046ffb929d4b33746a745a5ffe875ab828395e363",
+      "title": "Hambantota International Port Invests USD 108 Million in New Cranes: Expands Container Terminal Capacity To 2 Million TEU",
+      "sent_at": "2026-03-30T07:49:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/minister-affirms-government-is-successfully-managing-energy-crisis",
+      "content_hash": "2f633924d0fa5167f4c62821a7d7e229403bc88dc3c1cb60369a550bd96bd575",
+      "title": "Minister Affirms Government is Successfully Managing Energy Crisis",
+      "sent_at": "2026-03-30T07:49:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/pucsl-to-announce-electricity-tariff-revision-for-second-quarter-of-2026-today",
+      "content_hash": "578dedc4ef9bc9e6e010751af07d7600ae19458a9249ed1dbde0e97657cd740f",
+      "title": "PUCSL to Announce Electricity Tariff Revision for Second Quarter of 2026 Today",
+      "sent_at": "2026-03-30T07:49:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/russian-deputy-minister-of-foreign-affairs-andrey-rudenko-to-arrive-in-sri-lanka-tomorrow",
+      "content_hash": "d3c1f545ecd719ee0db9c5ec1098ba374ec20034d0e0755bccf96ef2ac4e54b1",
+      "title": "Russian Deputy Minister of Foreign Affairs Andrey Rudenko to Arrive in Sri Lanka Tomorrow",
+      "sent_at": "2026-03-30T07:49:32Z"
     }
   ]
 }
