@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/23/governement-faces-losses-amid-controlled-fuel-pricing",
-      "content_hash": "831269c9922bd4ad7b7e909e6f020ee4eb4d34e3fdb58e8fc7879042c18bd28a",
-      "title": "Governement Faces Losses Amid Controlled Fuel Pricing",
-      "sent_at": "2026-03-23T02:39:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/price-hikes-expected-across-goods-and-services-following-fuel-price-revision",
-      "content_hash": "1243974ce8bc23b174621076a1fe8ed78e59297d22c7bf325987cc6ddc69c4bb",
-      "title": "Price Hikes Expected Across Goods and Services Following Fuel Price Revision",
-      "sent_at": "2026-03-23T02:39:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/probes-launched-on-illegal-use-of-qr-codes",
-      "content_hash": "7d3ef445eae738173807b8f08815270c0e545b51c277756c953dc6a13aec349c",
-      "title": "Probes Launched on Illegal Use of QR Codes",
-      "sent_at": "2026-03-23T02:39:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/23/adb-president-masato-kanda-arrives-in-sri-lanka",
       "content_hash": "078b759959485761d9a983fdabac2b94b82d54df6c8584a0f8d98847b0392b40",
       "title": "ADB President Masato Kanda Arrives in Sri Lanka",
@@ -893,6 +875,24 @@
       "content_hash": "41cde16459362520b6a9d44943e5492dd0e8486b5aa3231c05d2c9092d002d66",
       "title": "Applications Open for 453 Medical Officer Posts",
       "sent_at": "2026-03-29T13:04:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/businesses-can-obtain-fuel-qr-codes-for-all-vehicles-ministry-consultant",
+      "content_hash": "355cb3e3678cfeab3ec8aa84256fe5edce84cdd56f5a8ed5bde3a9b3dd23879e",
+      "title": "Businesses Can Obtain Fuel QR Codes for All Vehicles - Ministry Consultant",
+      "sent_at": "2026-03-30T02:52:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/cpc-to-decide-on-fuel-issuance-on-upcoming-odd-days",
+      "content_hash": "88f8106b8d33061b61dd48ce33b8f0fbdc4a0bc0b15e1ef8c465d98d6c9422e5",
+      "title": "CPC to Decide on Fuel Issuance on Upcoming Odd Days",
+      "sent_at": "2026-03-30T02:52:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/heat-advisory-issued-for-several-provinces-public-urged-to-stay-hydrated-and-take-precautions",
+      "content_hash": "a6a0a353254a50026ae6fea982ce8596190a5f1d13c8dc4e5ec69599c6b330f6",
+      "title": "Heat Advisory Issued for Several Provinces; Public Urged to Stay Hydrated and Take Precautions",
+      "sent_at": "2026-03-30T02:52:23Z"
     }
   ]
 }
