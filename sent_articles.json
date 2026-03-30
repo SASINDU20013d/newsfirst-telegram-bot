@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/23/adb-president-masato-kanda-arrives-in-sri-lanka",
-      "content_hash": "078b759959485761d9a983fdabac2b94b82d54df6c8584a0f8d98847b0392b40",
-      "title": "ADB President Masato Kanda Arrives in Sri Lanka",
-      "sent_at": "2026-03-23T05:06:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/fifth-commercial-high-court-to-open-today",
-      "content_hash": "4e0614ef0a583dcac9c0bb6ff98168c86f80061869177bd2da21e51d22f6b0e5",
-      "title": "Fifth Commercial High Court to Open Today",
-      "sent_at": "2026-03-23T05:06:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/23/vehicle-parking-fees-in-colombo-reinstated-from-today",
-      "content_hash": "ec9a84e8154b0e8310381fcca108eea7f803a45eb2ea09ba2462e95844a9c1cc",
-      "title": "Vehicle Parking Fees in Colombo Reinstated from Today",
-      "sent_at": "2026-03-23T05:06:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/23/%e2%80%98zombie-tankers%e2%80%99-cross-hormuz-despite-being-scrapped-years-ago",
       "content_hash": "ef8c263bceab903b6a3486e8dd412c86614ff68ae698f95b7ea9d3d752ddbbe6",
       "title": "‘Zombie Tankers’ Cross Hormuz Despite Being Scrapped Years Ago",
@@ -893,6 +875,24 @@
       "content_hash": "a6a0a353254a50026ae6fea982ce8596190a5f1d13c8dc4e5ec69599c6b330f6",
       "title": "Heat Advisory Issued for Several Provinces; Public Urged to Stay Hydrated and Take Precautions",
       "sent_at": "2026-03-30T02:52:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/one-day-id-services-resume-today-for-applicants-affected-by-system-failure",
+      "content_hash": "b73a4f5bc6c02c130527a14253384591229127d9b7ec1fd16ac40375da85a87f",
+      "title": "One-Day ID Services Resume Today for Applicants Affected by System Failure",
+      "sent_at": "2026-03-30T05:28:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/organized-criminal-midigama-chooti-extradited-to-sri-lanka-from-oman",
+      "content_hash": "78ff8070b5eca6b6ad8c86c70640a552e835cfadefc7404276797ae43b40dcb4",
+      "title": "Organized Criminal 'Midigama Chooti' Extradited to Sri Lanka from Oman",
+      "sent_at": "2026-03-30T05:29:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/30/surakimu-lanka-national-program-launched-to-combat-energy-crisis",
+      "content_hash": "06365740af2e1137d93dd2549d8445386389bd94c57a173c5cb2fe4be01fc7b5",
+      "title": "\"Surakimu Lanka\" National Program Launched to Combat Energy Crisis",
+      "sent_at": "2026-03-30T05:29:04Z"
     }
   ]
 }
