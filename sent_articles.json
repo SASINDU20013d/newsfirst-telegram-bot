@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/24/govt-considers-special-fuel-permit-system-for-large-and-medium-scale-industries",
-      "content_hash": "fc9dfa09a5eac88960db7fefca47a3c4b51c1cfaf364067ef60f1eefd7f34400",
-      "title": "Govt. Considers Special Fuel Permit System For Large and Medium-Scale Industries",
-      "sent_at": "2026-03-24T02:31:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/mattala-emerges-as-alternative-aviation-hub-amid-regional-conflict-airlines-seek-free-landing",
-      "content_hash": "d1ff02149e7c63c4fae742e70e354782cb9be04847052c53848350064d629d14",
-      "title": "Mattala Emerges As Alternative Aviation Hub Amid Regional Conflict; Airlines Seek Free Landing",
-      "sent_at": "2026-03-24T02:31:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/no-changes-to-upcoming-exam-schedules-says-deputy-minister-of-education",
-      "content_hash": "6ec7b033c7048bb1ac9356743927bd23b95e3df85da592fb18131d03a6263bc9",
-      "title": "No Changes to Upcoming Exam Schedules, says Deputy Minister of Education",
-      "sent_at": "2026-03-24T02:31:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/no-shortage-of-imported-medicines-health-dg-confirms",
-      "content_hash": "94293c404e2b591fe0b179fc41eaa4cdc6a7b48e85713cd96e4e72f2ca3033b0",
-      "title": "No Shortage of Imported Medicines, Health DG Confirms",
-      "sent_at": "2026-03-24T02:31:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/24/26-year-old-chinese-woman-killed-in-kohuwala-suspect-identified",
       "content_hash": "1822b6dd9a809322b6b47a3cfee1bae2c25983e7a4859e4e74b3c6af3968aac4",
       "title": "26-Year-Old Chinese Woman Killed in Kohuwala, Suspect Identified",
@@ -827,6 +803,30 @@
       "content_hash": "32bba47d560a58a04209ff3847c9bf89a9bc037c77ea23466d06a55ca2da3815",
       "title": "Fuel And Electricity Crisis: Govt Issues New Guidelines for Saving Fuel and Electricity",
       "sent_at": "2026-03-30T15:07:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/42-000-metric-tons-of-sri-lanka%e2%80%99s-gas-stock-in-maldives-as-shipments-move-to-meet-demand",
+      "content_hash": "57195427cddbbbf8810a6852e465c1e9ffd1e655ca27a296d3fd65665abc8777",
+      "title": "42,000 Metric Tons Of Sri Lanka’s Gas Stock In Maldives As Shipments Move To Meet Demand",
+      "sent_at": "2026-03-31T02:45:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/fuel-ship-carrying-diesel-and-jet-fuel-to-arrive-thursday-2nd-as-cpc-reviews-issuance-plan",
+      "content_hash": "276c70c28e4755012bb3a0c8990441ce052848c438c73282d43b819d2e2d1e6d",
+      "title": "Fuel Ship Carrying Diesel And Jet Fuel To Arrive Thursday (2nd) As CPC Reviews Issuance Plan",
+      "sent_at": "2026-03-31T02:45:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/gmoa-launches-symbolic-strike-over-transfer-process-while-essential-services-continue",
+      "content_hash": "69a6c2f3c96d8e3d1165fe883af857cc531cd6473f8a75928255781bd643bf3d",
+      "title": "GMOA Launches Symbolic Strike Over Transfer Process While Essential Services Continue",
+      "sent_at": "2026-03-31T02:45:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/russian-deputy-foreign-minister-andrey-rudenko-to-in-arrive-in-sri-lanka-today-for-bilateral-talks",
+      "content_hash": "7fcaca4914ba8c8d7a3765d57f910cf4cf0966dc2660a4751e6fdf24181c3b33",
+      "title": "Russian Deputy Foreign Minister Andrey Rudenko To In Arrive in Sri Lanka Today for Bilateral Talks",
+      "sent_at": "2026-03-31T02:45:36Z"
     }
   ]
 }
