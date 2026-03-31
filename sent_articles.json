@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/24/applications-open-for-2026-gce-a-level-exam",
-      "content_hash": "b8930fbbefa8f39b21ea16d50bc4b7a4b84cb889fea2a91e9f5700afdbeb7c2a",
-      "title": "Applications Open for 2026 GCE A/Level Exam",
-      "sent_at": "2026-03-24T15:02:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/bribery-commission-seeks-warrants-in-airbus-scandal",
-      "content_hash": "9110bca2813f955751563c51441f53dc2b7fe513e229c6ab7c69f0b33cb99e5d",
-      "title": "Bribery Commission Seeks Warrants in Airbus Scandal",
-      "sent_at": "2026-03-24T15:02:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/former-mp-sajin-vass-remanded-until-april-2",
-      "content_hash": "c2db83214e432ee95847b786d38eba7d12502538d9a088c569a150cf0fb0d4f5",
-      "title": "Former MP Sajin Vass Remanded Until April 2",
-      "sent_at": "2026-03-24T15:02:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/record-electricity-demand-met-without-power-cuts",
-      "content_hash": "59fec853a0af0a7a67bfcd017169e2519b2cbdb366e57b2ce3ddfa139e320688",
-      "title": "Record Electricity Demand Met Without Power Cuts",
-      "sent_at": "2026-03-24T15:03:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/sri-lanka-has-sufficient-litro-and-laugfs-gas-stocks-cabinet-spokesman-says",
-      "content_hash": "ad96c6f92706efebcc2f21e89af9af55ba2a37194e9d20c1582ae8397f63fbc7",
-      "title": "Sri Lanka Has Sufficient Litro and Laugfs Gas Stocks, Cabinet Spokesman Says",
-      "sent_at": "2026-03-24T15:03:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/24/modi-akd-discuss-west-asia-crisis-and-energy-security-concerns",
       "content_hash": "2c697a01fbc9b2bba21c729a4a3d2e25f3d010e0ec1a0cbb8293dc87b35870db",
       "title": "Modi, AKD Discuss West Asia Crisis and Energy Security Concerns",
@@ -737,6 +707,30 @@
       "content_hash": "a8dcb0f7eb81f6c09802ce774a9b68229bef6ae3c27ea6610df3fb91ded00109",
       "title": "Former MP Sajin Vass Gunawardena Released on Bail",
       "sent_at": "2026-03-31T11:53:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/fuel-to-be-issued-for-both-odd-and-even-numbers-tomorrow",
+      "content_hash": "43c88aac42a5c023a459be7e78d7ad2cac0d57505bcc0e73186a72fb075ce18c",
+      "title": "Fuel to be Issued for Both Odd and Even Numbers Tomorrow",
+      "sent_at": "2026-03-31T15:06:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/gmoa-launches-island-wide-symbolic-strike-over-transfer-disputes",
+      "content_hash": "5f78269bde493a1ef22a6c52a1a71f7c659e1620cc90712600e5c5a6a7651372",
+      "title": "GMOA Launches Island-wide Symbolic Strike Over Transfer Disputes",
+      "sent_at": "2026-03-31T15:06:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/russian-deputy-foreign-minister-andrey-rudenko-arrives-in-sri-lanka",
+      "content_hash": "d970fbb12a38d81849de79835075ced9441b0be6929788e13dcea9f991fda66e",
+      "title": "Russian Deputy Foreign Minister Andrey Rudenko Arrives in Sri Lanka",
+      "sent_at": "2026-03-31T15:06:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/vesak-week-declared-from-may-27-to-june-02",
+      "content_hash": "39e6402ea59864f8237ca0bcc0e97df8a51bc39297023d137b505166a91905d9",
+      "title": "Vesak Week Declared from May 27 to June 02",
+      "sent_at": "2026-03-31T15:06:30Z"
     }
   ]
 }
