@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/24/adb-boosts-sri-lanka-funding-to-usd-480-million-fast-tracks-usd-200-million",
-      "content_hash": "78e9c10808d8ade47b8110351b5ac4c8e19953a6bb0e676214b45761d4bcb4f5",
-      "title": "ADB Boosts Sri Lanka Funding to USD 480 Million, Fast-Tracks USD 200 Million",
-      "sent_at": "2026-03-24T13:21:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/government-details-fuel-stock-levels-and-incoming-shipments",
-      "content_hash": "a40d101ccd47abe5899e04d235701e377cc2711220bdfeab360f41815cc3b4a1",
-      "title": "Government Details Fuel Stock Levels and Incoming Shipments",
-      "sent_at": "2026-03-24T13:21:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/philippines-says-grounding-planes-is-a-distinct-possibility",
-      "content_hash": "edcbfa6bf91f30fbc7b880f6ca96e5652fb3e9f7b6d47b201e0d3e3bdfba4571",
-      "title": "Philippines Says Grounding Planes Is a 'Distinct Possibility'",
-      "sent_at": "2026-03-24T13:21:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/sri-lanka-in-talks-with-russia-on-oil-purchases-no-talks-yet-with-iran-on-oil-imports",
-      "content_hash": "4865e7048d4f3879e388ebec1d6711eac3cc81d291dcad41ce167564ec944788",
-      "title": "Sri Lanka in Talks With Russia on Oil Purchases; No Talks Yet With Iran on Oil Imports",
-      "sent_at": "2026-03-24T13:21:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/srilankan-fuel-bill-case-ex-chairman-gets-bail",
-      "content_hash": "d9dd4b3b6ba4b00de7e1e61e704f95f5b3dd4dce41e9aef6d87c28c7bbd43ac9",
-      "title": "SriLankan Fuel Bill Case: Ex-Chairman Gets Bail",
-      "sent_at": "2026-03-24T13:21:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/state-sector-told-to-slash-fuel-and-power-use-by-25",
-      "content_hash": "1307a21e0c3a4c54c46a911c9f22115d1ce7a7eb7ef8082dcce4b40b04ad4f13",
-      "title": "State Sector Told to Slash Fuel and Power Use by 25%",
-      "sent_at": "2026-03-24T13:21:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/24/applications-open-for-2026-gce-a-level-exam",
       "content_hash": "b8930fbbefa8f39b21ea16d50bc4b7a4b84cb889fea2a91e9f5700afdbeb7c2a",
       "title": "Applications Open for 2026 GCE A/Level Exam",
