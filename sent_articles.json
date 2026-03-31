@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/24/thousands-sign-petition-demanding-resignation-of-sl-cricket-chairman",
-      "content_hash": "26723b621fd114fcfd408cdaa2969b00710d79dc8a9647c484deaf7bc37a9ccd",
-      "title": "Thousands Sign Petition Demanding Resignation of SL Cricket Chairman",
-      "sent_at": "2026-03-24T08:58:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/24/adb-president-masato-kanda-to-meet-president-anura-kumara-dissanayake",
       "content_hash": "e875ffa605c11d1a864b29b80738d8486a728d44f2e50150580a931b1b4dad0c",
       "title": "ADB President Masato Kanda to Meet President Anura Kumara Dissanayake",
@@ -797,6 +791,24 @@
       "content_hash": "6a05a3221099037c2c23a6569b7aea500ee0c7740c66e4d7d8c091742b4aa2a1",
       "title": "GMOA Launches Island-Wide Token Strike Over Transfer Dispute",
       "sent_at": "2026-03-31T07:22:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/cpc-to-decide-on-fuel-distribution-for-consecutive-odd-days",
+      "content_hash": "beb47a3544dd02ee654b8da322200de56f494a40f7db09bda41f8f9e56839d3b",
+      "title": "CPC To Decide On Fuel Distribution For Consecutive Odd Days",
+      "sent_at": "2026-03-31T09:06:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/cpc-to-finalize-fuel-distribution-for-odd-day-dilemma",
+      "content_hash": "be8ba0b7cac0db87c0b67bb8b1108aa04ec391a5bb649eac6d5e868ef832d702",
+      "title": "CPC To Finalize Fuel Distribution For Odd-Day Dilemma",
+      "sent_at": "2026-03-31T09:06:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/litro-and-laugfs-gas-confirm-upcoming-shipments-to-ensure-april-and-may-gas-supplies",
+      "content_hash": "7ca3256803c2321e962a705056f758c6ef7180c482e623e2575c809c72601820",
+      "title": "Litro and Laugfs Gas Confirm Upcoming Shipments to Ensure April and May Gas Supplies",
+      "sent_at": "2026-03-31T09:06:20Z"
     }
   ]
 }
