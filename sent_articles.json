@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/24/earthquake-of-magnitude-7-6-strikes-tonga-islands",
-      "content_hash": "494ce7b027a8283eb2d8a74dc01b46a877159acb85dee853d0bfcb9844448af5",
-      "title": "Earthquake of Magnitude 7.6 Strikes Tonga Islands",
-      "sent_at": "2026-03-24T06:02:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/irgc-claims-%e2%80%98record-phase%e2%80%99-in-war-timeline-with-new-missile-attacks",
-      "content_hash": "45e04710a3a9d68324b770cabf6efb516746bea315089f153c86abfb456c5f64",
-      "title": "IRGC Claims ‘Record Phase’ in War Timeline With New Missile Attacks",
-      "sent_at": "2026-03-24T06:02:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/sri-lanka-exams-will-proceed-as-planned",
-      "content_hash": "6f252e7c4d0012fc4c38a123ebc2b4dbd326fa53dd3b19484911f7e8caaef04a",
-      "title": "Sri Lanka: Exams Will Proceed as Planned",
-      "sent_at": "2026-03-24T06:02:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/id-registration-services-fully-restored-after-system-failure",
-      "content_hash": "47ec8fe118f86b8ac4681b4ef33479e6ad60512d4730fcc260797a642fe75560",
-      "title": "ID Registration Services Fully Restored After System Failure",
-      "sent_at": "2026-03-24T07:16:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/24/thousands-sign-petition-demanding-resignation-of-sl-cricket-chairman",
       "content_hash": "26723b621fd114fcfd408cdaa2969b00710d79dc8a9647c484deaf7bc37a9ccd",
       "title": "Thousands Sign Petition Demanding Resignation of SL Cricket Chairman",
@@ -809,6 +785,18 @@
       "content_hash": "cbbd46848ef786950551f0f145893d47f160d7cd771c7fa792c7a9daf2b002b1",
       "title": "Russian Deputy Foreign Minister Andrey Rudenko To Arrive in Sri Lanka Today for Bilateral Talks",
       "sent_at": "2026-03-31T05:13:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/election-commission-launches-digital-portal",
+      "content_hash": "05f16a3d6aca05b1a9701077675bfe60571e9107570b87c1f348b75e65fae585",
+      "title": "Election Commission Launches Digital Portal",
+      "sent_at": "2026-03-31T07:21:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/gmoa-launches-island-wide-token-strike-over-transfer-dispute",
+      "content_hash": "6a05a3221099037c2c23a6569b7aea500ee0c7740c66e4d7d8c091742b4aa2a1",
+      "title": "GMOA Launches Island-Wide Token Strike Over Transfer Dispute",
+      "sent_at": "2026-03-31T07:22:01Z"
     }
   ]
 }
