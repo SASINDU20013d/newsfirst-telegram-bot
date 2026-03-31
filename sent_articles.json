@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/24/26-year-old-chinese-woman-killed-in-kohuwala-suspect-identified",
-      "content_hash": "1822b6dd9a809322b6b47a3cfee1bae2c25983e7a4859e4e74b3c6af3968aac4",
-      "title": "26-Year-Old Chinese Woman Killed in Kohuwala, Suspect Identified",
-      "sent_at": "2026-03-24T04:57:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/fuel-price-ripple-effect-transport-fares-and-bakery-prices-rise-across-sri-lanka",
-      "content_hash": "0db6a232d6ce08bd90d7c227e18420295a0ab7b0c6f7c90aede6399e1508594f",
-      "title": "Fuel Price Ripple Effect: Transport Fares and Bakery Prices Rise Across Sri Lanka",
-      "sent_at": "2026-03-24T04:57:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/india-reiterates-mahasagar-vision-in-talks-with-sri-lanka",
-      "content_hash": "f9a7668bf97b522859f6adddabe9e2b09d125fdcfd667953b6475007a3a658f2",
-      "title": "India Reiterates MAHASAGAR Vision in Talks with Sri Lanka",
-      "sent_at": "2026-03-24T04:57:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/large-oil-refinery-explosion-near-texas-coast-forces-residents-to-shelter-in-place",
-      "content_hash": "b0a929eddb85a20cfe48dded7fdbca85b9ff7dc3f3fb2b4978b62b2615309cc0",
-      "title": "Large Oil Refinery Explosion Near Texas Coast Forces Residents To Shelter In Place",
-      "sent_at": "2026-03-24T04:57:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/south-korea-restricts-car-use-by-public-employees",
-      "content_hash": "db8efd5f8f387873f4317ceea9855151514df9bb088050a4535508fe5c73f271",
-      "title": "South Korea Restricts Car Use By Public Employees",
-      "sent_at": "2026-03-24T04:57:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/24/earthquake-of-magnitude-7-6-strikes-tonga-islands",
       "content_hash": "494ce7b027a8283eb2d8a74dc01b46a877159acb85dee853d0bfcb9844448af5",
       "title": "Earthquake of Magnitude 7.6 Strikes Tonga Islands",
@@ -827,6 +797,18 @@
       "content_hash": "7fcaca4914ba8c8d7a3765d57f910cf4cf0966dc2660a4751e6fdf24181c3b33",
       "title": "Russian Deputy Foreign Minister Andrey Rudenko To In Arrive in Sri Lanka Today for Bilateral Talks",
       "sent_at": "2026-03-31T02:45:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/igp-priyantha-weerasooriya-orders-immediate-transfer-of-22-senior-police-officers-across-sri-lanka",
+      "content_hash": "f9e363b440064efbbdfedf05531b3ab322ea7e3a089ffdc8a60c9392d8458ec9",
+      "title": "IGP Priyantha Weerasooriya Orders Immediate Transfer of 22 Senior Police Officers Across Sri Lanka",
+      "sent_at": "2026-03-31T05:13:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/russian-deputy-foreign-minister-andrey-rudenko-to-arrive-in-sri-lanka-today-for-bilateral-talks",
+      "content_hash": "cbbd46848ef786950551f0f145893d47f160d7cd771c7fa792c7a9daf2b002b1",
+      "title": "Russian Deputy Foreign Minister Andrey Rudenko To Arrive in Sri Lanka Today for Bilateral Talks",
+      "sent_at": "2026-03-31T05:13:30Z"
     }
   ]
 }
