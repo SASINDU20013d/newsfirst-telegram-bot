@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/24/%e2%80%98willing-to-host-us-iran-talks%e2%80%99-pakistan",
-      "content_hash": "df9781ad2d25970279166968efe9b904ae32bcfd5d467a30accfab25b25371f0",
-      "title": "‘Willing To Host US-Iran talks’: Pakistan",
-      "sent_at": "2026-03-24T11:48:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/adb-president-meets-sri-lanka-central-bank-governor",
-      "content_hash": "8f12a3c027db2af3278cd03d5010b1fd4fc83ae15a63db36c9718fe1cacd6275",
-      "title": "ADB President Meets Sri Lanka Central Bank Governor",
-      "sent_at": "2026-03-24T11:48:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/24/world-must-choose-between-gaza-and-child-torturers-iran-s-parliament-speaker",
-      "content_hash": "4e38b65fcae927bb5a6f223a6d0c6f93bd7479eac057fff3b846d23b1b32282b",
-      "title": "World Must Choose Between Gaza and 'Child Torturers' - Iran's Parliament Speaker",
-      "sent_at": "2026-03-24T11:48:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/24/adb-boosts-sri-lanka-funding-to-usd-480-million-fast-tracks-usd-200-million",
       "content_hash": "78e9c10808d8ade47b8110351b5ac4c8e19953a6bb0e676214b45761d4bcb4f5",
       "title": "ADB Boosts Sri Lanka Funding to USD 480 Million, Fast-Tracks USD 200 Million",
@@ -785,6 +767,12 @@
       "content_hash": "35c916d4c9f92d5647d6afd0632a5bc976dbf27d6fb7d985ac6d145adc248d8a",
       "title": "World-Famous Comedian Russell Peters Set to Bring Laughter and Positivity to Colombo Tonight",
       "sent_at": "2026-03-31T10:58:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/03/31/former-mp-sajin-vass-gunawardena-released-on-bail",
+      "content_hash": "a8dcb0f7eb81f6c09802ce774a9b68229bef6ae3c27ea6610df3fb91ded00109",
+      "title": "Former MP Sajin Vass Gunawardena Released on Bail",
+      "sent_at": "2026-03-31T11:53:21Z"
     }
   ]
 }
