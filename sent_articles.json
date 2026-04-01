@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/25/senior-dig-sanjeewa-dharmaratne-appointed-acting-igp",
-      "content_hash": "427ec47ded0708595b10d3d18d47f6dd537ce2949ccd7003ba5b2e1fd2ac2408",
-      "title": "Senior DIG Sanjeewa Dharmaratne Appointed Acting IGP",
-      "sent_at": "2026-03-25T09:58:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/remittances-stay-strong-as-tourism-slumps-17-amid-middle-east-crisis-cbsl",
-      "content_hash": "41b83df9b53c42bed0ac29c85211827cb5a163f5a6426da9ea1d51f20f5936e3",
-      "title": "Remittances Stay Strong as Tourism Slumps 17% Amid Middle East Crisis: CBSL",
-      "sent_at": "2026-03-25T10:53:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/sri-lanka-in-stronger-position-than-past-years-to-handle-external-shocks",
-      "content_hash": "b7d19a523d2e6922c3a5f03f2b52f7527a46532835ebc873ad7bf7a898b0ad95",
-      "title": "Sri Lanka in Stronger Position Than Past Years to Handle External Shocks",
-      "sent_at": "2026-03-25T10:53:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/25/electricity-demand-soars-amid-weather-stress-hydropower-rises-to-offset-solar-losses",
       "content_hash": "1d9656dfc8aabef5a2500436fc3c17710da2bc29995f657928090e5c9beece77",
       "title": "Electricity Demand Soars Amid Weather Stress; Hydropower Rises to Offset Solar Losses",
@@ -689,6 +671,30 @@
       "content_hash": "12946ab0f43958607c1c4ecf55220956b5c85d19f7626bb2deb50418d64bde7f",
       "title": "Two Arrested With 3kg Of “Ice” Linked To Notorious Trafficker",
       "sent_at": "2026-04-01T09:12:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/adhere-to-heatwave-guidelines-ministry-of-education-issues-directives-to-principals",
+      "content_hash": "52facd34d2df767fc166ad6f8ed0e0ee63652cece07cf967ccee16b0c62e5cb1",
+      "title": "Adhere to Heatwave Guidelines: Ministry of Education Issues Directives to Principals",
+      "sent_at": "2026-04-01T11:01:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/man-arrested-in-kochchikade-for-the-illegal-possession-of-fuel-stocks",
+      "content_hash": "83da89e65a09746b5a32785b0dd45de7b7c33401e7283c4c863967c26842e44d",
+      "title": "Man Arrested in Kochchikade for the Illegal Possession of Fuel Stocks",
+      "sent_at": "2026-04-01T11:01:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/t-56-ammunition-found-in-kalmunai-during-stf-raid",
+      "content_hash": "ce00c3a1b083d0fc9135b73703e21fb960f1b7c47378c0b02e4fcea71b938432",
+      "title": "T-56 Ammunition Found in Kalmunai During STF Raid",
+      "sent_at": "2026-04-01T11:01:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/two-chinese-nationals-arrested-with-illegal-cigarettes-worth-rs-17-million",
+      "content_hash": "1425cff70e5855e15d74059c1f890a05dceebc4aa81076d3ff9ca44d238bdcbb",
+      "title": "Two Chinese Nationals Arrested with Illegal Cigarettes Worth Rs. 17 Million",
+      "sent_at": "2026-04-01T11:01:55Z"
     }
   ]
 }
