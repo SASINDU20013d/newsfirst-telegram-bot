@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/25/sri-lanka-on-the-weekly-energy-saving-holiday-starting-today",
-      "content_hash": "09655cad62c84e3002f7a92ceb2c9bd26e71e2037c27858a4fcee854a97f3c30",
-      "title": "Sri Lanka on the Weekly Energy-Saving Holiday Starting Today",
-      "sent_at": "2026-03-25T02:36:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/25/iranian-military-mocks-trump%e2%80%99s-claim-of-us-iran-negotiations",
       "content_hash": "7e7effd5824ba8a342646eb3d6d83e683552d35d9ec8409031c2f0f26bbba4fc",
       "title": "Iranian Military Mocks Trump’s Claim of US-Iran Negotiations",
@@ -725,6 +719,30 @@
       "content_hash": "a7dd213449235c2a6a684d318fbe477c05ce9eaebbc16a5aad39743cde67066b",
       "title": "Crony Capitalism Undermines Sri Lankan Cricket: The Nalin Aponso Case",
       "sent_at": "2026-03-31T17:03:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/cpc-to-issue-fuel-for-both-odd-and-even-numbered-license-plates-today",
+      "content_hash": "d98112793506e1c97263651a0d1b86ab46e221225564606978bcbccb2bb84b48",
+      "title": "CPC to Issue Fuel for Both Odd and Even Numbered License Plates Today",
+      "sent_at": "2026-04-01T02:57:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/electricity-tariffs-rise-across-all-usage-categories-starting-today",
+      "content_hash": "d2e51a24a25f60361d1e651403c69c0a5f5bc7aec90443d7353a620f03e77196",
+      "title": "Electricity Tariffs Rise Across All Usage Categories Starting Today",
+      "sent_at": "2026-04-01T02:57:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/export-of-local-coconut-products-hit-hard-by-middle-east-conflict",
+      "content_hash": "7090edf47e10550787a2a31d296fbd6fa428a93da3bfbb680b609b63e3f5b403",
+      "title": "Export of Local Coconut Products Hit Hard by Middle East Conflict",
+      "sent_at": "2026-04-01T02:57:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/over-62-64-qualify-for-university-admission-as-2025-a-l-results-are-released",
+      "content_hash": "8755719db139af5dfec90d9fe0400438bf647cd3bf4b7e1bfe3d45d9f7dfae45",
+      "title": "Over 62.64% Qualify for University Admission as 2025 A/L Results Are Released",
+      "sent_at": "2026-04-01T02:57:25Z"
     }
   ]
 }
