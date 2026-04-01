@@ -1,60 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/25/japan-supports-sri-lanka-with-emergency-radio-grant-worth-rs-55m",
-      "content_hash": "ecd8a50a0242da4a6ccb18f1ea13bde4fa70ef2a040da994f40c562c6a675356",
-      "title": "Japan Supports Sri Lanka with Emergency Radio Grant Worth Rs. 55M",
-      "sent_at": "2026-03-25T06:03:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/sri-lanka-holds-overnight-policy-rate-at-7-75-amidst-the-middle-east-tensions-fast-tracking-inflation-target",
-      "content_hash": "90949f4f273ca1486fb78d3ca048e6302f2c1becc4eec2f7d60d810d4ec31783",
-      "title": "Sri Lanka Holds Overnight Policy Rate at 7.75% Amidst the Middle East Tensions Fast-Tracking Inflation Target",
-      "sent_at": "2026-03-25T06:03:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/trump-links-iran-%e2%80%98gift%e2%80%99-to-strait-of-hormuz-claims-strong-us-bargaining-position",
-      "content_hash": "81bb644ad91171024dcbad55fa5c06a7b4b975da0d847f6c49c8a9c5ae7263ff",
-      "title": "Trump Links Iran ‘Gift’ to Strait of Hormuz, Claims Strong US Bargaining Position",
-      "sent_at": "2026-03-25T06:03:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/two-arrested-at-bia-with-rs-15-mn-worth-of-smuggled-cigarettes",
-      "content_hash": "83d927c82c98786b7ff33670904e7d86a3a35b10347dcd02d79d9c27412e2bb8",
-      "title": "Two Arrested at BIA with Rs. 15 Mn Worth of Smuggled Cigarettes",
-      "sent_at": "2026-03-25T06:03:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/7-stolen-dogs-escape-and-walk-nearly-17-km-together-to-find-their-way-home",
-      "content_hash": "1e57d06330a1431f4e69964ad3ecdb0a83d94211d8566858ecd068faba097294",
-      "title": "7 Stolen Dogs Escape and Walk Nearly 17 Km Together to Find Their Way Home",
-      "sent_at": "2026-03-25T07:15:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/cbsl-highlights-massive-growth-in-digital-payments",
-      "content_hash": "50c1f615d11200e00f8c57c22c7886be194bab7597473dfaf2cee0e4ec592d99",
-      "title": "CBSL Highlights Massive Growth in Digital Payments",
-      "sent_at": "2026-03-25T07:15:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/no-requests-to-repatriate-from-sri-lankans-in-middle-east-despite-conflicts",
-      "content_hash": "9f5e825446131dc16f95f07651ea4addc093e8392cc9f309bf3bbdb9008d6b29",
-      "title": "No Requests to Repatriate from Sri Lankans in Middle East Despite Conflicts",
-      "sent_at": "2026-03-25T07:15:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/over-200-cases-on-fraudulent-qr-codes-under-investigation",
-      "content_hash": "ca68ace73254ebe545fa48731212dc31025923728de642335be4c2590b8b299b",
-      "title": "Over 200 Cases on Fraudulent QR Codes Under Investigation",
-      "sent_at": "2026-03-25T07:15:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/sri-lanka-rupee-slips-as-middle-east-conflict-triggers-regional-currency-pressures",
-      "content_hash": "77250517c0b830a43d36f84b521ac836ea2d59f6bd025a314a328b93d1e7546a",
-      "title": "Sri Lanka Rupee Slips as Middle East Conflict Triggers Regional Currency Pressures",
-      "sent_at": "2026-03-25T07:15:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/25/15-minutes-before-trump-s-post-markets-moved-and-millions-were-made",
       "content_hash": "e88d013d9c415e07f0b02f193138bcc4de0fe270f82800cff53e37243317686d",
       "title": "15 Minutes Before Trump's Post, Markets Moved - and Millions Were Made",
@@ -737,6 +683,18 @@
       "content_hash": "413bad79e3c80075c22071634008bef857cfe9d5134c75b264dadd27e3f2e35d",
       "title": "Police Launch Special Security Operation for Festive Season",
       "sent_at": "2026-04-01T05:28:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/gce-a-l-2025-island-toppers-announced-across-streams",
+      "content_hash": "cc218cca820f89ed85c0d148af44a6527eb817c0d034f3ed384d4054ee608dd4",
+      "title": "GCE A/L 2025 Island Toppers Announced Across Streams",
+      "sent_at": "2026-04-01T07:27:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/sri-lanka-navy-seizes-heroin-worth-rs-6-2-billion-at-sea",
+      "content_hash": "1054144c35eb627959085eb73afcbac65f71557bdb2e496f77a5e4b9ed3762e9",
+      "title": "Sri Lanka Navy Seizes Heroin Worth Rs. 6.2 Billion at Sea",
+      "sent_at": "2026-04-01T07:27:44Z"
     }
   ]
 }
