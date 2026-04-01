@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/25/russian-deputy-energy-minister-to-visit-sri-lanka-this-week-to-discuss-energy-solutions",
-      "content_hash": "094d09711f36cca4498cb4c64b8f5e2a662b1944f894dea8a157c8c81cdb0686",
-      "title": "Russian Deputy Energy Minister to Visit Sri Lanka This Week to Discuss Energy Solutions",
-      "sent_at": "2026-03-25T15:04:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/26/extreme-heat-alert-issued-for-multiple-regions-amid-health-concerns",
       "content_hash": "5990e46e34fb879b20f078ff3f387c005144c550a75390d4f1a20b94d90918ce",
       "title": "Extreme Heat Alert Issued for Multiple Regions Amid Health Concerns",
@@ -683,6 +677,18 @@
       "content_hash": "1425cff70e5855e15d74059c1f890a05dceebc4aa81076d3ff9ca44d238bdcbb",
       "title": "Two Chinese Nationals Arrested with Illegal Cigarettes Worth Rs. 17 Million",
       "sent_at": "2026-04-01T11:01:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/cpc-reiterates-strict-adherence-to-fuel-quotas",
+      "content_hash": "359dbc38fe44be543fbfaad4b4f36312583aeafaf0f35937e4eb9d80c2ae0fef",
+      "title": "CPC Reiterates Strict Adherence to Fuel Quotas",
+      "sent_at": "2026-04-01T15:08:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/j-p-morgan-warns-of-economic-time-bomb-as-global-oil-reserves-near-depletion",
+      "content_hash": "04aefb5aaf4cd375fb58f0e18d5032bc2d3e6408aa050a0927bab8123d21366d",
+      "title": "J.P. Morgan Warns of \"Economic Time Bomb\" as Global Oil Reserves Near Depletion",
+      "sent_at": "2026-04-01T15:08:55Z"
     }
   ]
 }
