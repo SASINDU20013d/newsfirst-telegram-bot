@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/25/15-minutes-before-trump-s-post-markets-moved-and-millions-were-made",
-      "content_hash": "e88d013d9c415e07f0b02f193138bcc4de0fe270f82800cff53e37243317686d",
-      "title": "15 Minutes Before Trump's Post, Markets Moved - and Millions Were Made",
-      "sent_at": "2026-03-25T08:57:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/sri-lanka%e2%80%99s-gross-official-reserves-record-steady-growth-into-2026",
-      "content_hash": "ae72908e8b9167ea9d871b70efa949f050cb4677e69733bb934e46219642290e",
-      "title": "Sri Lanka’s Gross Official Reserves Record Steady Growth into 2026",
-      "sent_at": "2026-03-25T08:57:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/25/two-imf-reviews-possible-but-talks-needed-after-major-shock",
-      "content_hash": "b50971591fe9f7c7cf59e9be1c898b7fa22397b1faad7acf96ee091fc746681e",
-      "title": "Two IMF Reviews Possible, But Talks Needed After Major Shock",
-      "sent_at": "2026-03-25T08:57:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/25/senior-dig-sanjeewa-dharmaratne-appointed-acting-igp",
       "content_hash": "427ec47ded0708595b10d3d18d47f6dd537ce2949ccd7003ba5b2e1fd2ac2408",
       "title": "Senior DIG Sanjeewa Dharmaratne Appointed Acting IGP",
@@ -695,6 +677,18 @@
       "content_hash": "1054144c35eb627959085eb73afcbac65f71557bdb2e496f77a5e4b9ed3762e9",
       "title": "Sri Lanka Navy Seizes Heroin Worth Rs. 6.2 Billion at Sea",
       "sent_at": "2026-04-01T07:27:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/fatal-accidents-claim-two-lives-in-horana-and-bandarawela",
+      "content_hash": "96939fa6ae583c7ba381a39bd454106233bc630c0d0edabf701b2a76aab998e0",
+      "title": "Fatal Accidents Claim Two Lives in Horana and Bandarawela",
+      "sent_at": "2026-04-01T09:11:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/01/two-arrested-with-3kg-of-%e2%80%9cice%e2%80%9d-linked-to-notorious-trafficker",
+      "content_hash": "12946ab0f43958607c1c4ecf55220956b5c85d19f7626bb2deb50418d64bde7f",
+      "title": "Two Arrested With 3kg Of “Ice” Linked To Notorious Trafficker",
+      "sent_at": "2026-04-01T09:12:07Z"
     }
   ]
 }
