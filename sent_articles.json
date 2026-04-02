@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/26/salley-returned-to-cid-custody-after-hospital-treatment",
-      "content_hash": "15bb365cc5f98694a7aec9749217c99ee633529c9ab3a1f823e72b056500228f",
-      "title": "Salley Returned To CID Custody After Hospital Treatment",
-      "sent_at": "2026-03-26T05:10:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/26/three-arrested-at-bandaranaike-international-airport-with-over-120-200-illegal-cigarettes",
-      "content_hash": "a705196fa1d1abe7814306a22dce2e015e81af4dab7b6179ce3bde05387cc2f2",
-      "title": "Three Arrested At Bandaranaike International Airport With Over 120,200 Illegal Cigarettes",
-      "sent_at": "2026-03-26T05:10:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/26/cpc-confirms-new-shipments-and-over-6-million-qr-registrations",
-      "content_hash": "a2697801dfa660f5c9e9974ef987b3233657795b33372314f3f6f64258f2e149",
-      "title": "CPC Confirms New Shipments And Over 6 Million QR Registrations",
-      "sent_at": "2026-03-26T07:15:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/26/russian-deputy-energy-minister-meets-president-anura-kumara-dissanayake",
-      "content_hash": "e180f1435a5ae4aab583b77dc5fd498569133d126ba25e21a25e0ae6ad7a7215",
-      "title": "Russian Deputy Energy Minister Meets President Anura Kumara Dissanayake",
-      "sent_at": "2026-03-26T07:15:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/26/army-gathers-key-intelligence-on-southern-sea-drug-networks",
       "content_hash": "5a49a1d6aa2f6167f037d3bcf6ec833cce4078477ef84e46cff2fbead35dda2b",
       "title": "Army Gathers Key Intelligence On Southern Sea Drug Networks",
@@ -695,6 +671,36 @@
       "content_hash": "68f8a9fe0522d9b47ea0f2a959f6cf599d2f2ff2574c83908e1b05c727412546",
       "title": "Sri Lanka–Russia Talks Begin Today",
       "sent_at": "2026-04-02T05:06:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/airbus-bribery-scandal-open-warrants-issued-for-shamindra-rajapaksa-and-priyanka-neomali",
+      "content_hash": "34d75c5d0c28cfdedd230b1141ad96ea0bd9edf554259d0fd4371008f3e54673",
+      "title": "Airbus Bribery Scandal: Open Warrants Issued for Shamindra Rajapaksa and Priyanka Neomali",
+      "sent_at": "2026-04-02T07:19:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/coal-controversy-takes-an-unexpected-turn",
+      "content_hash": "90392af72a4d21355179279ba246b4cc60b2d7f72be25a5d2eacced34cccf7cd",
+      "title": "Coal Controversy takes an Unexpected Turn",
+      "sent_at": "2026-04-02T07:19:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/gmoa-launches-island-wide-strike-over-transfer-disputes-health-ministry-warns-of-decisive-action",
+      "content_hash": "66ece8fb39b6dd3f83155f33456c63138d97659eceb160a08e0ad3634b2a85af",
+      "title": "GMOA Launches Island-Wide Strike Over Transfer Disputes; Health Ministry Warns of \"Decisive Action\"",
+      "sent_at": "2026-04-02T07:19:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/grade-12-student-killed-in-pallekele-five-injured-as-van-plunges-70-feet-in-kotmale",
+      "content_hash": "6df638c87ca2b367c821cdbaceb2577b03262a2e9d3d86420fcad451efe51d96",
+      "title": "Grade 12 Student Killed in Pallekele; Five Injured as Van Plunges 70 Feet in Kotmale",
+      "sent_at": "2026-04-02T07:19:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/special-water-release-to-colombo-from-tomorrow",
+      "content_hash": "09d359b18ca3426ebcc14adb316e6923ae3921c4723314f59b93622499c55558",
+      "title": "Special Water Release To Colombo From Tomorrow",
+      "sent_at": "2026-04-02T07:19:37Z"
     }
   ]
 }
