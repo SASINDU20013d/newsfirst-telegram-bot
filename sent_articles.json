@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/26/extreme-heat-alert-issued-for-multiple-regions-amid-health-concerns",
-      "content_hash": "5990e46e34fb879b20f078ff3f387c005144c550a75390d4f1a20b94d90918ce",
-      "title": "Extreme Heat Alert Issued for Multiple Regions Amid Health Concerns",
-      "sent_at": "2026-03-26T02:43:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/26/government-moves-to-cut-prices-on-600-essential-items-for-festive-season",
-      "content_hash": "f69f952a8138ad0a8966369ce0edc2b906bdcae1d5915961a82cc4ff614331a2",
-      "title": "Government Moves to Cut Prices on 600 Essential Items for Festive Season",
-      "sent_at": "2026-03-26T02:43:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/26/imfcentral-bank-talks-begin-on-next-eff-tranche",
-      "content_hash": "08da09d49419628316df8743473220c699c7402c1a4dfacec22c834922b1d412",
-      "title": "IMF–Central Bank Talks Begin on Next EFF Tranche",
-      "sent_at": "2026-03-26T02:43:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/26/russian-deputy-energy-minister-arrives-for-key-talks-on-sri-lanka%e2%80%99s-energy-crisis",
-      "content_hash": "8100c0590284fdbaa1e630c16aea05d23e64e4c9c7ada483689ee231b93d213f",
-      "title": "Russian Deputy Energy Minister Arrives for Key Talks on Sri Lanka’s Energy Crisis",
-      "sent_at": "2026-03-26T02:43:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/26/salley-returned-to-cid-custody-after-hospital-treatment",
       "content_hash": "15bb365cc5f98694a7aec9749217c99ee633529c9ab3a1f823e72b056500228f",
       "title": "Salley Returned To CID Custody After Hospital Treatment",
@@ -689,6 +665,36 @@
       "content_hash": "04aefb5aaf4cd375fb58f0e18d5032bc2d3e6408aa050a0927bab8123d21366d",
       "title": "J.P. Morgan Warns of \"Economic Time Bomb\" as Global Oil Reserves Near Depletion",
       "sent_at": "2026-04-01T15:08:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/drug-suspects-to-be-produced-in-court",
+      "content_hash": "9d9ea2e970740371568d1d44487ea17c376e22c58a6b66197cf2b758182d2901",
+      "title": "Drug Suspects To Be Produced In Court",
+      "sent_at": "2026-04-02T05:06:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/fishermen-return-after-8-months-in-custody",
+      "content_hash": "68bcf264b5a94fd41b8dcfbac959a9b9ce1ca470fffd154d1e4f24b895a2b577",
+      "title": "Fishermen Return After 8 Months In Custody",
+      "sent_at": "2026-04-02T05:06:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/fuel-shipment-set-to-arrive-today",
+      "content_hash": "0e7fb1bdb7a65379796b43aa650dbdf63efef093cf42896d35846c532c3ba630",
+      "title": "Fuel Shipment Set To Arrive Today",
+      "sent_at": "2026-04-02T05:06:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/police-warn-public-on-suspicious-links",
+      "content_hash": "b76d101b2f582a95217ffe4b7c0ccf908c197ffef1493321a5eb36b8f680a564",
+      "title": "Police Warn Public On Suspicious Links",
+      "sent_at": "2026-04-02T05:06:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/sri-lankarussia-talks-begin-today",
+      "content_hash": "68f8a9fe0522d9b47ea0f2a959f6cf599d2f2ff2574c83908e1b05c727412546",
+      "title": "Sri Lanka–Russia Talks Begin Today",
+      "sent_at": "2026-04-02T05:06:43Z"
     }
   ]
 }
