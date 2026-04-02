@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/26/army-gathers-key-intelligence-on-southern-sea-drug-networks",
-      "content_hash": "5a49a1d6aa2f6167f037d3bcf6ec833cce4078477ef84e46cff2fbead35dda2b",
-      "title": "Army Gathers Key Intelligence On Southern Sea Drug Networks",
-      "sent_at": "2026-03-26T09:02:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/26/two-arrested-at-bia-with-rs-100-million-kush",
-      "content_hash": "2d7469db749e78acfc02c93bc9e463671cb2c34a40060c8470a18556f3639653",
-      "title": "Two Arrested at BIA With Rs. 100 Million Kush",
-      "sent_at": "2026-03-26T09:02:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/26/us-iran-what-are-each-side%e2%80%99s-demands-is-a-deal-possible",
-      "content_hash": "6b0acaf59a849bdfb98ee57decf083ca5cf25f1dc10e4465bd75bd89fd9dc78a",
-      "title": "US-Iran : What Are Each Side’s Demands & Is A Deal Possible?",
-      "sent_at": "2026-03-26T09:02:41Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/26/sri-lanka-navy-seizes-indian-trawler-and-detains-4-fishermen-north-of-delft-island",
       "content_hash": "233fff4fdc55bba49b9ae83de80e9acc789723339cde803a59ea8574dfbec00a",
       "title": "Sri Lanka Navy Seizes Indian Trawler and Detains 4 Fishermen North of Delft Island",
@@ -701,6 +683,12 @@
       "content_hash": "09d359b18ca3426ebcc14adb316e6923ae3921c4723314f59b93622499c55558",
       "title": "Special Water Release To Colombo From Tomorrow",
       "sent_at": "2026-04-02T07:19:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/02/national-energy-drive-hits-schools-classroom-awareness-programs-set-for-april-7-and-9",
+      "content_hash": "fd7f93bd3190721f2921dc9d435d87abd17d01d8e1f267aa588cda12784d62a7",
+      "title": "National Energy Drive Hits Schools: Classroom Awareness Programs Set for April 7 and 9",
+      "sent_at": "2026-04-02T09:03:58Z"
     }
   ]
 }
