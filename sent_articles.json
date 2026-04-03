@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/27/jet-a1-fuel-stocks-sufficient-until-mid-may",
-      "content_hash": "50d58b444a65a9274ef80252a1c80cc5d1e0f2ef9f351441bef53d1419237457",
-      "title": "Jet A1 Fuel Stocks Sufficient Until Mid-May",
-      "sent_at": "2026-03-27T05:11:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/china-support-needed-for-ocean-management",
-      "content_hash": "eb4aae18a2d537fe9715c61fb70ea68f0226a3d7ce8c0720de9c4b7a866a224e",
-      "title": "China Support Needed For Ocean Management",
-      "sent_at": "2026-03-27T07:14:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/fuel-talks-with-russia-suppliers-today",
-      "content_hash": "77725eb7e6c4c3e98a05f3ca3d77a686712715bf1267c4c9c660d7dfb222128b",
-      "title": "Fuel Talks With Russia Suppliers Today",
-      "sent_at": "2026-03-27T07:14:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/two-suspects-arrested-for-extortion-in-ambalangoda",
-      "content_hash": "897737af6373fdd36300c9db114dd8537d148ae43ae22bcfdcb9e5f9bda384a8",
-      "title": "Two Suspects Arrested for Extortion in Ambalangoda",
-      "sent_at": "2026-03-27T07:14:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/upcountry-rail-services-to-resume-soon",
-      "content_hash": "1e0013fbfcd3568709e37a55b83fd4f374c3440fe5936ae2c5474265a4ddbd36",
-      "title": "Upcountry Rail Services To Resume Soon",
-      "sent_at": "2026-03-27T07:14:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/27/ex-health-minister-fined-rs-75m-over-rights-violation",
       "content_hash": "b8c92aa1c99ee4e2e8a26c50ada6ea6788ee49f3ec0fde481226b961ab35f38e",
       "title": "Ex-Health Minister Fined Rs. 75M Over Rights Violation",
@@ -677,6 +647,24 @@
       "content_hash": "e1bf0a26200253afe59415b8a5557c4f95743c9fec9b86284332b1005404b963",
       "title": "Water Relief Measures Announced",
       "sent_at": "2026-04-03T05:08:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/insurance-scheme-introduced-for-divers",
+      "content_hash": "91adc17ff4de16daedcbc74c4f98aff561c2ce4fafb892e70018cc654981ccca",
+      "title": "Insurance Scheme Introduced For Divers",
+      "sent_at": "2026-04-03T07:15:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/russia-pledges-support-for-sri-lanka%e2%80%99s-energy-needs",
+      "content_hash": "a6c7e97f5f683e25cbb82b654c1f5c66a779ed700f8417e00c0531df70f2c024",
+      "title": "Russia Pledges Support for Sri Lanka’s Energy Needs",
+      "sent_at": "2026-04-03T07:15:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/two-tour-guides-arrested-over-sexual-abuse-of-tourist",
+      "content_hash": "cfe4f5d48b64ab34b1f9d2ea4297e13809f20ccda9dacc81c4cdb8943947ab3a",
+      "title": "Two Tour Guides Arrested Over Sexual Abuse of Tourist",
+      "sent_at": "2026-04-03T07:16:00Z"
     }
   ]
 }
