@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/27/customs-seize-rs-30-mn-worth-of-foreign-cigarettes-at-bia",
-      "content_hash": "369c881bb4d1804093a40fb115cd850ff103625b87c8ffa6df71cc29ab3fdc44",
-      "title": "Customs Seize Rs. 30 Mn Worth of Foreign Cigarettes at BIA",
-      "sent_at": "2026-03-27T11:43:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/how-one-water-project-changed-an-entire-village",
-      "content_hash": "6780ee64cc8189e6bdbd3048d6ae7ac136474e7803d7927469836ffc3c78e024",
-      "title": "How One Water Project Changed an Entire Village",
-      "sent_at": "2026-03-27T11:43:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/japan-signs-grant-to-deliver-low-floor-buses-for-sri-lanka%e2%80%99s-public-transport",
-      "content_hash": "cb5f34b5a6d6c32aa21acf5e9399a588222c856367d3a4e5a13e77ed8cb9e328",
-      "title": "Japan Signs Grant to Deliver Low-Floor Buses for Sri Lanka’s Public Transport",
-      "sent_at": "2026-03-27T11:44:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/misje-kandy-sets-sail-as-colombo-dockyard-completes-norwegian-vessel-series",
-      "content_hash": "3c54deacee4893f264032182d95159b9907c5e368361e67cf895d1e104395d86",
-      "title": "'Misje Kandy' Sets Sail As Colombo Dockyard Completes Norwegian Vessel Series",
-      "sent_at": "2026-03-27T11:44:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/27/ioc-sends-fuel-shipment-to-lioc-after-akd-modi-call",
       "content_hash": "9abc671b18cc5303dbcbd7912384eee553ff63d95e7b3a066acc486737d989c8",
       "title": "IOC Sends Fuel Shipment to LIOC After AKD-Modi Call",
@@ -653,6 +629,12 @@
       "content_hash": "1fa00776261ff7d3f703cde4f2ef543aaf55de1a9e07b5459090a6ca8baa99fe",
       "title": "Fertilizer Distribution To Remain Open On Weekends And Holidays",
       "sent_at": "2026-04-03T09:55:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/suspect-arrested-in-thelikada-family-double-murder",
+      "content_hash": "20ac2e7f9d91214c0af6a2195411692de30534769e35eeca49b3ebe21dbeb448",
+      "title": "Suspect Arrested in Thelikada Family Double Murder",
+      "sent_at": "2026-04-03T13:13:02Z"
     }
   ]
 }
