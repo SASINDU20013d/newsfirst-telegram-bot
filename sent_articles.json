@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/27/id-services-suspended-until-further-notice",
-      "content_hash": "f4e220f8e20e9ab632a2c765ece54bb16f0fae24a55d9752bcbb694dcc7f0a0d",
-      "title": "ID Services Suspended Until Further Notice",
-      "sent_at": "2026-03-27T02:45:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/national-integrity-week-begins-today",
-      "content_hash": "877dff997f766373e411be1340f8f881e65cc679008b172b9c3d2c4f80cd2a6f",
-      "title": "National Integrity Week Begins Today",
-      "sent_at": "2026-03-27T02:45:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/27/jet-a1-fuel-stocks-sufficient-until-mid-may",
       "content_hash": "50d58b444a65a9274ef80252a1c80cc5d1e0f2ef9f351441bef53d1419237457",
       "title": "Jet A1 Fuel Stocks Sufficient Until Mid-May",
@@ -665,6 +653,30 @@
       "content_hash": "c53d07ff765b96abd434684cffd7689eee1cd0322e296211e9b31d4ca06340ec",
       "title": "Sri Lanka and World Bank Group Launch New Partnership to Create Jobs, Attract Private Investment",
       "sent_at": "2026-04-02T17:06:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/christians-mark-good-friday-today",
+      "content_hash": "10bbd6bf8a6fa466ce8f60d28e87bae79656313ccdd5abff6e585e2809bdbc8e",
+      "title": "Christians Mark Good Friday Today",
+      "sent_at": "2026-04-03T05:08:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/cid-probes-ishara-sewwandi%e2%80%99s-birthday-party-claim",
+      "content_hash": "fd154cfb97169fcee99e52dbd7506d714a6b116de9a33829c6b09d649db631a1",
+      "title": "CID Probes Ishara Sewwandi’s Birthday Party Claim",
+      "sent_at": "2026-04-03T05:08:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/kush-drug-bust-at-katunayake-airport",
+      "content_hash": "877307d123863a9bd185cf4a02a432fe05281b3f780b8dbca355562abffc1ad4",
+      "title": "Kush Drug Bust At Katunayake Airport",
+      "sent_at": "2026-04-03T05:08:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/undefined",
+      "content_hash": "e1bf0a26200253afe59415b8a5557c4f95743c9fec9b86284332b1005404b963",
+      "title": "Water Relief Measures Announced",
+      "sent_at": "2026-04-03T05:08:56Z"
     }
   ]
 }
