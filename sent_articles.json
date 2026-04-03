@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/27/ex-health-minister-fined-rs-75m-over-rights-violation",
-      "content_hash": "b8c92aa1c99ee4e2e8a26c50ada6ea6788ee49f3ec0fde481226b961ab35f38e",
-      "title": "Ex-Health Minister Fined Rs. 75M Over Rights Violation",
-      "sent_at": "2026-03-27T08:58:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/gammadda-back-in-action-water-purification-system-handed-over-in-galnewa",
-      "content_hash": "0b81a1de7be392569d56acdc523c2d7bad74726673b5e73a1c84a1da004a1138",
-      "title": "Gammadda Back in Action: Water Purification System Handed Over in Galnewa",
-      "sent_at": "2026-03-27T08:58:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/27/no-price-increase-for-confectionery-until-may",
-      "content_hash": "20297372ff92baa7767dea1d7eee35952273fdd8b6b1c8375bddff0017b2cb46",
-      "title": "No Price Increase For Confectionery Until May",
-      "sent_at": "2026-03-27T08:59:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/27/police-warn-against-online-shopping-scams",
       "content_hash": "e060da0e883c80e84b20ca18f74b473d429838677b7f97d33726bd6e22894c4b",
       "title": "Police Warn Against Online Shopping Scams",
@@ -665,6 +647,12 @@
       "content_hash": "cfe4f5d48b64ab34b1f9d2ea4297e13809f20ccda9dacc81c4cdb8943947ab3a",
       "title": "Two Tour Guides Arrested Over Sexual Abuse of Tourist",
       "sent_at": "2026-04-03T07:16:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/03/two-dead-and-one-critically-injured-in-thelikada-stabbing",
+      "content_hash": "cc5da7906e07131d0e050e331cbf2be7bf3c141adc42b616278786189018ae7b",
+      "title": "Two Dead and One Critically Injured in Thelikada Stabbing",
+      "sent_at": "2026-04-03T09:00:17Z"
     }
   ]
 }
