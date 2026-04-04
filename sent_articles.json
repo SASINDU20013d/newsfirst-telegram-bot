@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/28/police-arrest-drug-suspect-in-balumgala-ice-and-heroin-seized",
-      "content_hash": "d93deea1742d316371cbcadd10cf56ee368fac3d496ae4438a3e44a452cd1bd7",
-      "title": "Police Arrest Drug Suspect In Balumgala: Ice And Heroin Seized",
-      "sent_at": "2026-03-28T09:41:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/28/ceylon-petroleum-officials-appointed-to-address-fuel-issues-across-ministries",
       "content_hash": "cee548663e3ec902b26839276091117b53dbc7e043477fe7d7a7fa0409cd49ca",
       "title": "Ceylon Petroleum Officials Appointed To Address Fuel Issues Across Ministries",
@@ -605,6 +599,12 @@
       "content_hash": "44c9ff8ae207b4572158c441dab750dd071a8da27e4ac312b7225973820ac426",
       "title": "7,000 MT LP Gas Shipment Arrives at the HIP",
       "sent_at": "2026-04-04T08:48:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/04/recruitment-of-new-doctors-underway-deputy-minister-says-strike-demands-cannot-be-implemented",
+      "content_hash": "93fec8194a7230abfd83b052af72e163996d39e86736481e66de1242a6f237df",
+      "title": "Recruitment of New Doctors Underway: Deputy Minister Says Strike Demands Cannot Be Implemented",
+      "sent_at": "2026-04-04T09:42:42Z"
     }
   ]
 }
