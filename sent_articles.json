@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/28/2-dead-7-injured-in-cab-tractor-collision-in-girandurukotte",
-      "content_hash": "cde7096901eb86529063b1046654042eabe3168f17c28a601a5c032b53598be0",
-      "title": "2 Dead, 7 Injured in Cab-tractor Collision in Girandurukotte",
-      "sent_at": "2026-03-28T04:56:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/28/commissioner-general-of-motor-traffic-arrested",
-      "content_hash": "c65e3fc83e957898ba8a5c71ec5ff65c3d8dab179eb502e53a15b6f8a7832a44",
-      "title": "Commissioner General of Motor Traffic Arrested",
-      "sent_at": "2026-03-28T04:56:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/28/sltda-provides-400-000l-of-fuel-to-registered-tour-operators",
-      "content_hash": "1ce00e89e9866fb07e7c946d5c31d6a34c3fbb933530660f694274576bcb589b",
-      "title": "SLTDA provides 400,000L of Fuel to Registered Tour Operators",
-      "sent_at": "2026-03-28T05:59:54Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/28/18-foreign-nationals-arrested-in-negombo-for-online-fraud",
       "content_hash": "1bdedf9542750f07b64390a01d20d1ed6d9953b04f8d5c856850f56b7708ad6f",
       "title": "18 Foreign Nationals Arrested in Negombo For Online Fraud",
@@ -635,6 +617,12 @@
       "content_hash": "c00ed0add799805f63562331d141b922a494479c5f108d33d880b96dc9b1950b",
       "title": "Three Arrested for Illegal Possession of Diesel and Kerosene",
       "sent_at": "2026-04-04T04:54:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/04/afghanistan-hit-by-magnitude-5-9-earthquake-eight-killed",
+      "content_hash": "ebebc6c3eef28d77ede38fdbda9fcbc1d2441ac688a8265c248275b898195d5c",
+      "title": "Afghanistan Hit by Magnitude 5.9 Earthquake, Eight Killed",
+      "sent_at": "2026-04-04T06:00:04Z"
     }
   ]
 }
