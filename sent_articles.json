@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/28/50-police-promotions-completed-remainder-from-this-month",
-      "content_hash": "9669f6e982f614980da5d7e4d43eb733ac47f6d188e431500dd89240cd967f25",
-      "title": "50% Police Promotions Completed; Remainder From This Month",
-      "sent_at": "2026-03-28T08:46:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/28/drugs-worth-rs-204-5-million-seized-at-bia",
-      "content_hash": "fd7d661cdfcf837a63cc2b018f237c3d642bb2052c11f6a01801c05bf29ea5ae",
-      "title": "Drugs Worth Rs. 204.5 Million Seized at BIA",
-      "sent_at": "2026-03-28T08:46:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/28/man-arrested-in-warakapola-with-1-235l-of-diesel",
-      "content_hash": "68df366d1cabda44aa58d60f170735e0b387c36998afb57b1a010ce0cb9a81e8",
-      "title": "Man Arrested in Warakapola With 1,235L of Diesel",
-      "sent_at": "2026-03-28T08:46:59Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/28/police-arrest-drug-suspect-in-balumgala-ice-and-heroin-seized",
       "content_hash": "d93deea1742d316371cbcadd10cf56ee368fac3d496ae4438a3e44a452cd1bd7",
       "title": "Police Arrest Drug Suspect In Balumgala: Ice And Heroin Seized",
@@ -617,6 +599,12 @@
       "content_hash": "1aa101527eea8bc1013d9c765cb12859392e064b1ea7e8e9f8bcde51c854b6dc",
       "title": "Five Habits Threaten Police Careers - IGP",
       "sent_at": "2026-04-04T07:06:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/04/7-000-mt-lp-gas-shipment-arrives-at-the-hip",
+      "content_hash": "44c9ff8ae207b4572158c441dab750dd071a8da27e4ac312b7225973820ac426",
+      "title": "7,000 MT LP Gas Shipment Arrives at the HIP",
+      "sent_at": "2026-04-04T08:48:53Z"
     }
   ]
 }
