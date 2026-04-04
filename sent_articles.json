@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/28/ceylon-petroleum-officials-appointed-to-address-fuel-issues-across-ministries",
-      "content_hash": "cee548663e3ec902b26839276091117b53dbc7e043477fe7d7a7fa0409cd49ca",
-      "title": "Ceylon Petroleum Officials Appointed To Address Fuel Issues Across Ministries",
-      "sent_at": "2026-03-28T11:31:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/28/lanka-coal-company-ships-to-arrive-from-april-20-5-vessels-bringing-coal-from-south-africa",
       "content_hash": "3ed8b7c0666eaa248b73691056fa99f1c43af597e0f4af3475cc8361871ce466",
       "title": "Lanka Coal Company Ships To Arrive From April 20, 5 Vessels Bringing Coal From South Africa",
@@ -617,6 +611,12 @@
       "content_hash": "d3307d1077d1f48554f84e43bdbe0cdbe9fe13f826a2f77fa16bc0c4a5d711d8",
       "title": "Two Dead in Motorcycle-backhoe Collision in Kilinochchi",
       "sent_at": "2026-04-04T10:38:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/04/gmoa-strike-disrupts-hospital-services-across-the-country",
+      "content_hash": "921464fa1c11642ea5d73adef55c46a89ba70b3a9453d38eecfd346e5544fe4d",
+      "title": "GMOA Strike Disrupts Hospital Services Across The Country",
+      "sent_at": "2026-04-04T11:33:25Z"
     }
   ]
 }
