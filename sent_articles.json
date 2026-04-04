@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/28/indian-fuel-ship-to-arrive-in-sri-lanka-today",
-      "content_hash": "6fc06c9caba72f947769648bc98b15befbf6eecefe727d5d5d206d3c1ebc791b",
-      "title": "Indian Fuel Ship to Arrive in Sri Lanka Today",
-      "sent_at": "2026-03-28T02:35:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/28/no-fuel-shortage-during-the-festive-season-cpc",
-      "content_hash": "84697ffa4a4be4a8680a4d4ef54389bcc5b2ffcc3b3da6cc679e86a25dafca42",
-      "title": "No Fuel Shortage During the Festive Season - CPC",
-      "sent_at": "2026-03-28T02:35:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/28/2-dead-7-injured-in-cab-tractor-collision-in-girandurukotte",
       "content_hash": "cde7096901eb86529063b1046654042eabe3168f17c28a601a5c032b53598be0",
       "title": "2 Dead, 7 Injured in Cab-tractor Collision in Girandurukotte",
@@ -635,6 +623,18 @@
       "content_hash": "b380cbc7799cadb77d1662cc7673605151bdb1b5d19d463d07f7163ee2783aec",
       "title": "GMOA Resumes Islandwide Strike",
       "sent_at": "2026-04-04T02:34:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/04/expert-committee-appointed-national-colleges-of-education-set-for-major-reforms",
+      "content_hash": "3014a4decc1baeb0e75f94389237d5ffaaf920f6bd83fb9a112b811b417398eb",
+      "title": "Expert Committee Appointed: National Colleges of Education Set for Major Reforms",
+      "sent_at": "2026-04-04T04:53:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/04/three-arrested-for-illegal-possession-of-diesel-and-kerosene",
+      "content_hash": "c00ed0add799805f63562331d141b922a494479c5f108d33d880b96dc9b1950b",
+      "title": "Three Arrested for Illegal Possession of Diesel and Kerosene",
+      "sent_at": "2026-04-04T04:54:03Z"
     }
   ]
 }
