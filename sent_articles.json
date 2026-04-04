@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/28/18-foreign-nationals-arrested-in-negombo-for-online-fraud",
-      "content_hash": "1bdedf9542750f07b64390a01d20d1ed6d9953b04f8d5c856850f56b7708ad6f",
-      "title": "18 Foreign Nationals Arrested in Negombo For Online Fraud",
-      "sent_at": "2026-03-28T07:03:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/28/sathosa-to-release-20-essential-food-items-in-bulk-for-festive-season",
-      "content_hash": "76026156d497eaec41fd80d134dce1d9dc1c4d80fe66a0f9245c49fe3f63006c",
-      "title": "Sathosa to Release 20 Essential Food Items in Bulk for Festive Season",
-      "sent_at": "2026-03-28T07:04:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/28/50-police-promotions-completed-remainder-from-this-month",
       "content_hash": "9669f6e982f614980da5d7e4d43eb733ac47f6d188e431500dd89240cd967f25",
       "title": "50% Police Promotions Completed; Remainder From This Month",
@@ -623,6 +611,12 @@
       "content_hash": "ebebc6c3eef28d77ede38fdbda9fcbc1d2441ac688a8265c248275b898195d5c",
       "title": "Afghanistan Hit by Magnitude 5.9 Earthquake, Eight Killed",
       "sent_at": "2026-04-04T06:00:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/04/five-habits-threaten-police-careers-igp",
+      "content_hash": "1aa101527eea8bc1013d9c765cb12859392e064b1ea7e8e9f8bcde51c854b6dc",
+      "title": "Five Habits Threaten Police Careers - IGP",
+      "sent_at": "2026-04-04T07:06:25Z"
     }
   ]
 }
