@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/29/centralized-electronic-system-for-asset-and-liability-declaration-to-be-introduced",
-      "content_hash": "f99880838e49b6641622f0027d3d7faec8e94e2e5900f01a36bbb197a501b804",
-      "title": "Centralized Electronic System for Asset and Liability Declaration, to be Introduced",
-      "sent_at": "2026-03-29T07:12:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/29/ioc-fuel-tanker-arrives-in-colombo-following-diplomatic-conversation-between-india-and-sri-lanka",
-      "content_hash": "19b44d9cdbee2b8161fc5f3abd18a76da919a34214f192441f435830bf2f9fd6",
-      "title": "IOC Fuel Tanker Arrives in Colombo Following Diplomatic Conversation between India and Sri Lanka",
-      "sent_at": "2026-03-29T07:12:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/29/heroin-seizure-in-peliyagoda-1-6-kg-found-in-suspect%e2%80%99s-possession",
       "content_hash": "b362902a685b3f4d137ffa5835477debd84c448b60787a65818be6aee60251cb",
       "title": "Heroin Seizure in Peliyagoda: 1.6 Kg Found in Suspect’s Possession",
@@ -617,6 +605,12 @@
       "content_hash": "49c5674f5add775f7b07040d601a2e2c7ed88a90043f9a8f487ec27cdb779938",
       "title": "Sun Positioned Directly Over Sri Lanka Today; Heat Advisory Issued to Several Provinces and Districts",
       "sent_at": "2026-04-05T05:16:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/gmoa-strike-extended-by-another-24-hours",
+      "content_hash": "6dda86d2781e8850c6c879dad15128ac8df6f5dea4b127d7cd87b11ef25c195e",
+      "title": "GMOA Strike Extended by Another 24 Hours",
+      "sent_at": "2026-04-05T07:13:16Z"
     }
   ]
 }
