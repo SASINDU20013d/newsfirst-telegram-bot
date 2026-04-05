@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/29/sri-lanka-railways-to-introduce-digital-ticketing-system",
-      "content_hash": "2249f6dc69b288764e7284bf1eb01ea566b388cb0559933ef73076b801643cfb",
-      "title": "Sri Lanka Railways to Introduce Digital Ticketing System",
-      "sent_at": "2026-03-29T05:15:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/29/three-students-arrested-after-video-of-assault-went-viral",
-      "content_hash": "961d76bef7849b4a8747e0ef19bf5243d90552e3a87496af1b53319598e36bea",
-      "title": "Three Students Arrested After Video of Assault Went Viral",
-      "sent_at": "2026-03-29T05:15:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/29/centralized-electronic-system-for-asset-and-liability-declaration-to-be-introduced",
       "content_hash": "f99880838e49b6641622f0027d3d7faec8e94e2e5900f01a36bbb197a501b804",
       "title": "Centralized Electronic System for Asset and Liability Declaration, to be Introduced",
@@ -611,6 +599,24 @@
       "content_hash": "9818f9a8bc4f87035e916adf8c3b5feb133c29a244968be5573f33e5e895921d",
       "title": "Water Board Reduces Supply Disruptions to 12 Hours",
       "sent_at": "2026-04-05T02:52:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/government-to-issue-fertilizer-quotas-at-fair-prices",
+      "content_hash": "65a126e6385d7d479de20907e478c2786b60b257248440ae36f21845490c1ab9",
+      "title": "Government to Issue Fertilizer Quotas at Fair Prices",
+      "sent_at": "2026-04-05T05:16:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/pope-leo-xiv-celebrates-first-easter-vigil-calls-for-harmony-and-peace-in-a-world-torn-by-war",
+      "content_hash": "1a2ae7cf7ca80a326357c23fc8518e034a6532a792925090d76279709f35d47c",
+      "title": "Pope Leo XIV Celebrates First Easter Vigil, Calls for Harmony and Peace in a World Torn by War",
+      "sent_at": "2026-04-05T05:16:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/sun-positioned-directly-over-sri-lanka-today-heat-advisory-issued-to-several-provinces-and-districts",
+      "content_hash": "49c5674f5add775f7b07040d601a2e2c7ed88a90043f9a8f487ec27cdb779938",
+      "title": "Sun Positioned Directly Over Sri Lanka Today; Heat Advisory Issued to Several Provinces and Districts",
+      "sent_at": "2026-04-05T05:16:56Z"
     }
   ]
 }
