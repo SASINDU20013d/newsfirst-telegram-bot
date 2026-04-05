@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/29/applications-open-for-453-medical-officer-posts",
-      "content_hash": "41cde16459362520b6a9d44943e5492dd0e8486b5aa3231c05d2c9092d002d66",
-      "title": "Applications Open for 453 Medical Officer Posts",
-      "sent_at": "2026-03-29T13:04:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/30/businesses-can-obtain-fuel-qr-codes-for-all-vehicles-ministry-consultant",
       "content_hash": "355cb3e3678cfeab3ec8aa84256fe5edce84cdd56f5a8ed5bde3a9b3dd23879e",
       "title": "Businesses Can Obtain Fuel QR Codes for All Vehicles - Ministry Consultant",
@@ -617,6 +611,12 @@
       "content_hash": "026a0768d75d7d8f7208417e46301c4e12695fa32414120edb2df311ae0e5d63",
       "title": "Police Arrest 31 Over Illegal Fuel Hoarding",
       "sent_at": "2026-04-05T11:34:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/national-qr-payment-promotion-project-to-start-tomorrow",
+      "content_hash": "eb2109ba5e8f3651a206fe0c5d6856045dcb81b05111024514b00731110d0b4c",
+      "title": "National QR Payment Promotion Project To Start Tomorrow",
+      "sent_at": "2026-04-05T13:06:59Z"
     }
   ]
 }
