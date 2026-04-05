@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/29/fuel-tanker-to-arrive-from-india-today",
-      "content_hash": "86ff071cc366f52b54bd5f91faa88569efa2f60e53e832a7356b880b00b48e3f",
-      "title": "Fuel Tanker to Arrive from India Today",
-      "sent_at": "2026-03-29T02:49:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/29/high-temperatures-to-persist-until-may",
-      "content_hash": "64ff29f6c7e2ee7b1d79e4918ff52222367d8cc16b6fe26c7fe4fc69c1bbc274",
-      "title": "High Temperatures to Persist Until May",
-      "sent_at": "2026-03-29T02:49:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/29/mandatory-display-of-revised-bus-fares-rpta-western-province",
-      "content_hash": "3d0db49212984336ec5922d3b66cf917697b57c711ca61fd20f260a5ac3615ef",
-      "title": "Mandatory Display of Revised Bus Fares - RPTA Western Province",
-      "sent_at": "2026-03-29T02:49:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/29/water-supply-suspended-for-dehiwala-and-surrounding-areas",
-      "content_hash": "6944898cfd6d1708cbdc601c256663a161f328bc7072ce8d3bea31c22e1603c4",
-      "title": "Water Supply Suspended for Dehiwala and Surrounding Areas",
-      "sent_at": "2026-03-29T02:49:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/29/sri-lanka-railways-to-introduce-digital-ticketing-system",
       "content_hash": "2249f6dc69b288764e7284bf1eb01ea566b388cb0559933ef73076b801643cfb",
       "title": "Sri Lanka Railways to Introduce Digital Ticketing System",
@@ -611,6 +587,30 @@
       "content_hash": "921464fa1c11642ea5d73adef55c46a89ba70b3a9453d38eecfd346e5544fe4d",
       "title": "GMOA Strike Disrupts Hospital Services Across The Country",
       "sent_at": "2026-04-04T11:33:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/caa-collects-nearly-rs-50-million-in-fines-following-over-5-000-raids",
+      "content_hash": "3cdd7a4f43c4cb356517a7513e26673a21c64b1d62ed458c25e82a026945deba",
+      "title": "CAA Collects Nearly Rs. 50 Million in Fines Following Over 5,000 Raids",
+      "sent_at": "2026-04-05T02:52:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/christians-celebrate-easter-sunday-leaders-call-for-peace-and-unity",
+      "content_hash": "d6f42e44099724ba3c1fdc800f0bd8d078d860ba5f0ad5fb7ce4600364195701",
+      "title": "Christians Celebrate Easter Sunday, Leaders Call for Peace and Unity",
+      "sent_at": "2026-04-05T02:52:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/northern-railway-line-to-reopen-between-colombo-fort-and-kankesanthurai",
+      "content_hash": "8ccb9efcf3b7de2dedec67e505088d413b9ad6d3e00e692e7c9a42b10e102762",
+      "title": "Northern Railway Line to Reopen Between Colombo Fort and Kankesanthurai",
+      "sent_at": "2026-04-05T02:52:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/05/water-board-reduces-supply-disruptions-to-12-hours",
+      "content_hash": "9818f9a8bc4f87035e916adf8c3b5feb133c29a244968be5573f33e5e895921d",
+      "title": "Water Board Reduces Supply Disruptions to 12 Hours",
+      "sent_at": "2026-04-05T02:52:12Z"
     }
   ]
 }
