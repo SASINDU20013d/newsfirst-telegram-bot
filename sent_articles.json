@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/30/auditor-general-conducting-forensic-audit-into-health-ministry-procurements-under-former-minister-keheliya",
-      "content_hash": "672fcbaa18433d46ffc2363d7f6fc0e7ef30377307ed86b6b53c5d90ad02aa70",
-      "title": "Auditor General Conducting Forensic Audit Into Health Ministry Procurements Under Former Minister Keheliya",
-      "sent_at": "2026-03-30T13:43:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/cpc-to-follow-odd-number-fuel-distribution-tomorrow-decision-on-following-day-pending",
-      "content_hash": "26ab87698d621019b7628e85e72a249841606313d47fb9fb9a4fa3f3aec7f8f8",
-      "title": "CPC to Follow \"Odd-Number\" Fuel Distribution Tomorrow; Decision on Following Day Pending",
-      "sent_at": "2026-03-30T13:43:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/electricity-tariffs-to-rise-from-april-1-with-minimal-impact-on-low-consumption-households",
-      "content_hash": "5bfa617adbf53606958a3de96ec11adf18029d1bedeb1d9cd6c011f489fd4947",
-      "title": "Electricity Tariffs To Rise From April 1 With Minimal Impact On Low-Consumption Households",
-      "sent_at": "2026-03-30T13:43:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/suspended-jail-sentences-for-illegal-petrol-possession-and-sale-in-anuradhapura",
-      "content_hash": "b6fb7fa1dfddeb1ff7c8495af59aed4dbb2ea26542f79479ee7b79736cf79061",
-      "title": "Suspended Jail Sentences For Illegal Petrol Possession And Sale In Anuradhapura",
-      "sent_at": "2026-03-30T13:43:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/30/fuel-and-electricity-crisis-govt-issues-new-guidelines-for-saving-fuel-and-electricity",
       "content_hash": "32bba47d560a58a04209ff3847c9bf89a9bc037c77ea23466d06a55ca2da3815",
       "title": "Fuel And Electricity Crisis: Govt Issues New Guidelines for Saving Fuel and Electricity",
@@ -713,6 +689,18 @@
       "content_hash": "d5243fb4b175b3d3751ece79691b62ae56cc8acde541ef4e847bd66d774038be",
       "title": "Sri Lanka Withdraws Wednesday Holiday",
       "sent_at": "2026-04-06T13:19:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/customers-protected-as-ndb-takes-action-on-internal-misconduct",
+      "content_hash": "57978a9b5b729ef4eb6a461246f0ad9b3a376df6e0f470fa70375498302153d5",
+      "title": "Customers Protected as NDB Takes Action on Internal Misconduct",
+      "sent_at": "2026-04-06T14:53:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/indian-vice-president-to-visit-sri-lanka-on-official-two%e2%80%91day-trip",
+      "content_hash": "1eacd3a20d359abdedd08f967cbfba8dc8ae101e5ecbfce60b363ac3a1125c86",
+      "title": "Indian Vice President to Visit Sri Lanka on Official Two‑Day Trip",
+      "sent_at": "2026-04-06T14:53:36Z"
     }
   ]
 }
