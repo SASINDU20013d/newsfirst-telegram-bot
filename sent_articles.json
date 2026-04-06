@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/30/pucsl-announces-electricity-tariff-revision-effective-april-1",
-      "content_hash": "6b5be9dab1551d8a8d9bf85db432197f2a0534e416dadd1778afd19df59b82f2",
-      "title": "PUCSL Announces Electricity Tariff Revision Effective April 1",
-      "sent_at": "2026-03-30T11:06:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/30/auditor-general-conducting-forensic-audit-into-health-ministry-procurements-under-former-minister-keheliya",
       "content_hash": "672fcbaa18433d46ffc2363d7f6fc0e7ef30377307ed86b6b53c5d90ad02aa70",
       "title": "Auditor General Conducting Forensic Audit Into Health Ministry Procurements Under Former Minister Keheliya",
@@ -677,6 +671,18 @@
       "content_hash": "220532bf05bd9fa2f789e71bdd3fcef41a54f35d4cae0f63078a4e4de5ab791f",
       "title": "Sri Lanka Ready to Embrace QR Payments With Right Support, Says AKD",
       "sent_at": "2026-04-06T11:01:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/festive-period-sees-increase-in-online-financial-scams",
+      "content_hash": "9555ce4d3a2c6a992828240778789f185b145da84e12f5968f580525cffedfe7",
+      "title": "Festive Period Sees Increase in Online Financial Scams",
+      "sent_at": "2026-04-06T11:53:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/iranian-embassies-push-back-against-trump%e2%80%99s-warning",
+      "content_hash": "e3f8b9daa78e050b6a72fbf334f8020e3c74881fcea056426e97ee49c8403c21",
+      "title": "Iranian Embassies Push Back Against Trump’s Warning",
+      "sent_at": "2026-04-06T11:53:21Z"
     }
   ]
 }
