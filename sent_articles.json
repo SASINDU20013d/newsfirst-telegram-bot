@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/30/cpc-confirms-sufficient-fuel-stocks-until-may",
-      "content_hash": "95248a67dadc7406cecddbef1211833cc56e2b9dd0e4d51755dfc7b9b5da917b",
-      "title": "CPC Confirms Sufficient Fuel Stocks Until May",
-      "sent_at": "2026-03-30T07:49:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/hambantota-international-port-invests-usd-108-million-in-new-cranes-expands-container-terminal-capacity-to-2-million-teu",
-      "content_hash": "ccfc0780c6f6f963030d96b046ffb929d4b33746a745a5ffe875ab828395e363",
-      "title": "Hambantota International Port Invests USD 108 Million in New Cranes: Expands Container Terminal Capacity To 2 Million TEU",
-      "sent_at": "2026-03-30T07:49:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/minister-affirms-government-is-successfully-managing-energy-crisis",
-      "content_hash": "2f633924d0fa5167f4c62821a7d7e229403bc88dc3c1cb60369a550bd96bd575",
-      "title": "Minister Affirms Government is Successfully Managing Energy Crisis",
-      "sent_at": "2026-03-30T07:49:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/pucsl-to-announce-electricity-tariff-revision-for-second-quarter-of-2026-today",
-      "content_hash": "578dedc4ef9bc9e6e010751af07d7600ae19458a9249ed1dbde0e97657cd740f",
-      "title": "PUCSL to Announce Electricity Tariff Revision for Second Quarter of 2026 Today",
-      "sent_at": "2026-03-30T07:49:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/russian-deputy-minister-of-foreign-affairs-andrey-rudenko-to-arrive-in-sri-lanka-tomorrow",
-      "content_hash": "d3c1f545ecd719ee0db9c5ec1098ba374ec20034d0e0755bccf96ef2ac4e54b1",
-      "title": "Russian Deputy Minister of Foreign Affairs Andrey Rudenko to Arrive in Sri Lanka Tomorrow",
-      "sent_at": "2026-03-30T07:49:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/30/commissioner-general-of-motor-traffic-remanded-until-april-10",
       "content_hash": "bed9e30dd329e2643e704200cea50417c007d350671d43ead956e9e52c551075",
       "title": "Commissioner General of Motor Traffic Remanded Until April 10",
@@ -671,6 +641,12 @@
       "content_hash": "f13f4b343ac553fae18f483c67bc9aebdab544f291b6f53eb5ac7ef1ebbd86f6",
       "title": "Water Supply Restored in Padukka: 12-Hour Water Cuts for Homagama",
       "sent_at": "2026-04-06T05:29:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/sri-lanka-targets-one-million-qr-transactions-a-month",
+      "content_hash": "715adae009a6f273444d29289244445baea6121cf85763e68838114e674cd59c",
+      "title": "Sri Lanka Targets One Million QR Transactions a Month",
+      "sent_at": "2026-04-06T07:50:48Z"
     }
   ]
 }
