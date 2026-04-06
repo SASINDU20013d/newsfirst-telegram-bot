@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/30/one-day-id-services-resume-today-for-applicants-affected-by-system-failure",
-      "content_hash": "b73a4f5bc6c02c130527a14253384591229127d9b7ec1fd16ac40375da85a87f",
-      "title": "One-Day ID Services Resume Today for Applicants Affected by System Failure",
-      "sent_at": "2026-03-30T05:28:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/organized-criminal-midigama-chooti-extradited-to-sri-lanka-from-oman",
-      "content_hash": "78ff8070b5eca6b6ad8c86c70640a552e835cfadefc7404276797ae43b40dcb4",
-      "title": "Organized Criminal 'Midigama Chooti' Extradited to Sri Lanka from Oman",
-      "sent_at": "2026-03-30T05:29:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/30/surakimu-lanka-national-program-launched-to-combat-energy-crisis",
-      "content_hash": "06365740af2e1137d93dd2549d8445386389bd94c57a173c5cb2fe4be01fc7b5",
-      "title": "\"Surakimu Lanka\" National Program Launched to Combat Energy Crisis",
-      "sent_at": "2026-03-30T05:29:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/30/cpc-confirms-sufficient-fuel-stocks-until-may",
       "content_hash": "95248a67dadc7406cecddbef1211833cc56e2b9dd0e4d51755dfc7b9b5da917b",
       "title": "CPC Confirms Sufficient Fuel Stocks Until May",
@@ -671,6 +653,24 @@
       "content_hash": "29a149bcce93c2724c171958fdb02f0fc333d45cf937dea9d002475065e42231",
       "title": "Petroleum Distributors to Launch Silent Protest Over Commission Cuts",
       "sent_at": "2026-04-06T02:53:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/hip-scales-up-rapidly-as-global-trade-seeks-stability-outside-middle-east",
+      "content_hash": "c52e6e7f0dbe71a4eb07c5cfec2f41a2c03f2f006ceae9a7948bdb0b740e66fa",
+      "title": "HIP Scales Up Rapidly as Global Trade Seeks Stability Outside Middle East",
+      "sent_at": "2026-04-06T05:29:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/sri-lanka-pushes-cash%e2%80%91lite-economy-with-lankaqr-launch",
+      "content_hash": "196e2c06c98641d21f1c5479571fc6b6753b5eef8e14837402f232219055a6b7",
+      "title": "Sri Lanka Pushes Cash‑Lite Economy With LankaQR Launch",
+      "sent_at": "2026-04-06T05:29:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/water-supply-restored-in-padukka-12-hour-water-cuts-for-homagama",
+      "content_hash": "f13f4b343ac553fae18f483c67bc9aebdab544f291b6f53eb5ac7ef1ebbd86f6",
+      "title": "Water Supply Restored in Padukka: 12-Hour Water Cuts for Homagama",
+      "sent_at": "2026-04-06T05:29:29Z"
     }
   ]
 }
