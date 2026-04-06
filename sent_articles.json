@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/30/commissioner-general-of-motor-traffic-remanded-until-april-10",
-      "content_hash": "bed9e30dd329e2643e704200cea50417c007d350671d43ead956e9e52c551075",
-      "title": "Commissioner General of Motor Traffic Remanded Until April 10",
-      "sent_at": "2026-03-30T09:18:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/30/pucsl-announces-electricity-tariff-revision-effective-april-1",
       "content_hash": "6b5be9dab1551d8a8d9bf85db432197f2a0534e416dadd1778afd19df59b82f2",
       "title": "PUCSL Announces Electricity Tariff Revision Effective April 1",
@@ -665,6 +659,24 @@
       "content_hash": "adef71754e47052857710b2aa90772d3fbdd954d5064c69abc06ecaa0fbed1ba",
       "title": "Two Arrested in Colombo for Illegal Diesel Possession",
       "sent_at": "2026-04-06T09:14:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/chinese-suspect-arrested-in-kalubowila-murder",
+      "content_hash": "18a68d43a4421fc0c8cf1d6be90b0cad1bdc737992279f749bac9854556f8076",
+      "title": "Chinese Suspect Arrested In Kalubowila Murder",
+      "sent_at": "2026-04-06T11:01:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/ndb-reports-internal-fraud-to-central-bank-deposits-remain-safe",
+      "content_hash": "b7b2ab6ce0ede938a5b86136bac61d1bbdec55e4d67525f3fcda58ae0b697dd1",
+      "title": "NDB Reports Internal Fraud to Central Bank; Deposits Remain Safe",
+      "sent_at": "2026-04-06T11:01:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/06/sri-lanka-ready-to-embrace-qr-payments-with-right-support-says-akd",
+      "content_hash": "220532bf05bd9fa2f789e71bdd3fcef41a54f35d4cae0f63078a4e4de5ab791f",
+      "title": "Sri Lanka Ready to Embrace QR Payments With Right Support, Says AKD",
+      "sent_at": "2026-04-06T11:01:29Z"
     }
   ]
 }
