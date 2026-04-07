@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/31/former-mp-sajin-vass-gunawardena-released-on-bail",
-      "content_hash": "a8dcb0f7eb81f6c09802ce774a9b68229bef6ae3c27ea6610df3fb91ded00109",
-      "title": "Former MP Sajin Vass Gunawardena Released on Bail",
-      "sent_at": "2026-03-31T11:53:21Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/31/fuel-to-be-issued-for-both-odd-and-even-numbers-tomorrow",
       "content_hash": "43c88aac42a5c023a459be7e78d7ad2cac0d57505bcc0e73186a72fb075ce18c",
       "title": "Fuel to be Issued for Both Odd and Even Numbers Tomorrow",
@@ -719,6 +713,18 @@
       "content_hash": "2c311bd5c8166af77d6679e16f4792a153caee1ef5c829282a2596199cb8be1e",
       "title": "Former SLRC Chairman and Director General Arrested",
       "sent_at": "2026-04-07T11:00:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/australia-delivers-lifesaving-equipment-to-strengthen-sri-lanka%e2%80%99s-disaster-response",
+      "content_hash": "16c30385e6ae0699782984762b7316713f406bc3a97bedc660415d744fc9379d",
+      "title": "Australia Delivers Lifesaving Equipment to Strengthen Sri Lanka’s Disaster Response",
+      "sent_at": "2026-04-07T11:55:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/colombo-dockyard-secures-ship-repair-deal-with-dcil",
+      "content_hash": "b4e41babe14c899518f32d5b5c78a8ddfaebc8256c818ad73b593ab95b5e6e3c",
+      "title": "Colombo Dockyard Secures Ship Repair Deal With DCIL",
+      "sent_at": "2026-04-07T11:56:06Z"
     }
   ]
 }
