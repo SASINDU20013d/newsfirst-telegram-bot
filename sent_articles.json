@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/31/election-commission-launches-digital-portal",
-      "content_hash": "05f16a3d6aca05b1a9701077675bfe60571e9107570b87c1f348b75e65fae585",
-      "title": "Election Commission Launches Digital Portal",
-      "sent_at": "2026-03-31T07:21:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/gmoa-launches-island-wide-token-strike-over-transfer-dispute",
-      "content_hash": "6a05a3221099037c2c23a6569b7aea500ee0c7740c66e4d7d8c091742b4aa2a1",
-      "title": "GMOA Launches Island-Wide Token Strike Over Transfer Dispute",
-      "sent_at": "2026-03-31T07:22:01Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/31/cpc-to-decide-on-fuel-distribution-for-consecutive-odd-days",
       "content_hash": "beb47a3544dd02ee654b8da322200de56f494a40f7db09bda41f8f9e56839d3b",
       "title": "CPC To Decide On Fuel Distribution For Consecutive Odd Days",
@@ -701,6 +689,30 @@
       "content_hash": "6f586c48ec482ada5cd92e7ccb22acad3e5748c66246ad069574eb3a6b51a425",
       "title": "Three Arrested Over Illegal Fuel Possession in Separate Raids",
       "sent_at": "2026-04-07T05:13:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/cabinet-approves-new-fuel-subsidy-scheme-for-fishermen",
+      "content_hash": "1bf1708f55ad5e849d3bd7dbe81e8407ea2da1782a73fec6fd14df2513a9080a",
+      "title": "Cabinet Approves New Fuel Subsidy Scheme for Fishermen",
+      "sent_at": "2026-04-07T07:24:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/middle-east-war-means-all-roads-lead-to-higher-prices-slower-growth-imf-chief-says",
+      "content_hash": "3fc688813afec2c4930737423e48f752d416af903034be10940b445d07b6e777",
+      "title": "Middle East War Means 'All Roads' Lead to Higher Prices, Slower Growth, IMF Chief Says",
+      "sent_at": "2026-04-07T07:24:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/president-announces-three-month-fuel-subsidy-plan-to-ease-cost-pressures",
+      "content_hash": "56d7f796e9937b6d0d7eb073c68863801bab25dbc3eb0cb635c40e25fbf27c64",
+      "title": "President Announces Three-Month Fuel Subsidy Plan to Ease Cost Pressures",
+      "sent_at": "2026-04-07T07:24:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/ten-years-on-ciaboc-demands-assets-disclosure-from-mahinda-rajapaksa",
+      "content_hash": "986dd691086a0842af71a59336f5f22ec14f94ac6e5804810ad964ee89c77289",
+      "title": "Ten Years On, CIABOC Demands Assets Disclosure From Mahinda Rajapaksa",
+      "sent_at": "2026-04-07T07:24:42Z"
     }
   ]
 }
