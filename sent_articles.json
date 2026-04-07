@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/31/fuel-to-be-issued-for-both-odd-and-even-numbers-tomorrow",
-      "content_hash": "43c88aac42a5c023a459be7e78d7ad2cac0d57505bcc0e73186a72fb075ce18c",
-      "title": "Fuel to be Issued for Both Odd and Even Numbers Tomorrow",
-      "sent_at": "2026-03-31T15:06:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/gmoa-launches-island-wide-symbolic-strike-over-transfer-disputes",
-      "content_hash": "5f78269bde493a1ef22a6c52a1a71f7c659e1620cc90712600e5c5a6a7651372",
-      "title": "GMOA Launches Island-wide Symbolic Strike Over Transfer Disputes",
-      "sent_at": "2026-03-31T15:06:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/russian-deputy-foreign-minister-andrey-rudenko-arrives-in-sri-lanka",
-      "content_hash": "d970fbb12a38d81849de79835075ced9441b0be6929788e13dcea9f991fda66e",
-      "title": "Russian Deputy Foreign Minister Andrey Rudenko Arrives in Sri Lanka",
-      "sent_at": "2026-03-31T15:06:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/vesak-week-declared-from-may-27-to-june-02",
-      "content_hash": "39e6402ea59864f8237ca0bcc0e97df8a51bc39297023d137b505166a91905d9",
-      "title": "Vesak Week Declared from May 27 to June 02",
-      "sent_at": "2026-03-31T15:06:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/31/crony-capitalism-undermines-sri-lankan-cricket-the-nalin-aponso-case",
       "content_hash": "a7dd213449235c2a6a684d318fbe477c05ce9eaebbc16a5aad39743cde67066b",
       "title": "Crony Capitalism Undermines Sri Lankan Cricket: The Nalin Aponso Case",
@@ -737,6 +713,12 @@
       "content_hash": "c8f07156619f0d141264d1f6ce34f566ccda2fc18a229eab6c9d94e79a7d33e6",
       "title": "Rs. 100Bn Relief Without New Debt: President Details Economic Safeguards",
       "sent_at": "2026-04-07T13:26:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/new-year-festivals-five-day-window-to-obtain-electricity-on-payment-basis",
+      "content_hash": "9cfb1269d8af78362ca428974459cbe64056eeff9ea27ad44b56949f79b9444e",
+      "title": "New Year Festivals: Five-Day Window to Obtain Electricity on Payment Basis",
+      "sent_at": "2026-04-07T15:13:36Z"
     }
   ]
 }
