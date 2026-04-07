@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/31/cpc-to-decide-on-fuel-distribution-for-consecutive-odd-days",
-      "content_hash": "beb47a3544dd02ee654b8da322200de56f494a40f7db09bda41f8f9e56839d3b",
-      "title": "CPC To Decide On Fuel Distribution For Consecutive Odd Days",
-      "sent_at": "2026-03-31T09:06:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/cpc-to-finalize-fuel-distribution-for-odd-day-dilemma",
-      "content_hash": "be8ba0b7cac0db87c0b67bb8b1108aa04ec391a5bb649eac6d5e868ef832d702",
-      "title": "CPC To Finalize Fuel Distribution For Odd-Day Dilemma",
-      "sent_at": "2026-03-31T09:06:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/litro-and-laugfs-gas-confirm-upcoming-shipments-to-ensure-april-and-may-gas-supplies",
-      "content_hash": "7ca3256803c2321e962a705056f758c6ef7180c482e623e2575c809c72601820",
-      "title": "Litro and Laugfs Gas Confirm Upcoming Shipments to Ensure April and May Gas Supplies",
-      "sent_at": "2026-03-31T09:06:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/31/sri-lanka-launches-digital-asset-declaration-system-to-boost-transparency",
       "content_hash": "43a68e5fe57cfbc889ccc83f57b0b45193d13dddad390c893d022bd0b39b232f",
       "title": "Sri Lanka Launches Digital Asset Declaration System To Boost Transparency",
@@ -713,6 +695,30 @@
       "content_hash": "986dd691086a0842af71a59336f5f22ec14f94ac6e5804810ad964ee89c77289",
       "title": "Ten Years On, CIABOC Demands Assets Disclosure From Mahinda Rajapaksa",
       "sent_at": "2026-04-07T07:24:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/government-increases-aswesuma-payments-for-festival-month",
+      "content_hash": "1fb9025c7542c6f27ed87e7bee76d4bddecc583aae2784742d2780953ec27770",
+      "title": "Government Increases Aswesuma Payments for Festival Month",
+      "sent_at": "2026-04-07T09:09:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/low-consumption-electricity-users-to-receive-state-subsidy",
+      "content_hash": "e66e976af5b33d6e829b77b5e94f7fc5a14e6761af660ef16718bca71ea4178f",
+      "title": "Low-Consumption Electricity Users to Receive State Subsidy",
+      "sent_at": "2026-04-07T09:09:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/sri-lanka-aims-for-imf-staff-level-agreement-this-week",
+      "content_hash": "a589ad9f9647a9334b7aec25cfcb6d09c71e3543f5e432f957d20bab95a1a30d",
+      "title": "Sri Lanka Aims for IMF Staff-Level Agreement This Week",
+      "sent_at": "2026-04-07T09:09:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/state-to-spend-billions-to-shield-farmers-from-fertiliser-price-hike",
+      "content_hash": "a58f1d69520445aeca423b38a6388887e1aa7cfe0786102b73556ab6140dcd04",
+      "title": "State to Spend Billions to Shield Farmers From Fertiliser Price Hike",
+      "sent_at": "2026-04-07T09:09:10Z"
     }
   ]
 }
