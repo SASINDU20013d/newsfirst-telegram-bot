@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/31/sri-lanka-launches-digital-asset-declaration-system-to-boost-transparency",
-      "content_hash": "43a68e5fe57cfbc889ccc83f57b0b45193d13dddad390c893d022bd0b39b232f",
-      "title": "Sri Lanka Launches Digital Asset Declaration System To Boost Transparency",
-      "sent_at": "2026-03-31T10:58:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/world-famous-comedian-russell-peters-set-to-bring-laughter-and-positivity-to-colombo-tonight",
-      "content_hash": "35c916d4c9f92d5647d6afd0632a5bc976dbf27d6fb7d985ac6d145adc248d8a",
-      "title": "World-Famous Comedian Russell Peters Set to Bring Laughter and Positivity to Colombo Tonight",
-      "sent_at": "2026-03-31T10:58:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/31/former-mp-sajin-vass-gunawardena-released-on-bail",
       "content_hash": "a8dcb0f7eb81f6c09802ce774a9b68229bef6ae3c27ea6610df3fb91ded00109",
       "title": "Former MP Sajin Vass Gunawardena Released on Bail",
@@ -719,6 +707,18 @@
       "content_hash": "a58f1d69520445aeca423b38a6388887e1aa7cfe0786102b73556ab6140dcd04",
       "title": "State to Spend Billions to Shield Farmers From Fertiliser Price Hike",
       "sent_at": "2026-04-07T09:09:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/chairman-of-nuwara-eliya-pradeshiya-sabha-arrested",
+      "content_hash": "ec712c02e870afb90ba5dedf5fac0a1f1544f678d48b232a8eeeef0a1fc68fbd",
+      "title": "Chairman of Nuwara Eliya Pradeshiya Sabha Arrested",
+      "sent_at": "2026-04-07T11:00:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/former-slrc-chairman-and-director-general-arrested",
+      "content_hash": "2c311bd5c8166af77d6679e16f4792a153caee1ef5c829282a2596199cb8be1e",
+      "title": "Former SLRC Chairman and Director General Arrested",
+      "sent_at": "2026-04-07T11:00:46Z"
     }
   ]
 }
