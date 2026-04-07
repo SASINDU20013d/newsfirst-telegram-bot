@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/31/igp-priyantha-weerasooriya-orders-immediate-transfer-of-22-senior-police-officers-across-sri-lanka",
-      "content_hash": "f9e363b440064efbbdfedf05531b3ab322ea7e3a089ffdc8a60c9392d8458ec9",
-      "title": "IGP Priyantha Weerasooriya Orders Immediate Transfer of 22 Senior Police Officers Across Sri Lanka",
-      "sent_at": "2026-03-31T05:13:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/russian-deputy-foreign-minister-andrey-rudenko-to-arrive-in-sri-lanka-today-for-bilateral-talks",
-      "content_hash": "cbbd46848ef786950551f0f145893d47f160d7cd771c7fa792c7a9daf2b002b1",
-      "title": "Russian Deputy Foreign Minister Andrey Rudenko To Arrive in Sri Lanka Today for Bilateral Talks",
-      "sent_at": "2026-03-31T05:13:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/31/election-commission-launches-digital-portal",
       "content_hash": "05f16a3d6aca05b1a9701077675bfe60571e9107570b87c1f348b75e65fae585",
       "title": "Election Commission Launches Digital Portal",
@@ -701,6 +689,18 @@
       "content_hash": "9dd4c1da68171e1a690e545732e5db767ca0fcdcfd83d666e40ac684db0ca4a7",
       "title": "Special Festive Season Transport Services to Begin with 1,500 Buses",
       "sent_at": "2026-04-07T02:47:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/artemis-ii-crew-completes-record-breaking-trip-around-the-moon-and-sees-unreal-solar-eclipse",
+      "content_hash": "d74d1f6e4f4384a8dc06de24493115421582f62a4d57cc7ba482f4c0957b0ff3",
+      "title": "Artemis II Crew Completes Record-Breaking Trip Around The Moon And Sees \"Unreal\" Solar Eclipse",
+      "sent_at": "2026-04-07T05:13:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/three-arrested-over-illegal-fuel-possession-in-separate-raids",
+      "content_hash": "6f586c48ec482ada5cd92e7ccb22acad3e5748c66246ad069574eb3a6b51a425",
+      "title": "Three Arrested Over Illegal Fuel Possession in Separate Raids",
+      "sent_at": "2026-04-07T05:13:43Z"
     }
   ]
 }
