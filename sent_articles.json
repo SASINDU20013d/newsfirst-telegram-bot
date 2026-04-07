@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/03/31/42-000-metric-tons-of-sri-lanka%e2%80%99s-gas-stock-in-maldives-as-shipments-move-to-meet-demand",
-      "content_hash": "57195427cddbbbf8810a6852e465c1e9ffd1e655ca27a296d3fd65665abc8777",
-      "title": "42,000 Metric Tons Of Sri Lanka’s Gas Stock In Maldives As Shipments Move To Meet Demand",
-      "sent_at": "2026-03-31T02:45:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/fuel-ship-carrying-diesel-and-jet-fuel-to-arrive-thursday-2nd-as-cpc-reviews-issuance-plan",
-      "content_hash": "276c70c28e4755012bb3a0c8990441ce052848c438c73282d43b819d2e2d1e6d",
-      "title": "Fuel Ship Carrying Diesel And Jet Fuel To Arrive Thursday (2nd) As CPC Reviews Issuance Plan",
-      "sent_at": "2026-03-31T02:45:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/gmoa-launches-symbolic-strike-over-transfer-process-while-essential-services-continue",
-      "content_hash": "69a6c2f3c96d8e3d1165fe883af857cc531cd6473f8a75928255781bd643bf3d",
-      "title": "GMOA Launches Symbolic Strike Over Transfer Process While Essential Services Continue",
-      "sent_at": "2026-03-31T02:45:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/03/31/russian-deputy-foreign-minister-andrey-rudenko-to-in-arrive-in-sri-lanka-today-for-bilateral-talks",
-      "content_hash": "7fcaca4914ba8c8d7a3765d57f910cf4cf0966dc2660a4751e6fdf24181c3b33",
-      "title": "Russian Deputy Foreign Minister Andrey Rudenko To In Arrive in Sri Lanka Today for Bilateral Talks",
-      "sent_at": "2026-03-31T02:45:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/03/31/igp-priyantha-weerasooriya-orders-immediate-transfer-of-22-senior-police-officers-across-sri-lanka",
       "content_hash": "f9e363b440064efbbdfedf05531b3ab322ea7e3a089ffdc8a60c9392d8458ec9",
       "title": "IGP Priyantha Weerasooriya Orders Immediate Transfer of 22 Senior Police Officers Across Sri Lanka",
@@ -695,6 +671,36 @@
       "content_hash": "1eacd3a20d359abdedd08f967cbfba8dc8ae101e5ecbfce60b363ac3a1125c86",
       "title": "Indian Vice President to Visit Sri Lanka on Official Two‑Day Trip",
       "sent_at": "2026-04-06T14:53:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/aswesuma-benefits-for-2023-recipients-extended-until-june-as-data-updates-continue",
+      "content_hash": "0e0c7fb7b09b7ba6b6a31233c5f3dcb9f94e26296c2bc0ac2ca07cfdab6ed393",
+      "title": "Aswesuma Benefits for 2023 Recipients Extended Until June as Data Updates Continue",
+      "sent_at": "2026-04-07T02:46:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/essential-commodities-in-abundance-for-festive-season-says-importers-association",
+      "content_hash": "d188efaacaf59a28b4fed955ac037b221df26f9d776252b5fa0df5639a04fa38",
+      "title": "Essential Commodities in Abundance for Festive Season, Says Importers' Association",
+      "sent_at": "2026-04-07T02:47:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/imf-sl-discuss-industrial-sector-growth-sme-challenges",
+      "content_hash": "5df2f90e638ec60f6b6bee2b4895123f734a10498a9a2ea8f6b406b1efc7eadf",
+      "title": "IMF, SL Discuss Industrial Sector Growth, SME Challenges",
+      "sent_at": "2026-04-07T02:47:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/sinopec-hikes-super-diesel-price",
+      "content_hash": "438298598655804bf33e759417c62cab3376d2329f47a60f1805f37217fd3275",
+      "title": "Sinopec Hikes Super Diesel Price",
+      "sent_at": "2026-04-07T02:47:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/07/special-festive-season-transport-services-to-begin-with-1-500-buses",
+      "content_hash": "9dd4c1da68171e1a690e545732e5db767ca0fcdcfd83d666e40ac684db0ca4a7",
+      "title": "Special Festive Season Transport Services to Begin with 1,500 Buses",
+      "sent_at": "2026-04-07T02:47:07Z"
     }
   ]
 }
