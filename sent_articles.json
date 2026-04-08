@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/01/fatal-accidents-claim-two-lives-in-horana-and-bandarawela",
-      "content_hash": "96939fa6ae583c7ba381a39bd454106233bc630c0d0edabf701b2a76aab998e0",
-      "title": "Fatal Accidents Claim Two Lives in Horana and Bandarawela",
-      "sent_at": "2026-04-01T09:11:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/two-arrested-with-3kg-of-%e2%80%9cice%e2%80%9d-linked-to-notorious-trafficker",
-      "content_hash": "12946ab0f43958607c1c4ecf55220956b5c85d19f7626bb2deb50418d64bde7f",
-      "title": "Two Arrested With 3kg Of “Ice” Linked To Notorious Trafficker",
-      "sent_at": "2026-04-01T09:12:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/adhere-to-heatwave-guidelines-ministry-of-education-issues-directives-to-principals",
-      "content_hash": "52facd34d2df767fc166ad6f8ed0e0ee63652cece07cf967ccee16b0c62e5cb1",
-      "title": "Adhere to Heatwave Guidelines: Ministry of Education Issues Directives to Principals",
-      "sent_at": "2026-04-01T11:01:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/man-arrested-in-kochchikade-for-the-illegal-possession-of-fuel-stocks",
-      "content_hash": "83da89e65a09746b5a32785b0dd45de7b7c33401e7283c4c863967c26842e44d",
-      "title": "Man Arrested in Kochchikade for the Illegal Possession of Fuel Stocks",
-      "sent_at": "2026-04-01T11:01:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/t-56-ammunition-found-in-kalmunai-during-stf-raid",
-      "content_hash": "ce00c3a1b083d0fc9135b73703e21fb960f1b7c47378c0b02e4fcea71b938432",
-      "title": "T-56 Ammunition Found in Kalmunai During STF Raid",
-      "sent_at": "2026-04-01T11:01:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/two-chinese-nationals-arrested-with-illegal-cigarettes-worth-rs-17-million",
-      "content_hash": "1425cff70e5855e15d74059c1f890a05dceebc4aa81076d3ff9ca44d238bdcbb",
-      "title": "Two Chinese Nationals Arrested with Illegal Cigarettes Worth Rs. 17 Million",
-      "sent_at": "2026-04-01T11:01:55Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/01/cpc-reiterates-strict-adherence-to-fuel-quotas",
       "content_hash": "359dbc38fe44be543fbfaad4b4f36312583aeafaf0f35937e4eb9d80c2ae0fef",
       "title": "CPC Reiterates Strict Adherence to Fuel Quotas",
@@ -773,6 +737,18 @@
       "content_hash": "64955c1fdd9caba0d7960984be4f1fa9b44426b68e9c8f951908f67357a40f1f",
       "title": "Five Chinese Nationals Held At BIA With 34,800 Smuggled Cigarettes",
       "sent_at": "2026-04-08T09:07:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/fourth-suspect-arrested-in-ndb-bank-financial-fraud",
+      "content_hash": "bc51444346c183f1b477c7d34d9ca5246139e431cfd480b6ba72ca54eb2f8964",
+      "title": "Fourth Suspect Arrested in NDB Bank Financial Fraud",
+      "sent_at": "2026-04-08T11:01:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/if-we-don%e2%80%99t-stand-by-indian-ocean-someone-else-will-retd-rear-admiral-warns",
+      "content_hash": "27203ecde11ff6e1e42fa316a1bc8eb493016d86c8bb222cda0eecdb89c4d267",
+      "title": "'If We Don’t Stand By Indian Ocean, Someone Else Will' - Retd. Rear Admiral Warns",
+      "sent_at": "2026-04-08T11:01:58Z"
     }
   ]
 }
