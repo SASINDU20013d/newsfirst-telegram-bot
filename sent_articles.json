@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/01/cpc-to-issue-fuel-for-both-odd-and-even-numbered-license-plates-today",
-      "content_hash": "d98112793506e1c97263651a0d1b86ab46e221225564606978bcbccb2bb84b48",
-      "title": "CPC to Issue Fuel for Both Odd and Even Numbered License Plates Today",
-      "sent_at": "2026-04-01T02:57:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/electricity-tariffs-rise-across-all-usage-categories-starting-today",
-      "content_hash": "d2e51a24a25f60361d1e651403c69c0a5f5bc7aec90443d7353a620f03e77196",
-      "title": "Electricity Tariffs Rise Across All Usage Categories Starting Today",
-      "sent_at": "2026-04-01T02:57:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/export-of-local-coconut-products-hit-hard-by-middle-east-conflict",
-      "content_hash": "7090edf47e10550787a2a31d296fbd6fa428a93da3bfbb680b609b63e3f5b403",
-      "title": "Export of Local Coconut Products Hit Hard by Middle East Conflict",
-      "sent_at": "2026-04-01T02:57:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/over-62-64-qualify-for-university-admission-as-2025-a-l-results-are-released",
-      "content_hash": "8755719db139af5dfec90d9fe0400438bf647cd3bf4b7e1bfe3d45d9f7dfae45",
-      "title": "Over 62.64% Qualify for University Admission as 2025 A/L Results Are Released",
-      "sent_at": "2026-04-01T02:57:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/01/navy-seizes-fishing-trawler-transporting-drugs",
       "content_hash": "084c7a75825c0f1cd1ff10a1f254687ab984ecbc398eb360bf9655376f2d6271",
       "title": "Navy Seizes Fishing Trawler Transporting Drugs",
@@ -737,6 +713,48 @@
       "content_hash": "078aca685de70959aeceaf9d6a93e223daa63a687150b45185877b1fae0af2ff",
       "title": "Trump Announces Two-Week Ceasefire With Iran, Cites Breakthrough Talks on Strait of Hormuz",
       "sent_at": "2026-04-08T02:48:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/gammadda-launches-search-rescue-boats-to-strengthen-sri-lanka%e2%80%99s-flood-response",
+      "content_hash": "467e8761170c3466bf46ab65a4e40e4c5669c9ede2c6251e11c5f092cf81a3db",
+      "title": "Gammadda Launches Search & Rescue Boats to Strengthen Sri Lanka’s Flood Response",
+      "sent_at": "2026-04-08T05:15:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/government-services-and-schools-to-function-as-usual-following-holiday-cancellation",
+      "content_hash": "70168f5de170e9af2d8a6a7888e53be94b8f43c8b24bfda0432c9b9524dc36be",
+      "title": "Government Services And Schools To Function As Usual Following Holiday Cancellation",
+      "sent_at": "2026-04-08T05:15:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/services-restricted-at-department-for-registration-of-persons-due-to-system-fault",
+      "content_hash": "fae4e224f36b6de35d2f8d90d906f2dc47a80e67d05f303f26e5cc0f2d455bce",
+      "title": "Services Restricted At Department For Registration Of Persons Due To System Fault",
+      "sent_at": "2026-04-08T05:15:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/slc-faces-backlash-over-contract-based-ventures",
+      "content_hash": "685aeeb0c343007fccc13b7fedac1f8b557eef985258964a76f646f8d6bb5071",
+      "title": "SLC Faces Backlash Over Contract-Based Ventures",
+      "sent_at": "2026-04-08T05:15:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/special-transport-services-launched-for-festive-travel",
+      "content_hash": "e4033213a7429a6dee38dbccd123342ef4f2222a515e2c40d06747494037ec5d",
+      "title": "Special Transport Services Launched For Festive Travel",
+      "sent_at": "2026-04-08T05:15:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/super-diesel-price-increased-to-rs-600-by-lanka-ioc-effective-today",
+      "content_hash": "ce7f70575a30b2c2a8db1879a2151ffa0bfc48e7dd81ffbeca9f9a5a59dc3926",
+      "title": "Super Diesel Price Increased To Rs. 600 By Lanka IOC Effective Today",
+      "sent_at": "2026-04-08T05:15:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/tamim-iqbal-named-adhoc-president-of-bangladesh-cricket",
+      "content_hash": "a5066536ccef72ee40d06131a581aa1e6ba1cb784ce56f371632b30795121588",
+      "title": "Tamim Iqbal Named Adhoc President of Bangladesh Cricket",
+      "sent_at": "2026-04-08T05:15:29Z"
     }
   ]
 }
