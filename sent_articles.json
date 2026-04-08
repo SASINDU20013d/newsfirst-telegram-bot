@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/01/cpc-reiterates-strict-adherence-to-fuel-quotas",
-      "content_hash": "359dbc38fe44be543fbfaad4b4f36312583aeafaf0f35937e4eb9d80c2ae0fef",
-      "title": "CPC Reiterates Strict Adherence to Fuel Quotas",
-      "sent_at": "2026-04-01T15:08:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/j-p-morgan-warns-of-economic-time-bomb-as-global-oil-reserves-near-depletion",
-      "content_hash": "04aefb5aaf4cd375fb58f0e18d5032bc2d3e6408aa050a0927bab8123d21366d",
-      "title": "J.P. Morgan Warns of \"Economic Time Bomb\" as Global Oil Reserves Near Depletion",
-      "sent_at": "2026-04-01T15:08:55Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/02/drug-suspects-to-be-produced-in-court",
       "content_hash": "9d9ea2e970740371568d1d44487ea17c376e22c58a6b66197cf2b758182d2901",
       "title": "Drug Suspects To Be Produced In Court",
@@ -785,6 +773,12 @@
       "content_hash": "bbe12b04fc5e529198676cd234a83defa88169b2556021708e4046c4e3d99e9b",
       "title": "Trump Threatens 50% Tariffs on Any Country Supplying Weapons to Iran",
       "sent_at": "2026-04-08T13:28:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/registrar-general-launches-%e2%80%981930%e2%80%99-hotline-for-faster-public-services",
+      "content_hash": "d0636ce4e1a3f2306a875c940f847c401397e0afb8004ccaf5a9736413d4fc55",
+      "title": "Registrar General Launches ‘1930’ Hotline for Faster Public Services",
+      "sent_at": "2026-04-08T15:14:31Z"
     }
   ]
 }
