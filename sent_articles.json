@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/01/navy-seizes-fishing-trawler-transporting-drugs",
-      "content_hash": "084c7a75825c0f1cd1ff10a1f254687ab984ecbc398eb360bf9655376f2d6271",
-      "title": "Navy Seizes Fishing Trawler Transporting Drugs",
-      "sent_at": "2026-04-01T05:28:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/police-launch-special-security-operation-for-festive-season",
-      "content_hash": "413bad79e3c80075c22071634008bef857cfe9d5134c75b264dadd27e3f2e35d",
-      "title": "Police Launch Special Security Operation for Festive Season",
-      "sent_at": "2026-04-01T05:28:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/gce-a-l-2025-island-toppers-announced-across-streams",
-      "content_hash": "cc218cca820f89ed85c0d148af44a6527eb817c0d034f3ed384d4054ee608dd4",
-      "title": "GCE A/L 2025 Island Toppers Announced Across Streams",
-      "sent_at": "2026-04-01T07:27:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/01/sri-lanka-navy-seizes-heroin-worth-rs-6-2-billion-at-sea",
-      "content_hash": "1054144c35eb627959085eb73afcbac65f71557bdb2e496f77a5e4b9ed3762e9",
-      "title": "Sri Lanka Navy Seizes Heroin Worth Rs. 6.2 Billion at Sea",
-      "sent_at": "2026-04-01T07:27:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/01/fatal-accidents-claim-two-lives-in-horana-and-bandarawela",
       "content_hash": "96939fa6ae583c7ba381a39bd454106233bc630c0d0edabf701b2a76aab998e0",
       "title": "Fatal Accidents Claim Two Lives in Horana and Bandarawela",
@@ -755,6 +731,42 @@
       "content_hash": "a5066536ccef72ee40d06131a581aa1e6ba1cb784ce56f371632b30795121588",
       "title": "Tamim Iqbal Named Adhoc President of Bangladesh Cricket",
       "sent_at": "2026-04-08T05:15:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/id-office-warns-public-of-data-collection-scam",
+      "content_hash": "8e609b7c9224a7b5b0aa5aeef2666f0423dc914f123139a7792c5d62910dd94c",
+      "title": "ID Office Warns Public Of Data Collection Scam",
+      "sent_at": "2026-04-08T07:27:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/iran-lists-10-points-it-says-us-accepted-after-40-days-of-war",
+      "content_hash": "77d06840b8bd6c348acb64f54855e905db3ea010dc9ae23e8d57f48748df039e",
+      "title": "Iran Lists 10 Points It Says US Accepted After 40 Days of War",
+      "sent_at": "2026-04-08T07:27:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/lioc-and-sinopec-increase-super-diesel-prices",
+      "content_hash": "82680cf20a4a0d8191749ca6f7fddbd4bf3fc57bf597ff723228385227440a21",
+      "title": "LIOC and Sinopec Increase Super Diesel Prices",
+      "sent_at": "2026-04-08T07:27:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/modernized-pettah-central-bus-stand-reopens-with-upgraded-facilities",
+      "content_hash": "633e595e85c73f0d2f7d118e4c6b8a212c7ad14869458a24a1a34c9efdb1ecd7",
+      "title": "Modernized Pettah Central Bus Stand Reopens With Upgraded Facilities",
+      "sent_at": "2026-04-08T07:27:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/special-police-security-plan-activated-nationwide-for-upcoming-festive-period",
+      "content_hash": "b21f878d081a7c672c601dde25462bf6da76cf96d0f195a64de7319c4097dfca",
+      "title": "Special Police Security Plan Activated Nationwide for Upcoming Festive Period",
+      "sent_at": "2026-04-08T07:27:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/08/sri-lanka-to-revamp-fuel-and-electricity-pricing",
+      "content_hash": "59c535e3f24c26daab95fb3c66ac574c3eea94204b5e57398d05233331c878bd",
+      "title": "Sri Lanka to Revamp Fuel and Electricity Pricing",
+      "sent_at": "2026-04-08T07:27:51Z"
     }
   ]
 }
