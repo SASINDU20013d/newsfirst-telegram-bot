@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/02/national-energy-drive-hits-schools-classroom-awareness-programs-set-for-april-7-and-9",
-      "content_hash": "fd7f93bd3190721f2921dc9d435d87abd17d01d8e1f267aa588cda12784d62a7",
-      "title": "National Energy Drive Hits Schools: Classroom Awareness Programs Set for April 7 and 9",
-      "sent_at": "2026-04-02T09:03:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/02/chinese-national-arrested-at-bia-with-smuggled-cigarettes",
       "content_hash": "dc45e674b9891a9d40098197b07565d8e8ce70807f589f8ec6bf6e7f1a3077c8",
       "title": "Chinese National Arrested at BIA With Smuggled Cigarettes",
@@ -791,6 +785,24 @@
       "content_hash": "504dae5d22f25494712744b7734ee94ad57713c1781d663ee489a53f40ce7a8c",
       "title": "Special Colombo–Kandy Bus Service Launched to Ease Festive Travel",
       "sent_at": "2026-04-09T07:43:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/imf-board-decision-on-sri-lanka-expected-by-early-june",
+      "content_hash": "58f44375324475dd9ca347a865a06437c7df62684c4f2cb49a899b08a44e2db9",
+      "title": "IMF Board Decision on Sri Lanka Expected by Early June",
+      "sent_at": "2026-04-09T09:14:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/payments-for-elderly-aswasuma-beneficiaries-to-be-made-via-post-offices-starting-today",
+      "content_hash": "af0514234bdd8afbfe1841ca0fd155334661eb4f6ed5ad38e4a6bcce2baf2254",
+      "title": "Payments for Elderly 'Aswasuma' Beneficiaries To Be Made via Post Offices Starting Today",
+      "sent_at": "2026-04-09T09:14:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/was-the-sjb-left-out-imf-says-all-parties-were-invited",
+      "content_hash": "d113c76529d498baf60bb41b0f1d287d207259d5de1d5dc256ffde4766e04524",
+      "title": "Was the SJB Left Out? IMF Says All Parties Were Invited",
+      "sent_at": "2026-04-09T09:14:18Z"
     }
   ]
 }
