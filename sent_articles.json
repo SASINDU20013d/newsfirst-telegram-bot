@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/02/drug-suspects-to-be-produced-in-court",
-      "content_hash": "9d9ea2e970740371568d1d44487ea17c376e22c58a6b66197cf2b758182d2901",
-      "title": "Drug Suspects To Be Produced In Court",
-      "sent_at": "2026-04-02T05:06:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/02/fishermen-return-after-8-months-in-custody",
-      "content_hash": "68bcf264b5a94fd41b8dcfbac959a9b9ce1ca470fffd154d1e4f24b895a2b577",
-      "title": "Fishermen Return After 8 Months In Custody",
-      "sent_at": "2026-04-02T05:06:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/02/fuel-shipment-set-to-arrive-today",
-      "content_hash": "0e7fb1bdb7a65379796b43aa650dbdf63efef093cf42896d35846c532c3ba630",
-      "title": "Fuel Shipment Set To Arrive Today",
-      "sent_at": "2026-04-02T05:06:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/02/police-warn-public-on-suspicious-links",
-      "content_hash": "b76d101b2f582a95217ffe4b7c0ccf908c197ffef1493321a5eb36b8f680a564",
-      "title": "Police Warn Public On Suspicious Links",
-      "sent_at": "2026-04-02T05:06:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/02/sri-lankarussia-talks-begin-today",
-      "content_hash": "68f8a9fe0522d9b47ea0f2a959f6cf599d2f2ff2574c83908e1b05c727412546",
-      "title": "Sri Lanka–Russia Talks Begin Today",
-      "sent_at": "2026-04-02T05:06:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/02/airbus-bribery-scandal-open-warrants-issued-for-shamindra-rajapaksa-and-priyanka-neomali",
       "content_hash": "34d75c5d0c28cfdedd230b1141ad96ea0bd9edf554259d0fd4371008f3e54673",
       "title": "Airbus Bribery Scandal: Open Warrants Issued for Shamindra Rajapaksa and Priyanka Neomali",
@@ -821,6 +791,24 @@
       "content_hash": "f6b329d14504d01b3ee828932e1369769088a59601810aca7ae7968699e3b292",
       "title": "Train Services Resume on the Northern Line Between Colombo Fort and Kankesanturai",
       "sent_at": "2026-04-09T02:42:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/afternoon-thundershowers-expected-in-several-provinces-today",
+      "content_hash": "74563f5ff0c8ac6533f3382a52f85d0ea6710b1d4be58a4c801ef0529759ab36",
+      "title": "Afternoon Thundershowers Expected in Several Provinces Today",
+      "sent_at": "2026-04-09T05:13:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/imf-staff-level-agreement-on-fifth-and-sixth-reviews-reached-unlocking-700-million-for-sri-lanka",
+      "content_hash": "4e86288ba5e9e3d114196553ef02d95f9eb7bedc316a1712a02cc24a1aeede38",
+      "title": "IMF Staff-Level Agreement on Fifth and Sixth Reviews Reached, Unlocking $700 Million for Sri Lanka",
+      "sent_at": "2026-04-09T05:13:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/two-injured-in-bus-collision-near-hambantota-port-police",
+      "content_hash": "910ec737f97d1163f776de527dddcfd6cada0faa68a83a7971d0c2e5ae55df13",
+      "title": "Two Injured in Bus Collision Near Hambantota Port Police",
+      "sent_at": "2026-04-09T05:13:26Z"
     }
   ]
 }
