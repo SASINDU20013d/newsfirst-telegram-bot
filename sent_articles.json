@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/02/airbus-bribery-scandal-open-warrants-issued-for-shamindra-rajapaksa-and-priyanka-neomali",
-      "content_hash": "34d75c5d0c28cfdedd230b1141ad96ea0bd9edf554259d0fd4371008f3e54673",
-      "title": "Airbus Bribery Scandal: Open Warrants Issued for Shamindra Rajapaksa and Priyanka Neomali",
-      "sent_at": "2026-04-02T07:19:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/02/coal-controversy-takes-an-unexpected-turn",
-      "content_hash": "90392af72a4d21355179279ba246b4cc60b2d7f72be25a5d2eacced34cccf7cd",
-      "title": "Coal Controversy takes an Unexpected Turn",
-      "sent_at": "2026-04-02T07:19:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/02/gmoa-launches-island-wide-strike-over-transfer-disputes-health-ministry-warns-of-decisive-action",
-      "content_hash": "66ece8fb39b6dd3f83155f33456c63138d97659eceb160a08e0ad3634b2a85af",
-      "title": "GMOA Launches Island-Wide Strike Over Transfer Disputes; Health Ministry Warns of \"Decisive Action\"",
-      "sent_at": "2026-04-02T07:19:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/02/grade-12-student-killed-in-pallekele-five-injured-as-van-plunges-70-feet-in-kotmale",
-      "content_hash": "6df638c87ca2b367c821cdbaceb2577b03262a2e9d3d86420fcad451efe51d96",
-      "title": "Grade 12 Student Killed in Pallekele; Five Injured as Van Plunges 70 Feet in Kotmale",
-      "sent_at": "2026-04-02T07:19:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/02/special-water-release-to-colombo-from-tomorrow",
-      "content_hash": "09d359b18ca3426ebcc14adb316e6923ae3921c4723314f59b93622499c55558",
-      "title": "Special Water Release To Colombo From Tomorrow",
-      "sent_at": "2026-04-02T07:19:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/02/national-energy-drive-hits-schools-classroom-awareness-programs-set-for-april-7-and-9",
       "content_hash": "fd7f93bd3190721f2921dc9d435d87abd17d01d8e1f267aa588cda12784d62a7",
       "title": "National Energy Drive Hits Schools: Classroom Awareness Programs Set for April 7 and 9",
@@ -809,6 +779,18 @@
       "content_hash": "910ec737f97d1163f776de527dddcfd6cada0faa68a83a7971d0c2e5ae55df13",
       "title": "Two Injured in Bus Collision Near Hambantota Port Police",
       "sent_at": "2026-04-09T05:13:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/imf-deal-advances-but-fuel-pricing-and-debt-progress-decide-700m-fate",
+      "content_hash": "f3601e0633e5ead2c6f8fd4e71556d3fbc63de8dde87479ab6482aaabfca450d",
+      "title": "IMF Deal Advances, But Fuel Pricing and Debt Progress Decide $700m Fate",
+      "sent_at": "2026-04-09T07:43:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/special-colombokandy-bus-service-launched-to-ease-festive-travel",
+      "content_hash": "504dae5d22f25494712744b7734ee94ad57713c1781d663ee489a53f40ce7a8c",
+      "title": "Special Colombo–Kandy Bus Service Launched to Ease Festive Travel",
+      "sent_at": "2026-04-09T07:43:52Z"
     }
   ]
 }
