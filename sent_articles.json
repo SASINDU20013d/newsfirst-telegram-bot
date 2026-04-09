@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/02/scheduled-water-cuts-announced-for-colombo-district",
-      "content_hash": "f4a52b53a9d0de6f9e8f012697f0c666aa4b81649d5c2b0e7097372b34b62b8f",
-      "title": "Scheduled Water Cuts Announced for Colombo District",
-      "sent_at": "2026-04-02T15:01:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/02/ragama-resident-arrested-at-bia-with-rs-255-million-worth-of-kush-hidden-in-silencers",
       "content_hash": "98d13cf3f438607a3043e9e4ba6bc2a830ac6e1c1b44008342f62248335e972e",
       "title": "Ragama Resident Arrested at BIA with Rs. 255 Million Worth of \"Kush\" Hidden in Silencers",
@@ -821,6 +815,18 @@
       "content_hash": "148e381faac7b45a2a6e0aeadab6d9511edd25a791c23f0e1ec93347fb75d89a",
       "title": "President Warns Sri Lanka’s Ancient Tank Systems Are Under Threat",
       "sent_at": "2026-04-09T13:51:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/colombo-kandy-special-bus-service-to-ease-new-year-holiday-rush",
+      "content_hash": "e379dd3276e1b5674520f5f3e28fd21329eaefb0eafa189ff8ba89c53e9f4a18",
+      "title": "Colombo-Kandy Special Bus Service to Ease New Year Holiday Rush",
+      "sent_at": "2026-04-09T15:25:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/09/no-more-discussions-with-gmoa-if-strikes-continue",
+      "content_hash": "3f90896fc024ef771c70479c141b997d5444cbaa88657e0c88af36d951c6d73d",
+      "title": "No More Discussions With GMOA if Strikes Continue",
+      "sent_at": "2026-04-09T15:25:42Z"
     }
   ]
 }
