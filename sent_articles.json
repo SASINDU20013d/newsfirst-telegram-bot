@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/03/suspect-arrested-in-thelikada-family-double-murder",
-      "content_hash": "20ac2e7f9d91214c0af6a2195411692de30534769e35eeca49b3ebe21dbeb448",
-      "title": "Suspect Arrested in Thelikada Family Double Murder",
-      "sent_at": "2026-04-03T13:13:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/03/no-water-cuts-from-april-11%e2%80%9114-changes-made-to-water-cut-schedule-until-april-10th",
       "content_hash": "c0f2da704ffe00a8937094f3e7f3fc322002129a32ecd1033dd09aa929606d95",
       "title": "No Water Cuts from April 11‑14, Changes Made to Water Cut Schedule Until April 10th",
@@ -869,6 +863,24 @@
       "content_hash": "ae5f351f3f9c4b320ac5427f9f8b81c40f197737f375ab6ddabd59e589df96af",
       "title": "Sri Lanka to Grow at 4% in 2026 Amid Rising External Pressures : ADB",
       "sent_at": "2026-04-10T11:51:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/all-coal-imports-from-2009-onwards-to-be-investigated-via-special-presidential-commission",
+      "content_hash": "ec1093c357ad6e9593c22d90868250d741a46db2f98a0aebdc4c1469aa77436a",
+      "title": "All Coal Imports From 2009 Onwards to Be Investigated Via Special Presidential Commission",
+      "sent_at": "2026-04-10T13:20:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/all-liquor-outlets-to-close-for-sinhala-tamil-new-year",
+      "content_hash": "6666235d7ee10ecf032959a30ce823df2b60caaafa07954f075622e1e176c783",
+      "title": "All Liquor Outlets to Close for Sinhala, Tamil New Year",
+      "sent_at": "2026-04-10T13:20:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/no%e2%80%91confidence-motion-against-energy-minister-defeated-by-104-votes",
+      "content_hash": "345d00f6d0cb7dfcf11fe944db5c0362e115cedbb4686ab2a770f51babc47ca0",
+      "title": "No‑Confidence Motion Against Energy Minister Defeated by 104 Votes",
+      "sent_at": "2026-04-10T13:20:34Z"
     }
   ]
 }
