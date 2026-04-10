@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/03/insurance-scheme-introduced-for-divers",
-      "content_hash": "91adc17ff4de16daedcbc74c4f98aff561c2ce4fafb892e70018cc654981ccca",
-      "title": "Insurance Scheme Introduced For Divers",
-      "sent_at": "2026-04-03T07:15:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/03/russia-pledges-support-for-sri-lanka%e2%80%99s-energy-needs",
-      "content_hash": "a6c7e97f5f683e25cbb82b654c1f5c66a779ed700f8417e00c0531df70f2c024",
-      "title": "Russia Pledges Support for Sri Lanka’s Energy Needs",
-      "sent_at": "2026-04-03T07:15:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/03/two-tour-guides-arrested-over-sexual-abuse-of-tourist",
-      "content_hash": "cfe4f5d48b64ab34b1f9d2ea4297e13809f20ccda9dacc81c4cdb8943947ab3a",
-      "title": "Two Tour Guides Arrested Over Sexual Abuse of Tourist",
-      "sent_at": "2026-04-03T07:16:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/03/two-dead-and-one-critically-injured-in-thelikada-stabbing",
       "content_hash": "cc5da7906e07131d0e050e331cbf2be7bf3c141adc42b616278786189018ae7b",
       "title": "Two Dead and One Critically Injured in Thelikada Stabbing",
@@ -815,6 +797,54 @@
       "content_hash": "895cd767f1fd403f0cc2c79d319158ff7037622989b997a571da44ca70559f36",
       "title": "Tariff Hike Decision Due Next Month",
       "sent_at": "2026-04-10T05:29:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/19%e2%80%91year%e2%80%91old-dies-after-fight-between-student-groups",
+      "content_hash": "4c2d0790ca69ebc384f8c63927260c9e057cfff290469122c01bd8c89650787a",
+      "title": "19‑Year‑Old Dies After Fight Between Student Groups",
+      "sent_at": "2026-04-10T07:48:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/ceasefire-must-be-permanent-china-urges-lasting-end-to-middle-east-hostilities",
+      "content_hash": "dd30024983d36b2bdf0e728307e5249a16fcc7325c07883a7ff79500c27243ee",
+      "title": "'Ceasefire Must Be Permanent': China Urges Lasting End to Middle East Hostilities",
+      "sent_at": "2026-04-10T07:48:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/china-continues-fuel-and-fertiliser-support-to-sri-lanka",
+      "content_hash": "be9536de62a967da5756fa1d787b3908fa36a558805d6d78b27356daaf52c0e2",
+      "title": "China Continues Fuel and Fertiliser Support to Sri Lanka",
+      "sent_at": "2026-04-10T07:48:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/don-t-pour-gasoline-on-the-fire-imf-s-policy-warning-to-governments",
+      "content_hash": "497f7277241671c72c9ec5056916b3e764d25f8506fa9b3667666ddb495daf05",
+      "title": "\"Don't Pour Gasoline on the Fire\": IMF's Policy Warning to Governments",
+      "sent_at": "2026-04-10T07:48:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/khamenei-says-tehran-%e2%80%98astonished-the-world%e2%80%99-during-us-israeli-war-on-iran",
+      "content_hash": "678ad3e42a9dbb27651d031a1328b41f17a1e365b281bd798584070b3c612991",
+      "title": "Khamenei Says Tehran ‘Astonished The World’ During US-Israeli War on Iran",
+      "sent_at": "2026-04-10T07:48:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/pakistan-grants-visa-on-arrival-for-delegates-ahead-of-key-us-iran-talks",
+      "content_hash": "0507d66aa2696dfb1dde35c1a484bb10ba8db65d3bf0128f6f908c4cf832ded3",
+      "title": "Pakistan Grants Visa on Arrival for Delegates Ahead of Key US-Iran Talks",
+      "sent_at": "2026-04-10T07:48:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/patients-affected-as-gmoa-strike-continues",
+      "content_hash": "74c5471087001728da3ece2346ee2a0b5dd802fc60964afe4a35e2642bdf3295",
+      "title": "Patients Affected As GMOA Strike Continues",
+      "sent_at": "2026-04-10T07:48:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/president-hails-ancient-cascade-tank-system-as-sri-lanka%e2%80%99s-timeless-model-of-sustainability",
+      "content_hash": "36d683452ad21add22b6638027044362edb15d4c25ec3966e6e955e4187ef4a4",
+      "title": "President Hails Ancient Cascade Tank System as Sri Lanka’s Timeless Model of Sustainability",
+      "sent_at": "2026-04-10T07:48:41Z"
     }
   ]
 }
