@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/03/christians-mark-good-friday-today",
-      "content_hash": "10bbd6bf8a6fa466ce8f60d28e87bae79656313ccdd5abff6e585e2809bdbc8e",
-      "title": "Christians Mark Good Friday Today",
-      "sent_at": "2026-04-03T05:08:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/03/cid-probes-ishara-sewwandi%e2%80%99s-birthday-party-claim",
-      "content_hash": "fd154cfb97169fcee99e52dbd7506d714a6b116de9a33829c6b09d649db631a1",
-      "title": "CID Probes Ishara Sewwandi’s Birthday Party Claim",
-      "sent_at": "2026-04-03T05:08:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/03/kush-drug-bust-at-katunayake-airport",
-      "content_hash": "877307d123863a9bd185cf4a02a432fe05281b3f780b8dbca355562abffc1ad4",
-      "title": "Kush Drug Bust At Katunayake Airport",
-      "sent_at": "2026-04-03T05:08:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/03/undefined",
-      "content_hash": "e1bf0a26200253afe59415b8a5557c4f95743c9fec9b86284332b1005404b963",
-      "title": "Water Relief Measures Announced",
-      "sent_at": "2026-04-03T05:08:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/03/insurance-scheme-introduced-for-divers",
       "content_hash": "91adc17ff4de16daedcbc74c4f98aff561c2ce4fafb892e70018cc654981ccca",
       "title": "Insurance Scheme Introduced For Divers",
@@ -815,6 +791,30 @@
       "content_hash": "3f90896fc024ef771c70479c141b997d5444cbaa88657e0c88af36d951c6d73d",
       "title": "No More Discussions With GMOA if Strikes Continue",
       "sent_at": "2026-04-09T15:25:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/coconut-fertilizer-month-declared-nationwide",
+      "content_hash": "17d7c8a499cca3dc58768a9d2a39cc3aa26131d78fb22b223ed8ed5b03ed8f43",
+      "title": "Coconut Fertilizer Month Declared Nationwide",
+      "sent_at": "2026-04-10T05:28:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/global-supply-shock-could-push-45-million-more-people-into-hunger-warns-imf",
+      "content_hash": "ce55939eadba42beeae846d2af66be9ae4e2fa90d382d197e4db6e47a99c7ab8",
+      "title": "Global Supply Shock Could Push 45 Million More People Into Hunger, Warns IMF",
+      "sent_at": "2026-04-10T05:29:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/special-trains-launched-for-new-year-travel",
+      "content_hash": "abb7f3e7a9712bd433c40157cb43aca74356693dc54e28a303e6b81a7605fcc6",
+      "title": "Special Trains Launched For New Year Travel",
+      "sent_at": "2026-04-10T05:29:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/tariff-hike-decision-due-next-month",
+      "content_hash": "895cd767f1fd403f0cc2c79d319158ff7037622989b997a571da44ca70559f36",
+      "title": "Tariff Hike Decision Due Next Month",
+      "sent_at": "2026-04-10T05:29:04Z"
     }
   ]
 }
