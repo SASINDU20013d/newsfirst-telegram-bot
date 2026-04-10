@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/03/fertilizer-distribution-to-remain-open-on-weekends-and-holidays",
-      "content_hash": "1fa00776261ff7d3f703cde4f2ef543aaf55de1a9e07b5459090a6ca8baa99fe",
-      "title": "Fertilizer Distribution To Remain Open On Weekends And Holidays",
-      "sent_at": "2026-04-03T09:55:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/03/suspect-arrested-in-thelikada-family-double-murder",
       "content_hash": "20ac2e7f9d91214c0af6a2195411692de30534769e35eeca49b3ebe21dbeb448",
       "title": "Suspect Arrested in Thelikada Family Double Murder",
@@ -839,6 +833,30 @@
       "content_hash": "36d683452ad21add22b6638027044362edb15d4c25ec3966e6e955e4187ef4a4",
       "title": "President Hails Ancient Cascade Tank System as Sri Lanka’s Timeless Model of Sustainability",
       "sent_at": "2026-04-10T07:48:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/5-000-metric-tons-of-rice-reach-island-from-india",
+      "content_hash": "3b1e2d982b7fcc914211795a2ea751d5f3fd77a31e7cde422c66161163258064",
+      "title": "5,000 Metric Tons of Rice Reach Island From India",
+      "sent_at": "2026-04-10T10:59:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/doctors%e2%80%99-petitions-on-post%e2%80%91intern-appointments-await-court-ruling",
+      "content_hash": "cd5355b7fe58822eeb2dc76577465a064d62ae66fc6ded28304e69f60372f6f1",
+      "title": "Doctors’ Petitions on Post‑Intern Appointments Await Court Ruling",
+      "sent_at": "2026-04-10T10:59:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/motor-traffic-commissioner-general-remanded-until-april-20",
+      "content_hash": "041830cf2cd71108593682fda2a0c53e13a6b67912622d2933e8dccde8cfb03b",
+      "title": "Motor Traffic Commissioner General Remanded Until April 20",
+      "sent_at": "2026-04-10T10:59:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/10/oil-prices-rise-due-to-concern-few-ships-passing-strait-of-hormuz",
+      "content_hash": "0efbcdeb668467de18ba82d0d3469b7f16314380f910b9ec5d1ee8b2fe64eb55",
+      "title": "Oil Prices Rise Due To Concern Few Ships Passing Strait of Hormuz",
+      "sent_at": "2026-04-10T10:59:40Z"
     }
   ]
 }
