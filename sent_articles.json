@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/04/expert-committee-appointed-national-colleges-of-education-set-for-major-reforms",
-      "content_hash": "3014a4decc1baeb0e75f94389237d5ffaaf920f6bd83fb9a112b811b417398eb",
-      "title": "Expert Committee Appointed: National Colleges of Education Set for Major Reforms",
-      "sent_at": "2026-04-04T04:53:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/04/three-arrested-for-illegal-possession-of-diesel-and-kerosene",
-      "content_hash": "c00ed0add799805f63562331d141b922a494479c5f108d33d880b96dc9b1950b",
-      "title": "Three Arrested for Illegal Possession of Diesel and Kerosene",
-      "sent_at": "2026-04-04T04:54:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/04/afghanistan-hit-by-magnitude-5-9-earthquake-eight-killed",
       "content_hash": "ebebc6c3eef28d77ede38fdbda9fcbc1d2441ac688a8265c248275b898195d5c",
       "title": "Afghanistan Hit by Magnitude 5.9 Earthquake, Eight Killed",
@@ -893,6 +881,12 @@
       "content_hash": "dd3bd7358aa8d2ccd02dacbee19bf20358cea6d8ebd2ec64a2db72e398fa077b",
       "title": "Special Islandwide Security Program for Festive Season",
       "sent_at": "2026-04-11T02:39:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/special-bus-and-train-services-in-place-for-new-year-travel-rush",
+      "content_hash": "247c0c861450e75eaa2bf289afe7e49033a735b1ff865e63e266d2a5511e8af2",
+      "title": "Special Bus and Train Services in place for New Year Travel Rush",
+      "sent_at": "2026-04-11T04:58:52Z"
     }
   ]
 }
