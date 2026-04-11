@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/04/five-habits-threaten-police-careers-igp",
-      "content_hash": "1aa101527eea8bc1013d9c765cb12859392e064b1ea7e8e9f8bcde51c854b6dc",
-      "title": "Five Habits Threaten Police Careers - IGP",
-      "sent_at": "2026-04-04T07:06:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/04/7-000-mt-lp-gas-shipment-arrives-at-the-hip",
       "content_hash": "44c9ff8ae207b4572158c441dab750dd071a8da27e4ac312b7225973820ac426",
       "title": "7,000 MT LP Gas Shipment Arrives at the HIP",
@@ -887,6 +881,12 @@
       "content_hash": "4389c63d785e2262a1aa3048314c27425c7894e7d763a9dea950d165dc3aefba",
       "title": "Special Expressway Bus Service to Kandy and Galle from Pettah",
       "sent_at": "2026-04-11T06:02:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/petrol-qr-system-suspended-until-april-18-fuel-shipment-to-arrive-tomorrow",
+      "content_hash": "88029384d2958d5a81b6f9194531d3d2627cf223428321953f7ad23edcd6cfea",
+      "title": "Petrol QR System Suspended Until April 18; Fuel Shipment to Arrive Tomorrow",
+      "sent_at": "2026-04-11T07:13:17Z"
     }
   ]
 }
