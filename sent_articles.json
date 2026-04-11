@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/04/gmoa-resumes-islandwide-strike",
-      "content_hash": "b380cbc7799cadb77d1662cc7673605151bdb1b5d19d463d07f7163ee2783aec",
-      "title": "GMOA Resumes Islandwide Strike",
-      "sent_at": "2026-04-04T02:34:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/04/expert-committee-appointed-national-colleges-of-education-set-for-major-reforms",
       "content_hash": "3014a4decc1baeb0e75f94389237d5ffaaf920f6bd83fb9a112b811b417398eb",
       "title": "Expert Committee Appointed: National Colleges of Education Set for Major Reforms",
@@ -881,6 +875,24 @@
       "content_hash": "365f564db57b63bdaf8340a26f217d42cf1b6a6b7a312c88e3c88704609eb37d",
       "title": "MR Submits Asset Declaration to Bribery Commission",
       "sent_at": "2026-04-10T14:52:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/artemis-ii-crew-splash-down-in-pacific-ocean-after-history-making-moon-mission",
+      "content_hash": "2549f60d424fb4891aed46eed75ece2aa8ef27175c70e0a09da58babc5c44887",
+      "title": "Artemis II crew splash down in Pacific Ocean after history-making Moon mission",
+      "sent_at": "2026-04-11T02:39:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/police-warns-of-strict-traffic-law-enforcement-during-festive-season",
+      "content_hash": "164939a0748d95cdbbfde187b1ac7d718e61dedcc57e5aac53850f502f7da7dc",
+      "title": "Police Warns of Strict Traffic Law Enforcement During Festive Season",
+      "sent_at": "2026-04-11T02:39:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/special-islandwide-security-program-for-festive-season",
+      "content_hash": "dd3bd7358aa8d2ccd02dacbee19bf20358cea6d8ebd2ec64a2db72e398fa077b",
+      "title": "Special Islandwide Security Program for Festive Season",
+      "sent_at": "2026-04-11T02:39:10Z"
     }
   ]
 }
