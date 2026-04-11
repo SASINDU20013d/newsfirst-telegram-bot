@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/04/5th-and-6th-eff-reviews-to-be-submitted-to-imf-for-approval",
-      "content_hash": "31e6d1bbb05ba1c25689dd48e5da04eda509ca59506586c4594f741ce44dd366",
-      "title": "5th and 6th EFF Reviews to be Submitted to IMF For Approval",
-      "sent_at": "2026-04-04T10:38:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/04/two-dead-in-motorcycle-backhoe-collision-in-kilinochchi",
-      "content_hash": "d3307d1077d1f48554f84e43bdbe0cdbe9fe13f826a2f77fa16bc0c4a5d711d8",
-      "title": "Two Dead in Motorcycle-backhoe Collision in Kilinochchi",
-      "sent_at": "2026-04-04T10:38:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/04/gmoa-strike-disrupts-hospital-services-across-the-country",
       "content_hash": "921464fa1c11642ea5d73adef55c46a89ba70b3a9453d38eecfd346e5544fe4d",
       "title": "GMOA Strike Disrupts Hospital Services Across The Country",
@@ -893,6 +881,12 @@
       "content_hash": "dca2ee4c6458a06106a0eee3935b835136543195f4bfbd4621c54e126c586297",
       "title": "Three Arrested in STF Raid Targeting Drug Network Linked to 'Batuwatte Chamara'",
       "sent_at": "2026-04-11T08:51:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/police-probe-audio-clips-alleging-plot-against-boossa-prison-inmate",
+      "content_hash": "a6359e5bbffdc93e5e9f5c6b171c8cf443c5282a6db4439e721107ab854f6e3c",
+      "title": "Police Probe Audio clips alleging plot against Boossa Prison inmate",
+      "sent_at": "2026-04-11T10:39:32Z"
     }
   ]
 }
