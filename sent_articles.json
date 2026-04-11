@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/04/7-000-mt-lp-gas-shipment-arrives-at-the-hip",
-      "content_hash": "44c9ff8ae207b4572158c441dab750dd071a8da27e4ac312b7225973820ac426",
-      "title": "7,000 MT LP Gas Shipment Arrives at the HIP",
-      "sent_at": "2026-04-04T08:48:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/04/recruitment-of-new-doctors-underway-deputy-minister-says-strike-demands-cannot-be-implemented",
       "content_hash": "93fec8194a7230abfd83b052af72e163996d39e86736481e66de1242a6f237df",
       "title": "Recruitment of New Doctors Underway: Deputy Minister Says Strike Demands Cannot Be Implemented",
@@ -887,6 +881,24 @@
       "content_hash": "88029384d2958d5a81b6f9194531d3d2627cf223428321953f7ad23edcd6cfea",
       "title": "Petrol QR System Suspended Until April 18; Fuel Shipment to Arrive Tomorrow",
       "sent_at": "2026-04-11T07:13:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/government-offices-to-remain-open-from-april-1517",
+      "content_hash": "64a10c8912689b25d9a6c2f27d02a034d0807b13f32440957f8891faf557e85d",
+      "title": "Government Offices to Remain Open from April 15–17",
+      "sent_at": "2026-04-11T08:50:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/secretary-to-the-president-seeks-comprehensive-cid-probe-into-coal-imports-since-2009",
+      "content_hash": "c7af2296f94748bfeabed381a61acd640b40b15ad168d0d84dfc68a2c1c97d13",
+      "title": "Secretary to the President Seeks Comprehensive CID Probe into Coal Imports Since 2009",
+      "sent_at": "2026-04-11T08:51:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/three-arrested-in-stf-raid-targeting-drug-network-linked-to-batuwatte-chamara",
+      "content_hash": "dca2ee4c6458a06106a0eee3935b835136543195f4bfbd4621c54e126c586297",
+      "title": "Three Arrested in STF Raid Targeting Drug Network Linked to 'Batuwatte Chamara'",
+      "sent_at": "2026-04-11T08:51:10Z"
     }
   ]
 }
