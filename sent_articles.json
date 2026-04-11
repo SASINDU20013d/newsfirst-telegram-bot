@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/04/gmoa-strike-disrupts-hospital-services-across-the-country",
-      "content_hash": "921464fa1c11642ea5d73adef55c46a89ba70b3a9453d38eecfd346e5544fe4d",
-      "title": "GMOA Strike Disrupts Hospital Services Across The Country",
-      "sent_at": "2026-04-04T11:33:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/05/caa-collects-nearly-rs-50-million-in-fines-following-over-5-000-raids",
       "content_hash": "3cdd7a4f43c4cb356517a7513e26673a21c64b1d62ed458c25e82a026945deba",
       "title": "CAA Collects Nearly Rs. 50 Million in Fines Following Over 5,000 Raids",
@@ -887,6 +881,12 @@
       "content_hash": "a6359e5bbffdc93e5e9f5c6b171c8cf443c5282a6db4439e721107ab854f6e3c",
       "title": "Police Probe Audio clips alleging plot against Boossa Prison inmate",
       "sent_at": "2026-04-11T10:39:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/11/whatsapp-hotline-launched-for-reporting-reckless-driving",
+      "content_hash": "2f19e322ab5f208ed8056341066f0cf339891a440330ff4bc4541b6d685aa50c",
+      "title": "WhatsApp Hotline Launched for Reporting Reckless Driving",
+      "sent_at": "2026-04-11T11:34:53Z"
     }
   ]
 }
