@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/05/government-to-issue-fertilizer-quotas-at-fair-prices",
-      "content_hash": "65a126e6385d7d479de20907e478c2786b60b257248440ae36f21845490c1ab9",
-      "title": "Government to Issue Fertilizer Quotas at Fair Prices",
-      "sent_at": "2026-04-05T05:16:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/05/pope-leo-xiv-celebrates-first-easter-vigil-calls-for-harmony-and-peace-in-a-world-torn-by-war",
-      "content_hash": "1a2ae7cf7ca80a326357c23fc8518e034a6532a792925090d76279709f35d47c",
-      "title": "Pope Leo XIV Celebrates First Easter Vigil, Calls for Harmony and Peace in a World Torn by War",
-      "sent_at": "2026-04-05T05:16:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/05/sun-positioned-directly-over-sri-lanka-today-heat-advisory-issued-to-several-provinces-and-districts",
-      "content_hash": "49c5674f5add775f7b07040d601a2e2c7ed88a90043f9a8f487ec27cdb779938",
-      "title": "Sun Positioned Directly Over Sri Lanka Today; Heat Advisory Issued to Several Provinces and Districts",
-      "sent_at": "2026-04-05T05:16:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/05/gmoa-strike-extended-by-another-24-hours",
       "content_hash": "6dda86d2781e8850c6c879dad15128ac8df6f5dea4b127d7cd87b11ef25c195e",
       "title": "GMOA Strike Extended by Another 24 Hours",
@@ -893,6 +875,30 @@
       "content_hash": "b9d319f26e75ca6ffc9bcf22511b211b9302afe6d4e386976d79dbe745032fa5",
       "title": "US and Iran fail to reach agreement after historic peace talks in Pakistan - JD Vance",
       "sent_at": "2026-04-12T03:16:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/coal-issues-not-added-to-tariffs-pucsl",
+      "content_hash": "637300330140b93226c8ad5dace96ce69c5b35d370403911217327023dcd78a7",
+      "title": "Coal Issues Not Added To Tariffs : PUCSL",
+      "sent_at": "2026-04-12T05:55:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/fatal-lorry-collision-on-southern-expressway-claims-two-lives",
+      "content_hash": "ebfa28c70c5b850da89e96b670c7669404a7f5d70e16193efc28b0c61cbd3218",
+      "title": "Fatal Lorry Collision On Southern Expressway Claims Two Lives",
+      "sent_at": "2026-04-12T05:55:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/legendary-singer-asha-bhosle-hospitalized-after-health-concerns",
+      "content_hash": "3bf0f3eed6bd791f45e1952a39788243849d15c0303b7dc3b9fe21d5c7398ffb",
+      "title": "Legendary Singer Asha Bhosle Hospitalized After Health Concerns",
+      "sent_at": "2026-04-12T05:56:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/ufc-327-miami-donald-trump-enters-kaseya-center-with-dana-white",
+      "content_hash": "cf05e3f463358daee457a8397feba941b739d04137ccbfc6bf322b60f320be34",
+      "title": "UFC 327 Miami :Donald Trump Enters Kaseya Center With Dana White",
+      "sent_at": "2026-04-12T05:56:06Z"
     }
   ]
 }
