@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/05/landslide-early-warnings-issued-for-ratnapura-district",
-      "content_hash": "2910036aa5e50348d10e61411920d7ac13724ffa98ce8627ca1293b6122fb7c4",
-      "title": "Landslide Early Warnings Issued for Ratnapura District",
-      "sent_at": "2026-04-05T08:51:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/05/police-to-strictly-enforce-traffic-laws-during-festive-season",
-      "content_hash": "d08143702ea82d67deb2cb9e377381a4e99a8ac33a1d82f7f2fa7c2cdc637777",
-      "title": "Police to Strictly Enforce Traffic Laws During Festive Season",
-      "sent_at": "2026-04-05T08:51:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/05/police-arrest-31-over-illegal-fuel-hoarding",
       "content_hash": "026a0768d75d7d8f7208417e46301c4e12695fa32414120edb2df311ae0e5d63",
       "title": "Police Arrest 31 Over Illegal Fuel Hoarding",
@@ -899,6 +887,12 @@
       "content_hash": "c0f1c02075a96948f81f367c419615df8e520103371f74dc6e5ea3553f6d9955",
       "title": "Bus Ticket Scams Under Probe As Ministry Warns Of Legal Action",
       "sent_at": "2026-04-12T07:21:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/famed-indian-singer-asha-bhosle-92-passes-away",
+      "content_hash": "0a928e81dd5eafce47c6b3218f1dbf84facdb678d982e47c3e150e69f48ee2df",
+      "title": "Famed Indian singer Asha Bhosle (92) passes away",
+      "sent_at": "2026-04-12T08:55:10Z"
     }
   ]
 }
