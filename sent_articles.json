@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/05/caa-collects-nearly-rs-50-million-in-fines-following-over-5-000-raids",
-      "content_hash": "3cdd7a4f43c4cb356517a7513e26673a21c64b1d62ed458c25e82a026945deba",
-      "title": "CAA Collects Nearly Rs. 50 Million in Fines Following Over 5,000 Raids",
-      "sent_at": "2026-04-05T02:52:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/05/christians-celebrate-easter-sunday-leaders-call-for-peace-and-unity",
-      "content_hash": "d6f42e44099724ba3c1fdc800f0bd8d078d860ba5f0ad5fb7ce4600364195701",
-      "title": "Christians Celebrate Easter Sunday, Leaders Call for Peace and Unity",
-      "sent_at": "2026-04-05T02:52:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/05/northern-railway-line-to-reopen-between-colombo-fort-and-kankesanthurai",
-      "content_hash": "8ccb9efcf3b7de2dedec67e505088d413b9ad6d3e00e692e7c9a42b10e102762",
-      "title": "Northern Railway Line to Reopen Between Colombo Fort and Kankesanthurai",
-      "sent_at": "2026-04-05T02:52:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/05/water-board-reduces-supply-disruptions-to-12-hours",
-      "content_hash": "9818f9a8bc4f87035e916adf8c3b5feb133c29a244968be5573f33e5e895921d",
-      "title": "Water Board Reduces Supply Disruptions to 12 Hours",
-      "sent_at": "2026-04-05T02:52:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/05/government-to-issue-fertilizer-quotas-at-fair-prices",
       "content_hash": "65a126e6385d7d479de20907e478c2786b60b257248440ae36f21845490c1ab9",
       "title": "Government to Issue Fertilizer Quotas at Fair Prices",
@@ -887,6 +863,36 @@
       "content_hash": "2f19e322ab5f208ed8056341066f0cf339891a440330ff4bc4541b6d685aa50c",
       "title": "WhatsApp Hotline Launched for Reporting Reckless Driving",
       "sent_at": "2026-04-11T11:34:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/1-500-extra-buses-special-trains-in-operation-for-festive-travel",
+      "content_hash": "c2d9064fa3d719e53f8430cdd09919c56a346ffc78fd01c4f3c2a9eddba0297e",
+      "title": "1,500 Extra Buses, Special Trains In Operation For Festive Travel",
+      "sent_at": "2026-04-12T03:16:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/cctv-monitoring-intensified-to-catch-speeding-drivers-on-expressways",
+      "content_hash": "ce9ae2b09b6161b48e944b14dccf9102b1e8573656c035a28d191853afdbac65",
+      "title": "CCTV Monitoring Intensified To Catch Speeding Drivers On Expressways",
+      "sent_at": "2026-04-12T03:16:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/maldives-president-muizzu-to-visit-sri-lanka-next-month",
+      "content_hash": "7019f83ca97ea1f80384edcdce43a5c12f00de874349675e90d6b822a8b1d55b",
+      "title": "Maldives President Muizzu To Visit Sri Lanka Next Month",
+      "sent_at": "2026-04-12T03:16:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/slsea-urges-daytime-new-year-celebrations-to-conserve-power",
+      "content_hash": "17e648daf78bbacf506621ff9d52910b3f1ab8a6cac5a6b5511b2b227ee66176",
+      "title": "SLSEA Urges Daytime New Year Celebrations To Conserve Power",
+      "sent_at": "2026-04-12T03:16:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/us-and-iran-fail-to-reach-agreement-after-historic-peace-talks-in-pakistan-jd-vance",
+      "content_hash": "b9d319f26e75ca6ffc9bcf22511b211b9302afe6d4e386976d79dbe745032fa5",
+      "title": "US and Iran fail to reach agreement after historic peace talks in Pakistan - JD Vance",
+      "sent_at": "2026-04-12T03:16:58Z"
     }
   ]
 }
