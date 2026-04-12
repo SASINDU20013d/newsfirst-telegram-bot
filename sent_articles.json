@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/05/gmoa-strike-extended-by-another-24-hours",
-      "content_hash": "6dda86d2781e8850c6c879dad15128ac8df6f5dea4b127d7cd87b11ef25c195e",
-      "title": "GMOA Strike Extended by Another 24 Hours",
-      "sent_at": "2026-04-05T07:13:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/05/landslide-early-warnings-issued-for-ratnapura-district",
       "content_hash": "2910036aa5e50348d10e61411920d7ac13724ffa98ce8627ca1293b6122fb7c4",
       "title": "Landslide Early Warnings Issued for Ratnapura District",
@@ -899,6 +893,12 @@
       "content_hash": "cf05e3f463358daee457a8397feba941b739d04137ccbfc6bf322b60f320be34",
       "title": "UFC 327 Miami :Donald Trump Enters Kaseya Center With Dana White",
       "sent_at": "2026-04-12T05:56:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/12/bus-ticket-scams-under-probe-as-ministry-warns-of-legal-action",
+      "content_hash": "c0f1c02075a96948f81f367c419615df8e520103371f74dc6e5ea3553f6d9955",
+      "title": "Bus Ticket Scams Under Probe As Ministry Warns Of Legal Action",
+      "sent_at": "2026-04-12T07:21:20Z"
     }
   ]
 }
