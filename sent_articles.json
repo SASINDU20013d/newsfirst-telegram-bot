@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/06/ex%e2%80%91intelligence-chief-seeks-court-relief-over-pta-detention",
-      "content_hash": "af21165f2f718f654d5ef98d0abf8d878e714e4d44708c6c7593e55505e14cf5",
-      "title": "Ex‑Intelligence Chief Seeks Court Relief Over PTA Detention",
-      "sent_at": "2026-04-06T13:19:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/how-the-national-qr-payment-system-works",
-      "content_hash": "c55d3b5d8ebde7ffec060e9c5af98f969a38362092707143ad97a4c6b462e51d",
-      "title": "How the National QR Payment System Works",
-      "sent_at": "2026-04-06T13:19:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/laugfs-to-begin-islandwide-gas-distribution",
-      "content_hash": "5201bac6e2f2a8a9fd4bb1a61f7dd93932a3168a7d5e65b8868b2e92774cdfe3",
-      "title": "LAUGFS to Begin Islandwide Gas Distribution",
-      "sent_at": "2026-04-06T13:19:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/president-meets-bank-chiefs-to-drive-national-qr-payment-rollout",
-      "content_hash": "0ee91f12e729bd06ae1484246c459f200666ae5010924f39ac9c5685d4f51481",
-      "title": "President Meets Bank Chiefs to Drive National QR Payment Rollout",
-      "sent_at": "2026-04-06T13:19:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/sri-lanka-withdraws-wednesday-holiday",
-      "content_hash": "d5243fb4b175b3d3751ece79691b62ae56cc8acde541ef4e847bd66d774038be",
-      "title": "Sri Lanka Withdraws Wednesday Holiday",
-      "sent_at": "2026-04-06T13:19:59Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/06/customers-protected-as-ndb-takes-action-on-internal-misconduct",
       "content_hash": "57978a9b5b729ef4eb6a461246f0ad9b3a376df6e0f470fa70375498302153d5",
       "title": "Customers Protected as NDB Takes Action on Internal Misconduct",
@@ -851,6 +821,18 @@
       "content_hash": "1021361e027330e5bb1134935ca1aa0734cf610345274f7c19f4f3b41162ca7e",
       "title": "UK not supporting blockade of Iranian ports, says Starmer",
       "sent_at": "2026-04-13T10:53:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/australia-appoints-woman-to-lead-its-army-for-the-first-time",
+      "content_hash": "db493d7572ea5f2a98562ebca0af1161a241a19f3afd13ca358600013e796e04",
+      "title": "Australia Appoints Woman to Lead its Army for the First Time",
+      "sent_at": "2026-04-13T14:52:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/trump-says-us-to-begin-naval-blockade-of-iran-s-ports-in-the-strait-of-hormuz",
+      "content_hash": "b2585da4a131874e2456e234a048bf9716b07b227029e1dbf7188f0d7937ce9c",
+      "title": "Trump says US to begin naval blockade of Iran's ports in the Strait of Hormuz",
+      "sent_at": "2026-04-13T14:52:40Z"
     }
   ]
 }
