@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/06/sri-lanka-targets-one-million-qr-transactions-a-month",
-      "content_hash": "715adae009a6f273444d29289244445baea6121cf85763e68838114e674cd59c",
-      "title": "Sri Lanka Targets One Million QR Transactions a Month",
-      "sent_at": "2026-04-06T07:50:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/06/12-hour-water-cut-announced-for-pelanwatta",
       "content_hash": "d3b2e1996a3c786c40ae9cbb44e65a7b88b8489954839d1d35fbcfe2e00cb27a",
       "title": "12-Hour Water Cut Announced for Pelanwatta",
@@ -881,6 +875,18 @@
       "content_hash": "73a357664e23003d70cb8f5874efbcca64cd1f74b5adc7268a15b31d9289ab60",
       "title": "Public Warned To Avoid Firework Accidents During New Year Celebrations",
       "sent_at": "2026-04-13T06:19:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/don-t-let-new-year-turn-tragic-minister-orders-strict-adherence-to-seatbelt-safety",
+      "content_hash": "6032080111fa8027d5034e5e71c6326ea4cfe152718a522e5799eee258dfd339",
+      "title": "Don't Let New Year Turn Tragic: Minister Orders Strict Adherence to Seatbelt Safety",
+      "sent_at": "2026-04-13T09:02:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/national-colleges-teacher-trainee-interviews-set-to-begin-april-21",
+      "content_hash": "17e154d2f953e053a8fc98de7cf621e1580b7370f54b9107c845c7ac393830d8",
+      "title": "National Colleges Teacher Trainee Interviews Set to Begin April 21",
+      "sent_at": "2026-04-13T09:02:48Z"
     }
   ]
 }
