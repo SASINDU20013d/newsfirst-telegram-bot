@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/06/hip-scales-up-rapidly-as-global-trade-seeks-stability-outside-middle-east",
-      "content_hash": "c52e6e7f0dbe71a4eb07c5cfec2f41a2c03f2f006ceae9a7948bdb0b740e66fa",
-      "title": "HIP Scales Up Rapidly as Global Trade Seeks Stability Outside Middle East",
-      "sent_at": "2026-04-06T05:29:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/sri-lanka-pushes-cash%e2%80%91lite-economy-with-lankaqr-launch",
-      "content_hash": "196e2c06c98641d21f1c5479571fc6b6753b5eef8e14837402f232219055a6b7",
-      "title": "Sri Lanka Pushes Cash‑Lite Economy With LankaQR Launch",
-      "sent_at": "2026-04-06T05:29:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/water-supply-restored-in-padukka-12-hour-water-cuts-for-homagama",
-      "content_hash": "f13f4b343ac553fae18f483c67bc9aebdab544f291b6f53eb5ac7ef1ebbd86f6",
-      "title": "Water Supply Restored in Padukka: 12-Hour Water Cuts for Homagama",
-      "sent_at": "2026-04-06T05:29:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/06/sri-lanka-targets-one-million-qr-transactions-a-month",
       "content_hash": "715adae009a6f273444d29289244445baea6121cf85763e68838114e674cd59c",
       "title": "Sri Lanka Targets One Million QR Transactions a Month",
@@ -851,6 +833,54 @@
       "content_hash": "158c07faeebeb8db56a7f19f4e318034d74aafad8c49c7965c0ffe423297a725",
       "title": "US Military to Block Ships from Iranian Ports After Talks Yield No Agreement",
       "sent_at": "2026-04-13T03:23:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/8-000-police-deployed-for-new-year-traffic-duty-across-sri-lanka",
+      "content_hash": "eec3a96eb7e402040b5c334693a197a8af716317f414ffa3255a37b585beea8a",
+      "title": "8,000 Police Deployed For New Year Traffic Duty Across Sri Lanka",
+      "sent_at": "2026-04-13T06:19:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/fuel-shipment-arrives-to-ensure-uninterrupted-power-supply",
+      "content_hash": "920d4adaa99fb2e6ea0c602602ff885d09639780f6b70d64e1f3d571a2b1e6d6",
+      "title": "Fuel Shipment Arrives To Ensure Uninterrupted Power Supply",
+      "sent_at": "2026-04-13T06:19:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/interpol-experts-to-assist-fraud-probe-as-ndb-assures-no-impact-on-customer-funds",
+      "content_hash": "8fe5c4d3f0587351595263e19330c56064506ba5690a943ea5c933881d5c4ba0",
+      "title": "Interpol Experts to Assist Fraud Probe as NDB Assures No Impact on Customer Funds",
+      "sent_at": "2026-04-13T06:19:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/islandwide-food-inspections-intensify-as-4-000-outlets-checked",
+      "content_hash": "14a5c50c0bdbfd5804d46c0a6d516ed535b03ceac63e81e04ef17b249cdb16f4",
+      "title": "Islandwide Food Inspections Intensify As 4,000 Outlets Checked",
+      "sent_at": "2026-04-13T06:19:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/lanka-coal-company-office-to-reopen-amid-cid-probe-pucsl-rejects-passing-coal-quality-costs-to-consumers",
+      "content_hash": "3caa3cae0e0b120b4eccf669559b2ab80c8be1f0a08f5b66e52d4e0e2d342288",
+      "title": "Lanka Coal Company Office to Reopen Amid CID Probe; PUCSL Rejects Passing Coal Quality Costs to Consumers",
+      "sent_at": "2026-04-13T06:19:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/norochcholai-generator-unit-shut-down-as-demand-drops-second-and-third-units-continue-without-power-disruption",
+      "content_hash": "26095b733b7e542546a506962a7f1cca9a86718c8c08fa4d75dd4a84f2e27aa3",
+      "title": "Norochcholai Generator Unit Shut Down As Demand Drops Second And Third Units Continue Without Power Disruption",
+      "sent_at": "2026-04-13T06:19:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/one-day-to-avurudu-as-sri-lanka-prepares-for-auspicious-new-year-dawn",
+      "content_hash": "e83973936de50539bb384cd0269064a00aabe6b02cda38c2be6116900379395f",
+      "title": "One Day To Avurudu As Sri Lanka Prepares For Auspicious New Year Dawn",
+      "sent_at": "2026-04-13T06:19:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/public-warned-to-avoid-firework-accidents-during-new-year-celebrations",
+      "content_hash": "73a357664e23003d70cb8f5874efbcca64cd1f74b5adc7268a15b31d9289ab60",
+      "title": "Public Warned To Avoid Firework Accidents During New Year Celebrations",
+      "sent_at": "2026-04-13T06:19:16Z"
     }
   ]
 }
