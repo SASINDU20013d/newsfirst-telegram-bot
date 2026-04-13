@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/06/fire-breaks-out-at-a-polythene-factory-in-wattala",
-      "content_hash": "67c8135e610d576141659519d81094a7948ec7dd9dd21bca4fcfd27f28d74ea8",
-      "title": "Fire Breaks Out at a Polythene Factory in Wattala",
-      "sent_at": "2026-04-06T02:53:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/gmoa-calls-decisive-meeting-on-strike-action-specialists-decline-support",
-      "content_hash": "8b4718590b1088d136084bcb013183b2e9b365f92d697a53674fcde93c3696cc",
-      "title": "GMOA Calls Decisive Meeting on Strike Action; Specialists Decline Support",
-      "sent_at": "2026-04-06T02:53:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/gmoa-temporarily-suspends-strike-action",
-      "content_hash": "184965ba007f8e57a6837b5cf06c33e24fbf2072cd4eadb272a071d2421e4a34",
-      "title": "GMOA Temporarily Suspends Strike Action",
-      "sent_at": "2026-04-06T02:53:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/heat-advisory-issued-for-several-provinces",
-      "content_hash": "6a8352421d49ff7122df5ace40ef557991f97936d3c86d0189dd19a857b5f3b4",
-      "title": "Heat Advisory Issued for Several Provinces",
-      "sent_at": "2026-04-06T02:53:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/launch-of-the-%e2%80%9cnational-qr-payment-promotion-programme%e2%80%9d-today",
-      "content_hash": "31b1765eddacdc8b95f7b534eea3a72079889f45bd87d3b08a5ca1f27dea7009",
-      "title": "Launch of the “National QR Payment Promotion Programme” Today",
-      "sent_at": "2026-04-06T02:53:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/litro-and-laugfs-increase-lp-gas-rates",
-      "content_hash": "8e3c227a19a7beb3095b56c99f0c79b10d6ec38791f43502e25217fa28a1fcbb",
-      "title": "Litro and Laugfs Increase LP Gas Rates",
-      "sent_at": "2026-04-06T02:53:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/petroleum-distributors-to-launch-silent-protest-over-commission-cuts",
-      "content_hash": "29a149bcce93c2724c171958fdb02f0fc333d45cf937dea9d002475065e42231",
-      "title": "Petroleum Distributors to Launch Silent Protest Over Commission Cuts",
-      "sent_at": "2026-04-06T02:53:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/06/hip-scales-up-rapidly-as-global-trade-seeks-stability-outside-middle-east",
       "content_hash": "c52e6e7f0dbe71a4eb07c5cfec2f41a2c03f2f006ceae9a7948bdb0b740e66fa",
       "title": "HIP Scales Up Rapidly as Global Trade Seeks Stability Outside Middle East",
@@ -875,6 +833,24 @@
       "content_hash": "46fec8961a3d69e2cfd550f1961e89bf737942e1b467cbeccc6d2cd315dbb9bf",
       "title": "Trump Says Iran Will \"Never\" Possess Nuclear Weapon",
       "sent_at": "2026-04-12T16:45:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/1-500-extra-buses-and-special-trains-in-operation-for-new-year-travel",
+      "content_hash": "5b160d25f89ff1d209a66fc03c017806fd4d37b9bf870d135766bee69c4f0583",
+      "title": "1,500 Extra Buses And Special Trains In Operation For New Year Travel",
+      "sent_at": "2026-04-13T03:22:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/orb%c3%a1n-concedes-defeat-in-democratic-earthquake",
+      "content_hash": "9f105a0bb1661f87e818d99ee36562d50dbbee034848706bb884e1fbd395a159",
+      "title": "Orbán Concedes Defeat in Democratic Earthquake",
+      "sent_at": "2026-04-13T03:23:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/us-military-to-block-ships-from-iranian-ports-after-talks-yield-no-agreement",
+      "content_hash": "158c07faeebeb8db56a7f19f4e318034d74aafad8c49c7965c0ffe423297a725",
+      "title": "US Military to Block Ships from Iranian Ports After Talks Yield No Agreement",
+      "sent_at": "2026-04-13T03:23:02Z"
     }
   ]
 }
