@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/06/12-hour-water-cut-announced-for-pelanwatta",
-      "content_hash": "d3b2e1996a3c786c40ae9cbb44e65a7b88b8489954839d1d35fbcfe2e00cb27a",
-      "title": "12-Hour Water Cut Announced for Pelanwatta",
-      "sent_at": "2026-04-06T09:14:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/colombo-resident-arrested-with-113-mn-worth-kush-at-bia",
-      "content_hash": "c11d6964938636f0b72c16af4b9a2e06e9dd319831e28c6ac4da43e4aa5e94e6",
-      "title": "Colombo Resident Arrested With 113 Mn Worth Kush At BIA",
-      "sent_at": "2026-04-06T09:14:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/06/two-arrested-in-colombo-for-illegal-diesel-possession",
-      "content_hash": "adef71754e47052857710b2aa90772d3fbdd954d5064c69abc06ecaa0fbed1ba",
-      "title": "Two Arrested in Colombo for Illegal Diesel Possession",
-      "sent_at": "2026-04-06T09:14:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/06/chinese-suspect-arrested-in-kalubowila-murder",
       "content_hash": "18a68d43a4421fc0c8cf1d6be90b0cad1bdc737992279f749bac9854556f8076",
       "title": "Chinese Suspect Arrested In Kalubowila Murder",
@@ -887,6 +869,18 @@
       "content_hash": "17e154d2f953e053a8fc98de7cf621e1580b7370f54b9107c845c7ac393830d8",
       "title": "National Colleges Teacher Trainee Interviews Set to Begin April 21",
       "sent_at": "2026-04-13T09:02:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/opposition-lacks-clear-vision-says-uvindu-wijeweera",
+      "content_hash": "48afce8758668b1d3b3845d0e85d6f35be6be86d4bf7256d21d2a6da2199af35",
+      "title": "Opposition Lacks Clear Vision, Says Uvindu Wijeweera",
+      "sent_at": "2026-04-13T10:53:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/13/uk-not-supporting-blockade-of-iranian-ports-says-starmer",
+      "content_hash": "1021361e027330e5bb1134935ca1aa0734cf610345274f7c19f4f3b41162ca7e",
+      "title": "UK not supporting blockade of Iranian ports, says Starmer",
+      "sent_at": "2026-04-13T10:53:04Z"
     }
   ]
 }
