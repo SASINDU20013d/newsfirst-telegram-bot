@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/07/artemis-ii-crew-completes-record-breaking-trip-around-the-moon-and-sees-unreal-solar-eclipse",
-      "content_hash": "d74d1f6e4f4384a8dc06de24493115421582f62a4d57cc7ba482f4c0957b0ff3",
-      "title": "Artemis II Crew Completes Record-Breaking Trip Around The Moon And Sees \"Unreal\" Solar Eclipse",
-      "sent_at": "2026-04-07T05:13:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/three-arrested-over-illegal-fuel-possession-in-separate-raids",
-      "content_hash": "6f586c48ec482ada5cd92e7ccb22acad3e5748c66246ad069574eb3a6b51a425",
-      "title": "Three Arrested Over Illegal Fuel Possession in Separate Raids",
-      "sent_at": "2026-04-07T05:13:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/07/cabinet-approves-new-fuel-subsidy-scheme-for-fishermen",
       "content_hash": "1bf1708f55ad5e849d3bd7dbe81e8407ea2da1782a73fec6fd14df2513a9080a",
       "title": "Cabinet Approves New Fuel Subsidy Scheme for Fishermen",
@@ -803,6 +791,42 @@
       "content_hash": "d15e1e82fc3c8fe1f6fc8c791a13670bf438541cf0e8593d65057827dc6a4ddf",
       "title": "President And PM Call For Unity And Prosperity In New Year Messages",
       "sent_at": "2026-04-14T02:55:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/dig-issues-strict-warning-on-traffic-law-compliance-for-avurudu-festivals",
+      "content_hash": "c1cae5279a6899d8e103ed9d456e31210881da4281a2c663d176a2cc04fbdee4",
+      "title": "DIG Issues Strict Warning On Traffic Law Compliance For Avurudu Festivals",
+      "sent_at": "2026-04-14T05:28:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/preparations-complete-for-national-new-year-ritual-ceremony",
+      "content_hash": "7a6b5758cf66d39a6fbc147b99643cf783af41e6beff6051b85a883b7994f759",
+      "title": "Preparations Complete For National New Year Ritual Ceremony",
+      "sent_at": "2026-04-14T05:28:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/public-urged-to-exercise-caution-as-firework-related-accidents-increase",
+      "content_hash": "7707116fc7dfba19429a1c73cb2b0bd245c505d9130d02d861dce2a777f3312d",
+      "title": "Public Urged To Exercise Caution As Firework Related Accidents Increase",
+      "sent_at": "2026-04-14T05:28:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/transport-ministry-extends-seat-reservation-service-for-post-new-year-travel",
+      "content_hash": "a1f0960ba889b39fd5421a2d164a0b15fe873e0b10ab09d84fe77fecab660f9b",
+      "title": "Transport Ministry Extends Seat Reservation Service For Post New Year Travel",
+      "sent_at": "2026-04-14T05:28:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/us-sanctioned-tanker-linked-to-china-tests-trump-blockade-with-hormuz-transit",
+      "content_hash": "fd3434db368e522805e030398415b3015feac80b1b8e5b9d34bcb168a54e7c7b",
+      "title": "US-Sanctioned Tanker Linked To China Tests Trump Blockade With Hormuz Transit",
+      "sent_at": "2026-04-14T05:28:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/war-fallout-hits-poor-nations-hardest-imf-world-bank-iea-warn-of-prolonged-shock-from-middle-east-war",
+      "content_hash": "1c7ea4a2c1ca3841d6213f204d8a1abe75073061cc27f241b2ea9f2df4253f1b",
+      "title": "War Fallout Hits Poor Nations Hardest : IMF, World Bank, IEA Warn of Prolonged Shock from Middle East War",
+      "sent_at": "2026-04-14T05:28:36Z"
     }
   ]
 }
