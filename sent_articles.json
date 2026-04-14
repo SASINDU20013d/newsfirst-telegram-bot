@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/07/aswesuma-benefits-for-2023-recipients-extended-until-june-as-data-updates-continue",
-      "content_hash": "0e0c7fb7b09b7ba6b6a31233c5f3dcb9f94e26296c2bc0ac2ca07cfdab6ed393",
-      "title": "Aswesuma Benefits for 2023 Recipients Extended Until June as Data Updates Continue",
-      "sent_at": "2026-04-07T02:46:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/essential-commodities-in-abundance-for-festive-season-says-importers-association",
-      "content_hash": "d188efaacaf59a28b4fed955ac037b221df26f9d776252b5fa0df5639a04fa38",
-      "title": "Essential Commodities in Abundance for Festive Season, Says Importers' Association",
-      "sent_at": "2026-04-07T02:47:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/imf-sl-discuss-industrial-sector-growth-sme-challenges",
-      "content_hash": "5df2f90e638ec60f6b6bee2b4895123f734a10498a9a2ea8f6b406b1efc7eadf",
-      "title": "IMF, SL Discuss Industrial Sector Growth, SME Challenges",
-      "sent_at": "2026-04-07T02:47:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/sinopec-hikes-super-diesel-price",
-      "content_hash": "438298598655804bf33e759417c62cab3376d2329f47a60f1805f37217fd3275",
-      "title": "Sinopec Hikes Super Diesel Price",
-      "sent_at": "2026-04-07T02:47:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/special-festive-season-transport-services-to-begin-with-1-500-buses",
-      "content_hash": "9dd4c1da68171e1a690e545732e5db767ca0fcdcfd83d666e40ac684db0ca4a7",
-      "title": "Special Festive Season Transport Services to Begin with 1,500 Buses",
-      "sent_at": "2026-04-07T02:47:07Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/07/artemis-ii-crew-completes-record-breaking-trip-around-the-moon-and-sees-unreal-solar-eclipse",
       "content_hash": "d74d1f6e4f4384a8dc06de24493115421582f62a4d57cc7ba482f4c0957b0ff3",
       "title": "Artemis II Crew Completes Record-Breaking Trip Around The Moon And Sees \"Unreal\" Solar Eclipse",
@@ -821,6 +791,18 @@
       "content_hash": "b2585da4a131874e2456e234a048bf9716b07b227029e1dbf7188f0d7937ce9c",
       "title": "Trump says US to begin naval blockade of Iran's ports in the Strait of Hormuz",
       "sent_at": "2026-04-13T14:52:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/nation-welcomes-new-year-with-sacred-traditions",
+      "content_hash": "9580d05571acb4fbf0fb9d4d992639a1b32e05fbccaae254641f54794a7cd338",
+      "title": "Nation Welcomes New Year With Sacred Traditions",
+      "sent_at": "2026-04-14T02:55:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/president-and-pm-call-for-unity-and-prosperity-in-new-year-messages",
+      "content_hash": "d15e1e82fc3c8fe1f6fc8c791a13670bf438541cf0e8593d65057827dc6a4ddf",
+      "title": "President And PM Call For Unity And Prosperity In New Year Messages",
+      "sent_at": "2026-04-14T02:55:31Z"
     }
   ]
 }
