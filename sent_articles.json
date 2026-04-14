@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/07/australia-delivers-lifesaving-equipment-to-strengthen-sri-lanka%e2%80%99s-disaster-response",
-      "content_hash": "16c30385e6ae0699782984762b7316713f406bc3a97bedc660415d744fc9379d",
-      "title": "Australia Delivers Lifesaving Equipment to Strengthen Sri Lanka’s Disaster Response",
-      "sent_at": "2026-04-07T11:55:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/colombo-dockyard-secures-ship-repair-deal-with-dcil",
-      "content_hash": "b4e41babe14c899518f32d5b5c78a8ddfaebc8256c818ad73b593ab95b5e6e3c",
-      "title": "Colombo Dockyard Secures Ship Repair Deal With DCIL",
-      "sent_at": "2026-04-07T11:56:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/a-whole-civilization-will-die-tonight-donald-trump-issues-apocalyptic-warning",
-      "content_hash": "6a66c50f89e272a51e450d996cd0a678f3f629c1ab8dcb0848cb05ee5ffd3577",
-      "title": "'A Whole Civilization Will Die Tonight' - Donald Trump Issues Apocalyptic Warning",
-      "sent_at": "2026-04-07T13:26:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/rs-100bn-relief-without-new-debt-president-details-economic-safeguards",
-      "content_hash": "c8f07156619f0d141264d1f6ce34f566ccda2fc18a229eab6c9d94e79a7d33e6",
-      "title": "Rs. 100Bn Relief Without New Debt: President Details Economic Safeguards",
-      "sent_at": "2026-04-07T13:26:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/07/new-year-festivals-five-day-window-to-obtain-electricity-on-payment-basis",
       "content_hash": "9cfb1269d8af78362ca428974459cbe64056eeff9ea27ad44b56949f79b9444e",
       "title": "New Year Festivals: Five-Day Window to Obtain Electricity on Payment Basis",
@@ -785,6 +761,30 @@
       "content_hash": "35755164f0038ef4baa1b7e7bd277103730aca3d5974d77508b227c25ba2cdc6",
       "title": "520 Arrested In 24-Hour Nationwide Anti-Drug Operation",
       "sent_at": "2026-04-14T11:07:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/expressway-revenue-tops-rs-190-million-during-festive-season",
+      "content_hash": "ef620aceaed2e5fc8105c1e540d278f34c63225c4b7ac8ade99ca143fa4bac66",
+      "title": "Expressway Revenue Tops Rs. 190 Million During Festive Season",
+      "sent_at": "2026-04-14T13:53:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/imf-warns-middle-east-war-could-drag-global-growth-to-2-urges-swift-end-to-conflict-to-contain-economic-damage",
+      "content_hash": "5c295e821f8e5d4a8c9829d185d44a093d069e15e36916da16ff56733b1f0d21",
+      "title": "IMF Warns Middle East War Could Drag Global Growth to 2%; Urges Swift End to Conflict to Contain Economic Damage",
+      "sent_at": "2026-04-14T13:53:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/key-figure-linked-to-major-drug-trafficker-arrested-in-wennapuwa",
+      "content_hash": "069ab6579d436eb49eadc88ba61a9d82342378cc179f50aa5ebae8cd19bc1853",
+      "title": "Key Figure Linked To major drug trafficker Arrested In Wennapuwa",
+      "sent_at": "2026-04-14T13:53:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/president-celebrates-new-year-at-government-rebuilt-cyclone-affected-home",
+      "content_hash": "47a903267c3e27dac8cc9ac2dc449d9b23e0d19db090093df9e7bfcfc53c1dde",
+      "title": "President Celebrates New Year At Government-Rebuilt Cyclone-Affected Home",
+      "sent_at": "2026-04-14T13:54:02Z"
     }
   ]
 }
