@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/07/chairman-of-nuwara-eliya-pradeshiya-sabha-arrested",
-      "content_hash": "ec712c02e870afb90ba5dedf5fac0a1f1544f678d48b232a8eeeef0a1fc68fbd",
-      "title": "Chairman of Nuwara Eliya Pradeshiya Sabha Arrested",
-      "sent_at": "2026-04-07T11:00:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/former-slrc-chairman-and-director-general-arrested",
-      "content_hash": "2c311bd5c8166af77d6679e16f4792a153caee1ef5c829282a2596199cb8be1e",
-      "title": "Former SLRC Chairman and Director General Arrested",
-      "sent_at": "2026-04-07T11:00:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/07/australia-delivers-lifesaving-equipment-to-strengthen-sri-lanka%e2%80%99s-disaster-response",
       "content_hash": "16c30385e6ae0699782984762b7316713f406bc3a97bedc660415d744fc9379d",
       "title": "Australia Delivers Lifesaving Equipment to Strengthen Sri Lanka’s Disaster Response",
@@ -791,6 +779,12 @@
       "content_hash": "81577f94003f3ddb0aa2bc1c712edbae14cbe88bbaeb39f2d2f4308026f20e40",
       "title": "SLTB and Railways Maintain Services as New Year Return Rush Approaches",
       "sent_at": "2026-04-14T07:53:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/520-arrested-in-24-hour-nationwide-anti-drug-operation",
+      "content_hash": "35755164f0038ef4baa1b7e7bd277103730aca3d5974d77508b227c25ba2cdc6",
+      "title": "520 Arrested In 24-Hour Nationwide Anti-Drug Operation",
+      "sent_at": "2026-04-14T11:07:38Z"
     }
   ]
 }
