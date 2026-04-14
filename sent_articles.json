@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/07/cabinet-approves-new-fuel-subsidy-scheme-for-fishermen",
-      "content_hash": "1bf1708f55ad5e849d3bd7dbe81e8407ea2da1782a73fec6fd14df2513a9080a",
-      "title": "Cabinet Approves New Fuel Subsidy Scheme for Fishermen",
-      "sent_at": "2026-04-07T07:24:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/middle-east-war-means-all-roads-lead-to-higher-prices-slower-growth-imf-chief-says",
-      "content_hash": "3fc688813afec2c4930737423e48f752d416af903034be10940b445d07b6e777",
-      "title": "Middle East War Means 'All Roads' Lead to Higher Prices, Slower Growth, IMF Chief Says",
-      "sent_at": "2026-04-07T07:24:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/president-announces-three-month-fuel-subsidy-plan-to-ease-cost-pressures",
-      "content_hash": "56d7f796e9937b6d0d7eb073c68863801bab25dbc3eb0cb635c40e25fbf27c64",
-      "title": "President Announces Three-Month Fuel Subsidy Plan to Ease Cost Pressures",
-      "sent_at": "2026-04-07T07:24:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/07/ten-years-on-ciaboc-demands-assets-disclosure-from-mahinda-rajapaksa",
-      "content_hash": "986dd691086a0842af71a59336f5f22ec14f94ac6e5804810ad964ee89c77289",
-      "title": "Ten Years On, CIABOC Demands Assets Disclosure From Mahinda Rajapaksa",
-      "sent_at": "2026-04-07T07:24:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/07/government-increases-aswesuma-payments-for-festival-month",
       "content_hash": "1fb9025c7542c6f27ed87e7bee76d4bddecc583aae2784742d2780953ec27770",
       "title": "Government Increases Aswesuma Payments for Festival Month",
@@ -827,6 +803,18 @@
       "content_hash": "1c7ea4a2c1ca3841d6213f204d8a1abe75073061cc27f241b2ea9f2df4253f1b",
       "title": "War Fallout Hits Poor Nations Hardest : IMF, World Bank, IEA Warn of Prolonged Shock from Middle East War",
       "sent_at": "2026-04-14T05:28:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/nbro-introduces-priority-based-compensation-system-for-cyclone-damaged-buildings",
+      "content_hash": "3275069e0585f1f07836fc538607306d687a3346705706c12b30284c639dd00b",
+      "title": "NBRO introduces priority-based compensation system for cyclone damaged buildings",
+      "sent_at": "2026-04-14T07:53:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/14/sltb-and-railways-maintain-services-as-new-year-return-rush-approaches",
+      "content_hash": "81577f94003f3ddb0aa2bc1c712edbae14cbe88bbaeb39f2d2f4308026f20e40",
+      "title": "SLTB and Railways Maintain Services as New Year Return Rush Approaches",
+      "sent_at": "2026-04-14T07:53:57Z"
     }
   ]
 }
