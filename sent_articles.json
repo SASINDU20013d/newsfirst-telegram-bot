@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/08/iran-hails-%e2%80%98historic-victory%e2%80%99-as-two-week-ceasefire-confirmed-claims-us-accepted-iran-s-control-over-strait-of-hormuz",
-      "content_hash": "888749c7f4b5394603ea9a7fce4b4a4b77e53754987344e069817639ca9674e9",
-      "title": "Iran Hails ‘Historic Victory’ as Two-Week Ceasefire Confirmed, Claims US Accepted Iran's Control over Strait of Hormuz",
-      "sent_at": "2026-04-08T02:48:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/iran-says-attacks-must-stop-for-armed-forces-to-halt-operations",
-      "content_hash": "a111b09e87384340766aeffd73a701d9e3447dff1552680602c5e402090892d7",
-      "title": "Iran Says Attacks Must Stop for Armed Forces to Halt Operations",
-      "sent_at": "2026-04-08T02:48:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/new-mechanism-planned-to-adjust-fuel-and-electricity-tariffs-amid-global-price-surge",
-      "content_hash": "d88a55345652150ce4c2dd402b08ef02cc12646fbdac7aa19e01afff1ff76b81",
-      "title": "New Mechanism Planned To Adjust Fuel And Electricity Tariffs Amid Global Price Surge",
-      "sent_at": "2026-04-08T02:48:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/trump-announces-two-week-ceasefire-with-iran-cites-breakthrough-talks-on-strait-of-hormuz",
-      "content_hash": "078aca685de70959aeceaf9d6a93e223daa63a687150b45185877b1fae0af2ff",
-      "title": "Trump Announces Two-Week Ceasefire With Iran, Cites Breakthrough Talks on Strait of Hormuz",
-      "sent_at": "2026-04-08T02:48:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/08/gammadda-launches-search-rescue-boats-to-strengthen-sri-lanka%e2%80%99s-flood-response",
       "content_hash": "467e8761170c3466bf46ab65a4e40e4c5669c9ede2c6251e11c5f092cf81a3db",
       "title": "Gammadda Launches Search & Rescue Boats to Strengthen Sri Lanka’s Flood Response",
@@ -779,6 +755,30 @@
       "content_hash": "47a903267c3e27dac8cc9ac2dc449d9b23e0d19db090093df9e7bfcfc53c1dde",
       "title": "President Celebrates New Year At Government-Rebuilt Cyclone-Affected Home",
       "sent_at": "2026-04-14T13:54:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/additional-buses-and-trains-deployed-for-passengers-returning-to-colombo",
+      "content_hash": "d363db449ef6a93d77bf75c5bf828c2ed859da582b9ffdeb928d06dae729c92c",
+      "title": "Additional Buses And Trains Deployed For Passengers Returning To Colombo",
+      "sent_at": "2026-04-15T02:53:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/all-state-institutions-to-remain-open-until-april-17",
+      "content_hash": "a4eafcf2444d853064649e2bac242b4c11b9ca76b57fd50caf7f2e64ac2c7808",
+      "title": "All state institutions to remain open until April 17",
+      "sent_at": "2026-04-15T02:53:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/legendary-singer-antoinette-de-alwis-passes-away",
+      "content_hash": "f1d08c1cfca450a45a68ef46e008dadd7dba0a0a22bb978c07a069bcefd1c09d",
+      "title": "Legendary Singer Antoinette De Alwis Passes Away",
+      "sent_at": "2026-04-15T02:53:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/sri-lanka-marks-traditional-oil-anointing-ritual",
+      "content_hash": "25854637d416e5a95beb28a809693c9b0240711075a1a2ae2c9a38c559330c71",
+      "title": "Sri Lanka Marks Traditional Oil Anointing Ritual",
+      "sent_at": "2026-04-15T02:53:15Z"
     }
   ]
 }
