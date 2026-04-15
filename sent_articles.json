@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/08/fourth-suspect-arrested-in-ndb-bank-financial-fraud",
-      "content_hash": "bc51444346c183f1b477c7d34d9ca5246139e431cfd480b6ba72ca54eb2f8964",
-      "title": "Fourth Suspect Arrested in NDB Bank Financial Fraud",
-      "sent_at": "2026-04-08T11:01:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/if-we-don%e2%80%99t-stand-by-indian-ocean-someone-else-will-retd-rear-admiral-warns",
-      "content_hash": "27203ecde11ff6e1e42fa316a1bc8eb493016d86c8bb222cda0eecdb89c4d267",
-      "title": "'If We Don’t Stand By Indian Ocean, Someone Else Will' - Retd. Rear Admiral Warns",
-      "sent_at": "2026-04-08T11:01:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/08/dr-sulakshana-jayawardena-appointed-acting-chairman-of-boi",
       "content_hash": "973c1d61dfa882bcd5c0ed98a999eac3592503530fedd65fb406b4d313c7f9b3",
       "title": "Dr. Sulakshana Jayawardena Appointed Acting Chairman of BOI",
@@ -749,6 +737,24 @@
       "content_hash": "8d3c9f400431640e0638dfc67018cdf7bf8977d54e93dfd63c1f3f407697328c",
       "title": "Vance Warns Pope should 'Be Careful' When Talking About Theology",
       "sent_at": "2026-04-15T09:25:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/238-iranian-nationals-return-home-after-sri-lanka-navy-rescue",
+      "content_hash": "6d65c7a8086a7443f338ef39fb62371add3e5b80b7d73ba4f4d2dac5013304d1",
+      "title": "238 Iranian Nationals Return Home After Sri Lanka Navy Rescue",
+      "sent_at": "2026-04-15T11:04:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/another-shipment-of-fuel-arrives-in-sri-lanka-cpc-confirms",
+      "content_hash": "4253a7a0eccdd1d049d21ed51be1d3e3daa5a09b857ceb6b105626fc74293c01",
+      "title": "Another Shipment of Fuel Arrives in Sri Lanka, CPC Confirms",
+      "sent_at": "2026-04-15T11:04:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/imf-says-global-recovery-hinges-on-duration-of-middle-east-war",
+      "content_hash": "a1fe9a62ed854d2ba0ed858ab23cf037718aa5ae0e89aa34eedf91c99c4a418a",
+      "title": "IMF Says Global Recovery Hinges on Duration of Middle East War",
+      "sent_at": "2026-04-15T11:04:19Z"
     }
   ]
 }
