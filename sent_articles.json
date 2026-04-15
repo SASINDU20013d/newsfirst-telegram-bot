@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/08/five-chinese-nationals-held-at-bia-with-34-800-smuggled-cigarettes",
-      "content_hash": "64955c1fdd9caba0d7960984be4f1fa9b44426b68e9c8f951908f67357a40f1f",
-      "title": "Five Chinese Nationals Held At BIA With 34,800 Smuggled Cigarettes",
-      "sent_at": "2026-04-08T09:07:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/08/fourth-suspect-arrested-in-ndb-bank-financial-fraud",
       "content_hash": "bc51444346c183f1b477c7d34d9ca5246139e431cfd480b6ba72ca54eb2f8964",
       "title": "Fourth Suspect Arrested in NDB Bank Financial Fraud",
@@ -743,6 +737,18 @@
       "content_hash": "e2a16cee33b32f8924324b26e28576b03ccff3936300f1faa186511a7890fac7",
       "title": "State Oil-Anointing Ceremony at Sri Dalada Maligawa",
       "sent_at": "2026-04-15T07:55:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/supply-shocks-will-linger-even-if-conflict-ends-says-world-bank",
+      "content_hash": "d56a69e37d33856697edaf51492b88e039c3c30476851961f5a73164fab69396",
+      "title": "Supply Shocks Will Linger Even if Conflict Ends, Says World Bank",
+      "sent_at": "2026-04-15T09:25:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/vance-warns-pope-should-be-careful-when-talking-about-theology",
+      "content_hash": "8d3c9f400431640e0638dfc67018cdf7bf8977d54e93dfd63c1f3f407697328c",
+      "title": "Vance Warns Pope should 'Be Careful' When Talking About Theology",
+      "sent_at": "2026-04-15T09:25:22Z"
     }
   ]
 }
