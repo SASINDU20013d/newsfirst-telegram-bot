@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/08/dr-sulakshana-jayawardena-appointed-acting-chairman-of-boi",
-      "content_hash": "973c1d61dfa882bcd5c0ed98a999eac3592503530fedd65fb406b4d313c7f9b3",
-      "title": "Dr. Sulakshana Jayawardena Appointed Acting Chairman of BOI",
-      "sent_at": "2026-04-08T11:58:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/meeting-between-the-council-of-arab-ambassadors-in-sri-lanka-and-the-president-sri-lanka-hopes-for-the-swift-establishment-of-peace-in-the-middle-east",
-      "content_hash": "084fcd2ec68d275d2ec0fb8fec72c4b073d5a513fcdd6444577ca7140b476691",
-      "title": "Meeting Between the Council of Arab Ambassadors in Sri Lanka and the President: Sri Lanka Hopes for the Swift Establishment of Peace in the Middle East",
-      "sent_at": "2026-04-08T11:58:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/08/deadline-nears-for-mahinda-rajapaksa%e2%80%99s-assets-declaration",
       "content_hash": "1be49cc4077f18de19c79e397266e5ee8e2b642c2096a9a262acc2aa64ba0d0f",
       "title": "Deadline Nears for Mahinda Rajapaksa’s Assets Declaration",
@@ -755,6 +743,18 @@
       "content_hash": "a1fe9a62ed854d2ba0ed858ab23cf037718aa5ae0e89aa34eedf91c99c4a418a",
       "title": "IMF Says Global Recovery Hinges on Duration of Middle East War",
       "sent_at": "2026-04-15T11:04:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/president-meets-mahanayaka-thera-of-the-ramanna-nikaya",
+      "content_hash": "bf6b444237c469a3618d513a477a53a5b564f5639f1734517ae5a394def27d4e",
+      "title": "President Meets Mahanayaka Thera of the Ramanna Nikaya",
+      "sent_at": "2026-04-15T12:02:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/woman-murdered-in-wellawaya-following-personal-dispute",
+      "content_hash": "1b3fdc1944df230d21e68288c8d150ae291989cae7a060c4fde07e257f43f387",
+      "title": "Woman Murdered in Wellawaya Following Personal Dispute",
+      "sent_at": "2026-04-15T12:02:55Z"
     }
   ]
 }
