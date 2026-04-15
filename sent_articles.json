@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/08/id-office-warns-public-of-data-collection-scam",
-      "content_hash": "8e609b7c9224a7b5b0aa5aeef2666f0423dc914f123139a7792c5d62910dd94c",
-      "title": "ID Office Warns Public Of Data Collection Scam",
-      "sent_at": "2026-04-08T07:27:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/iran-lists-10-points-it-says-us-accepted-after-40-days-of-war",
-      "content_hash": "77d06840b8bd6c348acb64f54855e905db3ea010dc9ae23e8d57f48748df039e",
-      "title": "Iran Lists 10 Points It Says US Accepted After 40 Days of War",
-      "sent_at": "2026-04-08T07:27:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/lioc-and-sinopec-increase-super-diesel-prices",
-      "content_hash": "82680cf20a4a0d8191749ca6f7fddbd4bf3fc57bf597ff723228385227440a21",
-      "title": "LIOC and Sinopec Increase Super Diesel Prices",
-      "sent_at": "2026-04-08T07:27:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/modernized-pettah-central-bus-stand-reopens-with-upgraded-facilities",
-      "content_hash": "633e595e85c73f0d2f7d118e4c6b8a212c7ad14869458a24a1a34c9efdb1ecd7",
-      "title": "Modernized Pettah Central Bus Stand Reopens With Upgraded Facilities",
-      "sent_at": "2026-04-08T07:27:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/special-police-security-plan-activated-nationwide-for-upcoming-festive-period",
-      "content_hash": "b21f878d081a7c672c601dde25462bf6da76cf96d0f195a64de7319c4097dfca",
-      "title": "Special Police Security Plan Activated Nationwide for Upcoming Festive Period",
-      "sent_at": "2026-04-08T07:27:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/08/sri-lanka-to-revamp-fuel-and-electricity-pricing",
-      "content_hash": "59c535e3f24c26daab95fb3c66ac574c3eea94204b5e57398d05233331c878bd",
-      "title": "Sri Lanka to Revamp Fuel and Electricity Pricing",
-      "sent_at": "2026-04-08T07:27:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/08/five-chinese-nationals-held-at-bia-with-34-800-smuggled-cigarettes",
       "content_hash": "64955c1fdd9caba0d7960984be4f1fa9b44426b68e9c8f951908f67357a40f1f",
       "title": "Five Chinese Nationals Held At BIA With 34,800 Smuggled Cigarettes",
@@ -761,6 +725,24 @@
       "content_hash": "bb53617c15552c21d17b071baf5bf59e6c33c8f6a110c1c6720720cad5e6cc2d",
       "title": "Tragic Drowning Incidents Reported In Mahaweli River And Habaraduwa Beach",
       "sent_at": "2026-04-15T05:28:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/aswesuma-payments-to-resume-in-july",
+      "content_hash": "b30c8a02e0124c2f55066c0033abe2fb82b9cb288b4037af0ee86424bf0e4d46",
+      "title": "Aswesuma Payments to Resume in July",
+      "sent_at": "2026-04-15T07:54:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/cid-sealed-lanka-coal-company-office-to-reopen-today-amid-ongoing-probe-into-coal-imports",
+      "content_hash": "2d50e109b3feee73e2d2a9465e1ddb0c48db0d19d4559ce3f72d95302e0c06a4",
+      "title": "CID-Sealed Lanka Coal Company Office to Reopen Today Amid Ongoing Probe into Coal Imports",
+      "sent_at": "2026-04-15T07:54:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/15/state-oil-anointing-ceremony-at-sri-dalada-maligawa",
+      "content_hash": "e2a16cee33b32f8924324b26e28576b03ccff3936300f1faa186511a7890fac7",
+      "title": "State Oil-Anointing Ceremony at Sri Dalada Maligawa",
+      "sent_at": "2026-04-15T07:55:00Z"
     }
   ]
 }
