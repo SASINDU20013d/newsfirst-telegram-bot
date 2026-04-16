@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/09/imf-deal-advances-but-fuel-pricing-and-debt-progress-decide-700m-fate",
-      "content_hash": "f3601e0633e5ead2c6f8fd4e71556d3fbc63de8dde87479ab6482aaabfca450d",
-      "title": "IMF Deal Advances, But Fuel Pricing and Debt Progress Decide $700m Fate",
-      "sent_at": "2026-04-09T07:43:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/special-colombokandy-bus-service-launched-to-ease-festive-travel",
-      "content_hash": "504dae5d22f25494712744b7734ee94ad57713c1781d663ee489a53f40ce7a8c",
-      "title": "Special Colombo–Kandy Bus Service Launched to Ease Festive Travel",
-      "sent_at": "2026-04-09T07:43:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/09/imf-board-decision-on-sri-lanka-expected-by-early-june",
       "content_hash": "58f44375324475dd9ca347a865a06437c7df62684c4f2cb49a899b08a44e2db9",
       "title": "IMF Board Decision on Sri Lanka Expected by Early June",
@@ -773,6 +761,48 @@
       "content_hash": "f44991a9ec3266b7e58bb4eb770085d594f41f1bc5a5b0ccf34d8e60439768b4",
       "title": "Tough Times Ahead if Middle East Conflict Drags On, Warns IMF Chief",
       "sent_at": "2026-04-16T06:04:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/chinese-nationals-arrested-with-illegally-imported-electronics",
+      "content_hash": "1a616fc9427b0a163dcb725ec7382442c794eef7e51b1f410bc4eb6fe1af09c8",
+      "title": "Chinese Nationals Arrested with Illegally Imported Electronics",
+      "sent_at": "2026-04-16T08:00:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/fatal-boat-collision-and-drowning-accident-claim-lives-of-two-individuals",
+      "content_hash": "9badb7e41f9bc68731600109f77af772ee14a3c86fbbcfd0e1b2efb245dcd1de",
+      "title": "Fatal Boat Collision and Drowning Accident Claim Lives of Two Individuals",
+      "sent_at": "2026-04-16T08:00:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/fresh-consignment-of-crude-oil-to-reach-sri-lanka-tomorrow",
+      "content_hash": "d38638a9fb8abdbd3cc78723316468838cb31df305f78b0ecb1182f319dfb89b",
+      "title": "Fresh Consignment of Crude Oil to Reach Sri Lanka Tomorrow",
+      "sent_at": "2026-04-16T08:00:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/indonesian-navy-training-ship-kri-bima-suci-arrives",
+      "content_hash": "d3571a94f1663375dfceccd14a1461c56eb256a368921d66d5dc65e4392e2ea8",
+      "title": "Indonesian Navy Training Ship KRI Bima Suci Arrives",
+      "sent_at": "2026-04-16T08:01:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/legal-action-against-nearly-400-traders-during-new-year-season",
+      "content_hash": "f3632dd60db202d5e3644b44796f9bb8da9bc891bd099a9502e0e452abf12e50",
+      "title": "Legal Action Against Nearly 400 Traders During New Year Season",
+      "sent_at": "2026-04-16T08:01:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/sri-lanka-among-countries-closing-out-complex-debt-restructurings",
+      "content_hash": "71b892aed2fd872619bd75594f64c404a529bf61a368a42385f095c9e2f7bc15",
+      "title": "Sri Lanka Among Countries Closing Out Complex Debt Restructurings",
+      "sent_at": "2026-04-16T08:01:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/third-body-recovered-following-tragic-drowning-in-mahaweli-river",
+      "content_hash": "aa237739444b82f0baf812aae8a9a185c1a15b7c2d4cf6097036fa8d541b9086",
+      "title": "Third Body Recovered Following Tragic Drowning in Mahaweli River",
+      "sent_at": "2026-04-16T08:01:09Z"
     }
   ]
 }
