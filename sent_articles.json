@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/09/afternoon-thundershowers-expected-in-several-provinces-today",
-      "content_hash": "74563f5ff0c8ac6533f3382a52f85d0ea6710b1d4be58a4c801ef0529759ab36",
-      "title": "Afternoon Thundershowers Expected in Several Provinces Today",
-      "sent_at": "2026-04-09T05:13:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/imf-staff-level-agreement-on-fifth-and-sixth-reviews-reached-unlocking-700-million-for-sri-lanka",
-      "content_hash": "4e86288ba5e9e3d114196553ef02d95f9eb7bedc316a1712a02cc24a1aeede38",
-      "title": "IMF Staff-Level Agreement on Fifth and Sixth Reviews Reached, Unlocking $700 Million for Sri Lanka",
-      "sent_at": "2026-04-09T05:13:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/two-injured-in-bus-collision-near-hambantota-port-police",
-      "content_hash": "910ec737f97d1163f776de527dddcfd6cada0faa68a83a7971d0c2e5ae55df13",
-      "title": "Two Injured in Bus Collision Near Hambantota Port Police",
-      "sent_at": "2026-04-09T05:13:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/09/imf-deal-advances-but-fuel-pricing-and-debt-progress-decide-700m-fate",
       "content_hash": "f3601e0633e5ead2c6f8fd4e71556d3fbc63de8dde87479ab6482aaabfca450d",
       "title": "IMF Deal Advances, But Fuel Pricing and Debt Progress Decide $700m Fate",
@@ -749,6 +731,48 @@
       "content_hash": "ad80b4f3f1ebe0490192bf4d14a137464131815ce18549f24581e797b802c585",
       "title": "SLTB Records Landmark Revenue During New Year Season",
       "sent_at": "2026-04-16T03:20:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/china-pushes-for-safe-navigation-in-strait-of-hormuz",
+      "content_hash": "83c28f2636ea819c7c2b28bf969ac2d41743e48f1774799b18305b97b60e1590",
+      "title": "China Pushes for Safe Navigation in Strait of Hormuz",
+      "sent_at": "2026-04-16T06:04:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/first-israel-lebanon-leader-communication-in-34-years",
+      "content_hash": "b7c87db3e5bdb6c426faabd32c2c174bc4811fb18ab7bd2613c4fd57cc4745ad",
+      "title": "First Israel, Lebanon Leader Communication in 34 Years",
+      "sent_at": "2026-04-16T06:04:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/global-food-insecurity-set-to-surge-as-war-fallout-spreads",
+      "content_hash": "fce7ccae93690dad8fb345cb32caf9f2ffed61b50e0f2a5c49f17f75862e82e9",
+      "title": "Global Food Insecurity Set to Surge as War Fallout Spreads",
+      "sent_at": "2026-04-16T06:04:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/imf-urges-energy-saving-measures-warns-of-worsening-supply-disruptions",
+      "content_hash": "bb485ca5a94d55d8a9b18cbec9da0386f225a8aeaf7c673a524f3effdbf75341",
+      "title": "IMF Urges Energy-Saving Measures & Warns of Worsening Supply Disruptions",
+      "sent_at": "2026-04-16T06:04:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/japan-unveils-10-billion-energy-support-plan-as-sri-lanka-asia-face-oil-price-shock",
+      "content_hash": "ebb8428eef2832766c9ee7453b97e189a7691d7c1c731869241316a5a192954c",
+      "title": "Japan Unveils $10 Billion Energy Support Plan as Sri Lanka, Asia Face Oil Price Shock",
+      "sent_at": "2026-04-16T06:04:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/no-formal-ceasefire-extension-requested-yet-white-house",
+      "content_hash": "911e851af9973586d5077b7673e8b4261efd5a2276224d2542802c86a57a6d5d",
+      "title": "No Formal Ceasefire Extension Requested Yet: White House",
+      "sent_at": "2026-04-16T06:04:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/tough-times-ahead-if-middle-east-conflict-drags-on-warns-imf-chief",
+      "content_hash": "f44991a9ec3266b7e58bb4eb770085d594f41f1bc5a5b0ccf34d8e60439768b4",
+      "title": "Tough Times Ahead if Middle East Conflict Drags On, Warns IMF Chief",
+      "sent_at": "2026-04-16T06:04:54Z"
     }
   ]
 }
