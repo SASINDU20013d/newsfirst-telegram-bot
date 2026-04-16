@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/09/imf-board-decision-on-sri-lanka-expected-by-early-june",
-      "content_hash": "58f44375324475dd9ca347a865a06437c7df62684c4f2cb49a899b08a44e2db9",
-      "title": "IMF Board Decision on Sri Lanka Expected by Early June",
-      "sent_at": "2026-04-09T09:14:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/payments-for-elderly-aswasuma-beneficiaries-to-be-made-via-post-offices-starting-today",
-      "content_hash": "af0514234bdd8afbfe1841ca0fd155334661eb4f6ed5ad38e4a6bcce2baf2254",
-      "title": "Payments for Elderly 'Aswasuma' Beneficiaries To Be Made via Post Offices Starting Today",
-      "sent_at": "2026-04-09T09:14:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/was-the-sjb-left-out-imf-says-all-parties-were-invited",
-      "content_hash": "d113c76529d498baf60bb41b0f1d287d207259d5de1d5dc256ffde4766e04524",
-      "title": "Was the SJB Left Out? IMF Says All Parties Were Invited",
-      "sent_at": "2026-04-09T09:14:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/09/electricity-tariff-hikes-must-protect-the-poor-says-imf",
       "content_hash": "0af8006271a89ce123920ce8ed82043028cbb104ae224a2aec243853f3d4c5bf",
       "title": "Electricity Tariff Hikes Must Protect the Poor, Says IMF",
@@ -803,6 +785,30 @@
       "content_hash": "aa237739444b82f0baf812aae8a9a185c1a15b7c2d4cf6097036fa8d541b9086",
       "title": "Third Body Recovered Following Tragic Drowning in Mahaweli River",
       "sent_at": "2026-04-16T08:01:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/ex-mp-kathriarachchi-taken-into-custody-as-t56-ammo-found-at-residence",
+      "content_hash": "926c92b6a8270d159c461e769551df121b5b39686c83cdc04d1f004536aae721",
+      "title": "Ex-MP Kathriarachchi Taken Into Custody as T56 Ammo Found at Residence",
+      "sent_at": "2026-04-16T09:25:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/no-date-set-for-next-talks-between-us-iran-pakistan-foreign-ministry",
+      "content_hash": "f23048b4517a958e27327cd3435c3c7da7d5d530ba72e3606af05ba5a7f40941",
+      "title": "No Date Set for Next Talks Between US, Iran : Pakistan Foreign Ministry",
+      "sent_at": "2026-04-16T09:25:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/sri-lanka%e2%80%99s-walk-for-peace-to-unite-faith-humanity-and-nations",
+      "content_hash": "6ab1e0a2e23e9de06b308d61019b3fb2b208a83ed9dadbb6d6d0ea003250f952",
+      "title": "Sri Lanka’s Walk For Peace to Unite Faith, Humanity, and Nations",
+      "sent_at": "2026-04-16T09:25:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/will-aloka-join-sri-lanka%e2%80%99s-global-walk-of-peace",
+      "content_hash": "24fc678fd21169464c48eb5230fcf1ed4e6c3409710471afc772ada759c927ef",
+      "title": "Will Aloka Join Sri Lanka’s 'Global Walk of Peace'?",
+      "sent_at": "2026-04-16T09:25:30Z"
     }
   ]
 }
