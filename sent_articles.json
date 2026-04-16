@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/09/10-indian-fishermen-arrested-in-the-sea-of-sri-lanka",
-      "content_hash": "6cd3e6fa4c392df95543918fa44746f8b69f76b97bd9a89744e67039bd92aaad",
-      "title": "10 Indian Fishermen Arrested in the Sea of Sri Lanka",
-      "sent_at": "2026-04-09T11:59:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/before-rice-reaches-the-plate-it-reaches-the-sacred-tree-inside-sri-lanka-s-new-rice-festival",
-      "content_hash": "5dc208f65817f006aebcc0f4b65c063a805db1e8194627221f633b6d315c9cfe",
-      "title": "Before Rice Reaches the Plate, It Reaches the Sacred Tree: Inside Sri Lanka's New Rice Festival",
-      "sent_at": "2026-04-09T11:59:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/all-aboard-to-jaffna-the-rail-line-that-turned-distance-into-discovery",
-      "content_hash": "acc6acc59edcfc09ce95d144b8c26b9f17455edfeccdb4cc490ac278f71e195e",
-      "title": "All Aboard to Jaffna: The Rail Line That Turned Distance Into Discovery",
-      "sent_at": "2026-04-09T13:51:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/iran-says-israel%e2%80%99s-lebanon-offensive-threatens-any-future-peace-talks",
-      "content_hash": "c0f4af52565cdc7234a73ebbe9183cd549caabc5190e88f78a60a44045a8015e",
-      "title": "Iran Says Israel’s Lebanon Offensive Threatens Any Future Peace Talks",
-      "sent_at": "2026-04-09T13:51:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/president-warns-sri-lanka%e2%80%99s-ancient-tank-systems-are-under-threat",
-      "content_hash": "148e381faac7b45a2a6e0aeadab6d9511edd25a791c23f0e1ec93347fb75d89a",
-      "title": "President Warns Sri Lanka’s Ancient Tank Systems Are Under Threat",
-      "sent_at": "2026-04-09T13:51:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/09/colombo-kandy-special-bus-service-to-ease-new-year-holiday-rush",
       "content_hash": "e379dd3276e1b5674520f5f3e28fd21329eaefb0eafa189ff8ba89c53e9f4a18",
       "title": "Colombo-Kandy Special Bus Service to Ease New Year Holiday Rush",
@@ -815,6 +785,24 @@
       "content_hash": "16de5407243dca2a9c97708e06008ccb95b4ad6176fdf796cc1e8d9fd9b15de4",
       "title": "Police Warn of Strict Action Against Substandard Number Plates",
       "sent_at": "2026-04-16T11:08:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/pakistan%e2%80%99s-dialogue-first-diplomacy-gains-global-recognition",
+      "content_hash": "23246dac31fa991e33884f46349ae1eef0d2047e6a8c33ad0ec68f46232424f5",
+      "title": "Pakistan’s Dialogue-First Diplomacy Gains Global Recognition",
+      "sent_at": "2026-04-16T13:56:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/sri-lanka-refutes-reports-of-paying-286-per-barrel-for-crude-oil",
+      "content_hash": "8b5c78f4b8f00bbd3c2131610363ffd4a102e6a08785ce2f15f554ae7c559f12",
+      "title": "Sri Lanka Refutes Reports of Paying $286 Per Barrel for Crude Oil",
+      "sent_at": "2026-04-16T13:56:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/stronger-revenues-give-sri-lanka-room-to-protect-the-poor-imf",
+      "content_hash": "20e0977d519936f812db06870337fc0d96bcc56aff1eaa7c6708e3429e03448c",
+      "title": "Stronger Revenues Give Sri Lanka Room to Protect the Poor : IMF",
+      "sent_at": "2026-04-16T13:56:51Z"
     }
   ]
 }
