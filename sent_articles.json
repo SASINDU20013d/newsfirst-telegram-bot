@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/09/electricity-tariff-hikes-must-protect-the-poor-says-imf",
-      "content_hash": "0af8006271a89ce123920ce8ed82043028cbb104ae224a2aec243853f3d4c5bf",
-      "title": "Electricity Tariff Hikes Must Protect the Poor, Says IMF",
-      "sent_at": "2026-04-09T11:03:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/09/10-indian-fishermen-arrested-in-the-sea-of-sri-lanka",
       "content_hash": "6cd3e6fa4c392df95543918fa44746f8b69f76b97bd9a89744e67039bd92aaad",
       "title": "10 Indian Fishermen Arrested in the Sea of Sri Lanka",
@@ -809,6 +803,18 @@
       "content_hash": "24fc678fd21169464c48eb5230fcf1ed4e6c3409710471afc772ada759c927ef",
       "title": "Will Aloka Join Sri Lanka’s 'Global Walk of Peace'?",
       "sent_at": "2026-04-16T09:25:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/286-a-barrel-reports-say-sri-lanka-paying-a-heavy-price-as-global-energy-crisis-escalates",
+      "content_hash": "e7451b27881c77c5eb33dc55ea227296fd425e8abc478367cd82a75d6fe085a9",
+      "title": "$286 a Barrel : Reports Say Sri Lanka Paying A Heavy Price As Global Energy Crisis Escalates",
+      "sent_at": "2026-04-16T11:08:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/police-warn-of-strict-action-against-substandard-number-plates",
+      "content_hash": "16de5407243dca2a9c97708e06008ccb95b4ad6176fdf796cc1e8d9fd9b15de4",
+      "title": "Police Warn of Strict Action Against Substandard Number Plates",
+      "sent_at": "2026-04-16T11:08:14Z"
     }
   ]
 }
