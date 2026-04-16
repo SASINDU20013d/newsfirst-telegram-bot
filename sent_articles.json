@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/09/colombo-fort-railway-station-modernization-project-kicks-off-today",
-      "content_hash": "4dd5ac7243fd1f00c2fa35e7c8b0fb668184ef321774ed2d7449efa4cc492fc0",
-      "title": "Colombo Fort Railway Station Modernization Project Kicks Off Today",
-      "sent_at": "2026-04-09T02:42:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/gmoa-launches-fresh-48-hour-nationwide-strike",
-      "content_hash": "36afef1f065a010ac676d461e8450d54be377c170f2cc39c53dc0043d3e75856",
-      "title": "GMOA Launches Fresh 48-Hour Nationwide Strike",
-      "sent_at": "2026-04-09T02:42:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/health-ministry-issues-post-internship-appointments-for-over-400-new-doctors",
-      "content_hash": "4ce75ac6630c9842487a10c0445c96e13990b572ab537bc889ed0e1e4041a913",
-      "title": "Health Ministry Issues Post-Internship Appointments for Over 400 New Doctors",
-      "sent_at": "2026-04-09T02:42:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/parliament-to-convene-today-critical-legislative-up-for-discussion",
-      "content_hash": "878a64d37ebc8c7c93d0be604639a73d7c92f814131555b713d099c7cce19e7f",
-      "title": "Parliament to Convene Today: Critical Legislative Up For Discussion",
-      "sent_at": "2026-04-09T02:42:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/special-transport-plan-in-place-for-new-year-holiday",
-      "content_hash": "381261e8b712940a64d763ad6838f5fc27b58d057420702491e9fc59479a14aa",
-      "title": "Special Transport Plan in Place for New Year Holiday",
-      "sent_at": "2026-04-09T02:42:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/09/train-services-resume-on-the-northern-line-between-colombo-fort-and-kankesanturai",
-      "content_hash": "f6b329d14504d01b3ee828932e1369769088a59601810aca7ae7968699e3b292",
-      "title": "Train Services Resume on the Northern Line Between Colombo Fort and Kankesanturai",
-      "sent_at": "2026-04-09T02:42:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/09/afternoon-thundershowers-expected-in-several-provinces-today",
       "content_hash": "74563f5ff0c8ac6533f3382a52f85d0ea6710b1d4be58a4c801ef0529759ab36",
       "title": "Afternoon Thundershowers Expected in Several Provinces Today",
@@ -743,6 +707,48 @@
       "content_hash": "bb085a2d7045424574c3bd2771c011bac6b159599b71d108ab0a41258106fd4b",
       "title": "From the U.S. to Sri Lanka: Monks to Begin Global Walk for Peace in the Island",
       "sent_at": "2026-04-15T17:10:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/domestic-gas-distribution-resumes-today-following-new-year-break",
+      "content_hash": "eef924c3b0e8357bf15a1f1ca5d87cfd5ea91d15d42231dabac0b9d0ea26f63f",
+      "title": "Domestic Gas Distribution Resumes Today Following New Year Break",
+      "sent_at": "2026-04-16T03:19:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/expressway-revenue-surpasses-rs-220-million-during-festive-period",
+      "content_hash": "6be23aa598d299d33b56ba0f99d1a5be48e477b34c05d9a99a038a9a1c447961",
+      "title": "Expressway Revenue Surpasses Rs. 220 Million During Festive Period",
+      "sent_at": "2026-04-16T03:19:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/lanka-coal-company-head-office-remains-cordoned-off-by-cid",
+      "content_hash": "1e7fdae54db171b27d982df7603a856b7bc83b71c9f2f2e627887bc12a64a116",
+      "title": "Lanka Coal Company Head Office Remains Cordoned Off by CID",
+      "sent_at": "2026-04-16T03:20:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/ministry-of-education-to-develop-school-playgrounds-across-all-districts",
+      "content_hash": "e1129e2a86955382f65eb27c985e169aa9d16bae60782160a668ab8f5d211c53",
+      "title": "Ministry of Education to Develop School Playgrounds Across All Districts",
+      "sent_at": "2026-04-16T03:20:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/office-trains-resume-regular-schedule-special-services-continue",
+      "content_hash": "6630daac47ef2f17cba215c74dd81b909c8c0777209978d11ffbdc17a09a1f81",
+      "title": "Office Trains Resume Regular Schedule; Special Services Continue",
+      "sent_at": "2026-04-16T03:20:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/police-public-grievance-days-postponed-due-to-new-year",
+      "content_hash": "84b288733e3f169d0bd9cf6d1994d880693f4440fc5c91b167512ce9e3014b9d",
+      "title": "Police Public Grievance Days Postponed Due to New Year",
+      "sent_at": "2026-04-16T03:20:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/16/sltb-records-landmark-revenue-during-new-year-season",
+      "content_hash": "ad80b4f3f1ebe0490192bf4d14a137464131815ce18549f24581e797b802c585",
+      "title": "SLTB Records Landmark Revenue During New Year Season",
+      "sent_at": "2026-04-16T03:20:09Z"
     }
   ]
 }
