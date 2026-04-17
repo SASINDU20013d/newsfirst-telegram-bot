@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/10/mr-submits-asset-declaration-to-bribery-commission",
-      "content_hash": "365f564db57b63bdaf8340a26f217d42cf1b6a6b7a312c88e3c88704609eb37d",
-      "title": "MR Submits Asset Declaration to Bribery Commission",
-      "sent_at": "2026-04-10T14:52:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/11/artemis-ii-crew-splash-down-in-pacific-ocean-after-history-making-moon-mission",
       "content_hash": "2549f60d424fb4891aed46eed75ece2aa8ef27175c70e0a09da58babc5c44887",
       "title": "Artemis II crew splash down in Pacific Ocean after history-making Moon mission",
@@ -803,6 +797,24 @@
       "content_hash": "72a44aa58838ea8098b414afa35947ac56c0f3df85211ad97a7590344df5e22a",
       "title": "President Appoints G.M.R.D. Aponsu As New Energy Secretary",
       "sent_at": "2026-04-17T13:27:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/court-extends-remand-of-ex%e2%80%91srilankan-airlines-ceo",
+      "content_hash": "796aecac52da311ea3df418409d2a46d2fb73f20f3a3bd1c3e3b8341cc8dd3b4",
+      "title": "Court Extends Remand of Ex‑SriLankan Airlines CEO",
+      "sent_at": "2026-04-17T14:59:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/government-dares-critics-to-show-evidence-of-280-crude-deal",
+      "content_hash": "c9d028440051ea3f8c0a3cb02f499f809fd8ae6b1fa86e39f9e33c30fafb211e",
+      "title": "Government Dares Critics to Show Evidence of $280 Crude Deal",
+      "sent_at": "2026-04-17T14:59:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/sri-lanka-says-no-corruption-in-coal-imports-probe-open-to-all",
+      "content_hash": "23c6e8c522d694a87f9db39bc73d5ab3f49622b8364c223727bc69016d63846c",
+      "title": "Sri Lanka Says No Corruption in Coal Imports, Probe Open to All",
+      "sent_at": "2026-04-17T14:59:34Z"
     }
   ]
 }
