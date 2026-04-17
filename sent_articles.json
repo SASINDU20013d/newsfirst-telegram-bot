@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/10/all-coal-imports-from-2009-onwards-to-be-investigated-via-special-presidential-commission",
-      "content_hash": "ec1093c357ad6e9593c22d90868250d741a46db2f98a0aebdc4c1469aa77436a",
-      "title": "All Coal Imports From 2009 Onwards to Be Investigated Via Special Presidential Commission",
-      "sent_at": "2026-04-10T13:20:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/10/all-liquor-outlets-to-close-for-sinhala-tamil-new-year",
-      "content_hash": "6666235d7ee10ecf032959a30ce823df2b60caaafa07954f075622e1e176c783",
-      "title": "All Liquor Outlets to Close for Sinhala, Tamil New Year",
-      "sent_at": "2026-04-10T13:20:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/10/no%e2%80%91confidence-motion-against-energy-minister-defeated-by-104-votes",
-      "content_hash": "345d00f6d0cb7dfcf11fe944db5c0362e115cedbb4686ab2a770f51babc47ca0",
-      "title": "No‑Confidence Motion Against Energy Minister Defeated by 104 Votes",
-      "sent_at": "2026-04-10T13:20:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/10/mr-submits-asset-declaration-to-bribery-commission",
       "content_hash": "365f564db57b63bdaf8340a26f217d42cf1b6a6b7a312c88e3c88704609eb37d",
       "title": "MR Submits Asset Declaration to Bribery Commission",
@@ -803,6 +785,24 @@
       "content_hash": "bc1bb87d082061011ce4f7c023c2ff4bfda925099233b64a2ba6445928297a0f",
       "title": "IMF Reaffirms Support for Sri Lanka, Commends Progress Amid Global Headwinds",
       "sent_at": "2026-04-17T11:55:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/cpc-reinstates-qr-system-for-petrol-vehicles",
+      "content_hash": "4a480d43be868129ecf68529147790dd4ad271ab2d5bf798759d4e48126dccf9",
+      "title": "CPC Reinstates QR System for Petrol Vehicles",
+      "sent_at": "2026-04-17T13:27:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/iran-declares-strait-of-hormuz-fully-open-trump-says-thank-you",
+      "content_hash": "71700507862a3b29b004f2b6651d6261e72699e0efbcf8d90e5d1115f3755211",
+      "title": "Iran Declares Strait of Hormuz Fully Open; Trump Says 'Thank You'",
+      "sent_at": "2026-04-17T13:27:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/president-appoints-g-m-r-d-aponsu-as-new-energy-secretary",
+      "content_hash": "72a44aa58838ea8098b414afa35947ac56c0f3df85211ad97a7590344df5e22a",
+      "title": "President Appoints G.M.R.D. Aponsu As New Energy Secretary",
+      "sent_at": "2026-04-17T13:27:50Z"
     }
   ]
 }
