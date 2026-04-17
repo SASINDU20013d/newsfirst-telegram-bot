@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/10/5-000-metric-tons-of-rice-reach-island-from-india",
-      "content_hash": "3b1e2d982b7fcc914211795a2ea751d5f3fd77a31e7cde422c66161163258064",
-      "title": "5,000 Metric Tons of Rice Reach Island From India",
-      "sent_at": "2026-04-10T10:59:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/10/doctors%e2%80%99-petitions-on-post%e2%80%91intern-appointments-await-court-ruling",
-      "content_hash": "cd5355b7fe58822eeb2dc76577465a064d62ae66fc6ded28304e69f60372f6f1",
-      "title": "Doctors’ Petitions on Post‑Intern Appointments Await Court Ruling",
-      "sent_at": "2026-04-10T10:59:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/10/motor-traffic-commissioner-general-remanded-until-april-20",
-      "content_hash": "041830cf2cd71108593682fda2a0c53e13a6b67912622d2933e8dccde8cfb03b",
-      "title": "Motor Traffic Commissioner General Remanded Until April 20",
-      "sent_at": "2026-04-10T10:59:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/10/oil-prices-rise-due-to-concern-few-ships-passing-strait-of-hormuz",
-      "content_hash": "0efbcdeb668467de18ba82d0d3469b7f16314380f910b9ec5d1ee8b2fe64eb55",
-      "title": "Oil Prices Rise Due To Concern Few Ships Passing Strait of Hormuz",
-      "sent_at": "2026-04-10T10:59:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/10/sri-lanka-hits-25-of-annual-tax-target-in-q1-rs-606bn-collected-in-just-three-months",
       "content_hash": "6e7394fb04ad8e20003f1bd70ff0b3cb5eea57e8701ace0079402c223c3fb1a5",
       "title": "Sri Lanka Hits 25% of Annual Tax Target in Q1 : Rs. 606Bn Collected in Just Three Months",
@@ -827,6 +803,12 @@
       "content_hash": "6d0b2e45578ff2c6e5b833e0214d646f6ec9e5ee0e8c60817091e49efcf0e414",
       "title": "Sri Lanka Energy Minister and Secretary Resign to Ensure Independent Coal Probe",
       "sent_at": "2026-04-17T09:23:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/president-reviews-%e2%80%98clean-sri-lanka%e2%80%99-plan-for-2026",
+      "content_hash": "e26e7596a3c47486cde415e64973442c87ab4ecc152eee2f866cc7541ba76e07",
+      "title": "President Reviews ‘Clean Sri Lanka’ Plan for 2026",
+      "sent_at": "2026-04-17T11:01:00Z"
     }
   ]
 }
