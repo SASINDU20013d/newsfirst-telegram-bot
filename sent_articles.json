@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/10/coconut-fertilizer-month-declared-nationwide",
-      "content_hash": "17d7c8a499cca3dc58768a9d2a39cc3aa26131d78fb22b223ed8ed5b03ed8f43",
-      "title": "Coconut Fertilizer Month Declared Nationwide",
-      "sent_at": "2026-04-10T05:28:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/10/global-supply-shock-could-push-45-million-more-people-into-hunger-warns-imf",
-      "content_hash": "ce55939eadba42beeae846d2af66be9ae4e2fa90d382d197e4db6e47a99c7ab8",
-      "title": "Global Supply Shock Could Push 45 Million More People Into Hunger, Warns IMF",
-      "sent_at": "2026-04-10T05:29:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/10/special-trains-launched-for-new-year-travel",
-      "content_hash": "abb7f3e7a9712bd433c40157cb43aca74356693dc54e28a303e6b81a7605fcc6",
-      "title": "Special Trains Launched For New Year Travel",
-      "sent_at": "2026-04-10T05:29:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/10/tariff-hike-decision-due-next-month",
-      "content_hash": "895cd767f1fd403f0cc2c79d319158ff7037622989b997a571da44ca70559f36",
-      "title": "Tariff Hike Decision Due Next Month",
-      "sent_at": "2026-04-10T05:29:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/10/19%e2%80%91year%e2%80%91old-dies-after-fight-between-student-groups",
       "content_hash": "4c2d0790ca69ebc384f8c63927260c9e057cfff290469122c01bd8c89650787a",
       "title": "19‑Year‑Old Dies After Fight Between Student Groups",
@@ -815,6 +791,36 @@
       "content_hash": "56213f60144e4bf7932441e7e72b48a3b0e7e54e8e931927688177ca982ecb59",
       "title": "Search Operations Continue After Deduru Oya Drowning Incident",
       "sent_at": "2026-04-17T02:55:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/foreign-vessel-linked-to-massive-heroin-transfer-off-sri-lanka%e2%80%99s-southern-coast",
+      "content_hash": "96ea9099ae4957acb55e73e024f701d8d1bbf33cf12a3634b82269d8a0332994",
+      "title": "Foreign Vessel Linked to Massive Heroin Transfer off Sri Lanka’s Southern Coast",
+      "sent_at": "2026-04-17T05:32:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/heroin-worth-over-rs-4000-million-recovered-from-multiday-fishing-vessel",
+      "content_hash": "19d0faee3a127399a41b60ad55a6d92963ad23d7bfa1bde1aa785227c03a21bf",
+      "title": "Heroin Worth Over Rs. 4000 Million Recovered from Multiday Fishing Vessel",
+      "sent_at": "2026-04-17T05:32:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/imf-warns-of-deepening-global-shock-after-hormuz-crisis",
+      "content_hash": "70a8e19b3a5ad23b5cd5025a089c53bc66d9af806375c48668d3a522a63031bc",
+      "title": "IMF Warns of Deepening Global Shock After Hormuz Crisis",
+      "sent_at": "2026-04-17T05:32:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/shots-fired-at-three-wheeler-carrying-podi-patty",
+      "content_hash": "975c3cb80e346b30f80ef0ae607a370521d6fe251d50dedf8874cb74405c01fa",
+      "title": "Shots Fired at Three-Wheeler Carrying 'Podi Patty'",
+      "sent_at": "2026-04-17T05:32:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/17/walk-for-peace-comes-to-the-island-of-peace-sri-lanka-to-host-global-buddhist-pilgrimage-with-maharaja-media-as-partner",
+      "content_hash": "186413d206b06cf16f76be7157e5710fb8b406bfb5de0f98b81468f3cb550907",
+      "title": "Walk for Peace Comes to the Island of Peace: Sri Lanka to Host Global Buddhist Pilgrimage with Maharaja Media as Partner",
+      "sent_at": "2026-04-17T05:32:22Z"
     }
   ]
 }
