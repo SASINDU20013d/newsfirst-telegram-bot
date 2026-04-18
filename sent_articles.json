@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/11/artemis-ii-crew-splash-down-in-pacific-ocean-after-history-making-moon-mission",
-      "content_hash": "2549f60d424fb4891aed46eed75ece2aa8ef27175c70e0a09da58babc5c44887",
-      "title": "Artemis II crew splash down in Pacific Ocean after history-making Moon mission",
-      "sent_at": "2026-04-11T02:39:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/11/police-warns-of-strict-traffic-law-enforcement-during-festive-season",
-      "content_hash": "164939a0748d95cdbbfde187b1ac7d718e61dedcc57e5aac53850f502f7da7dc",
-      "title": "Police Warns of Strict Traffic Law Enforcement During Festive Season",
-      "sent_at": "2026-04-11T02:39:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/11/special-islandwide-security-program-for-festive-season",
-      "content_hash": "dd3bd7358aa8d2ccd02dacbee19bf20358cea6d8ebd2ec64a2db72e398fa077b",
-      "title": "Special Islandwide Security Program for Festive Season",
-      "sent_at": "2026-04-11T02:39:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/11/special-bus-and-train-services-in-place-for-new-year-travel-rush",
       "content_hash": "247c0c861450e75eaa2bf289afe7e49033a735b1ff865e63e266d2a5511e8af2",
       "title": "Special Bus and Train Services in place for New Year Travel Rush",
@@ -815,6 +797,36 @@
       "content_hash": "23c6e8c522d694a87f9db39bc73d5ab3f49622b8364c223727bc69016d63846c",
       "title": "Sri Lanka Says No Corruption in Coal Imports, Probe Open to All",
       "sent_at": "2026-04-17T14:59:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/fishing-vessel-owner-arrested-over-161-kilograms-of-heroin-haul",
+      "content_hash": "0b4deaee1983c12d3d3d9a6b0ac773d04b9ac1096e787ed72ab1ff6b60bde99f",
+      "title": "Fishing Vessel Owner Arrested Over 161 Kilograms Of Heroin Haul",
+      "sent_at": "2026-04-18T02:46:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/ndb-to-appoint-international-firm-for-forensic-audit-following-fraud-allegations",
+      "content_hash": "62e28fae0dbab7209ecbe46da52234a9c8fc0c362c8ed9d04a2b1670610474f7",
+      "title": "NDB to Appoint International Firm for Forensic Audit Following Fraud Allegations",
+      "sent_at": "2026-04-18T02:47:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/oil-prices-plunge-as-iran-says-strait-of-hormuz-open-during-ceasefire",
+      "content_hash": "146ee1488b7a594f7cb0fca8ae50bef568d844a2f160e2e35a41b7ca32389907",
+      "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
+      "sent_at": "2026-04-18T02:47:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/raju-brought-back-to-sri-lanka-after-arrest-in-india",
+      "content_hash": "67f5d79f6284c4234cdc67ba52f8dc0715eb63c06320e84b68814c1427c291fe",
+      "title": "''Raju'' brought back to Sri Lanka after arrest in India",
+      "sent_at": "2026-04-18T02:47:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/special-weekend-transport-services-deployed-for-post-new-year-return-commuters",
+      "content_hash": "20de71d90378faa69bf3841d91bd9259c4fc5f07de7cc070e827befe987c6806",
+      "title": "Special Weekend Transport Services Deployed for Post-New Year Return Commuters",
+      "sent_at": "2026-04-18T02:47:05Z"
     }
   ]
 }
