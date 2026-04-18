@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/11/whatsapp-hotline-launched-for-reporting-reckless-driving",
-      "content_hash": "2f19e322ab5f208ed8056341066f0cf339891a440330ff4bc4541b6d685aa50c",
-      "title": "WhatsApp Hotline Launched for Reporting Reckless Driving",
-      "sent_at": "2026-04-11T11:34:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/12/1-500-extra-buses-special-trains-in-operation-for-festive-travel",
       "content_hash": "c2d9064fa3d719e53f8430cdd09919c56a346ffc78fd01c4f3c2a9eddba0297e",
       "title": "1,500 Extra Buses, Special Trains In Operation For Festive Travel",
@@ -827,6 +821,12 @@
       "content_hash": "12f7f7f89964ea547bb3215e806b21e77dbfd1b368e57d326245b91da6811d94",
       "title": "Iran's Military Closes Strait of Hormuz Again",
       "sent_at": "2026-04-18T09:52:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/minister-of-agriculture-seeks-rs-10-billion-in-compensation-against-media-outlet",
+      "content_hash": "2caf284b8b459822f1bef2c9b0a0383ed91c495d7ea5ec4f5786a1f1219d90c0",
+      "title": "Minister of Agriculture Seeks Rs 10 Billion In Compensation Against Media Outlet",
+      "sent_at": "2026-04-18T11:38:07Z"
     }
   ]
 }
