@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/11/special-expressway-bus-service-to-kandy-and-galle-from-pettah",
-      "content_hash": "4389c63d785e2262a1aa3048314c27425c7894e7d763a9dea950d165dc3aefba",
-      "title": "Special Expressway Bus Service to Kandy and Galle from Pettah",
-      "sent_at": "2026-04-11T06:02:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/11/petrol-qr-system-suspended-until-april-18-fuel-shipment-to-arrive-tomorrow",
-      "content_hash": "88029384d2958d5a81b6f9194531d3d2627cf223428321953f7ad23edcd6cfea",
-      "title": "Petrol QR System Suspended Until April 18; Fuel Shipment to Arrive Tomorrow",
-      "sent_at": "2026-04-11T07:13:17Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/11/government-offices-to-remain-open-from-april-1517",
       "content_hash": "64a10c8912689b25d9a6c2f27d02a034d0807b13f32440957f8891faf557e85d",
       "title": "Government Offices to Remain Open from April 15–17",
@@ -833,6 +821,24 @@
       "content_hash": "39826cf2529b7c917b4c2bed45910e9e5577a9fa6e38ab83c9a31ce6c61a8e2d",
       "title": "Two Dead in Mihintale and Dehiowita Drowning Incidents",
       "sent_at": "2026-04-18T05:10:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/cid-warns-of-rising-police-impersonation-cyber-scams",
+      "content_hash": "a61ff442b386e22ca0327e7987762b635de5a46d1cfd08a1840656aca0374c14",
+      "title": "CID Warns of Rising Police-Impersonation Cyber Scams",
+      "sent_at": "2026-04-18T07:15:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/indian-vice-president-radhakrishnan-to-arrive-in-sri-lanka-tomorrow",
+      "content_hash": "5a2792212575d9ed10d616463ca5ee715e30add41d0826ddbdecdb8a7663e583",
+      "title": "Indian Vice President Radhakrishnan To Arrive In Sri Lanka Tomorrow",
+      "sent_at": "2026-04-18T07:15:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/qr-system-for-petrol-vehicles-to-be-reinstated-from-midnight-today",
+      "content_hash": "9ab828425fbd57d29f2cfa503711b11443c0f0ce9cb553913356faa396dc9679",
+      "title": "QR System For Petrol Vehicles To Be Reinstated From Midnight Today",
+      "sent_at": "2026-04-18T07:15:11Z"
     }
   ]
 }
