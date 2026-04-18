@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/11/special-bus-and-train-services-in-place-for-new-year-travel-rush",
-      "content_hash": "247c0c861450e75eaa2bf289afe7e49033a735b1ff865e63e266d2a5511e8af2",
-      "title": "Special Bus and Train Services in place for New Year Travel Rush",
-      "sent_at": "2026-04-11T04:58:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/11/special-expressway-bus-service-to-kandy-and-galle-from-pettah",
       "content_hash": "4389c63d785e2262a1aa3048314c27425c7894e7d763a9dea950d165dc3aefba",
       "title": "Special Expressway Bus Service to Kandy and Galle from Pettah",
@@ -827,6 +821,18 @@
       "content_hash": "20de71d90378faa69bf3841d91bd9259c4fc5f07de7cc070e827befe987c6806",
       "title": "Special Weekend Transport Services Deployed for Post-New Year Return Commuters",
       "sent_at": "2026-04-18T02:47:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/suspect-in-podi-patty-shooting-arrested-in-kosgoda",
+      "content_hash": "ccebcbfe8bc515806f304ec580655c6d08e987652fae14e6aaadac0f5ac6cdc3",
+      "title": "Suspect In Podi Patty Shooting Arrested In Kosgoda",
+      "sent_at": "2026-04-18T05:10:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/18/two-dead-in-mihintale-and-dehiowita-drowning-incidents",
+      "content_hash": "39826cf2529b7c917b4c2bed45910e9e5577a9fa6e38ab83c9a31ce6c61a8e2d",
+      "title": "Two Dead in Mihintale and Dehiowita Drowning Incidents",
+      "sent_at": "2026-04-18T05:10:41Z"
     }
   ]
 }
