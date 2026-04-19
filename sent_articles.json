@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/12/caa-to-continue-market-raids-during-weekends-and-festive-season",
-      "content_hash": "777a49840a59e62a11d0ae995d92429beb0e6b7853c224fa22ce840d904801cb",
-      "title": "CAA to Continue Market Raids During Weekends and Festive Season",
-      "sent_at": "2026-04-12T10:42:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/12/suspect-remanded-over-pettah-central-bus-stand-property-damage",
       "content_hash": "7458972d0d720d2745c892f310def059323320b0becde8b3b0dacb88360030b7",
       "title": "Suspect Remanded Over Pettah Central Bus Stand Property Damage",
@@ -845,6 +839,12 @@
       "content_hash": "03100f86378c792063311babec57b8cd134572b426245df4744c4121a498fe02",
       "title": "Two Persons Die in a Fire at a House in Pamunuwa, Maharagama",
       "sent_at": "2026-04-19T07:27:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/indian-vice-president-holds-key-discussions-with-prime-minister-dr-harini-amarasuriya",
+      "content_hash": "7fb3dececeb686dd1aa681ba6141e0ba121c61053114cb246deda642a5769823",
+      "title": "Indian Vice President Holds Key Discussions With Prime MInister Dr. Harini Amarasuriya",
+      "sent_at": "2026-04-19T10:43:11Z"
     }
   ]
 }
