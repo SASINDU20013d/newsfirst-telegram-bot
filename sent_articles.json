@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/12/suspect-remanded-over-pettah-central-bus-stand-property-damage",
-      "content_hash": "7458972d0d720d2745c892f310def059323320b0becde8b3b0dacb88360030b7",
-      "title": "Suspect Remanded Over Pettah Central Bus Stand Property Damage",
-      "sent_at": "2026-04-12T16:45:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/12/trump-says-iran-will-never-possess-nuclear-weapon",
-      "content_hash": "46fec8961a3d69e2cfd550f1961e89bf737942e1b467cbeccc6d2cd315dbb9bf",
-      "title": "Trump Says Iran Will \"Never\" Possess Nuclear Weapon",
-      "sent_at": "2026-04-12T16:45:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/13/1-500-extra-buses-and-special-trains-in-operation-for-new-year-travel",
       "content_hash": "5b160d25f89ff1d209a66fc03c017806fd4d37b9bf870d135766bee69c4f0583",
       "title": "1,500 Extra Buses And Special Trains In Operation For New Year Travel",
@@ -851,6 +839,12 @@
       "content_hash": "4da7b9f2bca8ef2948f6824de8c074252989903df2bae7d41f21846888ac2f55",
       "title": "CID begins review of file relating to Procurement in Coal Investigation",
       "sent_at": "2026-04-19T13:10:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/former-mp-chandana-kathriarachchi-to-be-detained-for-30-days",
+      "content_hash": "fb59587a2da2069c0440820b4c0273219d640b0babfcb1342b11b006efbc4c06",
+      "title": "Former MP Chandana Kathriarachchi To Be Detained For 30 Days",
+      "sent_at": "2026-04-19T16:48:44Z"
     }
   ]
 }
