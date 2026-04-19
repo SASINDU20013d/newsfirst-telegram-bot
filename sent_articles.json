@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/12/bus-ticket-scams-under-probe-as-ministry-warns-of-legal-action",
-      "content_hash": "c0f1c02075a96948f81f367c419615df8e520103371f74dc6e5ea3553f6d9955",
-      "title": "Bus Ticket Scams Under Probe As Ministry Warns Of Legal Action",
-      "sent_at": "2026-04-12T07:21:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/12/famed-indian-singer-asha-bhosle-92-passes-away",
       "content_hash": "0a928e81dd5eafce47c6b3218f1dbf84facdb678d982e47c3e150e69f48ee2df",
       "title": "Famed Indian singer Asha Bhosle (92) passes away",
@@ -833,6 +827,36 @@
       "content_hash": "290dae16abed3af37f8462453c241ac9781fdd9d94532de3202cd57beee41c67",
       "title": "Vice President of India C. P. Radhakrishnan Arrives in Sri Lanka for Official Visit",
       "sent_at": "2026-04-19T06:00:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/cid-seizes-all-procurement-files-related-to-coal-investigation",
+      "content_hash": "130f386785c58c3dc8ca130cb0b5f08b08d2825b30ddd23fa5330dbc3367cf5c",
+      "title": "CID Seizes All Procurement Files Related to Coal Investigation",
+      "sent_at": "2026-04-19T07:27:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/double-drowning-in-thambuththegama",
+      "content_hash": "c41be70ce87cd39b30f3b1e153afc6b8acef28e350c0a0784c8a2a5041723bf6",
+      "title": "Double Drowning in Thambuththegama",
+      "sent_at": "2026-04-19T07:27:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/indian-vice-president-meets-president-anura-kumara-dissanayake",
+      "content_hash": "bc74310f4b8a75f91a75907d252b5f2c165af28578b68a58d9b8f529093540f9",
+      "title": "Indian Vice President Meets President Anura Kumara Dissanayake",
+      "sent_at": "2026-04-19T07:27:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/toddler-fatally-struck-by-three-wheeler-in-mannar",
+      "content_hash": "74c387ec7360dbbd36dc7df972dc85fee584d2a7a6e79e06651280f7291d10eb",
+      "title": "Toddler Fatally Struck by Three-Wheeler in Mannar",
+      "sent_at": "2026-04-19T07:27:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/two-persons-die-in-a-fire-at-a-house-in-pamunuwa-maharagama",
+      "content_hash": "03100f86378c792063311babec57b8cd134572b426245df4744c4121a498fe02",
+      "title": "Two Persons Die in a Fire at a House in Pamunuwa, Maharagama",
+      "sent_at": "2026-04-19T07:27:13Z"
     }
   ]
 }
