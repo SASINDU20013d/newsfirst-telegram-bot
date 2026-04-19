@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/12/1-500-extra-buses-special-trains-in-operation-for-festive-travel",
-      "content_hash": "c2d9064fa3d719e53f8430cdd09919c56a346ffc78fd01c4f3c2a9eddba0297e",
-      "title": "1,500 Extra Buses, Special Trains In Operation For Festive Travel",
-      "sent_at": "2026-04-12T03:16:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/12/cctv-monitoring-intensified-to-catch-speeding-drivers-on-expressways",
-      "content_hash": "ce9ae2b09b6161b48e944b14dccf9102b1e8573656c035a28d191853afdbac65",
-      "title": "CCTV Monitoring Intensified To Catch Speeding Drivers On Expressways",
-      "sent_at": "2026-04-12T03:16:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/12/maldives-president-muizzu-to-visit-sri-lanka-next-month",
-      "content_hash": "7019f83ca97ea1f80384edcdce43a5c12f00de874349675e90d6b822a8b1d55b",
-      "title": "Maldives President Muizzu To Visit Sri Lanka Next Month",
-      "sent_at": "2026-04-12T03:16:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/12/slsea-urges-daytime-new-year-celebrations-to-conserve-power",
-      "content_hash": "17e648daf78bbacf506621ff9d52910b3f1ab8a6cac5a6b5511b2b227ee66176",
-      "title": "SLSEA Urges Daytime New Year Celebrations To Conserve Power",
-      "sent_at": "2026-04-12T03:16:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/12/us-and-iran-fail-to-reach-agreement-after-historic-peace-talks-in-pakistan-jd-vance",
-      "content_hash": "b9d319f26e75ca6ffc9bcf22511b211b9302afe6d4e386976d79dbe745032fa5",
-      "title": "US and Iran fail to reach agreement after historic peace talks in Pakistan - JD Vance",
-      "sent_at": "2026-04-12T03:16:58Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/12/coal-issues-not-added-to-tariffs-pucsl",
       "content_hash": "637300330140b93226c8ad5dace96ce69c5b35d370403911217327023dcd78a7",
       "title": "Coal Issues Not Added To Tariffs : PUCSL",
@@ -839,6 +809,36 @@
       "content_hash": "a3c0848a02d10f28e8dd3acd9dbf07787b5abf9a18fb9458b9d743efa952b90d",
       "title": "Plans Underway To Arrest Criminals Abroad: IGP",
       "sent_at": "2026-04-18T14:43:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/no-new-water-cuts-planned-as-water-supply-restored-nwsdb",
+      "content_hash": "5818cbfc7200442ee0e55b561e1c43be1bb8b9a0f334fab8ea1929792c2ac8cf",
+      "title": "No New Water Cuts Planned as Water Supply Restored - NWSDB",
+      "sent_at": "2026-04-19T03:21:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/qr-system-for-fuel-dsitribution-reinstated-from-today",
+      "content_hash": "0208404b2f9e1cf662b1b719f160ced52d4e4de88ef5dbd7f8f64bbd5bf90959",
+      "title": "QR System for Fuel Dsitribution Reinstated from Today",
+      "sent_at": "2026-04-19T03:21:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/sltb-earns-record-breaking-rs-1-billion-revenue-within-6-days",
+      "content_hash": "7f7f87b0ec56c3c9a52ef99427f38d0ff229605e330ac36261f8d0dcdbf4b439",
+      "title": "SLTB Earns Record-Breaking Rs. 1 Billion Revenue Within 6 Days",
+      "sent_at": "2026-04-19T03:21:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/special-transport-services-in-place-for-commuters-returning-to-colombo-after-new-year",
+      "content_hash": "ab16d8ceb66d1f3613d61b426f63aae0665c351111e0b5e335cd554ab5e167bd",
+      "title": "Special Transport Services In place for Commuters Returning to Colombo After New Year",
+      "sent_at": "2026-04-19T03:21:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/vice-president-of-india-c-p-radhakrishnan-to-arrive-in-sri-lanka-for-official-visit-today",
+      "content_hash": "86a2f53e583ccdb018835eabbf4e3e566e6ba8d6c97cd6ac9a377a0012c7f7f3",
+      "title": "Vice President of India C. P. Radhakrishnan to Arrive in Sri Lanka for Official Visit Today",
+      "sent_at": "2026-04-19T03:21:37Z"
     }
   ]
 }
