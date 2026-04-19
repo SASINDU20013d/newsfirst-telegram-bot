@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/12/coal-issues-not-added-to-tariffs-pucsl",
-      "content_hash": "637300330140b93226c8ad5dace96ce69c5b35d370403911217327023dcd78a7",
-      "title": "Coal Issues Not Added To Tariffs : PUCSL",
-      "sent_at": "2026-04-12T05:55:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/12/fatal-lorry-collision-on-southern-expressway-claims-two-lives",
-      "content_hash": "ebfa28c70c5b850da89e96b670c7669404a7f5d70e16193efc28b0c61cbd3218",
-      "title": "Fatal Lorry Collision On Southern Expressway Claims Two Lives",
-      "sent_at": "2026-04-12T05:55:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/12/legendary-singer-asha-bhosle-hospitalized-after-health-concerns",
-      "content_hash": "3bf0f3eed6bd791f45e1952a39788243849d15c0303b7dc3b9fe21d5c7398ffb",
-      "title": "Legendary Singer Asha Bhosle Hospitalized After Health Concerns",
-      "sent_at": "2026-04-12T05:56:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/12/ufc-327-miami-donald-trump-enters-kaseya-center-with-dana-white",
-      "content_hash": "cf05e3f463358daee457a8397feba941b739d04137ccbfc6bf322b60f320be34",
-      "title": "UFC 327 Miami :Donald Trump Enters Kaseya Center With Dana White",
-      "sent_at": "2026-04-12T05:56:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/12/bus-ticket-scams-under-probe-as-ministry-warns-of-legal-action",
       "content_hash": "c0f1c02075a96948f81f367c419615df8e520103371f74dc6e5ea3553f6d9955",
       "title": "Bus Ticket Scams Under Probe As Ministry Warns Of Legal Action",
@@ -839,6 +815,24 @@
       "content_hash": "86a2f53e583ccdb018835eabbf4e3e566e6ba8d6c97cd6ac9a377a0012c7f7f3",
       "title": "Vice President of India C. P. Radhakrishnan to Arrive in Sri Lanka for Official Visit Today",
       "sent_at": "2026-04-19T03:21:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/gunmen-open-fire-on-house-in-midigama-car-set-ablaze",
+      "content_hash": "7835ed2df760ceae708f90c6c0d9d618a9ab46c7a955ae8cab9dae0d23093f48",
+      "title": "Gunmen Open Fire on House in Midigama; Car Set Ablaze",
+      "sent_at": "2026-04-19T06:00:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/special-traffic-plan-in-colombo-and-katunayake",
+      "content_hash": "d759c034f92c3b457025a5d3a37d44c50de08665afe31f2e3a412458e9210503",
+      "title": "Special Traffic Plan in Colombo and Katunayake",
+      "sent_at": "2026-04-19T06:00:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/19/vice-president-of-india-c-p-radhakrishnan-arrives-in-sri-lanka-for-official-visit",
+      "content_hash": "290dae16abed3af37f8462453c241ac9781fdd9d94532de3202cd57beee41c67",
+      "title": "Vice President of India C. P. Radhakrishnan Arrives in Sri Lanka for Official Visit",
+      "sent_at": "2026-04-19T06:00:53Z"
     }
   ]
 }
