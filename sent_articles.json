@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/13/opposition-lacks-clear-vision-says-uvindu-wijeweera",
-      "content_hash": "48afce8758668b1d3b3845d0e85d6f35be6be86d4bf7256d21d2a6da2199af35",
-      "title": "Opposition Lacks Clear Vision, Says Uvindu Wijeweera",
-      "sent_at": "2026-04-13T10:53:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/13/uk-not-supporting-blockade-of-iranian-ports-says-starmer",
-      "content_hash": "1021361e027330e5bb1134935ca1aa0734cf610345274f7c19f4f3b41162ca7e",
-      "title": "UK not supporting blockade of Iranian ports, says Starmer",
-      "sent_at": "2026-04-13T10:53:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/13/australia-appoints-woman-to-lead-its-army-for-the-first-time",
       "content_hash": "db493d7572ea5f2a98562ebca0af1161a241a19f3afd13ca358600013e796e04",
       "title": "Australia Appoints Woman to Lead its Army for the First Time",
@@ -857,6 +845,18 @@
       "content_hash": "9be13092b9b5845eef542554fbe9cf1e50aa624fbde989d14cbf5e96341f59d8",
       "title": "Six Newly Appointed Envoys Present Credentials to Sri Lankan President",
       "sent_at": "2026-04-20T09:08:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/indian-vice-president-departs-after-successful-two-day-official-visit-to-sri-lanka",
+      "content_hash": "c022760068c48bb3b70078ef7cd0dc010606ee7333efb00d2792c744801aa727",
+      "title": "Indian Vice President Departs After Successful Two-Day Official Visit to Sri Lanka",
+      "sent_at": "2026-04-20T11:21:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/severe-lightning-warning-for-all-provinces",
+      "content_hash": "e7d3468b714203145c0865193f6a7b97f63672fa841617ac58ffef5ad9bed485",
+      "title": "Severe Lightning Warning For All Provinces",
+      "sent_at": "2026-04-20T11:21:05Z"
     }
   ]
 }
