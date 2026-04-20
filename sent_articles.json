@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/13/1-500-extra-buses-and-special-trains-in-operation-for-new-year-travel",
-      "content_hash": "5b160d25f89ff1d209a66fc03c017806fd4d37b9bf870d135766bee69c4f0583",
-      "title": "1,500 Extra Buses And Special Trains In Operation For New Year Travel",
-      "sent_at": "2026-04-13T03:22:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/13/orb%c3%a1n-concedes-defeat-in-democratic-earthquake",
-      "content_hash": "9f105a0bb1661f87e818d99ee36562d50dbbee034848706bb884e1fbd395a159",
-      "title": "Orbán Concedes Defeat in Democratic Earthquake",
-      "sent_at": "2026-04-13T03:23:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/13/us-military-to-block-ships-from-iranian-ports-after-talks-yield-no-agreement",
-      "content_hash": "158c07faeebeb8db56a7f19f4e318034d74aafad8c49c7965c0ffe423297a725",
-      "title": "US Military to Block Ships from Iranian Ports After Talks Yield No Agreement",
-      "sent_at": "2026-04-13T03:23:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/13/8-000-police-deployed-for-new-year-traffic-duty-across-sri-lanka",
       "content_hash": "eec3a96eb7e402040b5c334693a197a8af716317f414ffa3255a37b585beea8a",
       "title": "8,000 Police Deployed For New Year Traffic Duty Across Sri Lanka",
@@ -845,6 +827,36 @@
       "content_hash": "fb59587a2da2069c0440820b4c0273219d640b0babfcb1342b11b006efbc4c06",
       "title": "Former MP Chandana Kathriarachchi To Be Detained For 30 Days",
       "sent_at": "2026-04-19T16:48:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/auspicious-times-for-resuming-work-and-planting-trees-set-for-the-new-year",
+      "content_hash": "75fc97d8032dfc695d1c17ee287a365bc62b6942b77761989232399e1d4de8ff",
+      "title": "Auspicious Times for Resuming Work and Planting Trees Set for the New Year",
+      "sent_at": "2026-04-20T03:23:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/indian-vice-president-to-inspect-housing-projects-in-nuwara-eliya-today",
+      "content_hash": "045153b57ad75af68c851ffc8e94483225ed3d78a18fd31213257d9a799e840c",
+      "title": "Indian Vice President to Inspect Housing Projects in Nuwara Eliya Today",
+      "sent_at": "2026-04-20T03:23:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/issuance-of-national-identity-cards-to-resume-today-after-system-failure",
+      "content_hash": "814cbfdc7315475a24bb9a3f1f569437dd95ba085d3880049a874479225d6cdb",
+      "title": "Issuance of National Identity Cards to Resume Today After System Failure",
+      "sent_at": "2026-04-20T03:23:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/second-school-term-begins-today",
+      "content_hash": "5cf71e238c525f53a8b8f6d61574be021b130318b1eb482b014980a78daa5633",
+      "title": "Second School Term Begins Today",
+      "sent_at": "2026-04-20T03:23:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/two-indonesians-arrested-at-bia-with-over-rs-60-million-worth-of-kush-cannabis",
+      "content_hash": "2d61c34aca387fc80a7c5f6527e728f6bc57dd770c6ea8883bd829193d95c9f1",
+      "title": "Two Indonesians Arrested at BIA with Over Rs. 60 Million Worth of \"Kush\" Cannabis",
+      "sent_at": "2026-04-20T03:23:56Z"
     }
   ]
 }
