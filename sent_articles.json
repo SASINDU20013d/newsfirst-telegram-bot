@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/13/don-t-let-new-year-turn-tragic-minister-orders-strict-adherence-to-seatbelt-safety",
-      "content_hash": "6032080111fa8027d5034e5e71c6326ea4cfe152718a522e5799eee258dfd339",
-      "title": "Don't Let New Year Turn Tragic: Minister Orders Strict Adherence to Seatbelt Safety",
-      "sent_at": "2026-04-13T09:02:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/13/national-colleges-teacher-trainee-interviews-set-to-begin-april-21",
-      "content_hash": "17e154d2f953e053a8fc98de7cf621e1580b7370f54b9107c845c7ac393830d8",
-      "title": "National Colleges Teacher Trainee Interviews Set to Begin April 21",
-      "sent_at": "2026-04-13T09:02:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/13/opposition-lacks-clear-vision-says-uvindu-wijeweera",
       "content_hash": "48afce8758668b1d3b3845d0e85d6f35be6be86d4bf7256d21d2a6da2199af35",
       "title": "Opposition Lacks Clear Vision, Says Uvindu Wijeweera",
@@ -821,6 +809,54 @@
       "content_hash": "4da0205be1f51238d41c7cc3c9bf86bc49b8f09af677154ba42df0850bde33bc",
       "title": "Eight Organized Criminals Currently in Foreign Custody - SL Police",
       "sent_at": "2026-04-20T06:19:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/all-set-for-international-walk-for-peace",
+      "content_hash": "6c06cac7b1ab3bb7ceb17c3a5a6d014041f97aac9355b8a82f16bf4af2bedf5b",
+      "title": "All Set For International Walk For Peace",
+      "sent_at": "2026-04-20T09:08:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/commissioner-general-of-motor-traffic-released-on-bail",
+      "content_hash": "2e8b458d043aee917570c321b3a711b5058254ff66a16c2e5a38e40a63adbb27",
+      "title": "Commissioner General of Motor Traffic Released on Bail",
+      "sent_at": "2026-04-20T09:08:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/illegal-kerosene-transport-foiled-on-wellawayamonaragala-route",
+      "content_hash": "91e15d695cb8f4b6fcbd2aeef6ab2746c7162fc1830f6d1a65cc91ce79bbca60",
+      "title": "Illegal Kerosene Transport Foiled on Wellawaya–Monaragala Route",
+      "sent_at": "2026-04-20T09:08:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/indian-funded-housing-project-inspected-by-vice-president",
+      "content_hash": "922415796fd6059ab80716d260898f2394e93b73e33483cf4a77c7c0c7edbaba",
+      "title": "Indian-Funded Housing Project Inspected by Vice President",
+      "sent_at": "2026-04-20T09:08:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/japan-issues-tsunami-warning-for-hokkaido-and-aomori",
+      "content_hash": "e1a69d2a6fea68ff1de221f488dc2951c205798df6cfe3d1607a2729c2b2aafe",
+      "title": "Japan Issues Tsunami Warning For Hokkaido and Aomori",
+      "sent_at": "2026-04-20T09:08:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/more-than-600-suspects-arrested-in-island-wide-anti-crime-and-narcotics-operation",
+      "content_hash": "c694e5a76e12eb56b1565d639e64deaa02bf8c27cec87f1ad781d1c5b75bd9c1",
+      "title": "More than 600 Suspects Arrested in Island-Wide Anti-Crime and Narcotics Operation",
+      "sent_at": "2026-04-20T09:08:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/over-1-200-merchants-face-legal-action-following-island-wide-festive-season-food-safety-raids",
+      "content_hash": "1589eba82aa228640366a74f36c111228d263d7744a649c934cb37dc3fdb20c2",
+      "title": "Over 1,200 Merchants Face Legal Action Following Island-Wide Festive Season Food Safety Raids",
+      "sent_at": "2026-04-20T09:08:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/six-newly-appointed-envoys-present-credentials-to-sri-lankan-president",
+      "content_hash": "9be13092b9b5845eef542554fbe9cf1e50aa624fbde989d14cbf5e96341f59d8",
+      "title": "Six Newly Appointed Envoys Present Credentials to Sri Lankan President",
+      "sent_at": "2026-04-20T09:08:57Z"
     }
   ]
 }
