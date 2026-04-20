@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/13/australia-appoints-woman-to-lead-its-army-for-the-first-time",
-      "content_hash": "db493d7572ea5f2a98562ebca0af1161a241a19f3afd13ca358600013e796e04",
-      "title": "Australia Appoints Woman to Lead its Army for the First Time",
-      "sent_at": "2026-04-13T14:52:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/13/trump-says-us-to-begin-naval-blockade-of-iran-s-ports-in-the-strait-of-hormuz",
-      "content_hash": "b2585da4a131874e2456e234a048bf9716b07b227029e1dbf7188f0d7937ce9c",
-      "title": "Trump says US to begin naval blockade of Iran's ports in the Strait of Hormuz",
-      "sent_at": "2026-04-13T14:52:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/14/nation-welcomes-new-year-with-sacred-traditions",
       "content_hash": "9580d05571acb4fbf0fb9d4d992639a1b32e05fbccaae254641f54794a7cd338",
       "title": "Nation Welcomes New Year With Sacred Traditions",
@@ -875,6 +863,18 @@
       "content_hash": "daa340b5d181f01010ba0885bd6c6cbb890c3c6a52fed8dbfbbad2e44debdc38",
       "title": "Japan Lifts Tsunami Warnings; Advisories In Effect",
       "sent_at": "2026-04-20T13:51:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/central-bank-presents-2025-economic-review-to-president",
+      "content_hash": "754efb14779c760c5fb61946ba42cf8688018e53312463c6d1cb00806ed1f403",
+      "title": "Central Bank Presents 2025 Economic Review to President",
+      "sent_at": "2026-04-20T15:18:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/20/state-banks-post-record-profits-as-annual-reports-presented-to-president",
+      "content_hash": "3e4d94e36f8e655773a8516cb734251c564c8ab2643711407f1c7a978b11b51d",
+      "title": "State Banks Post Record Profits as Annual Reports Presented to President",
+      "sent_at": "2026-04-20T15:19:04Z"
     }
   ]
 }
