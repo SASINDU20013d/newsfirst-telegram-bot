@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/14/nbro-introduces-priority-based-compensation-system-for-cyclone-damaged-buildings",
-      "content_hash": "3275069e0585f1f07836fc538607306d687a3346705706c12b30284c639dd00b",
-      "title": "NBRO introduces priority-based compensation system for cyclone damaged buildings",
-      "sent_at": "2026-04-14T07:53:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/14/sltb-and-railways-maintain-services-as-new-year-return-rush-approaches",
-      "content_hash": "81577f94003f3ddb0aa2bc1c712edbae14cbe88bbaeb39f2d2f4308026f20e40",
-      "title": "SLTB and Railways Maintain Services as New Year Return Rush Approaches",
-      "sent_at": "2026-04-14T07:53:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/14/520-arrested-in-24-hour-nationwide-anti-drug-operation",
       "content_hash": "35755164f0038ef4baa1b7e7bd277103730aca3d5974d77508b227c25ba2cdc6",
       "title": "520 Arrested In 24-Hour Nationwide Anti-Drug Operation",
@@ -887,6 +875,18 @@
       "content_hash": "419d6ee66ac4cc66dc42cc27da1f3aa6f2dff3b44c76e81e7c75f366db73e7eb",
       "title": "Ven. Pannakara Thero Arrives with \"Aloka\" for Walk For Peace in the Island of Peace",
       "sent_at": "2026-04-21T05:31:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/21/cardinal-expresses-optimism-over-current-government%e2%80%99s-easter-attack-investigations",
+      "content_hash": "bdc8ecd36436729248645029783f3259301161df77d090cfe376eefaf251a3a6",
+      "title": "Cardinal Expresses Optimism Over Current Government’s Easter Attack Investigations",
+      "sent_at": "2026-04-21T07:59:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/21/former-minister-premalal-jayasekara-arrested",
+      "content_hash": "7fd074a37c0387f90efc9c5b615bb0c7009df155a47eb25e51007925739cd861",
+      "title": "Former Minister Premalal Jayasekara Arrested",
+      "sent_at": "2026-04-21T07:59:39Z"
     }
   ]
 }
