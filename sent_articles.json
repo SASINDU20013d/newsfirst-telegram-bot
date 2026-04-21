@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/14/nation-welcomes-new-year-with-sacred-traditions",
-      "content_hash": "9580d05571acb4fbf0fb9d4d992639a1b32e05fbccaae254641f54794a7cd338",
-      "title": "Nation Welcomes New Year With Sacred Traditions",
-      "sent_at": "2026-04-14T02:55:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/14/president-and-pm-call-for-unity-and-prosperity-in-new-year-messages",
-      "content_hash": "d15e1e82fc3c8fe1f6fc8c791a13670bf438541cf0e8593d65057827dc6a4ddf",
-      "title": "President And PM Call For Unity And Prosperity In New Year Messages",
-      "sent_at": "2026-04-14T02:55:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/14/dig-issues-strict-warning-on-traffic-law-compliance-for-avurudu-festivals",
       "content_hash": "c1cae5279a6899d8e103ed9d456e31210881da4281a2c663d176a2cc04fbdee4",
       "title": "DIG Issues Strict Warning On Traffic Law Compliance For Avurudu Festivals",
@@ -899,6 +887,24 @@
       "content_hash": "5890900a30a00be4060221d3dfb3ade92fbbd09e7db06b670681ee8c337ab484",
       "title": "Trump says Ceasefire Ends Wednesday Evening and a Further Extension is ‘Highly Unlikely’",
       "sent_at": "2026-04-20T17:09:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/21/notorious-crime-boss-karandeniye-raju-to-be-detained-for-90-days-under-pta",
+      "content_hash": "4cda18da23049edcc901fc661d267c3268feea52aae0d9377b55ede7c76f223b",
+      "title": "Notorious Crime Boss 'Karandeniye Raju' to be Detained for 90 Days Under PTA",
+      "sent_at": "2026-04-21T02:56:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/21/sri-lanka-mourns-seven-years-since-easter-sunday-attacks",
+      "content_hash": "dd6127e03e078de008ee009005bf104db7301e362cbd1d184b08085f8e281bfe",
+      "title": "Sri Lanka Mourns - Seven Years Since Easter Sunday Attacks",
+      "sent_at": "2026-04-21T02:56:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/21/ven-pannakara-thero-arrives-in-sri-lanka-with-aloka-for-global-walk-for-peace",
+      "content_hash": "ffe1cc15e39a716bf8e7154a825596fc00d87cfffddb817463b89c5ebdad2b3c",
+      "title": "Ven. Pannakara Thero Arrives in Sri Lanka with \"Aloka\" for Global Walk For Peace",
+      "sent_at": "2026-04-21T02:56:36Z"
     }
   ]
 }
