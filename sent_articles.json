@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/14/520-arrested-in-24-hour-nationwide-anti-drug-operation",
-      "content_hash": "35755164f0038ef4baa1b7e7bd277103730aca3d5974d77508b227c25ba2cdc6",
-      "title": "520 Arrested In 24-Hour Nationwide Anti-Drug Operation",
-      "sent_at": "2026-04-14T11:07:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/14/expressway-revenue-tops-rs-190-million-during-festive-season",
       "content_hash": "ef620aceaed2e5fc8105c1e540d278f34c63225c4b7ac8ade99ca143fa4bac66",
       "title": "Expressway Revenue Tops Rs. 190 Million During Festive Season",
@@ -887,6 +881,18 @@
       "content_hash": "7fd074a37c0387f90efc9c5b615bb0c7009df155a47eb25e51007925739cd861",
       "title": "Former Minister Premalal Jayasekara Arrested",
       "sent_at": "2026-04-21T07:59:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/21/april-installment-of-aswesuma-to-be-credited-tomorrow",
+      "content_hash": "b5b7d0e9aa6b2a048b1b2e7782cf061844a1e83485cd385f312ece8641a962d7",
+      "title": "April Installment of Aswesuma to be Credited Tomorrow",
+      "sent_at": "2026-04-21T11:12:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/21/two-accomplices-of-kudu-salindu-arrested",
+      "content_hash": "111989eb5898e87e1cd7a36d17fa6daf2e29defc9e3593a9fa4a2ec059338a66",
+      "title": "Two Accomplices of 'Kudu Salindu' Arrested",
+      "sent_at": "2026-04-21T11:12:50Z"
     }
   ]
 }
