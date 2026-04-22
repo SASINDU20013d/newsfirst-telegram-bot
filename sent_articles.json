@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/15/national-oil-anointing-rituals-performed-at-auspicious-time-president-participates-in-state-oil-anointing-ceremony-in-kandy",
-      "content_hash": "a89797ef350077fc77ff56c1b544429f35ad8c38a1b3329f781ced3d0f64b944",
-      "title": "National Oil-Anointing Rituals Performed at Auspicious Time; President Participates in State Oil-Anointing Ceremony in Kandy",
-      "sent_at": "2026-04-15T13:58:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/special-transport-services-in-place-for-post-new-year-return",
-      "content_hash": "16580218542bae00aa0111b8ebac7b074695ae7f0efd47256075c9725418961f",
-      "title": "Special Transport Services In place for Post-New Year Return",
-      "sent_at": "2026-04-15T13:58:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/sirasa-tv-oil-anointing-ceremony-held-at-historic-olaboduwa-raja-maha-vihara",
-      "content_hash": "6c7206e1a5cc3de6aa6530766d4f9d73da17f6e9a777afa7d2d02e9a6d33ea3b",
-      "title": "Sirasa TV Oil-Anointing Ceremony Held at Historic Olaboduwa Raja Maha Vihara",
-      "sent_at": "2026-04-15T15:09:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/15/from-the-u-s-to-sri-lanka-monks-to-begin-global-walk-for-peace-in-the-island",
       "content_hash": "bb085a2d7045424574c3bd2771c011bac6b159599b71d108ab0a41258106fd4b",
       "title": "From the U.S. to Sri Lanka: Monks to Begin Global Walk for Peace in the Island",
@@ -875,6 +857,18 @@
       "content_hash": "4bd3e4b965eb710efccd41ee4310d317d0b9c6033532199d7bc133f0a8aee0aa",
       "title": "Prosecutors Link Suresh Salley to Easter Attack Operations, Say He Was Key Force Behind It",
       "sent_at": "2026-04-22T13:52:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/minister-flags-alleged-broadcast-licence-violations",
+      "content_hash": "54cecda450db9fa905a17f0b620ef9bff8f3dba9bcd147f02ad40f5cd0abdae0",
+      "title": "Minister Flags Alleged Broadcast Licence Violations",
+      "sent_at": "2026-04-22T15:17:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/special-committee-to-review-national-housing-development-authority-projects",
+      "content_hash": "7dd29ec4a74a8484ef26e55bc1c87763a8abfb6b304cc0895b7a6cb4baa0ec9c",
+      "title": "Special Committee to Review National Housing Development Authority Projects",
+      "sent_at": "2026-04-22T15:18:00Z"
     }
   ]
 }
