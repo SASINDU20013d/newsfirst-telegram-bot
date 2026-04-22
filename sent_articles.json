@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/15/aswesuma-payments-to-resume-in-july",
-      "content_hash": "b30c8a02e0124c2f55066c0033abe2fb82b9cb288b4037af0ee86424bf0e4d46",
-      "title": "Aswesuma Payments to Resume in July",
-      "sent_at": "2026-04-15T07:54:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/cid-sealed-lanka-coal-company-office-to-reopen-today-amid-ongoing-probe-into-coal-imports",
-      "content_hash": "2d50e109b3feee73e2d2a9465e1ddb0c48db0d19d4559ce3f72d95302e0c06a4",
-      "title": "CID-Sealed Lanka Coal Company Office to Reopen Today Amid Ongoing Probe into Coal Imports",
-      "sent_at": "2026-04-15T07:54:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/state-oil-anointing-ceremony-at-sri-dalada-maligawa",
-      "content_hash": "e2a16cee33b32f8924324b26e28576b03ccff3936300f1faa186511a7890fac7",
-      "title": "State Oil-Anointing Ceremony at Sri Dalada Maligawa",
-      "sent_at": "2026-04-15T07:55:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/15/supply-shocks-will-linger-even-if-conflict-ends-says-world-bank",
       "content_hash": "d56a69e37d33856697edaf51492b88e039c3c30476851961f5a73164fab69396",
       "title": "Supply Shocks Will Linger Even if Conflict Ends, Says World Bank",
@@ -863,6 +845,42 @@
       "content_hash": "8a0ea404e924a2be545262f54d723ab886e746cf0c6becfdaad5bff68c15fcee",
       "title": "Walk For Peace Commences From Dambulla",
       "sent_at": "2026-04-22T05:30:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/case-against-former-state-intelligence-chief-today",
+      "content_hash": "8870d32535a286b3b851720c01b8b9f43797a808c9620b3a60a641c864476b35",
+      "title": "Case Against Former State Intelligence Chief Today",
+      "sent_at": "2026-04-22T07:56:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/ex-health-ministry-lawyer-remanded-over-alleged-bribery-involving-lease-extensions",
+      "content_hash": "f88edf955d0f6ef2cdcc61294570d576cfca82662c54cf7cd304644562e91c4c",
+      "title": "Ex-Health Ministry Lawyer Remanded Over Alleged Bribery Involving Lease Extensions",
+      "sent_at": "2026-04-22T07:56:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/ex-state-intelligence-chief-suresh-salley-in-court-today",
+      "content_hash": "4c303ed15c32964c0fb3c0abe47589b6c33efe26cee4aa0fc13150f7f9ea182d",
+      "title": "Ex-State Intelligence Chief Suresh Salley In Court Today",
+      "sent_at": "2026-04-22T07:56:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/man-posing-as-spouse-of-pm%e2%80%99s-secretary-arrested-in-colombo",
+      "content_hash": "7f1d5de20787e3cde61e81a4c2b9bb9eb30fb4e9ae238e3eaf42f5b92e3cf22d",
+      "title": "Man Posing as Spouse of PM’s Secretary Arrested in Colombo",
+      "sent_at": "2026-04-22T07:56:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/special-pcoi-begins-probe-into-all-coal-transactions-in-sri-lanka",
+      "content_hash": "e1e1fca078e0fb8492b2bee787ef991b2a6cab86ce235ca36c019dcb9d137561",
+      "title": "Special PCOI Begins Probe into All Coal Transactions in Sri Lanka",
+      "sent_at": "2026-04-22T07:56:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/sri-lanka%e2%80%99s-2025-economic-recovery-holds-firm",
+      "content_hash": "5280327010ef036da1c09303d7a7ffc325891e6127f1488a2747c680c2f1f45c",
+      "title": "Sri Lanka’s 2025 Economic Recovery Holds Firm",
+      "sent_at": "2026-04-22T07:56:23Z"
     }
   ]
 }
