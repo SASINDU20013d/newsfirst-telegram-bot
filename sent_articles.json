@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/15/238-iranian-nationals-return-home-after-sri-lanka-navy-rescue",
-      "content_hash": "6d65c7a8086a7443f338ef39fb62371add3e5b80b7d73ba4f4d2dac5013304d1",
-      "title": "238 Iranian Nationals Return Home After Sri Lanka Navy Rescue",
-      "sent_at": "2026-04-15T11:04:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/another-shipment-of-fuel-arrives-in-sri-lanka-cpc-confirms",
-      "content_hash": "4253a7a0eccdd1d049d21ed51be1d3e3daa5a09b857ceb6b105626fc74293c01",
-      "title": "Another Shipment of Fuel Arrives in Sri Lanka, CPC Confirms",
-      "sent_at": "2026-04-15T11:04:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/imf-says-global-recovery-hinges-on-duration-of-middle-east-war",
-      "content_hash": "a1fe9a62ed854d2ba0ed858ab23cf037718aa5ae0e89aa34eedf91c99c4a418a",
-      "title": "IMF Says Global Recovery Hinges on Duration of Middle East War",
-      "sent_at": "2026-04-15T11:04:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/15/president-meets-mahanayaka-thera-of-the-ramanna-nikaya",
       "content_hash": "bf6b444237c469a3618d513a477a53a5b564f5639f1734517ae5a394def27d4e",
       "title": "President Meets Mahanayaka Thera of the Ramanna Nikaya",
@@ -869,6 +851,18 @@
       "content_hash": "5280327010ef036da1c09303d7a7ffc325891e6127f1488a2747c680c2f1f45c",
       "title": "Sri Lanka’s 2025 Economic Recovery Holds Firm",
       "sent_at": "2026-04-22T07:56:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/ex-sis-chief-moved-to-court-on-easter-attacks-case",
+      "content_hash": "07b8d9a3d2988b56bd00b2c771e3feb9784ad77bd4631486fb3f8534555d577b",
+      "title": "Ex-SIS Chief Moved to Court On Easter Attacks Case",
+      "sent_at": "2026-04-22T11:10:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/premalal-jayasekara-gets-bail-passport-suspended",
+      "content_hash": "91fd5fdb2cb6cf945da91a3dad84a1e1182f1206f22b704d7923572283dca183",
+      "title": "Premalal Jayasekara Gets Bail, Passport Suspended",
+      "sent_at": "2026-04-22T11:10:36Z"
     }
   ]
 }
