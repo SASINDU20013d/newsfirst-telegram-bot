@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/15/g24-warns-debt-payments-are-draining-developing-economies-as-aid-falls",
-      "content_hash": "e2993aa9105aff9894b02304fe5131b25c5066c1dd3334ac44b9ebfccf945b79",
-      "title": "G24 Warns Debt Payments Are Draining Developing Economies as Aid Falls",
-      "sent_at": "2026-04-15T05:28:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/health-authorities-highlight-rising-number-of-non-communicable-diseases",
-      "content_hash": "1e2de91215edb67165250228872e584e46dfd2e9f38943fe2bc127aaf1d22ff7",
-      "title": "Health Authorities Highlight Rising Number Of Non-Communicable Diseases",
-      "sent_at": "2026-04-15T05:28:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/middle-east-war-is-quietly-raising-global-financial-stability-risks-warns-imf",
-      "content_hash": "0c2c17348e0df1db77d27f544abfc10bca5f55f91ca36ca53514af4fa95eb618",
-      "title": "Middle East War Is Quietly Raising Global Financial Stability Risks, Warns IMF",
-      "sent_at": "2026-04-15T05:28:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/tragic-drowning-incidents-reported-in-mahaweli-river-and-habaraduwa-beach",
-      "content_hash": "bb53617c15552c21d17b071baf5bf59e6c33c8f6a110c1c6720720cad5e6cc2d",
-      "title": "Tragic Drowning Incidents Reported In Mahaweli River And Habaraduwa Beach",
-      "sent_at": "2026-04-15T05:28:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/15/aswesuma-payments-to-resume-in-july",
       "content_hash": "b30c8a02e0124c2f55066c0033abe2fb82b9cb288b4037af0ee86424bf0e4d46",
       "title": "Aswesuma Payments to Resume in July",
@@ -857,6 +833,36 @@
       "content_hash": "f028c5327b0c8bce418b80378c35de19e807ef5d70694bff96bfd64c1cc2cd78",
       "title": "Automated Expressway Payment System to be Launched by Year-End to Ease Congestion",
       "sent_at": "2026-04-22T02:58:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/iran-enforces-%e2%80%98maritime-law%e2%80%99-on-container-ship-after-warning-ignored",
+      "content_hash": "48095cfff3c41b41564a525760e74a04de589e8048d5813176bd36054026cc56",
+      "title": "Iran Enforces ‘Maritime Law’ on Container Ship After Warning Ignored",
+      "sent_at": "2026-04-22T05:30:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/strait-of-hormuz-blockade-drives-up-costs-at-panama-canal",
+      "content_hash": "7ba77d56b05a516a499f1c2f0de828b32a82b42b11da5a96faec379a1b476d00",
+      "title": "Strait of Hormuz Blockade Drives Up Costs At Panama Canal",
+      "sent_at": "2026-04-22T05:30:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/teacher-training-for-grade-one-second-term-to-be-completed-by-mid-next-month",
+      "content_hash": "4af51da7ee804e705710c81d9913b2f2663779915ffd0676cb844cbed3710bd7",
+      "title": "Teacher Training for Grade One Second Term to Be Completed by Mid Next Month",
+      "sent_at": "2026-04-22T05:30:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/ugc-to-accept-university-admission-applications-from-27th-three-week-window-announced",
+      "content_hash": "47161fa21cb6dd0332e7d53fd10bdad49ad4b2bf423fba9a933de57cc4395e89",
+      "title": "UGC to Accept University Admission Applications from 27th, Three-Week Window Announced",
+      "sent_at": "2026-04-22T05:30:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/walk-for-peace-commences-from-dambulla",
+      "content_hash": "8a0ea404e924a2be545262f54d723ab886e746cf0c6becfdaad5bff68c15fcee",
+      "title": "Walk For Peace Commences From Dambulla",
+      "sent_at": "2026-04-22T05:30:09Z"
     }
   ]
 }
