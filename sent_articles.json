@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/15/additional-buses-and-trains-deployed-for-passengers-returning-to-colombo",
-      "content_hash": "d363db449ef6a93d77bf75c5bf828c2ed859da582b9ffdeb928d06dae729c92c",
-      "title": "Additional Buses And Trains Deployed For Passengers Returning To Colombo",
-      "sent_at": "2026-04-15T02:53:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/all-state-institutions-to-remain-open-until-april-17",
-      "content_hash": "a4eafcf2444d853064649e2bac242b4c11b9ca76b57fd50caf7f2e64ac2c7808",
-      "title": "All state institutions to remain open until April 17",
-      "sent_at": "2026-04-15T02:53:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/legendary-singer-antoinette-de-alwis-passes-away",
-      "content_hash": "f1d08c1cfca450a45a68ef46e008dadd7dba0a0a22bb978c07a069bcefd1c09d",
-      "title": "Legendary Singer Antoinette De Alwis Passes Away",
-      "sent_at": "2026-04-15T02:53:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/15/sri-lanka-marks-traditional-oil-anointing-ritual",
-      "content_hash": "25854637d416e5a95beb28a809693c9b0240711075a1a2ae2c9a38c559330c71",
-      "title": "Sri Lanka Marks Traditional Oil Anointing Ritual",
-      "sent_at": "2026-04-15T02:53:15Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/15/g24-warns-debt-payments-are-draining-developing-economies-as-aid-falls",
       "content_hash": "e2993aa9105aff9894b02304fe5131b25c5066c1dd3334ac44b9ebfccf945b79",
       "title": "G24 Warns Debt Payments Are Draining Developing Economies as Aid Falls",
@@ -875,6 +851,12 @@
       "content_hash": "c95bc67b0899f6fffb477a3b2e492796b84a0f41c37890c8c1e7f7dc7fdfa1f9",
       "title": "Daren Tang to Continue as WIPO Director General Through 2032 Term",
       "sent_at": "2026-04-21T17:09:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/22/automated-expressway-payment-system-to-be-launched-by-year-end-to-ease-congestion",
+      "content_hash": "f028c5327b0c8bce418b80378c35de19e807ef5d70694bff96bfd64c1cc2cd78",
+      "title": "Automated Expressway Payment System to be Launched by Year-End to Ease Congestion",
+      "sent_at": "2026-04-22T02:58:44Z"
     }
   ]
 }
