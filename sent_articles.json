@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/16/chinese-nationals-arrested-with-illegally-imported-electronics",
-      "content_hash": "1a616fc9427b0a163dcb725ec7382442c794eef7e51b1f410bc4eb6fe1af09c8",
-      "title": "Chinese Nationals Arrested with Illegally Imported Electronics",
-      "sent_at": "2026-04-16T08:00:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/fatal-boat-collision-and-drowning-accident-claim-lives-of-two-individuals",
-      "content_hash": "9badb7e41f9bc68731600109f77af772ee14a3c86fbbcfd0e1b2efb245dcd1de",
-      "title": "Fatal Boat Collision and Drowning Accident Claim Lives of Two Individuals",
-      "sent_at": "2026-04-16T08:00:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/fresh-consignment-of-crude-oil-to-reach-sri-lanka-tomorrow",
-      "content_hash": "d38638a9fb8abdbd3cc78723316468838cb31df305f78b0ecb1182f319dfb89b",
-      "title": "Fresh Consignment of Crude Oil to Reach Sri Lanka Tomorrow",
-      "sent_at": "2026-04-16T08:00:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/indonesian-navy-training-ship-kri-bima-suci-arrives",
-      "content_hash": "d3571a94f1663375dfceccd14a1461c56eb256a368921d66d5dc65e4392e2ea8",
-      "title": "Indonesian Navy Training Ship KRI Bima Suci Arrives",
-      "sent_at": "2026-04-16T08:01:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/legal-action-against-nearly-400-traders-during-new-year-season",
-      "content_hash": "f3632dd60db202d5e3644b44796f9bb8da9bc891bd099a9502e0e452abf12e50",
-      "title": "Legal Action Against Nearly 400 Traders During New Year Season",
-      "sent_at": "2026-04-16T08:01:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/sri-lanka-among-countries-closing-out-complex-debt-restructurings",
-      "content_hash": "71b892aed2fd872619bd75594f64c404a529bf61a368a42385f095c9e2f7bc15",
-      "title": "Sri Lanka Among Countries Closing Out Complex Debt Restructurings",
-      "sent_at": "2026-04-16T08:01:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/third-body-recovered-following-tragic-drowning-in-mahaweli-river",
-      "content_hash": "aa237739444b82f0baf812aae8a9a185c1a15b7c2d4cf6097036fa8d541b9086",
-      "title": "Third Body Recovered Following Tragic Drowning in Mahaweli River",
-      "sent_at": "2026-04-16T08:01:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/16/ex-mp-kathriarachchi-taken-into-custody-as-t56-ammo-found-at-residence",
       "content_hash": "926c92b6a8270d159c461e769551df121b5b39686c83cdc04d1f004536aae721",
       "title": "Ex-MP Kathriarachchi Taken Into Custody as T56 Ammo Found at Residence",
@@ -839,6 +797,42 @@
       "content_hash": "1c41290eb22bd5e8bb398710e78d0670ab48974e0a1416048b87168ff8396129",
       "title": "Walk For Peace Draws Thousands Along Route to Sacred Tooth Relic Temple",
       "sent_at": "2026-04-23T06:08:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/australian-mission-confirms-investigation-into-owed-payments",
+      "content_hash": "31347acca0bf7a48a88273f6e879048ed34f5e7367a934dc3afa50d74ebffcd8",
+      "title": "Australian Mission Confirms Investigation Into Owed Payments",
+      "sent_at": "2026-04-23T08:54:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/body-of-murdered-19%e2%80%91year%e2%80%91old-found-in-mattakkuliya",
+      "content_hash": "34efc4a40cfbd851eac5d8424a7ba627c41bff85045675bb27ca6debe2e5a991",
+      "title": "Body of Murdered 19‑Year‑Old Found In Mattakkuliya",
+      "sent_at": "2026-04-23T08:54:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/court-sets-may-29-hearing-in-rs-70-mn-krrish-case",
+      "content_hash": "2aebbe40f637916d7c987ccda803402e4998910c1794fbdd86b1d24bf4f919f0",
+      "title": "Court Sets May 29 Hearing in Rs. 70 Mn Krrish Case",
+      "sent_at": "2026-04-23T08:54:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/hambantota-port-records-highest-single%e2%80%91vessel-container-throughput",
+      "content_hash": "896007ed2a80ada1c3aa4f0fda1dfb233133e59dfcb201578ce5d114b443efdc",
+      "title": "Hambantota Port Records Highest Single‑Vessel Container Throughput",
+      "sent_at": "2026-04-23T08:54:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/nuwan-thushara-drops-legal-action-against-slc",
+      "content_hash": "b02351cdcb21533bfc64ad7d9bf7eaca2fba1da04611dc071695225ee85d7d79",
+      "title": "Nuwan Thushara Drops Legal Action Against SLC",
+      "sent_at": "2026-04-23T08:54:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/sri-lanka-clarifies-treasury-payment-cyber-fraud-confirms-hackers-intercepted-emails",
+      "content_hash": "bf93b19829f2923cd6b6bfd9befa2345187e02f63f77b2ddc0dec42905f63a9a",
+      "title": "Sri Lanka Clarifies Treasury Payment Cyber Fraud; Confirms Hackers Intercepted Emails",
+      "sent_at": "2026-04-23T08:54:21Z"
     }
   ]
 }
