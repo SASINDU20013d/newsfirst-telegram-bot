@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/16/286-a-barrel-reports-say-sri-lanka-paying-a-heavy-price-as-global-energy-crisis-escalates",
-      "content_hash": "e7451b27881c77c5eb33dc55ea227296fd425e8abc478367cd82a75d6fe085a9",
-      "title": "$286 a Barrel : Reports Say Sri Lanka Paying A Heavy Price As Global Energy Crisis Escalates",
-      "sent_at": "2026-04-16T11:08:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/police-warn-of-strict-action-against-substandard-number-plates",
-      "content_hash": "16de5407243dca2a9c97708e06008ccb95b4ad6176fdf796cc1e8d9fd9b15de4",
-      "title": "Police Warn of Strict Action Against Substandard Number Plates",
-      "sent_at": "2026-04-16T11:08:14Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/16/pakistan%e2%80%99s-dialogue-first-diplomacy-gains-global-recognition",
       "content_hash": "23246dac31fa991e33884f46349ae1eef0d2047e6a8c33ad0ec68f46232424f5",
       "title": "Pakistan’s Dialogue-First Diplomacy Gains Global Recognition",
@@ -809,6 +797,24 @@
       "content_hash": "bf93b19829f2923cd6b6bfd9befa2345187e02f63f77b2ddc0dec42905f63a9a",
       "title": "Sri Lanka Clarifies Treasury Payment Cyber Fraud; Confirms Hackers Intercepted Emails",
       "sent_at": "2026-04-23T08:54:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/court-sentences-man-to-death-after-18%e2%80%91year-trial-over-police-killing",
+      "content_hash": "39921313a031beb9224314eaaf528fd6729b4339fb7027d178d229a82780974e",
+      "title": "Court Sentences Man to Death After 18‑Year Trial Over Police Killing",
+      "sent_at": "2026-04-23T12:00:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/sri-lanka-confirms-hackers-diverted-usd-2-5-million-meant-for-australian-debt-repayment",
+      "content_hash": "e067c4d248f7743ec8164eaca617bae0fde1f2fb2aa583411ea020debbfc2297",
+      "title": "Sri Lanka Confirms Hackers Diverted USD 2.5 Million Meant for Australian Debt Repayment",
+      "sent_at": "2026-04-23T12:00:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/worker-remittances-to-sri-lanka-surge-26-5-in-q1",
+      "content_hash": "89a7cec197af6ece79819ed43616df39a0ca998f67a00882485b90a067f24d90",
+      "title": "Worker Remittances to Sri Lanka Surge 26.5% in Q1",
+      "sent_at": "2026-04-23T12:00:29Z"
     }
   ]
 }
