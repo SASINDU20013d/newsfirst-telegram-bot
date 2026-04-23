@@ -1,90 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/16/domestic-gas-distribution-resumes-today-following-new-year-break",
-      "content_hash": "eef924c3b0e8357bf15a1f1ca5d87cfd5ea91d15d42231dabac0b9d0ea26f63f",
-      "title": "Domestic Gas Distribution Resumes Today Following New Year Break",
-      "sent_at": "2026-04-16T03:19:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/expressway-revenue-surpasses-rs-220-million-during-festive-period",
-      "content_hash": "6be23aa598d299d33b56ba0f99d1a5be48e477b34c05d9a99a038a9a1c447961",
-      "title": "Expressway Revenue Surpasses Rs. 220 Million During Festive Period",
-      "sent_at": "2026-04-16T03:19:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/lanka-coal-company-head-office-remains-cordoned-off-by-cid",
-      "content_hash": "1e7fdae54db171b27d982df7603a856b7bc83b71c9f2f2e627887bc12a64a116",
-      "title": "Lanka Coal Company Head Office Remains Cordoned Off by CID",
-      "sent_at": "2026-04-16T03:20:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/ministry-of-education-to-develop-school-playgrounds-across-all-districts",
-      "content_hash": "e1129e2a86955382f65eb27c985e169aa9d16bae60782160a668ab8f5d211c53",
-      "title": "Ministry of Education to Develop School Playgrounds Across All Districts",
-      "sent_at": "2026-04-16T03:20:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/office-trains-resume-regular-schedule-special-services-continue",
-      "content_hash": "6630daac47ef2f17cba215c74dd81b909c8c0777209978d11ffbdc17a09a1f81",
-      "title": "Office Trains Resume Regular Schedule; Special Services Continue",
-      "sent_at": "2026-04-16T03:20:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/police-public-grievance-days-postponed-due-to-new-year",
-      "content_hash": "84b288733e3f169d0bd9cf6d1994d880693f4440fc5c91b167512ce9e3014b9d",
-      "title": "Police Public Grievance Days Postponed Due to New Year",
-      "sent_at": "2026-04-16T03:20:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/sltb-records-landmark-revenue-during-new-year-season",
-      "content_hash": "ad80b4f3f1ebe0490192bf4d14a137464131815ce18549f24581e797b802c585",
-      "title": "SLTB Records Landmark Revenue During New Year Season",
-      "sent_at": "2026-04-16T03:20:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/china-pushes-for-safe-navigation-in-strait-of-hormuz",
-      "content_hash": "83c28f2636ea819c7c2b28bf969ac2d41743e48f1774799b18305b97b60e1590",
-      "title": "China Pushes for Safe Navigation in Strait of Hormuz",
-      "sent_at": "2026-04-16T06:04:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/first-israel-lebanon-leader-communication-in-34-years",
-      "content_hash": "b7c87db3e5bdb6c426faabd32c2c174bc4811fb18ab7bd2613c4fd57cc4745ad",
-      "title": "First Israel, Lebanon Leader Communication in 34 Years",
-      "sent_at": "2026-04-16T06:04:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/global-food-insecurity-set-to-surge-as-war-fallout-spreads",
-      "content_hash": "fce7ccae93690dad8fb345cb32caf9f2ffed61b50e0f2a5c49f17f75862e82e9",
-      "title": "Global Food Insecurity Set to Surge as War Fallout Spreads",
-      "sent_at": "2026-04-16T06:04:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/imf-urges-energy-saving-measures-warns-of-worsening-supply-disruptions",
-      "content_hash": "bb485ca5a94d55d8a9b18cbec9da0386f225a8aeaf7c673a524f3effdbf75341",
-      "title": "IMF Urges Energy-Saving Measures & Warns of Worsening Supply Disruptions",
-      "sent_at": "2026-04-16T06:04:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/japan-unveils-10-billion-energy-support-plan-as-sri-lanka-asia-face-oil-price-shock",
-      "content_hash": "ebb8428eef2832766c9ee7453b97e189a7691d7c1c731869241316a5a192954c",
-      "title": "Japan Unveils $10 Billion Energy Support Plan as Sri Lanka, Asia Face Oil Price Shock",
-      "sent_at": "2026-04-16T06:04:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/no-formal-ceasefire-extension-requested-yet-white-house",
-      "content_hash": "911e851af9973586d5077b7673e8b4261efd5a2276224d2542802c86a57a6d5d",
-      "title": "No Formal Ceasefire Extension Requested Yet: White House",
-      "sent_at": "2026-04-16T06:04:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/16/tough-times-ahead-if-middle-east-conflict-drags-on-warns-imf-chief",
-      "content_hash": "f44991a9ec3266b7e58bb4eb770085d594f41f1bc5a5b0ccf34d8e60439768b4",
-      "title": "Tough Times Ahead if Middle East Conflict Drags On, Warns IMF Chief",
-      "sent_at": "2026-04-16T06:04:54Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/16/chinese-nationals-arrested-with-illegally-imported-electronics",
       "content_hash": "1a616fc9427b0a163dcb725ec7382442c794eef7e51b1f410bc4eb6fe1af09c8",
       "title": "Chinese Nationals Arrested with Illegally Imported Electronics",
@@ -881,6 +797,48 @@
       "content_hash": "592c98c74fca3fa8a7517a7cf14653da642940e483ee298c719a03288ce6c8ae",
       "title": "Sri Lanka’s GDP Per Capita Surpasses $5,000 In Historic Economic Turnaround",
       "sent_at": "2026-04-23T03:17:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/cpc-confirms-the-arrival-of-another-diesel-shipment-on-april-27",
+      "content_hash": "cffeda845a03d19efda09fbad1ee37ff46371213de1905b77417eb265e408a34",
+      "title": "CPC Confirms the Arrival of Another Diesel Shipment on April 27",
+      "sent_at": "2026-04-23T06:08:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/france-signals-positive-outlook-on-sri-lanka%e2%80%99s-gsp-application",
+      "content_hash": "25f3444cdc4f19077a904d45a2806f1bf92a32be75ccd6c6d3d092605239bd71",
+      "title": "France Signals Positive Outlook on Sri Lanka’s GSP+ Application",
+      "sent_at": "2026-04-23T06:08:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/iran-claims-seizure-of-two-vessels-in-strategic-waterway",
+      "content_hash": "5dd3dc278933721d7fc7ec4ea509d8fab3a3b977cdb05371ac4da9cc5f649ac0",
+      "title": "Iran Claims Seizure of Two Vessels in Strategic Waterway",
+      "sent_at": "2026-04-23T06:08:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/iran-says-us-israeli-actions-are-root-cause-of-persian-gulf-insecurity",
+      "content_hash": "65654679aa2863c08f9887c03e55a8cb278ed4e9bb8ab4b0713428d9bfca0f1a",
+      "title": "Iran Says US, Israeli Actions Are Root Cause of Persian Gulf Insecurity",
+      "sent_at": "2026-04-23T06:08:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/public-invited-to-submit-information-on-coal-deals-to-presidential-commission",
+      "content_hash": "2d1d2edfb07d3400fa9401d75d04399f4100064df4823181c2298238f85d6ffa",
+      "title": "Public Invited to Submit Information on Coal Deals to Presidential Commission",
+      "sent_at": "2026-04-23T06:08:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/trcsl-to-consider-minister-k-d-lal-kantha%e2%80%99s-complaint-against-tv-channel",
+      "content_hash": "a0353f9c8a261dec352de6302f8de474989a73e62c6c4dd2d35fd66580db8d2f",
+      "title": "TRCSL to Consider Minister K.D. Lal Kantha’s Complaint Against TV Channel",
+      "sent_at": "2026-04-23T06:08:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/23/walk-for-peace-draws-thousands-along-route-to-sacred-tooth-relic-temple",
+      "content_hash": "1c41290eb22bd5e8bb398710e78d0670ab48974e0a1416048b87168ff8396129",
+      "title": "Walk For Peace Draws Thousands Along Route to Sacred Tooth Relic Temple",
+      "sent_at": "2026-04-23T06:08:30Z"
     }
   ]
 }
