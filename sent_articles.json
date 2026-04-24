@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/17/buddhist-monks-arrive-in-sri-lanka-ahead-of-historic-walk-for-peace",
-      "content_hash": "7534b71458df25e2abe8e70a72a6135470fe7ab33de79ef2d78f74d7fd5f7465",
-      "title": "Buddhist Monks Arrive in Sri Lanka Ahead of Historic Walk For Peace",
-      "sent_at": "2026-04-17T09:23:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/grade-1-books-distribution-begins-under-new-education-reforms",
-      "content_hash": "84407980990e41cd7662ee6f0ca1a1738e3c821559adfdd2674c61f729828554",
-      "title": "Grade 1 Books Distribution Begins Under New Education Reforms",
-      "sent_at": "2026-04-17T09:23:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/iran-stands-%e2%80%98unconquerable-%e2%80%99-says-army-chief",
-      "content_hash": "04d8dbf975b06e6465c7e6b525c68fab3f58ac9dcfe7c1c1ba6cff9f42691916",
-      "title": "Iran Stands ‘Unconquerable,’ Says Army Chief",
-      "sent_at": "2026-04-17T09:23:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/pope-warns-world-being-ravaged-by-handful-of-tyrants",
-      "content_hash": "f4cad1237acc6f13c19635a2a112a7ef67675dd645b396bdbbb722f7adb3a0cd",
-      "title": "Pope Warns World Being 'Ravaged by Handful of Tyrants'",
-      "sent_at": "2026-04-17T09:23:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/sri-lanka-energy-minister-and-secretary-resign-to-ensure-independent-coal-probe",
-      "content_hash": "6d0b2e45578ff2c6e5b833e0214d646f6ec9e5ee0e8c60817091e49efcf0e414",
-      "title": "Sri Lanka Energy Minister and Secretary Resign to Ensure Independent Coal Probe",
-      "sent_at": "2026-04-17T09:23:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/17/president-reviews-%e2%80%98clean-sri-lanka%e2%80%99-plan-for-2026",
       "content_hash": "e26e7596a3c47486cde415e64973442c87ab4ecc152eee2f866cc7541ba76e07",
       "title": "President Reviews ‘Clean Sri Lanka’ Plan for 2026",
@@ -815,6 +785,12 @@
       "content_hash": "a6dbea4531028bbfd4300d594cd941ab9887f659cab46ef9b60350f89ea26e03",
       "title": "Sri Lanka Holds UN Talks on Proposed Gang Suppression Force Deployment to Haiti",
       "sent_at": "2026-04-24T09:01:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/special-bus-services-deployed-as-coastal-train-services-remain-disrupted",
+      "content_hash": "692809c0540bcdff18fb7858ec6fda778fea7c8b49f28a86f43074862e242f41",
+      "title": "Special Bus Services Deployed as Coastal Train Services Remain Disrupted",
+      "sent_at": "2026-04-24T10:41:08Z"
     }
   ]
 }
