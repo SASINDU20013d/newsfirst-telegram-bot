@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/17/foreign-vessel-linked-to-massive-heroin-transfer-off-sri-lanka%e2%80%99s-southern-coast",
-      "content_hash": "96ea9099ae4957acb55e73e024f701d8d1bbf33cf12a3634b82269d8a0332994",
-      "title": "Foreign Vessel Linked to Massive Heroin Transfer off Sri Lanka’s Southern Coast",
-      "sent_at": "2026-04-17T05:32:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/heroin-worth-over-rs-4000-million-recovered-from-multiday-fishing-vessel",
-      "content_hash": "19d0faee3a127399a41b60ad55a6d92963ad23d7bfa1bde1aa785227c03a21bf",
-      "title": "Heroin Worth Over Rs. 4000 Million Recovered from Multiday Fishing Vessel",
-      "sent_at": "2026-04-17T05:32:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/imf-warns-of-deepening-global-shock-after-hormuz-crisis",
-      "content_hash": "70a8e19b3a5ad23b5cd5025a089c53bc66d9af806375c48668d3a522a63031bc",
-      "title": "IMF Warns of Deepening Global Shock After Hormuz Crisis",
-      "sent_at": "2026-04-17T05:32:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/shots-fired-at-three-wheeler-carrying-podi-patty",
-      "content_hash": "975c3cb80e346b30f80ef0ae607a370521d6fe251d50dedf8874cb74405c01fa",
-      "title": "Shots Fired at Three-Wheeler Carrying 'Podi Patty'",
-      "sent_at": "2026-04-17T05:32:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/walk-for-peace-comes-to-the-island-of-peace-sri-lanka-to-host-global-buddhist-pilgrimage-with-maharaja-media-as-partner",
-      "content_hash": "186413d206b06cf16f76be7157e5710fb8b406bfb5de0f98b81468f3cb550907",
-      "title": "Walk for Peace Comes to the Island of Peace: Sri Lanka to Host Global Buddhist Pilgrimage with Maharaja Media as Partner",
-      "sent_at": "2026-04-17T05:32:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/17/death-toll-rises-to-six-in-deduru-oya-drowning-incident",
       "content_hash": "6f7f496a7c33264c21f13b4e6a81e9af412d2627a3cb0db0c597e72c6d245fe2",
       "title": "Death Toll Rises To Six In Deduru Oya Drowning Incident",
@@ -815,6 +785,24 @@
       "content_hash": "1730d7713101d20bceb613a693f01286cac0004549d771d5623b60a0a20ec5c6",
       "title": "World Immunization Week Begins Today",
       "sent_at": "2026-04-24T03:19:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/sagarika-train-derails-at-wadduwa-coastal-operations-restricted",
+      "content_hash": "7df9dc33341d45dfcfc47c7730c68972a27b785e524eab0865e839a045d0e87b",
+      "title": "Sagarika Train Derails at Wadduwa; Coastal Operations Restricted",
+      "sent_at": "2026-04-24T06:10:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/suspect-arrested-with-large-stock-of-explosives-at-southern-expressway-entry-point",
+      "content_hash": "a252bbe33d981164cd167a337455cc1f9ae42e2253abb10ae96178385c1f3512",
+      "title": "Suspect Arrested With Large Stock Of Explosives At Southern Expressway Entry Point",
+      "sent_at": "2026-04-24T06:10:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/thousands-gather-in-kandy-for-walk-for-peace-as-journey-continues-from-dalada-maligawa-to-kegalle",
+      "content_hash": "18e88648de56a48fd502dc0296329988ad0d2397ad1a9e0d907445802ea0472f",
+      "title": "Thousands Gather in Kandy For 'Walk For Peace' As Journey Continues from Dalada Maligawa to Kegalle",
+      "sent_at": "2026-04-24T06:10:36Z"
     }
   ]
 }
