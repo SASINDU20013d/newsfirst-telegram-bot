@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/17/cpc-reinstates-qr-system-for-petrol-vehicles",
-      "content_hash": "4a480d43be868129ecf68529147790dd4ad271ab2d5bf798759d4e48126dccf9",
-      "title": "CPC Reinstates QR System for Petrol Vehicles",
-      "sent_at": "2026-04-17T13:27:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/iran-declares-strait-of-hormuz-fully-open-trump-says-thank-you",
-      "content_hash": "71700507862a3b29b004f2b6651d6261e72699e0efbcf8d90e5d1115f3755211",
-      "title": "Iran Declares Strait of Hormuz Fully Open; Trump Says 'Thank You'",
-      "sent_at": "2026-04-17T13:27:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/president-appoints-g-m-r-d-aponsu-as-new-energy-secretary",
-      "content_hash": "72a44aa58838ea8098b414afa35947ac56c0f3df85211ad97a7590344df5e22a",
-      "title": "President Appoints G.M.R.D. Aponsu As New Energy Secretary",
-      "sent_at": "2026-04-17T13:27:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/17/court-extends-remand-of-ex%e2%80%91srilankan-airlines-ceo",
       "content_hash": "796aecac52da311ea3df418409d2a46d2fb73f20f3a3bd1c3e3b8341cc8dd3b4",
       "title": "Court Extends Remand of Ex‑SriLankan Airlines CEO",
@@ -785,6 +767,18 @@
       "content_hash": "c191a9f393e59d3fb436c842858193d8f59cf3f9fcef8defab274ddb1221b871",
       "title": "Police Suspend Use of Manamperi’s Luxury Vehicle",
       "sent_at": "2026-04-24T12:00:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/court-turns-down-pujith-jayasundara%e2%80%99s-request",
+      "content_hash": "40b8780f9d16479c797ef202296b9ba27875bf6f1153d16abd59eb00476c4748",
+      "title": "Court Turns Down Pujith Jayasundara’s Request",
+      "sent_at": "2026-04-24T13:45:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/witness-threats-emerge-in-easter-sunday-attacks-case",
+      "content_hash": "cf8cd9bfedc2f410ad733cef6c29586674a54493699db97ba98fe1c6fedf1469",
+      "title": "Witness Threats Emerge in Easter Sunday Attacks Case",
+      "sent_at": "2026-04-24T13:45:24Z"
     }
   ]
 }
