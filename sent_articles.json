@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/17/president-reviews-%e2%80%98clean-sri-lanka%e2%80%99-plan-for-2026",
-      "content_hash": "e26e7596a3c47486cde415e64973442c87ab4ecc152eee2f866cc7541ba76e07",
-      "title": "President Reviews ‘Clean Sri Lanka’ Plan for 2026",
-      "sent_at": "2026-04-17T11:01:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/imf-reaffirms-support-for-sri-lanka-commends-progress-amid-global-headwinds",
-      "content_hash": "bc1bb87d082061011ce4f7c023c2ff4bfda925099233b64a2ba6445928297a0f",
-      "title": "IMF Reaffirms Support for Sri Lanka, Commends Progress Amid Global Headwinds",
-      "sent_at": "2026-04-17T11:55:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/17/cpc-reinstates-qr-system-for-petrol-vehicles",
       "content_hash": "4a480d43be868129ecf68529147790dd4ad271ab2d5bf798759d4e48126dccf9",
       "title": "CPC Reinstates QR System for Petrol Vehicles",
@@ -791,6 +779,12 @@
       "content_hash": "692809c0540bcdff18fb7858ec6fda778fea7c8b49f28a86f43074862e242f41",
       "title": "Special Bus Services Deployed as Coastal Train Services Remain Disrupted",
       "sent_at": "2026-04-24T10:41:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/police-suspend-use-of-manamperi%e2%80%99s-luxury-vehicle",
+      "content_hash": "c191a9f393e59d3fb436c842858193d8f59cf3f9fcef8defab274ddb1221b871",
+      "title": "Police Suspend Use of Manamperi’s Luxury Vehicle",
+      "sent_at": "2026-04-24T12:00:13Z"
     }
   ]
 }
