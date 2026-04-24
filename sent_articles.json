@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/17/first-crude-oil-tanker-arrives-after-middle-east-conflicts",
-      "content_hash": "5ad210a331cab1f1dde5513f21e4f9ca241ddbd33eba92f5371f8d534ee75f2d",
-      "title": "First Crude Oil Tanker Arrives After Middle East Conflicts",
-      "sent_at": "2026-04-17T02:55:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/navy-seizes-drug-smuggling-vessel-off-southern-coast",
-      "content_hash": "14a1960680feb6b1ff35edf0faab5cf4865beb04f0e00818085a02bf8a471c78",
-      "title": "Navy Seizes Drug Smuggling Vessel Off Southern Coast",
-      "sent_at": "2026-04-17T02:55:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/registration-of-persons-services-disrupted-due-to-system-breakdown",
-      "content_hash": "60b21c45e9b04bbfe0231e83e7230e095f7110df100551a56763736f9e71415b",
-      "title": "Registration Of Persons Services Disrupted Due To System Breakdown",
-      "sent_at": "2026-04-17T02:55:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/search-operations-continue-after-deduru-oya-drowning-incident",
-      "content_hash": "56213f60144e4bf7932441e7e72b48a3b0e7e54e8e931927688177ca982ecb59",
-      "title": "Search Operations Continue After Deduru Oya Drowning Incident",
-      "sent_at": "2026-04-17T02:55:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/17/foreign-vessel-linked-to-massive-heroin-transfer-off-sri-lanka%e2%80%99s-southern-coast",
       "content_hash": "96ea9099ae4957acb55e73e024f701d8d1bbf33cf12a3634b82269d8a0332994",
       "title": "Foreign Vessel Linked to Massive Heroin Transfer off Sri Lanka’s Southern Coast",
@@ -809,6 +785,36 @@
       "content_hash": "fd992ee0999196211b5084432e653fb4d54bbc94d03bfddfea8ba4dc20cf1e1a",
       "title": "US Forces Interdict Iranian Oil Tanker in Indian Ocean",
       "sent_at": "2026-04-23T13:54:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/cid-investigates-us-2-5-million-cyber-theft-from-finance-ministry-system",
+      "content_hash": "52ddaa47acc892bee9fcd19845f76aa49eaeffeaa7f888d552c35c8cbb544e34",
+      "title": "CID Investigates US$2.5 Million Cyber Theft From Finance Ministry System",
+      "sent_at": "2026-04-24T03:19:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/deadline-for-gce-advanced-level-exam-applications-ends-tonight",
+      "content_hash": "e15f728f427920d92af2a09f6b42fe57ca29324a034b6dfd1911ddb50214f8fe",
+      "title": "Deadline For GCE Advanced Level Exam Applications Ends Tonight",
+      "sent_at": "2026-04-24T03:19:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/government-to-revise-process-for-leasing-state-land-for-cultivation",
+      "content_hash": "c1bc33791cbcab29c5bcdc67383a2d5fdb40d1bfed443f2d7ac78c84b028a939",
+      "title": "Government To Revise Process For Leasing State Land For Cultivation",
+      "sent_at": "2026-04-24T03:19:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/two-forests-to-be-declared-as-reserves-during-walk-for-peace-in-the-island-of-peace",
+      "content_hash": "3ad29f3227be7b202312daf3705c21a714a6b6029877f91ed794771702b42ffb",
+      "title": "Two Forests To Be Declared As Reserves During Walk For Peace In The Island Of Peace",
+      "sent_at": "2026-04-24T03:19:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/world-immunization-week-begins-today",
+      "content_hash": "1730d7713101d20bceb613a693f01286cac0004549d771d5623b60a0a20ec5c6",
+      "title": "World Immunization Week Begins Today",
+      "sent_at": "2026-04-24T03:19:44Z"
     }
   ]
 }
