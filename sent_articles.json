@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/17/death-toll-rises-to-six-in-deduru-oya-drowning-incident",
-      "content_hash": "6f7f496a7c33264c21f13b4e6a81e9af412d2627a3cb0db0c597e72c6d245fe2",
-      "title": "Death Toll Rises To Six In Deduru Oya Drowning Incident",
-      "sent_at": "2026-04-17T07:55:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/indian-vp-to-make-historic-first-bilateral-visit-to-sri-lanka",
-      "content_hash": "53b9d5c8dfd5704a841525869d0268fdcfd705037335cba131e3608bc39f44e5",
-      "title": "Indian VP to Make Historic First Bilateral Visit to Sri Lanka",
-      "sent_at": "2026-04-17T07:55:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/special-pcoi-with-full-powers-to-all-probe-coal-transactions",
-      "content_hash": "01356e4f9ebae8bb4d453ede389c5772e1307530e3485e9ef0ddbc419ee8f2fd",
-      "title": "Special PCOI With Full Powers To All Probe Coal Transactions",
-      "sent_at": "2026-04-17T07:55:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/17/srilankan-airlines-suspends-country-manager-after-bangkok-airport-altercation",
-      "content_hash": "2a2bba82a32f8f2b3b642b145ee93eb71734767c91c3786c431c23b5398d7859",
-      "title": "SriLankan Airlines Suspends Country Manager After Bangkok Airport Altercation",
-      "sent_at": "2026-04-17T07:55:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/17/buddhist-monks-arrive-in-sri-lanka-ahead-of-historic-walk-for-peace",
       "content_hash": "7534b71458df25e2abe8e70a72a6135470fe7ab33de79ef2d78f74d7fd5f7465",
       "title": "Buddhist Monks Arrive in Sri Lanka Ahead of Historic Walk For Peace",
@@ -803,6 +779,42 @@
       "content_hash": "18e88648de56a48fd502dc0296329988ad0d2397ad1a9e0d907445802ea0472f",
       "title": "Thousands Gather in Kandy For 'Walk For Peace' As Journey Continues from Dalada Maligawa to Kegalle",
       "sent_at": "2026-04-24T06:10:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/cid-records-statement-from-maithree-wickremesinghe",
+      "content_hash": "b0f40272a019a4563a880c850f841f0b0dc4e8c9a7d8d5c0dd0a17354681bb10",
+      "title": "CID Records Statement from Maithree Wickremesinghe",
+      "sent_at": "2026-04-24T09:01:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/dr-chamal-sanjeewa-resigns-as-ratmalana-electoral-organizer-of-sjb",
+      "content_hash": "914049717e7834ab8269647eaa07482d43d1e4b341d42b587d939a9ee6c04d69",
+      "title": "Dr. Chamal Sanjeewa Resigns As Ratmalana Electoral Organizer Of SJB",
+      "sent_at": "2026-04-24T09:01:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/former-minister-johnston-fernando-released-on-bail",
+      "content_hash": "c0637e622b6c8cacd52faef8486661af728c20fbdfe10580f75f54b2e4ccc5a2",
+      "title": "Former Minister Johnston Fernando Released on Bail",
+      "sent_at": "2026-04-24T09:01:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/imported-samba-rice-prices-drop-at-colombo-pettah-market",
+      "content_hash": "4b3519109492fcdb0e9021c080921813ca5f27b1cd4c3cad38245f432663fbee",
+      "title": "Imported Samba Rice Prices Drop At Colombo Pettah Market",
+      "sent_at": "2026-04-24T09:01:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/money-laundering-case-against-yoshitha-again-in-june",
+      "content_hash": "04de0dad5a3e865bf32122464f5953e5dad3cf2ab316bd892a9f603adf71d249",
+      "title": "Money Laundering Case Against Yoshitha Again in June",
+      "sent_at": "2026-04-24T09:01:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/24/sri-lanka-holds-un-talks-on-proposed-gang-suppression-force-deployment-to-haiti",
+      "content_hash": "a6dbea4531028bbfd4300d594cd941ab9887f659cab46ef9b60350f89ea26e03",
+      "title": "Sri Lanka Holds UN Talks on Proposed Gang Suppression Force Deployment to Haiti",
+      "sent_at": "2026-04-24T09:01:56Z"
     }
   ]
 }
