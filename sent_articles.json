@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/18/fishing-vessel-owner-arrested-over-161-kilograms-of-heroin-haul",
-      "content_hash": "0b4deaee1983c12d3d3d9a6b0ac773d04b9ac1096e787ed72ab1ff6b60bde99f",
-      "title": "Fishing Vessel Owner Arrested Over 161 Kilograms Of Heroin Haul",
-      "sent_at": "2026-04-18T02:46:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/ndb-to-appoint-international-firm-for-forensic-audit-following-fraud-allegations",
-      "content_hash": "62e28fae0dbab7209ecbe46da52234a9c8fc0c362c8ed9d04a2b1670610474f7",
-      "title": "NDB to Appoint International Firm for Forensic Audit Following Fraud Allegations",
-      "sent_at": "2026-04-18T02:47:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/oil-prices-plunge-as-iran-says-strait-of-hormuz-open-during-ceasefire",
-      "content_hash": "146ee1488b7a594f7cb0fca8ae50bef568d844a2f160e2e35a41b7ca32389907",
-      "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-      "sent_at": "2026-04-18T02:47:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/raju-brought-back-to-sri-lanka-after-arrest-in-india",
-      "content_hash": "67f5d79f6284c4234cdc67ba52f8dc0715eb63c06320e84b68814c1427c291fe",
-      "title": "''Raju'' brought back to Sri Lanka after arrest in India",
-      "sent_at": "2026-04-18T02:47:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/special-weekend-transport-services-deployed-for-post-new-year-return-commuters",
-      "content_hash": "20de71d90378faa69bf3841d91bd9259c4fc5f07de7cc070e827befe987c6806",
-      "title": "Special Weekend Transport Services Deployed for Post-New Year Return Commuters",
-      "sent_at": "2026-04-18T02:47:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/suspect-in-podi-patty-shooting-arrested-in-kosgoda",
-      "content_hash": "ccebcbfe8bc515806f304ec580655c6d08e987652fae14e6aaadac0f5ac6cdc3",
-      "title": "Suspect In Podi Patty Shooting Arrested In Kosgoda",
-      "sent_at": "2026-04-18T05:10:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/two-dead-in-mihintale-and-dehiowita-drowning-incidents",
-      "content_hash": "39826cf2529b7c917b4c2bed45910e9e5577a9fa6e38ab83c9a31ce6c61a8e2d",
-      "title": "Two Dead in Mihintale and Dehiowita Drowning Incidents",
-      "sent_at": "2026-04-18T05:10:41Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/18/cid-warns-of-rising-police-impersonation-cyber-scams",
       "content_hash": "a61ff442b386e22ca0327e7987762b635de5a46d1cfd08a1840656aca0374c14",
       "title": "CID Warns of Rising Police-Impersonation Cyber Scams",
@@ -761,6 +719,24 @@
       "content_hash": "cf8cd9bfedc2f410ad733cef6c29586674a54493699db97ba98fe1c6fedf1469",
       "title": "Witness Threats Emerge in Easter Sunday Attacks Case",
       "sent_at": "2026-04-24T13:45:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/25-000-metric-tons-of-urea-fertilizer-shipment-due-in-sri-lanka-early-next-month",
+      "content_hash": "e77f82ecccd396bdf576b292d11a7b82f1aa2209c4df75459b98669a8a6f722f",
+      "title": "25,000 Metric Tons of Urea Fertilizer Shipment Due in Sri Lanka Early Next Month",
+      "sent_at": "2026-04-25T05:16:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/global-walk-for-peace-enters-day-four-sacred-journey-continues-from-beligammana-to-tholangamuwa",
+      "content_hash": "37df0fa887888c5380ab499e55fa3443ca75b7ae6dd5e453b7b1a2baaab9191c",
+      "title": "Global Walk for Peace Enters Day Four, Sacred Journey Continues from Beligammana to Tholangamuwa",
+      "sent_at": "2026-04-25T05:16:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/sri-lanka-to-launch-first-digital-motor-insurance-card-from-may-1",
+      "content_hash": "6262657a51e0ffd78475964cef797d331b8c2ed1271292aa6ee8f43babe953da",
+      "title": "Sri Lanka to Launch First Digital Motor Insurance Card from May 1",
+      "sent_at": "2026-04-25T05:16:20Z"
     }
   ]
 }
