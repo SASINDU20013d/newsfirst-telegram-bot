@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/18/cid-warns-of-rising-police-impersonation-cyber-scams",
-      "content_hash": "a61ff442b386e22ca0327e7987762b635de5a46d1cfd08a1840656aca0374c14",
-      "title": "CID Warns of Rising Police-Impersonation Cyber Scams",
-      "sent_at": "2026-04-18T07:15:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/indian-vice-president-radhakrishnan-to-arrive-in-sri-lanka-tomorrow",
-      "content_hash": "5a2792212575d9ed10d616463ca5ee715e30add41d0826ddbdecdb8a7663e583",
-      "title": "Indian Vice President Radhakrishnan To Arrive In Sri Lanka Tomorrow",
-      "sent_at": "2026-04-18T07:15:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/qr-system-for-petrol-vehicles-to-be-reinstated-from-midnight-today",
-      "content_hash": "9ab828425fbd57d29f2cfa503711b11443c0f0ce9cb553913356faa396dc9679",
-      "title": "QR System For Petrol Vehicles To Be Reinstated From Midnight Today",
-      "sent_at": "2026-04-18T07:15:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/18/coal-probe-commission-to-begin-next-week",
       "content_hash": "48c283f2a29fa8b278d10ca53f71e609a506bf4466ffcac0073c499b9a529d45",
       "title": "Coal Probe Commission To Begin Next Week",
@@ -737,6 +719,18 @@
       "content_hash": "6262657a51e0ffd78475964cef797d331b8c2ed1271292aa6ee8f43babe953da",
       "title": "Sri Lanka to Launch First Digital Motor Insurance Card from May 1",
       "sent_at": "2026-04-25T05:16:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/38-6-million-worth-of-foreign-cigarettes-seized-at-katunayake-airport",
+      "content_hash": "1bd34a727564daf7f20ff02fc4b8e53b09d5c68f83b2e0cdad39ae9fa265eb3d",
+      "title": "38.6 Million Worth of Foreign Cigarettes Seized at Katunayake Airport",
+      "sent_at": "2026-04-25T07:24:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/passenger-arrested-at-bia-with-rs-25-5-million-worth-of-kush",
+      "content_hash": "c6871484db06174260377351847b47faf71ef843d38c7dc122a3bee5aee4a028",
+      "title": "Passenger Arrested at BIA with Rs. 25.5 Million Worth of Kush",
+      "sent_at": "2026-04-25T07:24:26Z"
     }
   ]
 }
