@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/18/coal-probe-commission-to-begin-next-week",
-      "content_hash": "48c283f2a29fa8b278d10ca53f71e609a506bf4466ffcac0073c499b9a529d45",
-      "title": "Coal Probe Commission To Begin Next Week",
-      "sent_at": "2026-04-18T09:52:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/18/iran-s-military-closes-strait-of-hormuz-again",
-      "content_hash": "12f7f7f89964ea547bb3215e806b21e77dbfd1b368e57d326245b91da6811d94",
-      "title": "Iran's Military Closes Strait of Hormuz Again",
-      "sent_at": "2026-04-18T09:52:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/18/minister-of-agriculture-seeks-rs-10-billion-in-compensation-against-media-outlet",
       "content_hash": "2caf284b8b459822f1bef2c9b0a0383ed91c495d7ea5ec4f5786a1f1219d90c0",
       "title": "Minister of Agriculture Seeks Rs 10 Billion In Compensation Against Media Outlet",
@@ -767,6 +755,12 @@
       "content_hash": "a761d6c2938421d6f65a3a3bf3a2cc4d1962b2140b0e00e03aab3f3f51651f00",
       "title": "Sri Lanka Fast-Tracks Cybersecurity Integration Across Key State Institutions",
       "sent_at": "2026-04-25T08:58:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/rs-38-6-million-worth-of-foreign-cigarettes-seized-at-katunayake-airport",
+      "content_hash": "9a78ea78871a60ac798fdc2f7d70fa28d896188e8097e987dcbe9fe65f20d7b2",
+      "title": "Rs.38.6 Million Worth of Foreign Cigarettes Seized at Katunayake Airport",
+      "sent_at": "2026-04-25T09:55:48Z"
     }
   ]
 }
