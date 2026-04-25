@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/18/plans-underway-to-arrest-criminals-abroad-igp",
-      "content_hash": "a3c0848a02d10f28e8dd3acd9dbf07787b5abf9a18fb9458b9d743efa952b90d",
-      "title": "Plans Underway To Arrest Criminals Abroad: IGP",
-      "sent_at": "2026-04-18T14:43:35Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/19/no-new-water-cuts-planned-as-water-supply-restored-nwsdb",
       "content_hash": "5818cbfc7200442ee0e55b561e1c43be1bb8b9a0f334fab8ea1929792c2ac8cf",
       "title": "No New Water Cuts Planned as Water Supply Restored - NWSDB",
@@ -767,6 +761,12 @@
       "content_hash": "60558f8a55b9b224f4dddca52b166d3e9373851b662b3b15b7ff5450e0857b53",
       "title": "Veteran Writer Tennyson Perera Passes Away",
       "sent_at": "2026-04-25T13:13:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/crude-oil-shipment-to-arrive-in-sri-lanka-tomorrow",
+      "content_hash": "d0d4a7c76bc0252e77d72a81a937dfe21d3a7070830b0e46e05247f9a54ffd29",
+      "title": "Crude Oil Shipment to Arrive in Sri Lanka Tomorrow",
+      "sent_at": "2026-04-25T14:47:41Z"
     }
   ]
 }
