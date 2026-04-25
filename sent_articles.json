@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/18/organized-criminal-karandeniye-raju-detained-for-72-hours",
-      "content_hash": "68b0cc2782f720506a2f74e1d02add2a389e98918cc8d3d2f95f58f26606b5a2",
-      "title": "Organized criminal Karandeniye Raju Detained For 72 Hours",
-      "sent_at": "2026-04-18T13:11:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/18/plans-underway-to-arrest-criminals-abroad-igp",
       "content_hash": "a3c0848a02d10f28e8dd3acd9dbf07787b5abf9a18fb9458b9d743efa952b90d",
       "title": "Plans Underway To Arrest Criminals Abroad: IGP",
@@ -761,6 +755,18 @@
       "content_hash": "6923e755c3af4efb83cdeceb896707d6e048a0153bc8e33456617d3b43b5fb01",
       "title": "Police Sergeant Dies Following Avurudu Festival Clash in Walasmulla",
       "sent_at": "2026-04-25T10:49:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/coastal-line-train-services-limited-to-a-single-track-after-wadduwa-derailment",
+      "content_hash": "b44fe1bb36345760fd9593fe0aea45dbc58ba2e49209dd3fe62a8ab30f0e450a",
+      "title": "Coastal Line Train Services Limited to a Single Track After Wadduwa Derailment",
+      "sent_at": "2026-04-25T13:13:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/25/veteran-writer-tennyson-perera-passes-away",
+      "content_hash": "60558f8a55b9b224f4dddca52b166d3e9373851b662b3b15b7ff5450e0857b53",
+      "title": "Veteran Writer Tennyson Perera Passes Away",
+      "sent_at": "2026-04-25T13:13:57Z"
     }
   ]
 }
