@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/19/cid-begins-review-of-file-relating-to-procurement-in-coal-investigation",
-      "content_hash": "4da7b9f2bca8ef2948f6824de8c074252989903df2bae7d41f21846888ac2f55",
-      "title": "CID begins review of file relating to Procurement in Coal Investigation",
-      "sent_at": "2026-04-19T13:10:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/19/former-mp-chandana-kathriarachchi-to-be-detained-for-30-days",
       "content_hash": "fb59587a2da2069c0440820b4c0273219d640b0babfcb1342b11b006efbc4c06",
       "title": "Former MP Chandana Kathriarachchi To Be Detained For 30 Days",
@@ -791,6 +785,12 @@
       "content_hash": "c97edb3a1f02cb79ed600bee6e802146f185d85394da062c874fa00e30c0ab7a",
       "title": "Monk Arrested as Main Suspect in Rs. 1.1 Billion Drug Smuggling Case Involving 22 at BIA",
       "sent_at": "2026-04-26T10:50:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/sawe-smashes-two-hour-barrier-to-make-history-in-london",
+      "content_hash": "cf60db43e84acc27b8e43f06c7fb89770862c4cb1a0430f44689077640c6dd02",
+      "title": "Sawe smashes two-hour barrier to make history in London",
+      "sent_at": "2026-04-26T13:15:52Z"
     }
   ]
 }
