@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/19/no-new-water-cuts-planned-as-water-supply-restored-nwsdb",
-      "content_hash": "5818cbfc7200442ee0e55b561e1c43be1bb8b9a0f334fab8ea1929792c2ac8cf",
-      "title": "No New Water Cuts Planned as Water Supply Restored - NWSDB",
-      "sent_at": "2026-04-19T03:21:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/qr-system-for-fuel-dsitribution-reinstated-from-today",
-      "content_hash": "0208404b2f9e1cf662b1b719f160ced52d4e4de88ef5dbd7f8f64bbd5bf90959",
-      "title": "QR System for Fuel Dsitribution Reinstated from Today",
-      "sent_at": "2026-04-19T03:21:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/sltb-earns-record-breaking-rs-1-billion-revenue-within-6-days",
-      "content_hash": "7f7f87b0ec56c3c9a52ef99427f38d0ff229605e330ac36261f8d0dcdbf4b439",
-      "title": "SLTB Earns Record-Breaking Rs. 1 Billion Revenue Within 6 Days",
-      "sent_at": "2026-04-19T03:21:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/special-transport-services-in-place-for-commuters-returning-to-colombo-after-new-year",
-      "content_hash": "ab16d8ceb66d1f3613d61b426f63aae0665c351111e0b5e335cd554ab5e167bd",
-      "title": "Special Transport Services In place for Commuters Returning to Colombo After New Year",
-      "sent_at": "2026-04-19T03:21:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/vice-president-of-india-c-p-radhakrishnan-to-arrive-in-sri-lanka-for-official-visit-today",
-      "content_hash": "86a2f53e583ccdb018835eabbf4e3e566e6ba8d6c97cd6ac9a377a0012c7f7f3",
-      "title": "Vice President of India C. P. Radhakrishnan to Arrive in Sri Lanka for Official Visit Today",
-      "sent_at": "2026-04-19T03:21:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/19/gunmen-open-fire-on-house-in-midigama-car-set-ablaze",
       "content_hash": "7835ed2df760ceae708f90c6c0d9d618a9ab46c7a955ae8cab9dae0d23093f48",
       "title": "Gunmen Open Fire on House in Midigama; Car Set Ablaze",
@@ -785,6 +755,24 @@
       "content_hash": "96f79ccf6d402cb0ae26b080c9bb11eb56be1ce746e7fee092f1af0d4a157610",
       "title": "Special US Delegation Heads to Pakistan for Talks Aimed at Diplomatically Resolving Issues with Iran",
       "sent_at": "2026-04-25T16:50:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/crude-oil-shipment-to-arrive-today-fuel-supplies-secured-until-late-june",
+      "content_hash": "810a807db86f2a517a751a5ab2c497a22ac98d1d80fd25558c768de2944f505f",
+      "title": "Crude Oil Shipment to Arrive Today; Fuel Supplies Secured Until Late June",
+      "sent_at": "2026-04-26T03:26:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/four-more-state-institutions-to-join-national-cyber-security-operations-center",
+      "content_hash": "82a10e0a8cc2539be08175ae4b95fa31a805b9d4bc2e7b4d5796dedb9f96ed57",
+      "title": "Four More State Institutions to Join National Cyber Security Operations Center",
+      "sent_at": "2026-04-26T03:26:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/global-walk-for-peace-enters-fifth-day-journey-begins-from-tholangamuwa-to-yakkala",
+      "content_hash": "1b1ae62c16efcbe8098eb8ed8737b3fcba3d1e936e9499c81ea6b793a79e454a",
+      "title": "Global Walk for Peace Enters Fifth Day; Journey Begins from Tholangamuwa to Yakkala",
+      "sent_at": "2026-04-26T03:26:38Z"
     }
   ]
 }
