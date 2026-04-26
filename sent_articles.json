@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/19/cid-seizes-all-procurement-files-related-to-coal-investigation",
-      "content_hash": "130f386785c58c3dc8ca130cb0b5f08b08d2825b30ddd23fa5330dbc3367cf5c",
-      "title": "CID Seizes All Procurement Files Related to Coal Investigation",
-      "sent_at": "2026-04-19T07:27:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/double-drowning-in-thambuththegama",
-      "content_hash": "c41be70ce87cd39b30f3b1e153afc6b8acef28e350c0a0784c8a2a5041723bf6",
-      "title": "Double Drowning in Thambuththegama",
-      "sent_at": "2026-04-19T07:27:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/indian-vice-president-meets-president-anura-kumara-dissanayake",
-      "content_hash": "bc74310f4b8a75f91a75907d252b5f2c165af28578b68a58d9b8f529093540f9",
-      "title": "Indian Vice President Meets President Anura Kumara Dissanayake",
-      "sent_at": "2026-04-19T07:27:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/toddler-fatally-struck-by-three-wheeler-in-mannar",
-      "content_hash": "74c387ec7360dbbd36dc7df972dc85fee584d2a7a6e79e06651280f7291d10eb",
-      "title": "Toddler Fatally Struck by Three-Wheeler in Mannar",
-      "sent_at": "2026-04-19T07:27:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/two-persons-die-in-a-fire-at-a-house-in-pamunuwa-maharagama",
-      "content_hash": "03100f86378c792063311babec57b8cd134572b426245df4744c4121a498fe02",
-      "title": "Two Persons Die in a Fire at a House in Pamunuwa, Maharagama",
-      "sent_at": "2026-04-19T07:27:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/19/indian-vice-president-holds-key-discussions-with-prime-minister-dr-harini-amarasuriya",
       "content_hash": "7fb3dececeb686dd1aa681ba6141e0ba121c61053114cb246deda642a5769823",
       "title": "Indian Vice President Holds Key Discussions With Prime MInister Dr. Harini Amarasuriya",
@@ -779,6 +749,42 @@
       "content_hash": "e9312041a20da4215abf6e0369a387fe7facefaad98f1d20ac9f2799e307c140",
       "title": "Rs. 3.6 Billion Allocated to Upgrade Primary Healthcare Across Nine Provinces",
       "sent_at": "2026-04-26T06:09:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/chaos-at-the-white-house-correspondents-dinner-in-washington-suspect-in-custody-after-shots-fired",
+      "content_hash": "30e1b81f3906bfe6eb7f1b5526c2649fedea0d4bddf79da1d63ddf34a5e6ad31",
+      "title": "Chaos at the White House Correspondents' Dinner in Washington, Suspect in Custody After Shots Fired",
+      "sent_at": "2026-04-26T08:16:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/cid-records-statements-from-seven-officials-over-2-5-million-cyber-theft-at-finance-ministry",
+      "content_hash": "7659713dfc58e89ea068db5d99ceccf97e0770c1093fb3c98123986c75ecbabc",
+      "title": "CID Records Statements from Seven Officials Over $2.5 Million Cyber Theft at Finance Ministry",
+      "sent_at": "2026-04-26T08:16:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/fraudulent-scam-targets-personal-data-for-digital-ids",
+      "content_hash": "59a89b64bb06a8a7d49c82d62b28d5245576a4c6079030405b73d16cc1b04974",
+      "title": "Fraudulent Scam Targets Personal Data for Digital IDs",
+      "sent_at": "2026-04-26T08:16:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/global-investors-called-for-investment-opportunities-at-mattala-rajapaksa-international-airport",
+      "content_hash": "fa2afde4786152fd7b7551f50454a3458cfe0ce1c7c098f3e736c916aa3f7d8f",
+      "title": "Global Investors Called for Investment Opportunities at Mattala Rajapaksa International Airport",
+      "sent_at": "2026-04-26T08:16:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/individuals-appearing-to-be-monks-arrested-with-stocks-of-narcotics-detained-for-questioning",
+      "content_hash": "49136b8387508aa1155454b74ebebe13722e870d28348987914d8b335a81385b",
+      "title": "Individuals Appearing to be Monks Arrested With Stocks of Narcotics; Detained for Questioning",
+      "sent_at": "2026-04-26T08:17:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/six-arrested-with-narcotics-and-fake-currency",
+      "content_hash": "c33e1179ef854ac8d8b764e311805493cd2cbe9358938489c36e83249def1b51",
+      "title": "Six Arrested with Narcotics and Fake Currency",
+      "sent_at": "2026-04-26T08:17:07Z"
     }
   ]
 }
