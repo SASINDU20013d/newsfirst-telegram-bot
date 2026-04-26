@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/19/gunmen-open-fire-on-house-in-midigama-car-set-ablaze",
-      "content_hash": "7835ed2df760ceae708f90c6c0d9d618a9ab46c7a955ae8cab9dae0d23093f48",
-      "title": "Gunmen Open Fire on House in Midigama; Car Set Ablaze",
-      "sent_at": "2026-04-19T06:00:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/special-traffic-plan-in-colombo-and-katunayake",
-      "content_hash": "d759c034f92c3b457025a5d3a37d44c50de08665afe31f2e3a412458e9210503",
-      "title": "Special Traffic Plan in Colombo and Katunayake",
-      "sent_at": "2026-04-19T06:00:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/19/vice-president-of-india-c-p-radhakrishnan-arrives-in-sri-lanka-for-official-visit",
-      "content_hash": "290dae16abed3af37f8462453c241ac9781fdd9d94532de3202cd57beee41c67",
-      "title": "Vice President of India C. P. Radhakrishnan Arrives in Sri Lanka for Official Visit",
-      "sent_at": "2026-04-19T06:00:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/19/cid-seizes-all-procurement-files-related-to-coal-investigation",
       "content_hash": "130f386785c58c3dc8ca130cb0b5f08b08d2825b30ddd23fa5330dbc3367cf5c",
       "title": "CID Seizes All Procurement Files Related to Coal Investigation",
@@ -773,6 +755,30 @@
       "content_hash": "1b1ae62c16efcbe8098eb8ed8737b3fcba3d1e936e9499c81ea6b793a79e454a",
       "title": "Global Walk for Peace Enters Fifth Day; Journey Begins from Tholangamuwa to Yakkala",
       "sent_at": "2026-04-26T03:26:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/22-individuals-in-robes-appeared-to-be-monks-arrested-with-over-rs-1-1-billion-worth-of-kush-and-hashish",
+      "content_hash": "e7e46dedc8f8c12f7baaf1e21baeacdf8ccbef3a18e91a87786460af251ecc71",
+      "title": "22 Individuals in Robes Appeared to be Monks Arrested With Over Rs. 1.1 Billion Worth of Kush and Hashish",
+      "sent_at": "2026-04-26T06:09:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/health-ministry-urges-doctors-to-report-measles-cases-amid-new-outbreaks",
+      "content_hash": "4325fd7454d5e3acb4cdc65cc0ec8c8ae4ce8b104e16a1e4b2660b9f3126afa7",
+      "title": "Health Ministry Urges Doctors to Report Measles Cases Amid New Outbreaks",
+      "sent_at": "2026-04-26T06:09:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/registration-of-dansals-for-vesak-and-poson-poya-begins",
+      "content_hash": "97d48e2dfdff613dfaadff40a5df655cbea3e3c50a8a1eda1596a6d8cc394b11",
+      "title": "Registration of Dansals For Vesak and Poson Poya Begins",
+      "sent_at": "2026-04-26T06:09:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/26/rs-3-6-billion-allocated-to-upgrade-primary-healthcare-across-nine-provinces",
+      "content_hash": "e9312041a20da4215abf6e0369a387fe7facefaad98f1d20ac9f2799e307c140",
+      "title": "Rs. 3.6 Billion Allocated to Upgrade Primary Healthcare Across Nine Provinces",
+      "sent_at": "2026-04-26T06:09:45Z"
     }
   ]
 }
