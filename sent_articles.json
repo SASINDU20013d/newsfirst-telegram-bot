@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/20/indian-vice-president-departs-after-successful-two-day-official-visit-to-sri-lanka",
-      "content_hash": "c022760068c48bb3b70078ef7cd0dc010606ee7333efb00d2792c744801aa727",
-      "title": "Indian Vice President Departs After Successful Two-Day Official Visit to Sri Lanka",
-      "sent_at": "2026-04-20T11:21:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/20/severe-lightning-warning-for-all-provinces",
-      "content_hash": "e7d3468b714203145c0865193f6a7b97f63672fa841617ac58ffef5ad9bed485",
-      "title": "Severe Lightning Warning For All Provinces",
-      "sent_at": "2026-04-20T11:21:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/20/anura-karunathilake-sworn-in-as-minister-of-energy",
       "content_hash": "426a23f9f039f2c06626bb1dab6feecd8a3799e9cca67a6bdc1c1932c4e9f9ad",
       "title": "Anura Karunathilake Sworn In as Minister of Energy",
@@ -761,6 +749,18 @@
       "content_hash": "007246b7404998425abfe59b07d3a1a6550ca42f6de63c3230bb628b21831d5e",
       "title": "Two Close Associates of Iniya Bharathi Arrested in Akkaraipattu",
       "sent_at": "2026-04-27T09:22:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/lawyer-remanded-for-allegedly-aiding-suspects-in-ganemulla-sanjeewa-killing",
+      "content_hash": "ddc31925e5a8e60a0550265c4e4e10f0e2d82d2ec97a279b6e284f01840176cf",
+      "title": "Lawyer Remanded for Allegedly Aiding Suspects in Ganemulla Sanjeewa Killing",
+      "sent_at": "2026-04-27T11:46:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/traffic-restrictions-announced-in-colombo-for-%e2%80%98walk-for-peace%e2%80%99",
+      "content_hash": "8cd139c4cde3c5a525ee6092794ec20eb1631ee70ed7610c3b656e8a93c6179c",
+      "title": "Traffic Restrictions Announced in Colombo for ‘Walk for Peace’",
+      "sent_at": "2026-04-27T11:47:07Z"
     }
   ]
 }
