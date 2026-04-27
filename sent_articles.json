@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/20/anura-karunathilake-sworn-in-as-minister-of-energy",
-      "content_hash": "426a23f9f039f2c06626bb1dab6feecd8a3799e9cca67a6bdc1c1932c4e9f9ad",
-      "title": "Anura Karunathilake Sworn In as Minister of Energy",
-      "sent_at": "2026-04-20T13:51:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/20/ex-minister-piyasena-gamage-granted-bail-in-corruption-case",
-      "content_hash": "f9cc40473bd91d9bade68a107d3eaa86273485e89e74ceebe98da9a9fc1208ed",
-      "title": "Ex-Minister Piyasena Gamage Granted Bail In Corruption Case",
-      "sent_at": "2026-04-20T13:51:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/20/japan-lifts-tsunami-warnings-advisories-in-effect",
-      "content_hash": "daa340b5d181f01010ba0885bd6c6cbb890c3c6a52fed8dbfbbad2e44debdc38",
-      "title": "Japan Lifts Tsunami Warnings; Advisories In Effect",
-      "sent_at": "2026-04-20T13:51:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/20/central-bank-presents-2025-economic-review-to-president",
       "content_hash": "754efb14779c760c5fb61946ba42cf8688018e53312463c6d1cb00806ed1f403",
       "title": "Central Bank Presents 2025 Economic Review to President",
@@ -761,6 +743,42 @@
       "content_hash": "8cd139c4cde3c5a525ee6092794ec20eb1631ee70ed7610c3b656e8a93c6179c",
       "title": "Traffic Restrictions Announced in Colombo for ‘Walk for Peace’",
       "sent_at": "2026-04-27T11:47:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/72-hour-detention-granted-in-eastern-province-abduction-investigations",
+      "content_hash": "61fa627e0fe1631481afe268496a0639f24b16edcc5b669eb908c045af82a07f",
+      "title": "72-Hour Detention Granted in Eastern Province Abduction Investigations",
+      "sent_at": "2026-04-27T14:04:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/mp-ramanathan-archchuna-remanded-until-29th",
+      "content_hash": "abe5a76a5804279bfcfbdb2ed1dcc31f0018085bfe39d71e81a135202bf62232",
+      "title": "MP Ramanathan Archchuna Remanded Until 29th",
+      "sent_at": "2026-04-27T14:04:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/new-bench-to-hear-rishad-s-appeal-on-wilpattu-case",
+      "content_hash": "54764d00c9a7dfe8af9bfbab4739b1938585a55c277965839ed0111642dae700",
+      "title": "New Bench to Hear Rishad's Appeal on Wilpattu Case",
+      "sent_at": "2026-04-27T14:04:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/putin-pledges-full-support-for-iran%e2%80%99s-interests-in-middle-east-conflict",
+      "content_hash": "fad45c7419d85432f55985c52ce0fc0d3411f3c809c3583fc13d75b50978b11b",
+      "title": "Putin Pledges Full Support for Iran’s Interests in Middle East Conflict",
+      "sent_at": "2026-04-27T14:04:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/seven-day-detention-for-monk-accused-of-aiding-thailand-sri-lanka-drug-smuggling",
+      "content_hash": "d8ba7774b27c0dadf76697ce43cc7188ea9ab31d31ed77d077543d2c69c9cf05",
+      "title": "Seven-Day Detention for Monk Accused of Aiding Thailand-Sri Lanka Drug Smuggling",
+      "sent_at": "2026-04-27T14:04:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/unanswered-questions-surround-fate-of-sarah-jasmine",
+      "content_hash": "d6bc90d033f7d6ca316565067c62187a632449e35e5b6ab4ce4a70819d885739",
+      "title": "Unanswered Questions Surround Fate of 'Sarah Jasmine'",
+      "sent_at": "2026-04-27T14:04:26Z"
     }
   ]
 }
