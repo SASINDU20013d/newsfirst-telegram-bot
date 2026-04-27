@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/20/chinese-businessman-arrested-at-bia-with-illicit-cigarettes-worth-over-30mn-rupees",
-      "content_hash": "277c724896290927ddaaed9a47d10ab86c5fe7556ad40c3c539f9c321dafb115",
-      "title": "Chinese Businessman Arrested at BIA with Illicit Cigarettes Worth Over 30Mn Rupees",
-      "sent_at": "2026-04-20T06:19:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/20/eight-organized-criminals-currently-in-foreign-custody-sl-police",
-      "content_hash": "4da0205be1f51238d41c7cc3c9bf86bc49b8f09af677154ba42df0850bde33bc",
-      "title": "Eight Organized Criminals Currently in Foreign Custody - SL Police",
-      "sent_at": "2026-04-20T06:19:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/20/all-set-for-international-walk-for-peace",
       "content_hash": "6c06cac7b1ab3bb7ceb17c3a5a6d014041f97aac9355b8a82f16bf4af2bedf5b",
       "title": "All Set For International Walk For Peace",
@@ -791,6 +779,18 @@
       "content_hash": "5965fb0466ee46a18d99347e3042b4d4262e158c002104ad73f83f4e3f10f713",
       "title": "University Entrance Handbook to be Released at Midnight Tonight",
       "sent_at": "2026-04-27T03:31:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/%e2%80%98walk-for-peace%e2%80%99-draws-global-attention-to-the-island-of-peace",
+      "content_hash": "b7447448351011dcd677d8ee96bbe7e58656784d435e54ed7a06813f9680b25b",
+      "title": "‘Walk for Peace’ Draws Global Attention to the Island of Peace",
+      "sent_at": "2026-04-27T06:31:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/police-destroy-over-300kg-of-seized-narcotics",
+      "content_hash": "a21fbd89b069d40ca1a9322f165af200fced117ce84c7d483193ce45c4f62330",
+      "title": "Police Destroy Over 300kg of Seized Narcotics",
+      "sent_at": "2026-04-27T06:31:10Z"
     }
   ]
 }
