@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/20/auspicious-times-for-resuming-work-and-planting-trees-set-for-the-new-year",
-      "content_hash": "75fc97d8032dfc695d1c17ee287a365bc62b6942b77761989232399e1d4de8ff",
-      "title": "Auspicious Times for Resuming Work and Planting Trees Set for the New Year",
-      "sent_at": "2026-04-20T03:23:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/20/indian-vice-president-to-inspect-housing-projects-in-nuwara-eliya-today",
-      "content_hash": "045153b57ad75af68c851ffc8e94483225ed3d78a18fd31213257d9a799e840c",
-      "title": "Indian Vice President to Inspect Housing Projects in Nuwara Eliya Today",
-      "sent_at": "2026-04-20T03:23:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/20/issuance-of-national-identity-cards-to-resume-today-after-system-failure",
-      "content_hash": "814cbfdc7315475a24bb9a3f1f569437dd95ba085d3880049a874479225d6cdb",
-      "title": "Issuance of National Identity Cards to Resume Today After System Failure",
-      "sent_at": "2026-04-20T03:23:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/20/second-school-term-begins-today",
-      "content_hash": "5cf71e238c525f53a8b8f6d61574be021b130318b1eb482b014980a78daa5633",
-      "title": "Second School Term Begins Today",
-      "sent_at": "2026-04-20T03:23:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/20/two-indonesians-arrested-at-bia-with-over-rs-60-million-worth-of-kush-cannabis",
-      "content_hash": "2d61c34aca387fc80a7c5f6527e728f6bc57dd770c6ea8883bd829193d95c9f1",
-      "title": "Two Indonesians Arrested at BIA with Over Rs. 60 Million Worth of \"Kush\" Cannabis",
-      "sent_at": "2026-04-20T03:23:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/20/chinese-businessman-arrested-at-bia-with-illicit-cigarettes-worth-over-30mn-rupees",
       "content_hash": "277c724896290927ddaaed9a47d10ab86c5fe7556ad40c3c539f9c321dafb115",
       "title": "Chinese Businessman Arrested at BIA with Illicit Cigarettes Worth Over 30Mn Rupees",
@@ -791,6 +761,36 @@
       "content_hash": "217ab0af00f8e26526ea3e5c65aa2b3d01ad89ef702b85cc684dfda16779f7ae",
       "title": "Mahanayake Theros Urge Urgent Action Against Drug Networks Targeting Young Monks",
       "sent_at": "2026-04-26T14:50:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/coastal-line-train-services-return-to-normal-after-derailment",
+      "content_hash": "7e65038188d7f91afe77f818938c4e1e62822cd9d39ebe4baa507ed4036d53ea",
+      "title": "Coastal Line Train Services Return to Normal After Derailment",
+      "sent_at": "2026-04-27T03:31:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/global-walk-for-peace-reaches-day-six-concludes-at-kelaniya-raja-maha-viharaya-today",
+      "content_hash": "7936d0fe5578d89161f0b4ce66ccc8aef65c6237021a7d99b7b310a853738857",
+      "title": "Global Walk for Peace Reaches Day Six: Concludes at Kelaniya Raja Maha Viharaya Today",
+      "sent_at": "2026-04-27T03:31:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/investigation-continues-into-treasury-cyber-theft-technical-and-administrative-failures-in-the-department-evaluated",
+      "content_hash": "5e6923eabe41d63c52a29c6aa34adfaa5632dce3e2ccfb64b4ea157448bb57f8",
+      "title": "Investigation Continues into Treasury Cyber Theft: Technical and Administrative Failures in the Department Evaluated",
+      "sent_at": "2026-04-27T03:31:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/presidential-commission-on-coal-transactions-commences-inquiries",
+      "content_hash": "392488e50f2e4828492f53beb2071172e0ce72f541405da31db5f1da0a59ad28",
+      "title": "Presidential Commission on Coal Transactions Commences Inquiries",
+      "sent_at": "2026-04-27T03:31:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/27/university-entrance-handbook-to-be-released-at-midnight-tonight",
+      "content_hash": "5965fb0466ee46a18d99347e3042b4d4262e158c002104ad73f83f4e3f10f713",
+      "title": "University Entrance Handbook to be Released at Midnight Tonight",
+      "sent_at": "2026-04-27T03:31:10Z"
     }
   ]
 }
