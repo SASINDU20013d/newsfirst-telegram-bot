@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/21/notorious-crime-boss-karandeniye-raju-to-be-detained-for-90-days-under-pta",
-      "content_hash": "4cda18da23049edcc901fc661d267c3268feea52aae0d9377b55ede7c76f223b",
-      "title": "Notorious Crime Boss 'Karandeniye Raju' to be Detained for 90 Days Under PTA",
-      "sent_at": "2026-04-21T02:56:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/21/sri-lanka-mourns-seven-years-since-easter-sunday-attacks",
-      "content_hash": "dd6127e03e078de008ee009005bf104db7301e362cbd1d184b08085f8e281bfe",
-      "title": "Sri Lanka Mourns - Seven Years Since Easter Sunday Attacks",
-      "sent_at": "2026-04-21T02:56:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/21/ven-pannakara-thero-arrives-in-sri-lanka-with-aloka-for-global-walk-for-peace",
-      "content_hash": "ffe1cc15e39a716bf8e7154a825596fc00d87cfffddb817463b89c5ebdad2b3c",
-      "title": "Ven. Pannakara Thero Arrives in Sri Lanka with \"Aloka\" for Global Walk For Peace",
-      "sent_at": "2026-04-21T02:56:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/21/low-floor-priority-bus-service-for-persons-with-disabilities-launched",
       "content_hash": "99e522ae9d162c709b91803c2172160d7f684a224074d2acbd0c3d0580c71e65",
       "title": "Low-Floor Priority Bus Service for Persons with Disabilities Launched",
@@ -743,6 +725,36 @@
       "content_hash": "d6bc90d033f7d6ca316565067c62187a632449e35e5b6ab4ce4a70819d885739",
       "title": "Unanswered Questions Surround Fate of 'Sarah Jasmine'",
       "sent_at": "2026-04-27T14:04:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/committee-hands-over-key-report-on-overseas-voting",
+      "content_hash": "afeece7b1a4a619ead99feca61e8ed73da12b1de86b4d68f2806909ca89f5307",
+      "title": "Committee Hands Over Key Report on Overseas Voting",
+      "sent_at": "2026-04-28T03:36:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/king-charles-and-queen-camilla-meet-trump-at-white-house",
+      "content_hash": "69639f07059d006c9bb06facb59ff3b86a89b229af4cda727fa95a59fdd79ddb",
+      "title": "King Charles and Queen Camilla meet Trump at White House",
+      "sent_at": "2026-04-28T03:36:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/pet-scans-disrupted-at-colombo-and-maharagama-hospitals",
+      "content_hash": "aa0a710e4cb7f7c4ed50777c895681b8224c038b4fec5d3f76263ac7297152d3",
+      "title": "PET Scans Disrupted At Colombo And Maharagama Hospitals",
+      "sent_at": "2026-04-28T03:36:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/suspect-charged-with-attempted-assassination-of-trump-at-washington-dinner",
+      "content_hash": "8b6b669cb87a2372621d7d156c0e3625d8f0adaef15698ead6dc76e835de89d8",
+      "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
+      "sent_at": "2026-04-28T03:36:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/walk-for-peace-to-conclude-at-independence-square-today",
+      "content_hash": "33733580397978922040460fd1b6bb2f7cfee2938ce55b3c93e0cfabb7d19bf8",
+      "title": "Walk For Peace To Conclude At Independence Square Today",
+      "sent_at": "2026-04-28T03:36:23Z"
     }
   ]
 }
