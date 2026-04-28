@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/21/april-installment-of-aswesuma-to-be-credited-tomorrow",
-      "content_hash": "b5b7d0e9aa6b2a048b1b2e7782cf061844a1e83485cd385f312ece8641a962d7",
-      "title": "April Installment of Aswesuma to be Credited Tomorrow",
-      "sent_at": "2026-04-21T11:12:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/21/two-accomplices-of-kudu-salindu-arrested",
-      "content_hash": "111989eb5898e87e1cd7a36d17fa6daf2e29defc9e3593a9fa4a2ec059338a66",
-      "title": "Two Accomplices of 'Kudu Salindu' Arrested",
-      "sent_at": "2026-04-21T11:12:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/21/daren-tang-to-continue-as-wipo-director-general-through-2032-term",
       "content_hash": "c95bc67b0899f6fffb477a3b2e492796b84a0f41c37890c8c1e7f7dc7fdfa1f9",
       "title": "Daren Tang to Continue as WIPO Director General Through 2032 Term",
@@ -779,6 +767,18 @@
       "content_hash": "5a512aa0b0511bc4baf641d675a08a76bf9313b574977514326a60c05d588d38",
       "title": "Residents Block Protest Attempt By Gota's Ex-Secretary",
       "sent_at": "2026-04-28T09:26:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/cabinet-greenlights-9-800-permanent-appointments-for-public-sector-employees",
+      "content_hash": "02b3e2b709b033bb5987c3c65828b2f961c9b4109e71c80934fdf50bb9494e01",
+      "title": "Cabinet Greenlights 9,800 Permanent Appointments for Public Sector Employees",
+      "sent_at": "2026-04-28T11:48:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/unp-declines-may-day-participation-with-sjb-citing-guidance-of-ranasinghe-premadasa",
+      "content_hash": "a79dfa459cb93e88ec3a3014670165b7c0114626b3af350634785a56a20bc42a",
+      "title": "UNP Declines May Day Participation With SJB, Citing Guidance of Ranasinghe Premadasa",
+      "sent_at": "2026-04-28T11:48:53Z"
     }
   ]
 }
