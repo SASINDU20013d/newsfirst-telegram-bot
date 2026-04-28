@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/21/low-floor-priority-bus-service-for-persons-with-disabilities-launched",
-      "content_hash": "99e522ae9d162c709b91803c2172160d7f684a224074d2acbd0c3d0580c71e65",
-      "title": "Low-Floor Priority Bus Service for Persons with Disabilities Launched",
-      "sent_at": "2026-04-21T05:31:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/21/president-anura-kumara-dissanayake-endorses-international-peace-walk-led-by-ven-pannakara-thero",
-      "content_hash": "511f9b0113fdf1b5b7e83edd2932c9a9dc89862db5a883bc4e53fdcfacad0184",
-      "title": "President Anura Kumara Dissanayake Endorses International Peace Walk Led by Ven. Pannakara Thero",
-      "sent_at": "2026-04-21T05:31:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/21/ven-pannakara-thero-arrives-with-aloka-for-walk-for-peace-in-the-island-of-peace",
-      "content_hash": "419d6ee66ac4cc66dc42cc27da1f3aa6f2dff3b44c76e81e7c75f366db73e7eb",
-      "title": "Ven. Pannakara Thero Arrives with \"Aloka\" for Walk For Peace in the Island of Peace",
-      "sent_at": "2026-04-21T05:31:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/21/cardinal-expresses-optimism-over-current-government%e2%80%99s-easter-attack-investigations",
       "content_hash": "bdc8ecd36436729248645029783f3259301161df77d090cfe376eefaf251a3a6",
       "title": "Cardinal Expresses Optimism Over Current Government’s Easter Attack Investigations",
@@ -755,6 +737,30 @@
       "content_hash": "33733580397978922040460fd1b6bb2f7cfee2938ce55b3c93e0cfabb7d19bf8",
       "title": "Walk For Peace To Conclude At Independence Square Today",
       "sent_at": "2026-04-28T03:36:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/athurugiriya-raid-leads-to-arrest-linked-to-drug-network-using-monks",
+      "content_hash": "51dc4e51663527fe264ee51b9a5b9843d947599651b732814005538ea9270cd5",
+      "title": "Athurugiriya Raid Leads to Arrest Linked to Drug Network Using Monks",
+      "sent_at": "2026-04-28T06:32:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/cabinet-approves-electric-cars-and-bikes-for-police-officers",
+      "content_hash": "d89c99bb7d2a3d963ea0f002bcf9b0214d7e697d0250cf517ba7a8ee198beee7",
+      "title": "Cabinet Approves Electric Cars and Bikes for Police Officers",
+      "sent_at": "2026-04-28T06:32:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/live-grenade-military-ammunition-seized-in-multiple-police-raids",
+      "content_hash": "7208cab6d898d674a19283f91a330cbc8410d9029739fc6c8198eb8f4883ccd9",
+      "title": "Live Grenade, Military Ammunition Seized in Multiple Police Raids",
+      "sent_at": "2026-04-28T06:32:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/prison-jailer-and-guard-arrested-over-inmate-death-at-magazine-prison-colombo",
+      "content_hash": "de1590f3198c903851523a541be4a7df489b58bada90d7190cb7de0970fea79a",
+      "title": "Prison Jailer And Guard Arrested Over Inmate Death At Magazine Prison, Colombo",
+      "sent_at": "2026-04-28T06:32:53Z"
     }
   ]
 }
