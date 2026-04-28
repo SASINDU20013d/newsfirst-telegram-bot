@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/21/cardinal-expresses-optimism-over-current-government%e2%80%99s-easter-attack-investigations",
-      "content_hash": "bdc8ecd36436729248645029783f3259301161df77d090cfe376eefaf251a3a6",
-      "title": "Cardinal Expresses Optimism Over Current Government’s Easter Attack Investigations",
-      "sent_at": "2026-04-21T07:59:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/21/former-minister-premalal-jayasekara-arrested",
-      "content_hash": "7fd074a37c0387f90efc9c5b615bb0c7009df155a47eb25e51007925739cd861",
-      "title": "Former Minister Premalal Jayasekara Arrested",
-      "sent_at": "2026-04-21T07:59:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/21/april-installment-of-aswesuma-to-be-credited-tomorrow",
       "content_hash": "b5b7d0e9aa6b2a048b1b2e7782cf061844a1e83485cd385f312ece8641a962d7",
       "title": "April Installment of Aswesuma to be Credited Tomorrow",
@@ -761,6 +749,36 @@
       "content_hash": "de1590f3198c903851523a541be4a7df489b58bada90d7190cb7de0970fea79a",
       "title": "Prison Jailer And Guard Arrested Over Inmate Death At Magazine Prison, Colombo",
       "sent_at": "2026-04-28T06:32:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/court-orders-wildlife-department-to-explain-steps-to-reduce-humanelephant-conflict",
+      "content_hash": "e4d729d0695f567c38014521fad13c4760f7de34828948fca5e6957b1ebdb8e3",
+      "title": "Court Orders Wildlife Department to Explain Steps to Reduce Human–Elephant Conflict",
+      "sent_at": "2026-04-28T09:25:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/jailer-and-two-prison-guards-arrested-over-inmate%e2%80%99s-death-at-magazine-prison",
+      "content_hash": "9ee9b2b7baa506b3d7282c11f298180da9bedccdb117d1ae11abee7e1827e9f0",
+      "title": "Jailer and Two Prison Guards Arrested Over Inmate’s Death at Magazine Prison",
+      "sent_at": "2026-04-28T09:25:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/maldives-president-to-pay-state-visit-to-sri-lanka-from-may-3-to-5",
+      "content_hash": "c7558f384167c12849bb71ef65e9f12739b1f59357c4e948cedf20662650d6af",
+      "title": "Maldives President to Pay State Visit to Sri Lanka from May 3 to 5",
+      "sent_at": "2026-04-28T09:25:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/navy-evacuates-injured-fisherman-75-nautical-miles-offshore",
+      "content_hash": "dbcc83cd97500dea3a49104884332aa8fe8d9d23a00c8c2ee2006d2b22e85f6b",
+      "title": "Navy Evacuates Injured Fisherman 75 Nautical Miles Offshore",
+      "sent_at": "2026-04-28T09:26:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/28/residents-block-protest-attempt-by-gota-s-ex-secretary",
+      "content_hash": "5a512aa0b0511bc4baf641d675a08a76bf9313b574977514326a60c05d588d38",
+      "title": "Residents Block Protest Attempt By Gota's Ex-Secretary",
+      "sent_at": "2026-04-28T09:26:09Z"
     }
   ]
 }
