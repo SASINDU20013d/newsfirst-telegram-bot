@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/22/iran-enforces-%e2%80%98maritime-law%e2%80%99-on-container-ship-after-warning-ignored",
-      "content_hash": "48095cfff3c41b41564a525760e74a04de589e8048d5813176bd36054026cc56",
-      "title": "Iran Enforces ‘Maritime Law’ on Container Ship After Warning Ignored",
-      "sent_at": "2026-04-22T05:30:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/22/strait-of-hormuz-blockade-drives-up-costs-at-panama-canal",
-      "content_hash": "7ba77d56b05a516a499f1c2f0de828b32a82b42b11da5a96faec379a1b476d00",
-      "title": "Strait of Hormuz Blockade Drives Up Costs At Panama Canal",
-      "sent_at": "2026-04-22T05:30:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/22/teacher-training-for-grade-one-second-term-to-be-completed-by-mid-next-month",
-      "content_hash": "4af51da7ee804e705710c81d9913b2f2663779915ffd0676cb844cbed3710bd7",
-      "title": "Teacher Training for Grade One Second Term to Be Completed by Mid Next Month",
-      "sent_at": "2026-04-22T05:30:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/22/ugc-to-accept-university-admission-applications-from-27th-three-week-window-announced",
-      "content_hash": "47161fa21cb6dd0332e7d53fd10bdad49ad4b2bf423fba9a933de57cc4395e89",
-      "title": "UGC to Accept University Admission Applications from 27th, Three-Week Window Announced",
-      "sent_at": "2026-04-22T05:30:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/22/walk-for-peace-commences-from-dambulla",
-      "content_hash": "8a0ea404e924a2be545262f54d723ab886e746cf0c6becfdaad5bff68c15fcee",
-      "title": "Walk For Peace Commences From Dambulla",
-      "sent_at": "2026-04-22T05:30:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/22/case-against-former-state-intelligence-chief-today",
       "content_hash": "8870d32535a286b3b851720c01b8b9f43797a808c9620b3a60a641c864476b35",
       "title": "Case Against Former State Intelligence Chief Today",
@@ -809,6 +779,24 @@
       "content_hash": "6c4115685c2a8783f4e3380abac85fa9ebbee26276b5bdc911ca44d23dfa5a3d",
       "title": "Public Submissions to the Presidential Commission to Probe Coal Procurement Deals Open Monday",
       "sent_at": "2026-04-29T03:50:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/modern-signal-system-on-the-maho-anuradhapura-railway-to-complete-in-october",
+      "content_hash": "ef7f46049413cb6c9dc90bbf728292a6d89bb2a063baec13ed1814257f93da81",
+      "title": "Modern Signal System on the Maho-Anuradhapura Railway to Complete in October",
+      "sent_at": "2026-04-29T06:27:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/renowned-publisher-deshabandhu-sirisumana-godage-passes-away",
+      "content_hash": "d1bb9dc4f6b38bdbb76900eb96f5e9c87ce6a20b047935c39f819671ffa489c7",
+      "title": "Renowned Publisher Deshabandhu Sirisumana Godage Passes Away",
+      "sent_at": "2026-04-29T06:28:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/state-of-emergency-extended-by-one-month-15-essential-services-gazetted",
+      "content_hash": "0aca7d2713e350fb00c1bf3dd290df07d676e007289f7f39fae30384822983f6",
+      "title": "State of Emergency Extended by One Month; 15 Essential Services Gazetted",
+      "sent_at": "2026-04-29T06:28:05Z"
     }
   ]
 }
