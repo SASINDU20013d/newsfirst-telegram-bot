@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/22/minister-flags-alleged-broadcast-licence-violations",
-      "content_hash": "54cecda450db9fa905a17f0b620ef9bff8f3dba9bcd147f02ad40f5cd0abdae0",
-      "title": "Minister Flags Alleged Broadcast Licence Violations",
-      "sent_at": "2026-04-22T15:17:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/22/special-committee-to-review-national-housing-development-authority-projects",
-      "content_hash": "7dd29ec4a74a8484ef26e55bc1c87763a8abfb6b304cc0895b7a6cb4baa0ec9c",
-      "title": "Special Committee to Review National Housing Development Authority Projects",
-      "sent_at": "2026-04-22T15:18:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/22/hackers-infiltrate-sri-lanka-s-finance-ministry-system-probe-underway-into-theft",
       "content_hash": "cd982bd19aefa8d5ad2f377b89f265789e1636bc41642da4841c48e4cc1bf1df",
       "title": "Hackers Infiltrate Sri Lanka's Finance Ministry System; Probe Underway Into Theft",
