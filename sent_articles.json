@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/22/ex-sis-chief-moved-to-court-on-easter-attacks-case",
-      "content_hash": "07b8d9a3d2988b56bd00b2c771e3feb9784ad77bd4631486fb3f8534555d577b",
-      "title": "Ex-SIS Chief Moved to Court On Easter Attacks Case",
-      "sent_at": "2026-04-22T11:10:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/22/premalal-jayasekara-gets-bail-passport-suspended",
-      "content_hash": "91fd5fdb2cb6cf945da91a3dad84a1e1182f1206f22b704d7923572283dca183",
-      "title": "Premalal Jayasekara Gets Bail, Passport Suspended",
-      "sent_at": "2026-04-22T11:10:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/22/30th-may-to-be-declared-vesak-poya",
       "content_hash": "52e078c8cd88df814d2e727d6037cc2d172b26be5751d871a2536f3d90f845c1",
       "title": "30th May to Be Declared Vesak Poya",
@@ -791,6 +779,42 @@
       "content_hash": "90cd0ae768555d632fdf157ccdc21e8ead99f7166c2af6c36b3857eb9cc15928",
       "title": "Sri Lanka Cricket President Shammi Silva Resigns With Immediate Effect",
       "sent_at": "2026-04-29T09:12:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/bus-plunges-into-precipice-in-hatton-killing-1-and-injuring-17",
+      "content_hash": "0986525ecb2af0c104b9771a3aa3f00ff7da642bfe8f79a1032fa3dad9d1d8a1",
+      "title": "Bus Plunges Into Precipice In Hatton, Killing 1 And Injuring 17",
+      "sent_at": "2026-04-29T11:41:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/fresh-revelations-in-easter-attacks-case-as-suresh-salley-taken-for-medical-examination",
+      "content_hash": "10afccf9e8b9d1fc720a48b5c99873bc4607ce8ed948d2fdb82120e74a537872",
+      "title": "Fresh Revelations in Easter Attacks Case as Suresh Salley Taken for Medical Examination",
+      "sent_at": "2026-04-29T11:41:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/mp-ramanathan-archuna-released-on-bail",
+      "content_hash": "f8111b5e73a7aaa32e0e9c0c0ad4d4d4283ef8611bc127e07caca43694e18485",
+      "title": "MP Ramanathan Archuna Released On Bail",
+      "sent_at": "2026-04-29T11:41:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/public-property-act-case-against-ranil-postponed",
+      "content_hash": "5bb56f7c47aa5b7e8437952b9308f8c37ac3b28b63838a7f3012f48f325d8fc6",
+      "title": "Public Property Act Case Against Ranil Postponed",
+      "sent_at": "2026-04-29T11:41:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/pucsl-to-hold-public-consultation-on-proposed-electricity-tariff-revision",
+      "content_hash": "7e7f901e5aaeba47095fcd072145023dcdcc368deb73cb28b9a2763183954b06",
+      "title": "PUCSL to Hold Public Consultation on Proposed Electricity Tariff Revision",
+      "sent_at": "2026-04-29T11:41:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/wheat-flour-price-rises-amid-fuel-cost-hike",
+      "content_hash": "ec73518e897f6fa84c20318e2b5e83ea32f503efe734119a2f89de9d2f0e4724",
+      "title": "Wheat Flour Price Rises Amid Fuel Cost Hike",
+      "sent_at": "2026-04-29T11:41:46Z"
     }
   ]
 }
