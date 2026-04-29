@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/22/automated-expressway-payment-system-to-be-launched-by-year-end-to-ease-congestion",
-      "content_hash": "f028c5327b0c8bce418b80378c35de19e807ef5d70694bff96bfd64c1cc2cd78",
-      "title": "Automated Expressway Payment System to be Launched by Year-End to Ease Congestion",
-      "sent_at": "2026-04-22T02:58:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/22/iran-enforces-%e2%80%98maritime-law%e2%80%99-on-container-ship-after-warning-ignored",
       "content_hash": "48095cfff3c41b41564a525760e74a04de589e8048d5813176bd36054026cc56",
       "title": "Iran Enforces ‘Maritime Law’ on Container Ship After Warning Ignored",
@@ -797,6 +791,24 @@
       "content_hash": "36fab4849d8c9254df26c94044bc86a58e1d2780b6ffd1fd25176ad74477671e",
       "title": "Sri Maha Bodhi Sapling Presented To Walk For Peace",
       "sent_at": "2026-04-28T14:22:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/global-walk-for-peace-in-the-island-of-peace-concludes-at-gangaramaya-temple-following-state-ceremony",
+      "content_hash": "c69d3dcbc7eb467e63277ac130aa90c148af9257801cdcf864df1748bc8a9a09",
+      "title": "Global Walk for Peace in the Island of Peace Concludes at Gangaramaya Temple Following State Ceremony",
+      "sent_at": "2026-04-29T03:50:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/president-of-vietnam-to-visit-sri-lanka-in-may",
+      "content_hash": "7ef9dae7a90fdaa006df73d5ced3ef6e36983d9a1b3edd78f6df351bf1fb5b37",
+      "title": "President of Vietnam to Visit Sri Lanka in May",
+      "sent_at": "2026-04-29T03:50:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/29/public-submissions-to-the-presidential-commission-to-probe-coal-procurement-deals-open-monday",
+      "content_hash": "6c4115685c2a8783f4e3380abac85fa9ebbee26276b5bdc911ca44d23dfa5a3d",
+      "title": "Public Submissions to the Presidential Commission to Probe Coal Procurement Deals Open Monday",
+      "sent_at": "2026-04-29T03:50:27Z"
     }
   ]
 }
