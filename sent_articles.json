@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/23/day-two-of-the-walk-for-peace-in-the-island-of-peace-begins",
-      "content_hash": "1a22daf4c4e149a809652c783a6bde0a12f7d1f8044f6f1176314df11da6da64",
-      "title": "Day Two of the Walk for Peace in the Island of Peace Begins",
-      "sent_at": "2026-04-23T03:17:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/sri-lanka%e2%80%99s-gdp-per-capita-surpasses-5-000-in-historic-economic-turnaround",
-      "content_hash": "592c98c74fca3fa8a7517a7cf14653da642940e483ee298c719a03288ce6c8ae",
-      "title": "Sri Lanka’s GDP Per Capita Surpasses $5,000 In Historic Economic Turnaround",
-      "sent_at": "2026-04-23T03:17:41Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/23/cpc-confirms-the-arrival-of-another-diesel-shipment-on-april-27",
       "content_hash": "cffeda845a03d19efda09fbad1ee37ff46371213de1905b77417eb265e408a34",
       "title": "CPC Confirms the Arrival of Another Diesel Shipment on April 27",
@@ -797,6 +785,36 @@
       "content_hash": "26fd366a9ffe0ce7d00c62f3149093ff14868f78b8497bdd11528158affc89be",
       "title": "Mahinda’s Asset Declaration Is Incomplete, Says CIABOC",
       "sent_at": "2026-04-29T14:08:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/adb-to-provide-over-100-million-financial-aid-for-export-diversification",
+      "content_hash": "0b23bd90c631ff6e14a1d9672b8720a901b30523585de870b363292c7f57ffc3",
+      "title": "ADB to Provide Over $100 Million Financial Aid for Export Diversification",
+      "sent_at": "2026-04-30T03:56:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/cabinet-greenlights-bill-to-establish-national-cyber-security-regulatory-authority",
+      "content_hash": "eb59b26c81ec5effef210d5cc1d80255987134f93d13f7d8ea50816b1e284790",
+      "title": "Cabinet Greenlights Bill to Establish National Cyber Security Regulatory Authority",
+      "sent_at": "2026-04-30T03:56:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/ranil-s-lawyer-slams-high-commission-travel-agency-for-fraud-in-uk-trip",
+      "content_hash": "ce7047b35bc716499efc6ff3f5894270b74dcb3bc4c2d3776674e5d96c342d7b",
+      "title": "Ranil's Lawyer Slams High Commission & Travel Agency For Fraud In UK Trip",
+      "sent_at": "2026-04-30T03:56:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/russian-health-minister-mikhail-murashko-to-visit-sri-lanka",
+      "content_hash": "8dc8d767a10dece76cca6a23bc49eb9f2efb77d36d079a1449341fbcd49b5cb6",
+      "title": "Russian Health Minister Mikhail Murashko to Visit Sri Lanka",
+      "sent_at": "2026-04-30T03:56:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/trcsl-to-launch-independent-system-to-improve-telecom-service-quality",
+      "content_hash": "29eb6a4932b17d21193fb3b574cffcf87079db8998dc1972e872a705e937f99e",
+      "title": "TRCSL to Launch Independent System to Improve Telecom Service Quality",
+      "sent_at": "2026-04-30T03:56:13Z"
     }
   ]
 }
