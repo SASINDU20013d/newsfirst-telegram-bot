@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/23/cpc-confirms-the-arrival-of-another-diesel-shipment-on-april-27",
-      "content_hash": "cffeda845a03d19efda09fbad1ee37ff46371213de1905b77417eb265e408a34",
-      "title": "CPC Confirms the Arrival of Another Diesel Shipment on April 27",
-      "sent_at": "2026-04-23T06:08:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/france-signals-positive-outlook-on-sri-lanka%e2%80%99s-gsp-application",
-      "content_hash": "25f3444cdc4f19077a904d45a2806f1bf92a32be75ccd6c6d3d092605239bd71",
-      "title": "France Signals Positive Outlook on Sri Lanka’s GSP+ Application",
-      "sent_at": "2026-04-23T06:08:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/iran-claims-seizure-of-two-vessels-in-strategic-waterway",
-      "content_hash": "5dd3dc278933721d7fc7ec4ea509d8fab3a3b977cdb05371ac4da9cc5f649ac0",
-      "title": "Iran Claims Seizure of Two Vessels in Strategic Waterway",
-      "sent_at": "2026-04-23T06:08:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/iran-says-us-israeli-actions-are-root-cause-of-persian-gulf-insecurity",
-      "content_hash": "65654679aa2863c08f9887c03e55a8cb278ed4e9bb8ab4b0713428d9bfca0f1a",
-      "title": "Iran Says US, Israeli Actions Are Root Cause of Persian Gulf Insecurity",
-      "sent_at": "2026-04-23T06:08:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/public-invited-to-submit-information-on-coal-deals-to-presidential-commission",
-      "content_hash": "2d1d2edfb07d3400fa9401d75d04399f4100064df4823181c2298238f85d6ffa",
-      "title": "Public Invited to Submit Information on Coal Deals to Presidential Commission",
-      "sent_at": "2026-04-23T06:08:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/trcsl-to-consider-minister-k-d-lal-kantha%e2%80%99s-complaint-against-tv-channel",
-      "content_hash": "a0353f9c8a261dec352de6302f8de474989a73e62c6c4dd2d35fd66580db8d2f",
-      "title": "TRCSL to Consider Minister K.D. Lal Kantha’s Complaint Against TV Channel",
-      "sent_at": "2026-04-23T06:08:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/walk-for-peace-draws-thousands-along-route-to-sacred-tooth-relic-temple",
-      "content_hash": "1c41290eb22bd5e8bb398710e78d0670ab48974e0a1416048b87168ff8396129",
-      "title": "Walk For Peace Draws Thousands Along Route to Sacred Tooth Relic Temple",
-      "sent_at": "2026-04-23T06:08:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/23/australian-mission-confirms-investigation-into-owed-payments",
       "content_hash": "31347acca0bf7a48a88273f6e879048ed34f5e7367a934dc3afa50d74ebffcd8",
       "title": "Australian Mission Confirms Investigation Into Owed Payments",
@@ -815,6 +773,48 @@
       "content_hash": "29eb6a4932b17d21193fb3b574cffcf87079db8998dc1972e872a705e937f99e",
       "title": "TRCSL to Launch Independent System to Improve Telecom Service Quality",
       "sent_at": "2026-04-30T03:56:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/finance-secretary-to-skip-copf-meeting-ahead-of-presidential-statement-on-cyber-theft",
+      "content_hash": "d79b7e1215731e29f27da3f465f16fe2f486c45da52f445050b52f5a5b659a83",
+      "title": "Finance Secretary to Skip COPF Meeting Ahead of Presidential Statement on Cyber Theft",
+      "sent_at": "2026-04-30T06:31:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/jailer-and-prison-officers-remanded-over-magazine-prison-custodial-death",
+      "content_hash": "0c48380ef9576b540516cd7340a450cf6fbbaed7b47df61adc1c44312e6ed100",
+      "title": "Jailer and Prison Officers Remanded Over Magazine Prison Custodial Death",
+      "sent_at": "2026-04-30T06:31:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/mapped-traffic-plan-for-may-day-in-colombo",
+      "content_hash": "41a5a9fa7c7554082363f50a521db03548c0ba89c851431c8faffaf7541a3ef6",
+      "title": "MAPPED: Traffic Plan For May Day In Colombo",
+      "sent_at": "2026-04-30T06:31:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/president-issues-directives-to-provide-temporary-housing-for-victims-of-cyclone-ditwah-by-end-of-may",
+      "content_hash": "82f6e0e3425e126cad934973fcfa513f06bb8a6e5c3b1eb8d93c2f58e5eabc8f",
+      "title": "President Issues Directives to Provide Temporary Housing for Victims of Cyclone Ditwah by End of May",
+      "sent_at": "2026-04-30T06:31:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/restore-pride-and-performance-eran-sets-vision-for-sri-lanka-cricket-reform",
+      "content_hash": "1b4059ac022d594f2f3eba34a73992e3b1aa89d5e0ef4b932de3806bc5d4ba2a",
+      "title": "'Restore Pride and Performance': Eran Sets Vision for Sri Lanka Cricket Reform",
+      "sent_at": "2026-04-30T06:31:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/sri-lanka-customs-to-launch-three-new-ict-systems-today",
+      "content_hash": "b90f45db466fa8d7705465950fcaf8da38377d356d908fe0438bcb0c8eb06296",
+      "title": "Sri Lanka Customs to Launch Three New ICT Systems Today",
+      "sent_at": "2026-04-30T06:31:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/suspect-arrested-in-homagama-with-foreign-made-pistol",
+      "content_hash": "17b4616b6d661531d7b73861d9b84fa22404666c9815cce0667585c27fbf20fa",
+      "title": "Suspect Arrested in Homagama with Foreign-Made Pistol",
+      "sent_at": "2026-04-30T06:31:16Z"
     }
   ]
 }
