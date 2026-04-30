@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/23/court-sentences-man-to-death-after-18%e2%80%91year-trial-over-police-killing",
-      "content_hash": "39921313a031beb9224314eaaf528fd6729b4339fb7027d178d229a82780974e",
-      "title": "Court Sentences Man to Death After 18‑Year Trial Over Police Killing",
-      "sent_at": "2026-04-23T12:00:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/sri-lanka-confirms-hackers-diverted-usd-2-5-million-meant-for-australian-debt-repayment",
-      "content_hash": "e067c4d248f7743ec8164eaca617bae0fde1f2fb2aa583411ea020debbfc2297",
-      "title": "Sri Lanka Confirms Hackers Diverted USD 2.5 Million Meant for Australian Debt Repayment",
-      "sent_at": "2026-04-23T12:00:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/worker-remittances-to-sri-lanka-surge-26-5-in-q1",
-      "content_hash": "89a7cec197af6ece79819ed43616df39a0ca998f67a00882485b90a067f24d90",
-      "title": "Worker Remittances to Sri Lanka Surge 26.5% in Q1",
-      "sent_at": "2026-04-23T12:00:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/cid-informs-court-of-rohan-gunaratne%e2%80%99s-prison-meetings-with-pillayan-as-easter-probe-deepens",
-      "content_hash": "9253d7a13e63c973a8799fde035a1581e4b02555db833de3ca48701b024635f1",
-      "title": "CID Informs Court of Rohan Gunaratne’s Prison Meetings With Pillayan as Easter Probe Deepens",
-      "sent_at": "2026-04-23T13:54:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/23/us-forces-interdict-iranian-oil-tanker-in-indian-ocean",
-      "content_hash": "fd992ee0999196211b5084432e653fb4d54bbc94d03bfddfea8ba4dc20cf1e1a",
-      "title": "US Forces Interdict Iranian Oil Tanker in Indian Ocean",
-      "sent_at": "2026-04-23T13:54:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/24/cid-investigates-us-2-5-million-cyber-theft-from-finance-ministry-system",
       "content_hash": "52ddaa47acc892bee9fcd19845f76aa49eaeffeaa7f888d552c35c8cbb544e34",
       "title": "CID Investigates US$2.5 Million Cyber Theft From Finance Ministry System",
@@ -815,6 +785,18 @@
       "content_hash": "ed0e072c96adaf5b11d98db1c47ab624ad7feb562a74d18501696504f50c023b",
       "title": "Sri Lanka Women Seal 2–0 Lead Against Bangladesh",
       "sent_at": "2026-04-30T11:41:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/experts-propose-ban-on-tobacco-access-for-children-born-after-2010",
+      "content_hash": "5367c2155f7fbb3a97e72900dd3cbf9b09dc232ad976f30974e4882fbc9d319f",
+      "title": "Experts Propose Ban on Tobacco Access for Children Born After 2010",
+      "sent_at": "2026-04-30T14:06:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/04/30/suspended-finance-ministry-official-found-dead-amid-treasury-cyber-theft-probe",
+      "content_hash": "859efa8f332f6a7eb2b87b2fcabebf7969892097e0f3dc03e5f389cb243c5f7d",
+      "title": "Suspended Finance Ministry Official Found Dead Amid Treasury Cyber Theft Probe",
+      "sent_at": "2026-04-30T14:06:46Z"
     }
   ]
 }
