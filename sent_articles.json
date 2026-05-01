@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/24/cid-records-statement-from-maithree-wickremesinghe",
-      "content_hash": "b0f40272a019a4563a880c850f841f0b0dc4e8c9a7d8d5c0dd0a17354681bb10",
-      "title": "CID Records Statement from Maithree Wickremesinghe",
-      "sent_at": "2026-04-24T09:01:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/dr-chamal-sanjeewa-resigns-as-ratmalana-electoral-organizer-of-sjb",
-      "content_hash": "914049717e7834ab8269647eaa07482d43d1e4b341d42b587d939a9ee6c04d69",
-      "title": "Dr. Chamal Sanjeewa Resigns As Ratmalana Electoral Organizer Of SJB",
-      "sent_at": "2026-04-24T09:01:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/former-minister-johnston-fernando-released-on-bail",
-      "content_hash": "c0637e622b6c8cacd52faef8486661af728c20fbdfe10580f75f54b2e4ccc5a2",
-      "title": "Former Minister Johnston Fernando Released on Bail",
-      "sent_at": "2026-04-24T09:01:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/imported-samba-rice-prices-drop-at-colombo-pettah-market",
-      "content_hash": "4b3519109492fcdb0e9021c080921813ca5f27b1cd4c3cad38245f432663fbee",
-      "title": "Imported Samba Rice Prices Drop At Colombo Pettah Market",
-      "sent_at": "2026-04-24T09:01:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/money-laundering-case-against-yoshitha-again-in-june",
-      "content_hash": "04de0dad5a3e865bf32122464f5953e5dad3cf2ab316bd892a9f603adf71d249",
-      "title": "Money Laundering Case Against Yoshitha Again in June",
-      "sent_at": "2026-04-24T09:01:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/sri-lanka-holds-un-talks-on-proposed-gang-suppression-force-deployment-to-haiti",
-      "content_hash": "a6dbea4531028bbfd4300d594cd941ab9887f659cab46ef9b60350f89ea26e03",
-      "title": "Sri Lanka Holds UN Talks on Proposed Gang Suppression Force Deployment to Haiti",
-      "sent_at": "2026-04-24T09:01:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/24/special-bus-services-deployed-as-coastal-train-services-remain-disrupted",
       "content_hash": "692809c0540bcdff18fb7858ec6fda778fea7c8b49f28a86f43074862e242f41",
       "title": "Special Bus Services Deployed as Coastal Train Services Remain Disrupted",
@@ -785,6 +749,24 @@
       "content_hash": "5f20f8b9c610c7428f3a593071cb6a4c2ca3dfddc0a53fd316b90b1d0eea58da",
       "title": "Two Police Teams Deployed To Probe Death Of Ranga Rajapaksa",
       "sent_at": "2026-05-01T06:40:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/abu-trio-dominates-aib-s-global-leadership-for-2026-2028",
+      "content_hash": "338c3ae7672abef909065c55e00d4677739a2addf01e3fa103eb738bdc0b40f3",
+      "title": "ABU Trio Dominates AIB's Global Leadership for 2026-2028",
+      "sent_at": "2026-05-01T09:03:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/government-highlights-workers%e2%80%99-role-amid-economic-progress-and-pledges-stronger-social-protection",
+      "content_hash": "2a0b6f56ea6fa0597c677e23f6ddb6b3e00797d5450fcf89eee94d08a8f642da",
+      "title": "Government Highlights Workers’ Role Amid Economic Progress And Pledges Stronger Social Protection",
+      "sent_at": "2026-05-01T09:03:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/pet-scan-crisis-hits-cancer-patients-amid-chemical-shortage",
+      "content_hash": "27082e8c3f0b031987a2d0e955c1c8e19295c414d6cdd81d0f76a4f4d52c8eb1",
+      "title": "PET Scan Crisis Hits Cancer Patients Amid Chemical Shortage",
+      "sent_at": "2026-05-01T09:03:42Z"
     }
   ]
 }
