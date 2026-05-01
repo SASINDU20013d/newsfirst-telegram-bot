@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/24/sagarika-train-derails-at-wadduwa-coastal-operations-restricted",
-      "content_hash": "7df9dc33341d45dfcfc47c7730c68972a27b785e524eab0865e839a045d0e87b",
-      "title": "Sagarika Train Derails at Wadduwa; Coastal Operations Restricted",
-      "sent_at": "2026-04-24T06:10:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/suspect-arrested-with-large-stock-of-explosives-at-southern-expressway-entry-point",
-      "content_hash": "a252bbe33d981164cd167a337455cc1f9ae42e2253abb10ae96178385c1f3512",
-      "title": "Suspect Arrested With Large Stock Of Explosives At Southern Expressway Entry Point",
-      "sent_at": "2026-04-24T06:10:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/thousands-gather-in-kandy-for-walk-for-peace-as-journey-continues-from-dalada-maligawa-to-kegalle",
-      "content_hash": "18e88648de56a48fd502dc0296329988ad0d2397ad1a9e0d907445802ea0472f",
-      "title": "Thousands Gather in Kandy For 'Walk For Peace' As Journey Continues from Dalada Maligawa to Kegalle",
-      "sent_at": "2026-04-24T06:10:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/24/cid-records-statement-from-maithree-wickremesinghe",
       "content_hash": "b0f40272a019a4563a880c850f841f0b0dc4e8c9a7d8d5c0dd0a17354681bb10",
       "title": "CID Records Statement from Maithree Wickremesinghe",
@@ -773,6 +755,36 @@
       "content_hash": "bc3558448eefa6934f60002968ab969fe32f4ec50d1fda35b224cb6e2de5d11b",
       "title": "Workers’ Day Marked With Focus On Rights, Economic Stability And Social Security",
       "sent_at": "2026-05-01T03:46:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/adhi-vesak-poya-day-observed-with-religious-ceremonies-across-the-island",
+      "content_hash": "28ba422a17e634df24f6c1e63e25df169859f470e2a52c771ed55cf4d822b2b0",
+      "title": "Adhi Vesak Poya Day Observed With Religious Ceremonies Across The Island",
+      "sent_at": "2026-05-01T06:39:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/construction-of-rambukkana-galagedara-section-of-central-expressway-to-begin-this-month",
+      "content_hash": "5e299d50795214a308a7406ca99cd1041d2837bed6454da0080ab93e61442173",
+      "title": "Construction of Rambukkana-Galagedara Section of Central Expressway to Begin This Month",
+      "sent_at": "2026-05-01T06:39:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/five-remanded-over-assault-on-children-at-welimada-probation-centre",
+      "content_hash": "0c8e3662e6161a7d61c62a6b3e5b8921365245123bddde8d95d626ae88f762ff",
+      "title": "Five Remanded Over Assault On Children At Welimada Probation Centre",
+      "sent_at": "2026-05-01T06:40:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/political-parties-organize-may-day-rallies-across-the-country",
+      "content_hash": "1672dabc488128a34dc63ba0c39e4a9351cc4ea2b2687a9973c83c559b100bcb",
+      "title": "Political Parties Organize May Day Rallies Across The Country",
+      "sent_at": "2026-05-01T06:40:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/two-police-teams-deployed-to-probe-death-of-ranga-rajapaksa",
+      "content_hash": "5f20f8b9c610c7428f3a593071cb6a4c2ca3dfddc0a53fd316b90b1d0eea58da",
+      "title": "Two Police Teams Deployed To Probe Death Of Ranga Rajapaksa",
+      "sent_at": "2026-05-01T06:40:05Z"
     }
   ]
 }
