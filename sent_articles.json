@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/24/cid-investigates-us-2-5-million-cyber-theft-from-finance-ministry-system",
-      "content_hash": "52ddaa47acc892bee9fcd19845f76aa49eaeffeaa7f888d552c35c8cbb544e34",
-      "title": "CID Investigates US$2.5 Million Cyber Theft From Finance Ministry System",
-      "sent_at": "2026-04-24T03:19:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/deadline-for-gce-advanced-level-exam-applications-ends-tonight",
-      "content_hash": "e15f728f427920d92af2a09f6b42fe57ca29324a034b6dfd1911ddb50214f8fe",
-      "title": "Deadline For GCE Advanced Level Exam Applications Ends Tonight",
-      "sent_at": "2026-04-24T03:19:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/government-to-revise-process-for-leasing-state-land-for-cultivation",
-      "content_hash": "c1bc33791cbcab29c5bcdc67383a2d5fdb40d1bfed443f2d7ac78c84b028a939",
-      "title": "Government To Revise Process For Leasing State Land For Cultivation",
-      "sent_at": "2026-04-24T03:19:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/two-forests-to-be-declared-as-reserves-during-walk-for-peace-in-the-island-of-peace",
-      "content_hash": "3ad29f3227be7b202312daf3705c21a714a6b6029877f91ed794771702b42ffb",
-      "title": "Two Forests To Be Declared As Reserves During Walk For Peace In The Island Of Peace",
-      "sent_at": "2026-04-24T03:19:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/world-immunization-week-begins-today",
-      "content_hash": "1730d7713101d20bceb613a693f01286cac0004549d771d5623b60a0a20ec5c6",
-      "title": "World Immunization Week Begins Today",
-      "sent_at": "2026-04-24T03:19:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/24/sagarika-train-derails-at-wadduwa-coastal-operations-restricted",
       "content_hash": "7df9dc33341d45dfcfc47c7730c68972a27b785e524eab0865e839a045d0e87b",
       "title": "Sagarika Train Derails at Wadduwa; Coastal Operations Restricted",
@@ -797,6 +767,12 @@
       "content_hash": "859efa8f332f6a7eb2b87b2fcabebf7969892097e0f3dc03e5f389cb243c5f7d",
       "title": "Suspended Finance Ministry Official Found Dead Amid Treasury Cyber Theft Probe",
       "sent_at": "2026-04-30T14:06:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/workers%e2%80%99-day-marked-with-focus-on-rights-economic-stability-and-social-security",
+      "content_hash": "bc3558448eefa6934f60002968ab969fe32f4ec50d1fda35b224cb6e2de5d11b",
+      "title": "Workers’ Day Marked With Focus On Rights, Economic Stability And Social Security",
+      "sent_at": "2026-05-01T03:46:48Z"
     }
   ]
 }
