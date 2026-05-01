@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/24/special-bus-services-deployed-as-coastal-train-services-remain-disrupted",
-      "content_hash": "692809c0540bcdff18fb7858ec6fda778fea7c8b49f28a86f43074862e242f41",
-      "title": "Special Bus Services Deployed as Coastal Train Services Remain Disrupted",
-      "sent_at": "2026-04-24T10:41:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/24/police-suspend-use-of-manamperi%e2%80%99s-luxury-vehicle",
-      "content_hash": "c191a9f393e59d3fb436c842858193d8f59cf3f9fcef8defab274ddb1221b871",
-      "title": "Police Suspend Use of Manamperi’s Luxury Vehicle",
-      "sent_at": "2026-04-24T12:00:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/24/court-turns-down-pujith-jayasundara%e2%80%99s-request",
       "content_hash": "40b8780f9d16479c797ef202296b9ba27875bf6f1153d16abd59eb00476c4748",
       "title": "Court Turns Down Pujith Jayasundara’s Request",
@@ -779,6 +767,12 @@
       "content_hash": "a2484e994937ef6ce4e5f5e37932cb7e0210b15ded31a0d4887ce404ec51b7e8",
       "title": "People And Government United In New Governance Era At NPP May Day Rally - President",
       "sent_at": "2026-05-01T10:40:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/01/accident-claims-one-life-in-nawalapitiya",
+      "content_hash": "233d0186cec0c718359ad7da5011810a6dbcafe578d90587e06a76fd9b709057",
+      "title": "Accident Claims One Life in Nawalapitiya",
+      "sent_at": "2026-05-01T12:01:10Z"
     }
   ]
 }
