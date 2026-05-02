@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/25/crude-oil-shipment-to-arrive-in-sri-lanka-tomorrow",
-      "content_hash": "d0d4a7c76bc0252e77d72a81a937dfe21d3a7070830b0e46e05247f9a54ffd29",
-      "title": "Crude Oil Shipment to Arrive in Sri Lanka Tomorrow",
-      "sent_at": "2026-04-25T14:47:41Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/25/2-5-million-foreign-payment-incident-under-investigation-possible-impersonation-scam-suspected",
       "content_hash": "30ba3453171f86b45a9a91c71be065321353dd971133b154d20c57a908d5afe4",
       "title": "$2.5 Million Foreign Payment Incident Under Investigation: Possible Impersonation Scam Suspected",
@@ -755,6 +749,18 @@
       "content_hash": "cacae50ac799c013cc4385cf91d538fa26d6c4ce2e266491f27b82c902c7f2c8",
       "title": "Tourist Arrivals in Sri Lanka Tops 800,000 in 2026",
       "sent_at": "2026-05-02T13:20:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/railway-department-reclaims-nawalapitiya-land-used-by-mahindananda-foundation-after-25-years",
+      "content_hash": "34d4ef34aeccb361c06d91b190f45f2d1ca68e4053ba3b107a09ccb26d4719de",
+      "title": "Railway Department Reclaims Nawalapitiya Land Used By Mahindananda Foundation After 25 Years",
+      "sent_at": "2026-05-02T14:52:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/suspended-finance-ministry-official-ranga-rajapaksa-laid-to-rest-in-kuliyapitiya",
+      "content_hash": "394ea1358fd3f783d1a5427dd493bdb9316af5a7b7e80d6c8f298e6209c389ec",
+      "title": "Suspended Finance Ministry Official Ranga Rajapaksa Laid To Rest In Kuliyapitiya",
+      "sent_at": "2026-05-02T14:52:53Z"
     }
   ]
 }
