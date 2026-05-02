@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/25/coastal-line-train-services-limited-to-a-single-track-after-wadduwa-derailment",
-      "content_hash": "b44fe1bb36345760fd9593fe0aea45dbc58ba2e49209dd3fe62a8ab30f0e450a",
-      "title": "Coastal Line Train Services Limited to a Single Track After Wadduwa Derailment",
-      "sent_at": "2026-04-25T13:13:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/25/veteran-writer-tennyson-perera-passes-away",
-      "content_hash": "60558f8a55b9b224f4dddca52b166d3e9373851b662b3b15b7ff5450e0857b53",
-      "title": "Veteran Writer Tennyson Perera Passes Away",
-      "sent_at": "2026-04-25T13:13:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/25/crude-oil-shipment-to-arrive-in-sri-lanka-tomorrow",
       "content_hash": "d0d4a7c76bc0252e77d72a81a937dfe21d3a7070830b0e46e05247f9a54ffd29",
       "title": "Crude Oil Shipment to Arrive in Sri Lanka Tomorrow",
@@ -755,6 +743,18 @@
       "content_hash": "fe85da797edb793096028f75fecb8abce5cf418c5c16cb9182c7d4a370df2d4f",
       "title": "Presidential Commission to Probe Coal Procurement To Record Statements From Officials Next Tuesday",
       "sent_at": "2026-05-02T11:49:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/special-traffic-plan-in-colombo-tomorrow-in-line-with-maldivian-president%e2%80%99s-visit",
+      "content_hash": "f1abc7b919b65c2d1f7290c80ac9b7f70f862ebf4fa0bd4bec17fb1b83f74ed9",
+      "title": "Special Traffic Plan In Colombo Tomorrow In line with Maldivian President’s Visit",
+      "sent_at": "2026-05-02T13:20:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/tourist-arrivals-in-sri-lanka-tops-800-000-in-2026",
+      "content_hash": "cacae50ac799c013cc4385cf91d538fa26d6c4ce2e266491f27b82c902c7f2c8",
+      "title": "Tourist Arrivals in Sri Lanka Tops 800,000 in 2026",
+      "sent_at": "2026-05-02T13:20:57Z"
     }
   ]
 }
