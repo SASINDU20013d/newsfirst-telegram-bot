@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/25/25-000-metric-tons-of-urea-fertilizer-shipment-due-in-sri-lanka-early-next-month",
-      "content_hash": "e77f82ecccd396bdf576b292d11a7b82f1aa2209c4df75459b98669a8a6f722f",
-      "title": "25,000 Metric Tons of Urea Fertilizer Shipment Due in Sri Lanka Early Next Month",
-      "sent_at": "2026-04-25T05:16:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/25/global-walk-for-peace-enters-day-four-sacred-journey-continues-from-beligammana-to-tholangamuwa",
-      "content_hash": "37df0fa887888c5380ab499e55fa3443ca75b7ae6dd5e453b7b1a2baaab9191c",
-      "title": "Global Walk for Peace Enters Day Four, Sacred Journey Continues from Beligammana to Tholangamuwa",
-      "sent_at": "2026-04-25T05:16:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/25/sri-lanka-to-launch-first-digital-motor-insurance-card-from-may-1",
-      "content_hash": "6262657a51e0ffd78475964cef797d331b8c2ed1271292aa6ee8f43babe953da",
-      "title": "Sri Lanka to Launch First Digital Motor Insurance Card from May 1",
-      "sent_at": "2026-04-25T05:16:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/25/38-6-million-worth-of-foreign-cigarettes-seized-at-katunayake-airport",
       "content_hash": "1bd34a727564daf7f20ff02fc4b8e53b09d5c68f83b2e0cdad39ae9fa265eb3d",
       "title": "38.6 Million Worth of Foreign Cigarettes Seized at Katunayake Airport",
@@ -797,6 +779,18 @@
       "content_hash": "7347911f2c6a51054abad9f6553dcef185ae61f752ce5c6a4039ee04814a2783",
       "title": "Over 4,700 Drivers Charged for Drug Use in Past Four Months",
       "sent_at": "2026-05-02T03:21:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/one-killed-and-three-injured-in-motorcycle-collision-on-puttalamtrincomalee-road",
+      "content_hash": "4c42a553af0d6a656258153dbf2bdd128668a48a91810cd5c72ca13ce26d8e09",
+      "title": "One Killed And Three Injured In Motorcycle Collision On Puttalam–Trincomalee Road",
+      "sent_at": "2026-05-02T06:10:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/six-archaeological-shrines-to-be-restored-after-cyclone-ditwah-damage",
+      "content_hash": "a7c945568a57d7f391ae1016001fe548b5062ce92bf28b55042019da1690baf1",
+      "title": "Six Archaeological Shrines To Be Restored After Cyclone Ditwah Damage",
+      "sent_at": "2026-05-02T06:10:13Z"
     }
   ]
 }
