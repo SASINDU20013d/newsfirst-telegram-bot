@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/25/police-sergeant-dies-following-avurudu-festival-clash-in-walasmulla",
-      "content_hash": "6923e755c3af4efb83cdeceb896707d6e048a0153bc8e33456617d3b43b5fb01",
-      "title": "Police Sergeant Dies Following Avurudu Festival Clash in Walasmulla",
-      "sent_at": "2026-04-25T10:49:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/25/coastal-line-train-services-limited-to-a-single-track-after-wadduwa-derailment",
       "content_hash": "b44fe1bb36345760fd9593fe0aea45dbc58ba2e49209dd3fe62a8ab30f0e450a",
       "title": "Coastal Line Train Services Limited to a Single Track After Wadduwa Derailment",
@@ -749,6 +743,12 @@
       "content_hash": "75e5ae33c9e8a4e9854822d69f9d837c09ec583435e9401d3d4edbeb862e41cc",
       "title": "Vehicle Imports Surge 900 Percent In First Quarter Of 2026",
       "sent_at": "2026-05-02T08:22:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/77-percent-of-aswesuma-beneficiaries-included-in-empowerment-program",
+      "content_hash": "54f08d2d3fb17ff458025a198617e764023ea2cc0256a0e03c6e89172cac1228",
+      "title": "77 Percent Of Aswesuma Beneficiaries Included In Empowerment Program",
+      "sent_at": "2026-05-02T10:56:42Z"
     }
   ]
 }
