@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/25/2-5-million-foreign-payment-incident-under-investigation-possible-impersonation-scam-suspected",
-      "content_hash": "30ba3453171f86b45a9a91c71be065321353dd971133b154d20c57a908d5afe4",
-      "title": "$2.5 Million Foreign Payment Incident Under Investigation: Possible Impersonation Scam Suspected",
-      "sent_at": "2026-04-25T16:50:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/25/easter-attacks-investigation-new-revelations-on-delays-in-information-reporting",
-      "content_hash": "f79a02e1a2a6f3be57e86ce96e894bbf98a06bf704f92f6d8a26d72575b596b9",
-      "title": "Easter Attacks Investigation: New Revelations on Delays in Information Reporting",
-      "sent_at": "2026-04-25T16:50:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/25/special-us-delegation-heads-to-pakistan-for-talks-aimed-at-diplomatically-resolving-issues-with-iran",
-      "content_hash": "96f79ccf6d402cb0ae26b080c9bb11eb56be1ce746e7fee092f1af0d4a157610",
-      "title": "Special US Delegation Heads to Pakistan for Talks Aimed at Diplomatically Resolving Issues with Iran",
-      "sent_at": "2026-04-25T16:50:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/26/crude-oil-shipment-to-arrive-today-fuel-supplies-secured-until-late-june",
       "content_hash": "810a807db86f2a517a751a5ab2c497a22ac98d1d80fd25558c768de2944f505f",
       "title": "Crude Oil Shipment to Arrive Today; Fuel Supplies Secured Until Late June",
@@ -761,6 +743,18 @@
       "content_hash": "394ea1358fd3f783d1a5427dd493bdb9316af5a7b7e80d6c8f298e6209c389ec",
       "title": "Suspended Finance Ministry Official Ranga Rajapaksa Laid To Rest In Kuliyapitiya",
       "sent_at": "2026-05-02T14:52:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/russian-health-minister-mikhail-murashko-to-arrive-in-sri-lanka-tomorrow",
+      "content_hash": "1ef97b1063d944155ef1ae7a6d220250db4b8e3aa33c69cc880bc0c15d5f1222",
+      "title": "Russian Health Minister Mikhail Murashko To Arrive In Sri Lanka Tomorrow",
+      "sent_at": "2026-05-02T16:54:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/02/vietnamese-president-t%c3%b4-l%c3%a2m-to-arrive-in-sri-lanka",
+      "content_hash": "80c64d0da8f172a1235736e6361e4495db3132355a80d9346811a4f76e37799a",
+      "title": "Vietnamese President Tô Lâm To Arrive In Sri Lanka",
+      "sent_at": "2026-05-02T16:54:49Z"
     }
   ]
 }
