@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/26/sawe-smashes-two-hour-barrier-to-make-history-in-london",
-      "content_hash": "cf60db43e84acc27b8e43f06c7fb89770862c4cb1a0430f44689077640c6dd02",
-      "title": "Sawe smashes two-hour barrier to make history in London",
-      "sent_at": "2026-04-26T13:15:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/26/mahanayake-theros-urge-urgent-action-against-drug-networks-targeting-young-monks",
       "content_hash": "217ab0af00f8e26526ea3e5c65aa2b3d01ad89ef702b85cc684dfda16779f7ae",
       "title": "Mahanayake Theros Urge Urgent Action Against Drug Networks Targeting Young Monks",
@@ -749,6 +743,12 @@
       "content_hash": "12593951e1241ec3aff8e6eb9139b8ebe0ac5e420dfc4538210b07a18d07e631",
       "title": "Two Arrested in Pannipitiya with Heroin, ICE, and Kush",
       "sent_at": "2026-05-03T11:47:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/03/president-of-maldives-dr-mohamed-muizzu-arrives-in-sri-lanka-for-an-official-state-visit",
+      "content_hash": "419016547268786b01f8225ba3a19d160e6d2ab8e3867add2d681cc2bfedaa34",
+      "title": "President of Maldives Dr. Mohamed Muizzu Arrives in Sri Lanka for an Official State Visit",
+      "sent_at": "2026-05-03T13:20:04Z"
     }
   ]
 }
