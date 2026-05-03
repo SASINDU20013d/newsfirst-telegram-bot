@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/26/crude-oil-shipment-to-arrive-today-fuel-supplies-secured-until-late-june",
-      "content_hash": "810a807db86f2a517a751a5ab2c497a22ac98d1d80fd25558c768de2944f505f",
-      "title": "Crude Oil Shipment to Arrive Today; Fuel Supplies Secured Until Late June",
-      "sent_at": "2026-04-26T03:26:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/26/four-more-state-institutions-to-join-national-cyber-security-operations-center",
-      "content_hash": "82a10e0a8cc2539be08175ae4b95fa31a805b9d4bc2e7b4d5796dedb9f96ed57",
-      "title": "Four More State Institutions to Join National Cyber Security Operations Center",
-      "sent_at": "2026-04-26T03:26:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/26/global-walk-for-peace-enters-fifth-day-journey-begins-from-tholangamuwa-to-yakkala",
-      "content_hash": "1b1ae62c16efcbe8098eb8ed8737b3fcba3d1e936e9499c81ea6b793a79e454a",
-      "title": "Global Walk for Peace Enters Fifth Day; Journey Begins from Tholangamuwa to Yakkala",
-      "sent_at": "2026-04-26T03:26:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/26/22-individuals-in-robes-appeared-to-be-monks-arrested-with-over-rs-1-1-billion-worth-of-kush-and-hashish",
       "content_hash": "e7e46dedc8f8c12f7baaf1e21baeacdf8ccbef3a18e91a87786460af251ecc71",
       "title": "22 Individuals in Robes Appeared to be Monks Arrested With Over Rs. 1.1 Billion Worth of Kush and Hashish",
@@ -761,6 +743,30 @@
       "content_hash": "2e1de10e8170bbdcbdf1974ceed70456e795937a2cb085d9e4a237337c3f441f",
       "title": "CPC Fuel Prices Revised with effect from Midnight Today (02)",
       "sent_at": "2026-05-02T17:49:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/03/investigation-report-on-ranga-rajapaksa-s-death-to-be-submitted-on-the-25th",
+      "content_hash": "7ff0aa5b91c658e8ca0ca9aa6540d18fa75f4150f997b9747389c4074b7ca4c5",
+      "title": "Investigation Report on Ranga Rajapaksa's Death to be Submitted on the 25th",
+      "sent_at": "2026-05-03T03:38:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/03/lanka-ioc-raises-fuel-prices-after-cpc-fuel-price-revision",
+      "content_hash": "f9ab59bc83a450302bb4332f316939229064e94574ec5e2098391a896e40407d",
+      "title": "Lanka IOC Raises Fuel Prices After CPC Fuel Price Revision",
+      "sent_at": "2026-05-03T03:38:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/03/permanent-trial-at-bar-appointed-for-prageeth-ekneligoda-case",
+      "content_hash": "c003ff030a84eb937b091c8c84c1063820aec55f3d64ac7514148596253cb5b6",
+      "title": "Permanent Trial-at-Bar Appointed for Prageeth Ekneligoda Case",
+      "sent_at": "2026-05-03T03:38:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/03/president-of-maldives-to-arrive-in-sri-lanka-today",
+      "content_hash": "04658cad5cf2ff718a21db401097acca6e210faa88e6d4ada8466f6b98818652",
+      "title": "President of Maldives to Arrive in Sri Lanka Today",
+      "sent_at": "2026-05-03T03:38:48Z"
     }
   ]
 }
