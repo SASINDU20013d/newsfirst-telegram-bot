@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/26/monk-arrested-as-main-suspect-in-rs-1-1-billion-drug-smuggling-case-involving-22-at-bia",
-      "content_hash": "c97edb3a1f02cb79ed600bee6e802146f185d85394da062c874fa00e30c0ab7a",
-      "title": "Monk Arrested as Main Suspect in Rs. 1.1 Billion Drug Smuggling Case Involving 22 at BIA",
-      "sent_at": "2026-04-26T10:50:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/26/sawe-smashes-two-hour-barrier-to-make-history-in-london",
       "content_hash": "cf60db43e84acc27b8e43f06c7fb89770862c4cb1a0430f44689077640c6dd02",
       "title": "Sawe smashes two-hour barrier to make history in London",
@@ -749,6 +743,12 @@
       "content_hash": "115b833a2d6065043d82db491248245492f6b5c0841b5dcbbed8dea3dd380dfd",
       "title": "Young Woman Dies After Lightning Strike At Habaraduwa Home",
       "sent_at": "2026-05-03T10:09:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/03/two-arrested-in-pannipitiya-with-heroin-ice-and-kush",
+      "content_hash": "12593951e1241ec3aff8e6eb9139b8ebe0ac5e420dfc4538210b07a18d07e631",
+      "title": "Two Arrested in Pannipitiya with Heroin, ICE, and Kush",
+      "sent_at": "2026-05-03T11:47:53Z"
     }
   ]
 }
