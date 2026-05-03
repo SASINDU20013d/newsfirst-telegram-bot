@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/26/22-individuals-in-robes-appeared-to-be-monks-arrested-with-over-rs-1-1-billion-worth-of-kush-and-hashish",
-      "content_hash": "e7e46dedc8f8c12f7baaf1e21baeacdf8ccbef3a18e91a87786460af251ecc71",
-      "title": "22 Individuals in Robes Appeared to be Monks Arrested With Over Rs. 1.1 Billion Worth of Kush and Hashish",
-      "sent_at": "2026-04-26T06:09:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/26/health-ministry-urges-doctors-to-report-measles-cases-amid-new-outbreaks",
-      "content_hash": "4325fd7454d5e3acb4cdc65cc0ec8c8ae4ce8b104e16a1e4b2660b9f3126afa7",
-      "title": "Health Ministry Urges Doctors to Report Measles Cases Amid New Outbreaks",
-      "sent_at": "2026-04-26T06:09:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/26/registration-of-dansals-for-vesak-and-poson-poya-begins",
-      "content_hash": "97d48e2dfdff613dfaadff40a5df655cbea3e3c50a8a1eda1596a6d8cc394b11",
-      "title": "Registration of Dansals For Vesak and Poson Poya Begins",
-      "sent_at": "2026-04-26T06:09:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/26/rs-3-6-billion-allocated-to-upgrade-primary-healthcare-across-nine-provinces",
-      "content_hash": "e9312041a20da4215abf6e0369a387fe7facefaad98f1d20ac9f2799e307c140",
-      "title": "Rs. 3.6 Billion Allocated to Upgrade Primary Healthcare Across Nine Provinces",
-      "sent_at": "2026-04-26T06:09:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/26/chaos-at-the-white-house-correspondents-dinner-in-washington-suspect-in-custody-after-shots-fired",
       "content_hash": "30e1b81f3906bfe6eb7f1b5526c2649fedea0d4bddf79da1d63ddf34a5e6ad31",
       "title": "Chaos at the White House Correspondents' Dinner in Washington, Suspect in Custody After Shots Fired",
@@ -767,6 +743,12 @@
       "content_hash": "04658cad5cf2ff718a21db401097acca6e210faa88e6d4ada8466f6b98818652",
       "title": "President of Maldives to Arrive in Sri Lanka Today",
       "sent_at": "2026-05-03T03:38:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/03/russian-health-minister-mikhail-murashko-to-arrive-in-sri-lanka-today",
+      "content_hash": "e424eabc605bd4a457595f2529ce240f6850371b8cf78b3106f136a351b5e795",
+      "title": "Russian Health Minister Mikhail Murashko To Arrive In Sri Lanka Today",
+      "sent_at": "2026-05-03T06:29:20Z"
     }
   ]
 }
