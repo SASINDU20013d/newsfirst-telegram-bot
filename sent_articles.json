@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/27/%e2%80%98walk-for-peace%e2%80%99-draws-global-attention-to-the-island-of-peace",
-      "content_hash": "b7447448351011dcd677d8ee96bbe7e58656784d435e54ed7a06813f9680b25b",
-      "title": "‘Walk for Peace’ Draws Global Attention to the Island of Peace",
-      "sent_at": "2026-04-27T06:31:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/27/police-destroy-over-300kg-of-seized-narcotics",
-      "content_hash": "a21fbd89b069d40ca1a9322f165af200fced117ce84c7d483193ce45c4f62330",
-      "title": "Police Destroy Over 300kg of Seized Narcotics",
-      "sent_at": "2026-04-27T06:31:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/27/new-circular-issued-directing-the-adoption-of-digital-tools-and-paperless-operations-in-state-institutions",
       "content_hash": "ec320f30c14a84afb1965f1e449bf4452c7f2d05fcfc16f8a7122e3b9f556740",
       "title": "New Circular Issued Directing the Adoption of Digital Tools and Paperless Operations in State Institutions",
@@ -749,6 +737,48 @@
       "content_hash": "e3af205669b1db8744ce2440ba9d41f8a89e7534c6556c49de06dbc6b2a02aaf",
       "title": "Report Called on Viral Video of a Celebration at Galle Prison",
       "sent_at": "2026-05-04T03:37:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/court-remands-120-foreigners-arrested-over-immigration-cybercrime-allegations",
+      "content_hash": "2a18d2c4a813ad6ba2be6a8fbc80fb36b9bc3b10cddfac53fe63de986f6e8615",
+      "title": "Court Remands 120 Foreigners Arrested Over Immigration, Cybercrime Allegations",
+      "sent_at": "2026-05-04T06:42:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/drug-haul-hidden-in-sound-equipment-in-wattala",
+      "content_hash": "ade5f1395c43c25d874db0acb2ce5b4ba04a64fd8604489c4fd05838acebccc3",
+      "title": "Drug Haul Hidden in Sound Equipment In Wattala",
+      "sent_at": "2026-05-04T06:42:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/ins-sindhukesari-docks-at-colombo-on-official-visit",
+      "content_hash": "08313a9d254777ef3d5e061a15cc5f59ac9c61fb3628a3d82eecc6aafe8108c1",
+      "title": "INS Sindhukesari Docks at Colombo on Official Visit",
+      "sent_at": "2026-05-04T06:42:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/president-anura-kumara-officially-welcomes-maldivian-president-in-colombo",
+      "content_hash": "8e42410e2c1d4c4e830a1a021f09828f9673c60f25afe747c65cb1c12dec1e82",
+      "title": "President Anura Kumara Officially Welcomes Maldivian President in Colombo",
+      "sent_at": "2026-05-04T06:42:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/shakira-draws-crowd-of-2-million-for-rio-concert",
+      "content_hash": "935751137269af1b7f59e246c908ea6bcfe8a9968085fa9d61765ce69f05de1b",
+      "title": "Shakira Draws Crowd of 2 Million For Rio Concert",
+      "sent_at": "2026-05-04T06:42:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-maldives-exchange-7-mous-at-presidential-level-meeting",
+      "content_hash": "9484848939b3ec159a4afd0ce4ec0474665ae3b5b4af8da5aa8620401d712148",
+      "title": "Sri Lanka, Maldives Exchange 7 MoUs at Presidential-Level Meeting",
+      "sent_at": "2026-05-04T06:42:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/us-launches-%e2%80%9cproject-freedom%e2%80%9d-to-escort-stranded-vessels",
+      "content_hash": "3fa7b692ff513a99808c16a04150fb342a238f92f440a5376b6577fd367f2bfa",
+      "title": "US Launches “Project Freedom” to Escort Stranded Vessels",
+      "sent_at": "2026-05-04T06:42:43Z"
     }
   ]
 }
