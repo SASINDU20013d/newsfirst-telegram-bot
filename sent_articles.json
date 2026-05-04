@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/27/new-circular-issued-directing-the-adoption-of-digital-tools-and-paperless-operations-in-state-institutions",
-      "content_hash": "ec320f30c14a84afb1965f1e449bf4452c7f2d05fcfc16f8a7122e3b9f556740",
-      "title": "New Circular Issued Directing the Adoption of Digital Tools and Paperless Operations in State Institutions",
-      "sent_at": "2026-04-27T09:22:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/27/ramanathan-archchuna-arrested-on-criminal-intimidation-charges",
-      "content_hash": "5dd8507dd0e432016d61ba983c1d9c3db8e4cb69ab5eef952608a465d8b3c2f3",
-      "title": "Ramanathan Archchuna Arrested On Criminal Intimidation Charges",
-      "sent_at": "2026-04-27T09:22:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/27/two-close-associates-of-iniya-bharathi-arrested-in-akkaraipattu",
-      "content_hash": "007246b7404998425abfe59b07d3a1a6550ca42f6de63c3230bb628b21831d5e",
-      "title": "Two Close Associates of Iniya Bharathi Arrested in Akkaraipattu",
-      "sent_at": "2026-04-27T09:22:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/27/lawyer-remanded-for-allegedly-aiding-suspects-in-ganemulla-sanjeewa-killing",
       "content_hash": "ddc31925e5a8e60a0550265c4e4e10f0e2d82d2ec97a279b6e284f01840176cf",
       "title": "Lawyer Remanded for Allegedly Aiding Suspects in Ganemulla Sanjeewa Killing",
@@ -779,6 +761,24 @@
       "content_hash": "3fa7b692ff513a99808c16a04150fb342a238f92f440a5376b6577fd367f2bfa",
       "title": "US Launches “Project Freedom” to Escort Stranded Vessels",
       "sent_at": "2026-05-04T06:42:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-and-maldives-allocate-land-for-reciprocal-high-commissions",
+      "content_hash": "c5f947b874effaf77da6039c868307494cb0fa867edd27439f997aee32ce37f5",
+      "title": "Sri Lanka and Maldives Allocate Land for Reciprocal High Commissions",
+      "sent_at": "2026-05-04T09:24:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-eyes-boat-manufacturing-opportunities-with-maldives",
+      "content_hash": "6e67506e02bd306f6d49bc9a9c5eebe37b23bd41fe5d8bedd3deb0ac2c7a95d2",
+      "title": "Sri Lanka Eyes Boat Manufacturing Opportunities With Maldives",
+      "sent_at": "2026-05-04T09:24:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-maldives-shift-focus-to-delivering-tangible-benefits",
+      "content_hash": "87fcc3716f418f0602f03fae503f7e3e473446a99e076e152ad5f71b11a990f8",
+      "title": "Sri Lanka, Maldives Shift Focus to Delivering Tangible Benefits",
+      "sent_at": "2026-05-04T09:24:10Z"
     }
   ]
 }
