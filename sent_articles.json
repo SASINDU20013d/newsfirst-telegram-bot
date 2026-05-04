@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/27/coastal-line-train-services-return-to-normal-after-derailment",
-      "content_hash": "7e65038188d7f91afe77f818938c4e1e62822cd9d39ebe4baa507ed4036d53ea",
-      "title": "Coastal Line Train Services Return to Normal After Derailment",
-      "sent_at": "2026-04-27T03:31:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/27/global-walk-for-peace-reaches-day-six-concludes-at-kelaniya-raja-maha-viharaya-today",
-      "content_hash": "7936d0fe5578d89161f0b4ce66ccc8aef65c6237021a7d99b7b310a853738857",
-      "title": "Global Walk for Peace Reaches Day Six: Concludes at Kelaniya Raja Maha Viharaya Today",
-      "sent_at": "2026-04-27T03:31:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/27/investigation-continues-into-treasury-cyber-theft-technical-and-administrative-failures-in-the-department-evaluated",
-      "content_hash": "5e6923eabe41d63c52a29c6aa34adfaa5632dce3e2ccfb64b4ea157448bb57f8",
-      "title": "Investigation Continues into Treasury Cyber Theft: Technical and Administrative Failures in the Department Evaluated",
-      "sent_at": "2026-04-27T03:31:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/27/presidential-commission-on-coal-transactions-commences-inquiries",
-      "content_hash": "392488e50f2e4828492f53beb2071172e0ce72f541405da31db5f1da0a59ad28",
-      "title": "Presidential Commission on Coal Transactions Commences Inquiries",
-      "sent_at": "2026-04-27T03:31:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/27/university-entrance-handbook-to-be-released-at-midnight-tonight",
-      "content_hash": "5965fb0466ee46a18d99347e3042b4d4262e158c002104ad73f83f4e3f10f713",
-      "title": "University Entrance Handbook to be Released at Midnight Tonight",
-      "sent_at": "2026-04-27T03:31:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/27/%e2%80%98walk-for-peace%e2%80%99-draws-global-attention-to-the-island-of-peace",
       "content_hash": "b7447448351011dcd677d8ee96bbe7e58656784d435e54ed7a06813f9680b25b",
       "title": "‘Walk for Peace’ Draws Global Attention to the Island of Peace",
@@ -743,6 +713,42 @@
       "content_hash": "419016547268786b01f8225ba3a19d160e6d2ab8e3867add2d681cc2bfedaa34",
       "title": "President of Maldives Dr. Mohamed Muizzu Arrives in Sri Lanka for an Official State Visit",
       "sent_at": "2026-05-03T13:20:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/colombo-to-host-official-state-ceremony-to-welcome-president-of-maldives-dr-mohamed-muizzu-key-mous-set-to-be-signed",
+      "content_hash": "f0b258738298555230b8258fc5660ee72e863f2715127dd8b6968b08da8efb42",
+      "title": "Colombo to Host Official State Ceremony to Welcome President of Maldives Dr. Mohamed Muizzu: Key MOUs Set To Be Signed",
+      "sent_at": "2026-05-04T03:36:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/efforts-underway-to-rescue-sri-lankan-aboard-ship-hijacked-by-somali-pirates",
+      "content_hash": "8d65f043c95839321240e740909fc33605361b0f8e21b86b81824aae0f957249",
+      "title": "Efforts Underway to Rescue Sri Lankan Aboard Ship Hijacked by Somali Pirates",
+      "sent_at": "2026-05-04T03:37:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/health-minister-of-russia-mikhail-mureshko-to-visit-national-hospital-of-sri-lanka-in-colombo",
+      "content_hash": "3e4fd649a955aa0fc62b42b6560d60bd3a44fe15e0df371bda0f7723a4116366",
+      "title": "Health Minister of Russia Mikhail Mureshko to Visit National Hospital of Sri Lanka in Colombo",
+      "sent_at": "2026-05-04T03:37:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/investigation-launched-into-shooting-incident-at-galle-prison",
+      "content_hash": "2cbb40360368fc66acf95d0c0a20446bfcfa3ee43f4635988d86daec6f38b924",
+      "title": "Investigation Launched into Shooting Incident at Galle Prison",
+      "sent_at": "2026-05-04T03:37:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/registration-for-vesak-dansal-begins",
+      "content_hash": "1bac4875da22388d9295c4630d6d98c259b85a917e3381c610337245d3acff59",
+      "title": "Registration for Vesak Dansal Begins",
+      "sent_at": "2026-05-04T03:37:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/04/report-called-on-viral-video-of-a-celebration-at-galle-prison",
+      "content_hash": "e3af205669b1db8744ce2440ba9d41f8a89e7534c6556c49de06dbc6b2a02aaf",
+      "title": "Report Called on Viral Video of a Celebration at Galle Prison",
+      "sent_at": "2026-05-04T03:37:09Z"
     }
   ]
 }
