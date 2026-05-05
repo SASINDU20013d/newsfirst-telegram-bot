@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/28/court-orders-wildlife-department-to-explain-steps-to-reduce-humanelephant-conflict",
-      "content_hash": "e4d729d0695f567c38014521fad13c4760f7de34828948fca5e6957b1ebdb8e3",
-      "title": "Court Orders Wildlife Department to Explain Steps to Reduce Human–Elephant Conflict",
-      "sent_at": "2026-04-28T09:25:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/jailer-and-two-prison-guards-arrested-over-inmate%e2%80%99s-death-at-magazine-prison",
-      "content_hash": "9ee9b2b7baa506b3d7282c11f298180da9bedccdb117d1ae11abee7e1827e9f0",
-      "title": "Jailer and Two Prison Guards Arrested Over Inmate’s Death at Magazine Prison",
-      "sent_at": "2026-04-28T09:25:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/maldives-president-to-pay-state-visit-to-sri-lanka-from-may-3-to-5",
-      "content_hash": "c7558f384167c12849bb71ef65e9f12739b1f59357c4e948cedf20662650d6af",
-      "title": "Maldives President to Pay State Visit to Sri Lanka from May 3 to 5",
-      "sent_at": "2026-04-28T09:25:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/navy-evacuates-injured-fisherman-75-nautical-miles-offshore",
-      "content_hash": "dbcc83cd97500dea3a49104884332aa8fe8d9d23a00c8c2ee2006d2b22e85f6b",
-      "title": "Navy Evacuates Injured Fisherman 75 Nautical Miles Offshore",
-      "sent_at": "2026-04-28T09:26:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/residents-block-protest-attempt-by-gota-s-ex-secretary",
-      "content_hash": "5a512aa0b0511bc4baf641d675a08a76bf9313b574977514326a60c05d588d38",
-      "title": "Residents Block Protest Attempt By Gota's Ex-Secretary",
-      "sent_at": "2026-04-28T09:26:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/28/cabinet-greenlights-9-800-permanent-appointments-for-public-sector-employees",
       "content_hash": "02b3e2b709b033bb5987c3c65828b2f961c9b4109e71c80934fdf50bb9494e01",
       "title": "Cabinet Greenlights 9,800 Permanent Appointments for Public Sector Employees",
@@ -803,6 +773,36 @@
       "content_hash": "55d0c862dc64db93b4182ae8d8b7616ce401235f743702c46af08d520038b75f",
       "title": "'The Ocean Unites Us, It Does Not Divide Us' - Muizzu at State Dinner In Colombo",
       "sent_at": "2026-05-05T09:09:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/05/cabinet-approves-appointment-of-new-director-general-of-customs",
+      "content_hash": "bb0dd80538e1e092432dfc94a935619f7cffaec318f466292fb213793c0ccc9a",
+      "title": "Cabinet Approves Appointment of New Director General of Customs",
+      "sent_at": "2026-05-05T11:17:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/05/cabinet-approves-five-mous-between-sri-lanka-and-vietnam",
+      "content_hash": "b404b21aa1f99bbffa2ffb863841b4dfb816585533912111ba97b8ed85816139",
+      "title": "Cabinet approves Five MoUs between Sri Lanka and Vietnam",
+      "sent_at": "2026-05-05T11:17:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/05/iranian-foreign-minister-abbas-araghchi-to-visit-beijing",
+      "content_hash": "a09819de3f6d856bcb35da465b8d6e14d0184774f9a29a3d6780b3467997f9ac",
+      "title": "Iranian Foreign Minister Abbas Araghchi to Visit Beijing",
+      "sent_at": "2026-05-05T11:17:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/05/politics-is-different-from-acting-says-namal-in-message-to-thalapathy-vijay",
+      "content_hash": "beb1d0fda714ca90d2d9fe1ae65deab3565fa5587f34dc75df24bb799708b586",
+      "title": "Politics Is Different From Acting, Says Namal in Message to Thalapathy Vijay",
+      "sent_at": "2026-05-05T11:17:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/05/russia-declares-victory-day-truce-warns-kiev-of-strike-if-moscow-targeted",
+      "content_hash": "f49de900c4ba0b8e85c095eb2206fccc97069b0dc2e6c2abcf3f34d4bd108bd0",
+      "title": "Russia Declares Victory Day truce, Warns Kiev Of strike If Moscow Targeted",
+      "sent_at": "2026-05-05T11:17:57Z"
     }
   ]
 }
