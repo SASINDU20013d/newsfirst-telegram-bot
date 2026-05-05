@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/28/cabinet-greenlights-9-800-permanent-appointments-for-public-sector-employees",
-      "content_hash": "02b3e2b709b033bb5987c3c65828b2f961c9b4109e71c80934fdf50bb9494e01",
-      "title": "Cabinet Greenlights 9,800 Permanent Appointments for Public Sector Employees",
-      "sent_at": "2026-04-28T11:48:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/unp-declines-may-day-participation-with-sjb-citing-guidance-of-ranasinghe-premadasa",
-      "content_hash": "a79dfa459cb93e88ec3a3014670165b7c0114626b3af350634785a56a20bc42a",
-      "title": "UNP Declines May Day Participation With SJB, Citing Guidance of Ranasinghe Premadasa",
-      "sent_at": "2026-04-28T11:48:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/court-locks-case-file-in-treasury-cyber-scandal-travel-bans-on-five-officials",
-      "content_hash": "70b4985453e8e43eae04ddd2c25697f3995c38277b05264e22a9d9f78351ac35",
-      "title": "Court Locks Case File in Treasury Cyber Scandal; Travel Bans On Five Officials",
-      "sent_at": "2026-04-28T14:22:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/cybercriminals-outsmart-treasury-systems-court-told",
-      "content_hash": "cae152b0267590e27e2fb1eb939f407deeb2ee98cbc27bd8a1c745774fc04f50",
-      "title": "Cybercriminals Outsmart Treasury Systems, Court Told",
-      "sent_at": "2026-04-28T14:22:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/seven-pillars-of-peace-for-a-harmonious-nation",
-      "content_hash": "4a943b6f5503da31cfc36885210b5e3b5b4260fb4afaf7fb6efae48cb55ac221",
-      "title": "Seven Pillars of Peace for a Harmonious Nation",
-      "sent_at": "2026-04-28T14:22:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/28/sri-maha-bodhi-sapling-presented-to-walk-for-peace",
-      "content_hash": "36fab4849d8c9254df26c94044bc86a58e1d2780b6ffd1fd25176ad74477671e",
-      "title": "Sri Maha Bodhi Sapling Presented To Walk For Peace",
-      "sent_at": "2026-04-28T14:22:27Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/29/global-walk-for-peace-in-the-island-of-peace-concludes-at-gangaramaya-temple-following-state-ceremony",
       "content_hash": "c69d3dcbc7eb467e63277ac130aa90c148af9257801cdcf864df1748bc8a9a09",
       "title": "Global Walk for Peace in the Island of Peace Concludes at Gangaramaya Temple Following State Ceremony",
@@ -803,6 +767,24 @@
       "content_hash": "f49de900c4ba0b8e85c095eb2206fccc97069b0dc2e6c2abcf3f34d4bd108bd0",
       "title": "Russia Declares Victory Day truce, Warns Kiev Of strike If Moscow Targeted",
       "sent_at": "2026-05-05T11:17:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/05/finance-ministry-secretary-to-remain-in-post-says-govt-after-cyber-theft-case",
+      "content_hash": "5759520d8ad7ce1e145157ec45cdcbb671d509ef6e9d08a8f1e2dc77a131b37e",
+      "title": "Finance Ministry Secretary to Remain in Post, Says Govt After Cyber Theft Case",
+      "sent_at": "2026-05-05T16:26:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/05/have-foreign-cybercrime-syndicates-entered-sri-lanka",
+      "content_hash": "b98aa0f7981d3d353209156feb2892e2bca41e7cdde6c8b5955e711da56d1920",
+      "title": "Have Foreign Cybercrime Syndicates Entered Sri Lanka?",
+      "sent_at": "2026-05-05T16:26:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/05/met-department-forecasts-an-increase-in-rainfall-as-itcz-related-disturbance-develops-near-sri-lanka",
+      "content_hash": "6b399a0ca1336fa8f9cd656502205d0e33590a12ddf8e4708ba25b59e0b23fbe",
+      "title": "Met Department Forecasts An Increase in Rainfall as ITCZ-related disturbance develops near Sri Lanka",
+      "sent_at": "2026-05-05T16:26:53Z"
     }
   ]
 }
