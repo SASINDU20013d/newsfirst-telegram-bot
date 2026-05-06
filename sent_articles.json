@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/29/court-orders-swift-filing-of-indictments-against-ranil",
-      "content_hash": "c1c357e4d334b43683ae03a24687d25c1d28480d789b026dd60ad69badc9825c",
-      "title": "Court Orders Swift Filing of Indictments Against Ranil",
-      "sent_at": "2026-04-29T14:08:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/eran-to-lead-sri-lanka-cricket-reforms-committee",
-      "content_hash": "d24a2a2f938891643f7592de3a5c3d0cf4d3a89aa15fe4a1b5846f3a8f449cca",
-      "title": "Eran To Lead Sri Lanka Cricket Reforms Committee",
-      "sent_at": "2026-04-29T14:08:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/here-s-the-new-sri-lanka-cricket-reforms-committee",
-      "content_hash": "ceb1ea7350e494968cf5c4e1711eb1cd55d28a524ae68a1f0c15aae7c74e1cfe",
-      "title": "Here's The New Sri Lanka Cricket Reforms Committee",
-      "sent_at": "2026-04-29T14:08:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/mahinda%e2%80%99s-asset-declaration-is-incomplete-says-ciaboc",
-      "content_hash": "26fd366a9ffe0ce7d00c62f3149093ff14868f78b8497bdd11528158affc89be",
-      "title": "Mahinda’s Asset Declaration Is Incomplete, Says CIABOC",
-      "sent_at": "2026-04-29T14:08:30Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/30/adb-to-provide-over-100-million-financial-aid-for-export-diversification",
       "content_hash": "0b23bd90c631ff6e14a1d9672b8720a901b30523585de870b363292c7f57ffc3",
       "title": "ADB to Provide Over $100 Million Financial Aid for Export Diversification",
@@ -827,6 +803,48 @@
       "content_hash": "8976a67aa33daecfc124745948bce6d3f3c1b2a0ee534d4b6aedd6d480c35a78",
       "title": "US & Iran Close To Agreeing To 1-Page Memo To End War",
       "sent_at": "2026-05-06T11:51:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/60-foreign-nationals-arrested-in-kollupitiya-over-suspected-cyber-crimes",
+      "content_hash": "192fafae4eb6ca96681e903f8fb82c57f9b8fc92acc49675f9e08e469e8a397b",
+      "title": "60 Foreign Nationals Arrested in Kollupitiya Over Suspected Cyber Crimes",
+      "sent_at": "2026-05-06T14:23:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/court-allows-sl-cert-to-inspect-sri-lanka-post-over-misrouted-usd-postal-payment",
+      "content_hash": "87e27dcbf0716f7ca952aff14dc5093f2f5032c940e00d3b7c2006bff7529b3c",
+      "title": "Court Allows SL-CERT To Inspect Sri Lanka Post Over Misrouted USD Postal Payment",
+      "sent_at": "2026-05-06T14:24:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/french-aircraft-carrier-group-moving-into-red-sea",
+      "content_hash": "124246d3a9b94dbf1a68f3d322140d1e9126ce925eb2cb8a835c138d6a39fd7e",
+      "title": "French Aircraft Carrier Group Moving Into Red Sea",
+      "sent_at": "2026-05-06T14:24:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/sjb-social-media-activist-released-on-bail-after-arrest-at-dehiwalamount-lavinia-council",
+      "content_hash": "062b92c778ffeb231f21d69278f05289e1bfcf317e7022b256748fa8eb784775",
+      "title": "SJB Social Media Activist Released on Bail After Arrest at Dehiwala–Mount Lavinia Council",
+      "sent_at": "2026-05-06T14:24:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/sri-lanka-cricket-transformation-committee-holds-first-meeting",
+      "content_hash": "0d8944f7b0d151c6a9bfac0aca76623a2a2cd1bc430b5f40cd3865ee03267b9a",
+      "title": "Sri Lanka Cricket Transformation Committee Holds First Meeting",
+      "sent_at": "2026-05-06T14:24:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/trial-against-former-energy-minister-kumara-jayakody-to-begin-on-june-17",
+      "content_hash": "ab22a5536fedd19cd227094fff63fe3a0b195e5589dbed3a219d9b8d10f01e35",
+      "title": "Trial Against Former Energy Minister Kumara Jayakody to Begin on June 17",
+      "sent_at": "2026-05-06T14:24:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/unp-sjb-unity-possible-under-two-leaders-says-harin",
+      "content_hash": "9e2ea61eb11a5e858cc0ed5ba5bb1645503ddf152029bef2a1e98e84af3e844f",
+      "title": "UNP-SJB Unity Possible Under Two Leaders, Says Harin",
+      "sent_at": "2026-05-06T14:24:16Z"
     }
   ]
 }
