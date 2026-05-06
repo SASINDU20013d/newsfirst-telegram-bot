@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/29/another-petrol-tanker-arrives-sufficient-fuel-stocks-available-until-late-june",
-      "content_hash": "29078bc83876e6865d2ea8486409f5a4b8ef5dfdea3405c64cfc176f4df8d527",
-      "title": "Another Petrol Tanker Arrives; Sufficient Fuel Stocks Available Until Late June",
-      "sent_at": "2026-04-29T09:12:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/case-against-former-president-ranil-wickremesinghe-to-be-called-today",
-      "content_hash": "cfe8b5c3e4170a6fe4ebc79994d64f9246c29031af9d9b0f0a0f00d832755d30",
-      "title": "Case Against Former President Ranil Wickremesinghe to be Called Today",
-      "sent_at": "2026-04-29T09:12:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/president-pledges-to-uphold-the-spiritual-awakening-sparked-by-global-walk-for-peace",
-      "content_hash": "1487b244a1c17f64446cfa8460d7ccede6848987e87778c36c1a8c442ff69b17",
-      "title": "President Pledges to Uphold the Spiritual Awakening Sparked by Global 'Walk for Peace'",
-      "sent_at": "2026-04-29T09:12:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/sports-ministry-accepts-shammi-s-resignation",
-      "content_hash": "ee7f354d380ffc127bb5f581bd6df517e3dd796485647ba05f8652951ae45b5f",
-      "title": "Sports Ministry Accepts Shammi's Resignation",
-      "sent_at": "2026-04-29T09:12:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/sri-lanka-cricket-president-shammi-silva-resigns-with-immediate-effect",
-      "content_hash": "90cd0ae768555d632fdf157ccdc21e8ead99f7166c2af6c36b3857eb9cc15928",
-      "title": "Sri Lanka Cricket President Shammi Silva Resigns With Immediate Effect",
-      "sent_at": "2026-04-29T09:12:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/29/bus-plunges-into-precipice-in-hatton-killing-1-and-injuring-17",
       "content_hash": "0986525ecb2af0c104b9771a3aa3f00ff7da642bfe8f79a1032fa3dad9d1d8a1",
       "title": "Bus Plunges Into Precipice In Hatton, Killing 1 And Injuring 17",
@@ -809,6 +779,48 @@
       "content_hash": "9e0691468a0e69b7be88849b6bbcc298cb890563d9755396773faa2251fe1a3d",
       "title": "'TN 07 CM 2026': Vijay's GOAT Scene Goes Viral After Election Win",
       "sent_at": "2026-05-06T06:32:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/a-garden-a-vision-a-global-moment-for-sri-lanka-bevis-bawa%e2%80%99s-legacy-finds-global-applause",
+      "content_hash": "a40b6312d6164b99fb2e4156afa9ca44a97ade49b1f6ef979cb6325de797ad74",
+      "title": "A Garden, a Vision, a Global Moment for Sri Lanka: Bevis Bawa’s Legacy Finds Global Applause",
+      "sent_at": "2026-05-06T09:26:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/board-admitted-failure-fresh-start-for-slc",
+      "content_hash": "d2e6763a87d2c24fd3e43bb93b121a640b1c992f2f408ab4b7894f676373ae28",
+      "title": "Board Admitted Failure, Fresh Start for SLC",
+      "sent_at": "2026-05-06T09:26:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/constable-arrested-for-fraud-from-police-reward-fund",
+      "content_hash": "38473e994d8e207ca2d88af0a02122afd16f75d3db016f98cd4ab892b131e470",
+      "title": "Constable Arrested for Fraud From Police Reward Fund",
+      "sent_at": "2026-05-06T09:26:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/north-korea-grants-leader-command-over-nuclear-forces",
+      "content_hash": "5919501459fea7ac06597c565a10138e5463bcfc9c044577270836bb2c3cfbbf",
+      "title": "North Korea Grants Leader Command Over Nuclear Forces",
+      "sent_at": "2026-05-06T09:27:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/rs-91-3-bn-debt-restructured-what%e2%80%99s-next-for-srilankan-airlines",
+      "content_hash": "16afa6fed96197f4ccd67d1c108cd9af288dbeeff77d6ab2a5c0a41248cc1ce9",
+      "title": "Rs. 91.3 Bn Debt Restructured: What’s Next for SriLankan Airlines?",
+      "sent_at": "2026-05-06T09:27:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/sri-lanka-south-korea-formalise-usd-267-million-debt-restructuring-deal",
+      "content_hash": "09a14faf65c55525032c48a6524810e3505d2e88f9fc387179152cda0415e07c",
+      "title": "Sri Lanka, South Korea Formalise USD 267 Million Debt Restructuring Deal",
+      "sent_at": "2026-05-06T09:27:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/university-admissions-for-2025-26-academic-year-in-september-2026",
+      "content_hash": "a008fb12e8d7fffec764f02c4cb7035d50e91b71a33a914e96cf6d14f96d6132",
+      "title": "University Admissions for 2025/26 Academic Year in September 2026",
+      "sent_at": "2026-05-06T09:27:14Z"
     }
   ]
 }
