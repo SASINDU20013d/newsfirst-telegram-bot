@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/29/global-walk-for-peace-in-the-island-of-peace-concludes-at-gangaramaya-temple-following-state-ceremony",
-      "content_hash": "c69d3dcbc7eb467e63277ac130aa90c148af9257801cdcf864df1748bc8a9a09",
-      "title": "Global Walk for Peace in the Island of Peace Concludes at Gangaramaya Temple Following State Ceremony",
-      "sent_at": "2026-04-29T03:50:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/president-of-vietnam-to-visit-sri-lanka-in-may",
-      "content_hash": "7ef9dae7a90fdaa006df73d5ced3ef6e36983d9a1b3edd78f6df351bf1fb5b37",
-      "title": "President of Vietnam to Visit Sri Lanka in May",
-      "sent_at": "2026-04-29T03:50:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/public-submissions-to-the-presidential-commission-to-probe-coal-procurement-deals-open-monday",
-      "content_hash": "6c4115685c2a8783f4e3380abac85fa9ebbee26276b5bdc911ca44d23dfa5a3d",
-      "title": "Public Submissions to the Presidential Commission to Probe Coal Procurement Deals Open Monday",
-      "sent_at": "2026-04-29T03:50:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/modern-signal-system-on-the-maho-anuradhapura-railway-to-complete-in-october",
-      "content_hash": "ef7f46049413cb6c9dc90bbf728292a6d89bb2a063baec13ed1814257f93da81",
-      "title": "Modern Signal System on the Maho-Anuradhapura Railway to Complete in October",
-      "sent_at": "2026-04-29T06:27:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/renowned-publisher-deshabandhu-sirisumana-godage-passes-away",
-      "content_hash": "d1bb9dc4f6b38bdbb76900eb96f5e9c87ce6a20b047935c39f819671ffa489c7",
-      "title": "Renowned Publisher Deshabandhu Sirisumana Godage Passes Away",
-      "sent_at": "2026-04-29T06:28:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/29/state-of-emergency-extended-by-one-month-15-essential-services-gazetted",
-      "content_hash": "0aca7d2713e350fb00c1bf3dd290df07d676e007289f7f39fae30384822983f6",
-      "title": "State of Emergency Extended by One Month; 15 Essential Services Gazetted",
-      "sent_at": "2026-04-29T06:28:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/29/another-petrol-tanker-arrives-sufficient-fuel-stocks-available-until-late-june",
       "content_hash": "29078bc83876e6865d2ea8486409f5a4b8ef5dfdea3405c64cfc176f4df8d527",
       "title": "Another Petrol Tanker Arrives; Sufficient Fuel Stocks Available Until Late June",
@@ -809,6 +773,42 @@
       "content_hash": "fe66374a556db41cf9ce1dce9f2e458cf887282ee0e3bd31ce4c7b7e568f0a88",
       "title": "Special Mosquito Control Program Launched In High-Risk Dengue Zones",
       "sent_at": "2026-05-06T03:35:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/major-police-transfers-approved-by-police-commission",
+      "content_hash": "9117d1947e5495b260397b6f71bd342f1606ecd618a2321277f84d434f60166f",
+      "title": "Major Police Transfers Approved by Police Commission",
+      "sent_at": "2026-05-06T06:32:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/new-audit-service-commission-members-take-oath-of-secrecy",
+      "content_hash": "f72d26dcb1f0b9be6931d801649cbf10574cc99739890c7534b9c601344481d2",
+      "title": "New Audit Service Commission Members Take Oath Of Secrecy",
+      "sent_at": "2026-05-06T06:32:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/pakistan-navy-rushes-to-help-stranded-indian-vessel",
+      "content_hash": "a2200f638571b444c859dcf1f2250811aecee41741d7aab9a7d14841b35c5062",
+      "title": "Pakistan Navy Rushes To Help Stranded Indian Vessel",
+      "sent_at": "2026-05-06T06:32:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/rs-1-84-bn-unpaid-new-indictments-against-cabraal",
+      "content_hash": "64037b4221bae72521a8c109f040bf4bece22ad1910c1dce48beab8c3a629a81",
+      "title": "Rs. 1.84 BN Unpaid: New Indictments Against Cabraal",
+      "sent_at": "2026-05-06T06:32:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/second-reading-debate-on-insolvency-bill-in-parliament-today",
+      "content_hash": "0480477ed13209581d7a5fdb41d7be73e131933c0922ab2d58309d8614902d06",
+      "title": "Second Reading Debate On Insolvency Bill In Parliament Today",
+      "sent_at": "2026-05-06T06:32:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/06/tn-07-cm-2026-vijay-s-goat-scene-goes-viral-after-election-win",
+      "content_hash": "9e0691468a0e69b7be88849b6bbcc298cb890563d9755396773faa2251fe1a3d",
+      "title": "'TN 07 CM 2026': Vijay's GOAT Scene Goes Viral After Election Win",
+      "sent_at": "2026-05-06T06:32:57Z"
     }
   ]
 }
