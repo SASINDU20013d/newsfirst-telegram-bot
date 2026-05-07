@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/30/experienced-corporate-banker-eran-takes-helm-of-slc-transition-committee",
-      "content_hash": "72507b41e7a74f91ad7a9989b516efca2284ff44abc575534beaa04879792d03",
-      "title": "Experienced Corporate Banker Eran Takes Helm of SLC Transition Committee",
-      "sent_at": "2026-04-30T09:17:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/treasury-secretary-to-appear-before-copf",
-      "content_hash": "47e4303a467791c9862166fe81dd6ccb3e70b3b8b8ae83a54b3070102b1a9269",
-      "title": "Treasury Secretary to Appear Before COPF",
-      "sent_at": "2026-04-30T09:17:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/30/experienced-corporate-banker-eran-takes-helm-of-sri-lanka-cricket-transition-committee",
       "content_hash": "eca855601d17cfdcb362fc37934032ec7746cfe1d78eba9f29d8186b8e2d1556",
       "title": "Experienced Corporate Banker Eran Takes Helm of Sri Lanka Cricket Transition Committee",
@@ -833,6 +821,18 @@
       "content_hash": "163a6ffa3cff2725d49f4aaaf3e4d9733798cb15db4d0d4af558764037fef058",
       "title": "Udaya Gammanpila Summoned Over Comments on Ranga Rajapaksha’s Death",
       "sent_at": "2026-05-07T06:40:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/four-schools-in-deniyaya-temporarily-closed-due-to-spread-of-virus",
+      "content_hash": "663352aeb4f5d557ee3a9ecea930c34216a0217d7625cd7d21bac7ab77a75e99",
+      "title": "Four Schools In Deniyaya Temporarily Closed Due To Spread of Virus",
+      "sent_at": "2026-05-07T09:36:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/special-traffic-plan-in-colombo-for-vietnam-president-t%c3%b4-l%c3%a2m-s-visit",
+      "content_hash": "5696c5da9db79b4188b4a900b1d2401ab0954ced53e22a60e15beb69ff42ae7d",
+      "title": "Special Traffic Plan In Colombo For Vietnam President Tô Lâm's Visit",
+      "sent_at": "2026-05-07T09:36:39Z"
     }
   ]
 }
