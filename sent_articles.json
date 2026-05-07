@@ -1,78 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/30/adb-to-provide-over-100-million-financial-aid-for-export-diversification",
-      "content_hash": "0b23bd90c631ff6e14a1d9672b8720a901b30523585de870b363292c7f57ffc3",
-      "title": "ADB to Provide Over $100 Million Financial Aid for Export Diversification",
-      "sent_at": "2026-04-30T03:56:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/cabinet-greenlights-bill-to-establish-national-cyber-security-regulatory-authority",
-      "content_hash": "eb59b26c81ec5effef210d5cc1d80255987134f93d13f7d8ea50816b1e284790",
-      "title": "Cabinet Greenlights Bill to Establish National Cyber Security Regulatory Authority",
-      "sent_at": "2026-04-30T03:56:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/ranil-s-lawyer-slams-high-commission-travel-agency-for-fraud-in-uk-trip",
-      "content_hash": "ce7047b35bc716499efc6ff3f5894270b74dcb3bc4c2d3776674e5d96c342d7b",
-      "title": "Ranil's Lawyer Slams High Commission & Travel Agency For Fraud In UK Trip",
-      "sent_at": "2026-04-30T03:56:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/russian-health-minister-mikhail-murashko-to-visit-sri-lanka",
-      "content_hash": "8dc8d767a10dece76cca6a23bc49eb9f2efb77d36d079a1449341fbcd49b5cb6",
-      "title": "Russian Health Minister Mikhail Murashko to Visit Sri Lanka",
-      "sent_at": "2026-04-30T03:56:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/trcsl-to-launch-independent-system-to-improve-telecom-service-quality",
-      "content_hash": "29eb6a4932b17d21193fb3b574cffcf87079db8998dc1972e872a705e937f99e",
-      "title": "TRCSL to Launch Independent System to Improve Telecom Service Quality",
-      "sent_at": "2026-04-30T03:56:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/finance-secretary-to-skip-copf-meeting-ahead-of-presidential-statement-on-cyber-theft",
-      "content_hash": "d79b7e1215731e29f27da3f465f16fe2f486c45da52f445050b52f5a5b659a83",
-      "title": "Finance Secretary to Skip COPF Meeting Ahead of Presidential Statement on Cyber Theft",
-      "sent_at": "2026-04-30T06:31:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/jailer-and-prison-officers-remanded-over-magazine-prison-custodial-death",
-      "content_hash": "0c48380ef9576b540516cd7340a450cf6fbbaed7b47df61adc1c44312e6ed100",
-      "title": "Jailer and Prison Officers Remanded Over Magazine Prison Custodial Death",
-      "sent_at": "2026-04-30T06:31:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/mapped-traffic-plan-for-may-day-in-colombo",
-      "content_hash": "41a5a9fa7c7554082363f50a521db03548c0ba89c851431c8faffaf7541a3ef6",
-      "title": "MAPPED: Traffic Plan For May Day In Colombo",
-      "sent_at": "2026-04-30T06:31:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/president-issues-directives-to-provide-temporary-housing-for-victims-of-cyclone-ditwah-by-end-of-may",
-      "content_hash": "82f6e0e3425e126cad934973fcfa513f06bb8a6e5c3b1eb8d93c2f58e5eabc8f",
-      "title": "President Issues Directives to Provide Temporary Housing for Victims of Cyclone Ditwah by End of May",
-      "sent_at": "2026-04-30T06:31:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/restore-pride-and-performance-eran-sets-vision-for-sri-lanka-cricket-reform",
-      "content_hash": "1b4059ac022d594f2f3eba34a73992e3b1aa89d5e0ef4b932de3806bc5d4ba2a",
-      "title": "'Restore Pride and Performance': Eran Sets Vision for Sri Lanka Cricket Reform",
-      "sent_at": "2026-04-30T06:31:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/sri-lanka-customs-to-launch-three-new-ict-systems-today",
-      "content_hash": "b90f45db466fa8d7705465950fcaf8da38377d356d908fe0438bcb0c8eb06296",
-      "title": "Sri Lanka Customs to Launch Three New ICT Systems Today",
-      "sent_at": "2026-04-30T06:31:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/suspect-arrested-in-homagama-with-foreign-made-pistol",
-      "content_hash": "17b4616b6d661531d7b73861d9b84fa22404666c9815cce0667585c27fbf20fa",
-      "title": "Suspect Arrested in Homagama with Foreign-Made Pistol",
-      "sent_at": "2026-04-30T06:31:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/30/experienced-corporate-banker-eran-takes-helm-of-slc-transition-committee",
       "content_hash": "72507b41e7a74f91ad7a9989b516efca2284ff44abc575534beaa04879792d03",
       "title": "Experienced Corporate Banker Eran Takes Helm of SLC Transition Committee",
@@ -863,6 +791,48 @@
       "content_hash": "297dceb33528659717572870dae530af38e0613f36ef01d0b55b8aa69b4f80c8",
       "title": "Two Sureties who Appeared on Behalf of Former Sri Lankan Airlines CEO Kapila Chandrasena, Remanded",
       "sent_at": "2026-05-06T16:45:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/five-foreign-nationals-arrested-for-financial-fraud-in-matara",
+      "content_hash": "76f6d2dc4d93a5f470b0e2324bfd24763ce80a5a527535b7642848e342268df1",
+      "title": "Five Foreign Nationals Arrested For Financial Fraud in Matara",
+      "sent_at": "2026-05-07T06:40:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/government-to-import-200-luxury-buses-to-operate-on-expressways-and-long-distance-services",
+      "content_hash": "c0481f15b56768f85ba3d605afbb6adf90dc48a39365c8f3af8d0ec40187e1bd",
+      "title": "Government To Import 200 Luxury Buses to Operate on Expressways And Long-Distance Services",
+      "sent_at": "2026-05-07T06:40:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/laugfs-gas-increases-lp-gas-prices-litro-gas-prices-unchanged",
+      "content_hash": "11165eeadbf0a4cb1da488149da8fbf9c7c167473149bb1ec1b5ef47d9ae6693",
+      "title": "LAUGFS Gas Increases LP Gas Prices; Litro Gas Prices Unchanged",
+      "sent_at": "2026-05-07T06:40:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/president-of-vietnam-to-arrive-in-sri-lanka-today",
+      "content_hash": "4d41a93497120ac4c4ef9301c47f5d7663b7ac83f20b8dbe6b63599a77f31a29",
+      "title": "President of Vietnam to Arrive in Sri Lanka Today",
+      "sent_at": "2026-05-07T06:40:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/showers-and-thundershowers-expected-across-sri-lanka-over-next-few-days-due-to-prevailing-low-level-atmospheric-disturbance",
+      "content_hash": "459d29b049d835c6567f54b2b3cdd3718d69af33fdc5bbb33294c601622f7d11",
+      "title": "Showers and Thundershowers Expected Across Sri Lanka Over Next Few Days Due to Prevailing Low-level Atmospheric Disturbance",
+      "sent_at": "2026-05-07T06:40:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/special-business-forum-to-be-held-in-colombo-alongside-vietnam-president%e2%80%99s-visit",
+      "content_hash": "2a9b96e5d7506598d62feb45573c3b68e4444f1224c8af953018d90e78da04b3",
+      "title": "Special Business Forum to be Held in Colombo Alongside Vietnam President’s Visit",
+      "sent_at": "2026-05-07T06:40:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/udaya-gammanpila-summoned-over-comments-on-ranga-rajapaksha%e2%80%99s-death",
+      "content_hash": "163a6ffa3cff2725d49f4aaaf3e4d9733798cb15db4d0d4af558764037fef058",
+      "title": "Udaya Gammanpila Summoned Over Comments on Ranga Rajapaksha’s Death",
+      "sent_at": "2026-05-07T06:40:31Z"
     }
   ]
 }
