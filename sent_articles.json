@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/30/experienced-corporate-banker-eran-takes-helm-of-sri-lanka-cricket-transition-committee",
-      "content_hash": "eca855601d17cfdcb362fc37934032ec7746cfe1d78eba9f29d8186b8e2d1556",
-      "title": "Experienced Corporate Banker Eran Takes Helm of Sri Lanka Cricket Transition Committee",
-      "sent_at": "2026-04-30T11:40:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/navy-seizes-1-600kg-of-tendu-leaves",
-      "content_hash": "b7c1111db3b060fc19cbbb3b6df0bcb3a623ff17cc187ed63d2679c737f61c98",
-      "title": "Navy Seizes 1,600kg of Tendu Leaves",
-      "sent_at": "2026-04-30T11:40:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/shipment-of-illicit-turmeric-seized-in-puttalam",
-      "content_hash": "1942825b1dfc896f4c41f3d01c5775f16b313075c9cb9cb811480ff7e9f3607b",
-      "title": "Shipment of Illicit Turmeric Seized in Puttalam",
-      "sent_at": "2026-04-30T11:41:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/sri-lanka-women-seal-20-lead-against-bangladesh",
-      "content_hash": "ed0e072c96adaf5b11d98db1c47ab624ad7feb562a74d18501696504f50c023b",
-      "title": "Sri Lanka Women Seal 2–0 Lead Against Bangladesh",
-      "sent_at": "2026-04-30T11:41:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/04/30/experts-propose-ban-on-tobacco-access-for-children-born-after-2010",
       "content_hash": "5367c2155f7fbb3a97e72900dd3cbf9b09dc232ad976f30974e4882fbc9d319f",
       "title": "Experts Propose Ban on Tobacco Access for Children Born After 2010",
@@ -833,6 +809,30 @@
       "content_hash": "5696c5da9db79b4188b4a900b1d2401ab0954ced53e22a60e15beb69ff42ae7d",
       "title": "Special Traffic Plan In Colombo For Vietnam President Tô Lâm's Visit",
       "sent_at": "2026-05-07T09:36:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/chief-prelates-bless-gammadda-s-3rd-phase-of-ditwah-response",
+      "content_hash": "bdc3f0147f345f3961485234240a9399d6f2378e119f15686af95a19e4f6b47d",
+      "title": "Chief Prelates Bless Gammadda's 3rd Phase of Ditwah Response",
+      "sent_at": "2026-05-07T11:50:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/court-orders-arrest-of-kapila-chandrasena-after-breach-of-trust-allegations",
+      "content_hash": "bcc95b8ff227285547c79e31c9c8b62cfebde60c65711a0594fcf94bb5bc36b0",
+      "title": "Court Orders Arrest of Kapila Chandrasena After Breach of Trust Allegations",
+      "sent_at": "2026-05-07T11:50:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/live-bomb-found-in-weerakodithola-reserve-in-puttalam",
+      "content_hash": "5d56cff4cb8fa3ccae0e35a83390040f58789cfca2f78dd309fac365f8aa1b31",
+      "title": "Live Bomb Found In Weerakodithola Reserve In Puttalam",
+      "sent_at": "2026-05-07T11:50:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/six-people-injured-in-mapalagama-road-accident",
+      "content_hash": "543e7d6b02ad1a2349a2afc05b3825df53fb84ba5c2708b7dceefdf288cc51d8",
+      "title": "Six People Injured In Mapalagama Road Accident",
+      "sent_at": "2026-05-07T11:50:49Z"
     }
   ]
 }
