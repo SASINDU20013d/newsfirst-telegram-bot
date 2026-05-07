@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/04/30/experts-propose-ban-on-tobacco-access-for-children-born-after-2010",
-      "content_hash": "5367c2155f7fbb3a97e72900dd3cbf9b09dc232ad976f30974e4882fbc9d319f",
-      "title": "Experts Propose Ban on Tobacco Access for Children Born After 2010",
-      "sent_at": "2026-04-30T14:06:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/04/30/suspended-finance-ministry-official-found-dead-amid-treasury-cyber-theft-probe",
-      "content_hash": "859efa8f332f6a7eb2b87b2fcabebf7969892097e0f3dc03e5f389cb243c5f7d",
-      "title": "Suspended Finance Ministry Official Found Dead Amid Treasury Cyber Theft Probe",
-      "sent_at": "2026-04-30T14:06:46Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/01/workers%e2%80%99-day-marked-with-focus-on-rights-economic-stability-and-social-security",
       "content_hash": "bc3558448eefa6934f60002968ab969fe32f4ec50d1fda35b224cb6e2de5d11b",
       "title": "Workers’ Day Marked With Focus On Rights, Economic Stability And Social Security",
@@ -833,6 +821,24 @@
       "content_hash": "543e7d6b02ad1a2349a2afc05b3825df53fb84ba5c2708b7dceefdf288cc51d8",
       "title": "Six People Injured In Mapalagama Road Accident",
       "sent_at": "2026-05-07T11:50:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/adb-says-resilience-must-be-built-for-the-long-term",
+      "content_hash": "47aa81cbb11064c4bd3b321548cc3902d4d609678da83dc8692102e6d5f6dcbf",
+      "title": "ADB Says Resilience Must Be Built for the Long Term",
+      "sent_at": "2026-05-07T14:24:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/pta-detention-of-suresh-salley-challenged",
+      "content_hash": "2708f4f587884b86d91b347562ea65f19d554481766639451ae3c9f6b9ec62c5",
+      "title": "PTA Detention of Suresh Salley Challenged",
+      "sent_at": "2026-05-07T14:24:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/07/second-round-of-grade-six-scholarship-appeals-open",
+      "content_hash": "27e96a8955b116075a439bb4a4967a67b118125372e0c6e2d9aa4fa3a5b21861",
+      "title": "Second Round of Grade Six Scholarship Appeals Open",
+      "sent_at": "2026-05-07T14:24:16Z"
     }
   ]
 }
