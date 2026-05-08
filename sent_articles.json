@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/01/abu-trio-dominates-aib-s-global-leadership-for-2026-2028",
-      "content_hash": "338c3ae7672abef909065c55e00d4677739a2addf01e3fa103eb738bdc0b40f3",
-      "title": "ABU Trio Dominates AIB's Global Leadership for 2026-2028",
-      "sent_at": "2026-05-01T09:03:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/01/government-highlights-workers%e2%80%99-role-amid-economic-progress-and-pledges-stronger-social-protection",
-      "content_hash": "2a0b6f56ea6fa0597c677e23f6ddb6b3e00797d5450fcf89eee94d08a8f642da",
-      "title": "Government Highlights Workers’ Role Amid Economic Progress And Pledges Stronger Social Protection",
-      "sent_at": "2026-05-01T09:03:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/01/pet-scan-crisis-hits-cancer-patients-amid-chemical-shortage",
-      "content_hash": "27082e8c3f0b031987a2d0e955c1c8e19295c414d6cdd81d0f76a4f4d52c8eb1",
-      "title": "PET Scan Crisis Hits Cancer Patients Amid Chemical Shortage",
-      "sent_at": "2026-05-01T09:03:42Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/01/death-of-suspended-treasury-official-under-investigation-by-police-and-forensic-experts",
       "content_hash": "b42ae84240f4e5ff0bd89df02df618953b767fc433c654d212cf8d91c86404b9",
       "title": "Death of Suspended Treasury Official Under Investigation by Police and Forensic Experts",
@@ -887,6 +869,12 @@
       "content_hash": "175edf94ac0e79b12c6a29e951f0523538a063f2fbfbfc841d51395017d9c7da",
       "title": "Vietnam Hails Sri Lanka’s Economic Progress,Calls for Stronger Strategic Cooperation",
       "sent_at": "2026-05-08T07:46:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/08/rajanganaye-thero-taken-into-custody-in-early-morning-arrest",
+      "content_hash": "7eee90e7f3a7a9c92bfb4ab98c217fcde6397fcb3c226263384b777b6bccf5b6",
+      "title": "Rajanganaye Thero Taken Into Custody in Early-Morning Arrest",
+      "sent_at": "2026-05-08T09:27:06Z"
     }
   ]
 }
