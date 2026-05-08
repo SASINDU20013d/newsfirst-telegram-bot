@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/01/adhi-vesak-poya-day-observed-with-religious-ceremonies-across-the-island",
-      "content_hash": "28ba422a17e634df24f6c1e63e25df169859f470e2a52c771ed55cf4d822b2b0",
-      "title": "Adhi Vesak Poya Day Observed With Religious Ceremonies Across The Island",
-      "sent_at": "2026-05-01T06:39:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/01/construction-of-rambukkana-galagedara-section-of-central-expressway-to-begin-this-month",
-      "content_hash": "5e299d50795214a308a7406ca99cd1041d2837bed6454da0080ab93e61442173",
-      "title": "Construction of Rambukkana-Galagedara Section of Central Expressway to Begin This Month",
-      "sent_at": "2026-05-01T06:39:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/01/five-remanded-over-assault-on-children-at-welimada-probation-centre",
-      "content_hash": "0c8e3662e6161a7d61c62a6b3e5b8921365245123bddde8d95d626ae88f762ff",
-      "title": "Five Remanded Over Assault On Children At Welimada Probation Centre",
-      "sent_at": "2026-05-01T06:40:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/01/political-parties-organize-may-day-rallies-across-the-country",
-      "content_hash": "1672dabc488128a34dc63ba0c39e4a9351cc4ea2b2687a9973c83c559b100bcb",
-      "title": "Political Parties Organize May Day Rallies Across The Country",
-      "sent_at": "2026-05-01T06:40:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/01/two-police-teams-deployed-to-probe-death-of-ranga-rajapaksa",
-      "content_hash": "5f20f8b9c610c7428f3a593071cb6a4c2ca3dfddc0a53fd316b90b1d0eea58da",
-      "title": "Two Police Teams Deployed To Probe Death Of Ranga Rajapaksa",
-      "sent_at": "2026-05-01T06:40:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/01/abu-trio-dominates-aib-s-global-leadership-for-2026-2028",
       "content_hash": "338c3ae7672abef909065c55e00d4677739a2addf01e3fa103eb738bdc0b40f3",
       "title": "ABU Trio Dominates AIB's Global Leadership for 2026-2028",
@@ -893,6 +863,30 @@
       "content_hash": "53644b3e363a098e209b90a82802cb224cb504e894374db6791361bd3ef4592a",
       "title": "Vietnamese President Tô Lâm Receives Ceremonial Welcome at Sri Lanka President’s Office",
       "sent_at": "2026-05-08T06:00:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/08/akd-t%c3%b4-l%c3%a2m-discuss-expanding-cooperation-in-energy-technology-security-and-trade",
+      "content_hash": "d15f3ce6fd3f75c34b1e315a19ff2f7baad86173fcc44563a8ca103d9998d988",
+      "title": "AKD, Tô Lâm Discuss Expanding Cooperation in Energy, Technology, Security and Trade",
+      "sent_at": "2026-05-08T07:46:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/08/gammadda-re-build-empowers-nuwara-eliya-communities-after-cyclone-ditwah",
+      "content_hash": "61540c5872c17204f837460736f59cc9f46cc48a48738ab6753f0c3c8b8d5441",
+      "title": "Gammadda Re-Build Empowers Nuwara Eliya Communities After Cyclone Ditwah",
+      "sent_at": "2026-05-08T07:46:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/08/sri-lanka-vietnam-target-1-billion-trade-as-ties-reach-historic-turning-point",
+      "content_hash": "9f07e6554556052648b8472eae2e6099336bc5048737a2cacc87818b1d485b78",
+      "title": "Sri Lanka, Vietnam Target $1 Billion Trade as Ties Reach Historic Turning Point",
+      "sent_at": "2026-05-08T07:46:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/08/vietnam-hails-sri-lanka%e2%80%99s-economic-progress-calls-for-stronger-strategic-cooperation",
+      "content_hash": "175edf94ac0e79b12c6a29e951f0523538a063f2fbfbfc841d51395017d9c7da",
+      "title": "Vietnam Hails Sri Lanka’s Economic Progress,Calls for Stronger Strategic Cooperation",
+      "sent_at": "2026-05-08T07:46:56Z"
     }
   ]
 }
