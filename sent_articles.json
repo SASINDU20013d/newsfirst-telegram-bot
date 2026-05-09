@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/02/sarvanna-relics-from-sri-lanka-brought-to-texas-for-sacred-exposition",
-      "content_hash": "bd8642017f2e3160183ba0e6ef8ad7827c9c0488afec2eeaff26c1d7582e5bd6",
-      "title": "Sarvanna Relics From Sri Lanka Brought To Texas For Sacred Exposition",
-      "sent_at": "2026-05-02T08:22:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/02/vehicle-imports-surge-900-percent-in-first-quarter-of-2026",
-      "content_hash": "75e5ae33c9e8a4e9854822d69f9d837c09ec583435e9401d3d4edbeb862e41cc",
-      "title": "Vehicle Imports Surge 900 Percent In First Quarter Of 2026",
-      "sent_at": "2026-05-02T08:22:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/02/77-percent-of-aswesuma-beneficiaries-included-in-empowerment-program",
       "content_hash": "54f08d2d3fb17ff458025a198617e764023ea2cc0256a0e03c6e89172cac1228",
       "title": "77 Percent Of Aswesuma Beneficiaries Included In Empowerment Program",
@@ -851,6 +839,30 @@
       "content_hash": "5e298504c4a6ea166447e9b5753cdb3647d384c0e64ad49ae3c1a954f672fac0",
       "title": "Sluice Gates Opened At Several Reservoirs Due To Heavy Rains",
       "sent_at": "2026-05-09T06:19:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/a-suspect-arrested-at-bia-with-kush-worth-rs-5-1-million",
+      "content_hash": "7728a629f9841e52492551f1b1d9711b3b2e98385226d87218db77e6924dcaf3",
+      "title": "A Suspect Arrested At BIA With Kush Worth Rs. 5.1 Million",
+      "sent_at": "2026-05-09T08:43:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/former-mp-udaya-gammanpila-provides-a-statement-regarding-ranga-rajapaksa%e2%80%99s-death",
+      "content_hash": "28aa6df0d89cb7cbb77847559e0a78ffc6dda6aecf1874fc18ab09a8096ed254",
+      "title": "Former MP Udaya Gammanpila Provides a Statement Regarding Ranga Rajapaksa’s Death",
+      "sent_at": "2026-05-09T08:43:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/pucsl-approves-18-increase-in-electricity-tariffs",
+      "content_hash": "75dae08980a65d7b77c1734fa8e6f71b97ed4633fcb2963d361e402cd1a76ad4",
+      "title": "PUCSL approves 18% increase in electricity tariffs",
+      "sent_at": "2026-05-09T08:43:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/sri-lanka-records-over-900-000-tourist-arrivals-in-2026-to-date",
+      "content_hash": "b3fd0be7ca0df667c9d6c7881ad94204d78052d18e85fcaefce18726c5427025",
+      "title": "Sri Lanka Records Over 900,000 Tourist Arrivals In 2026 To Date",
+      "sent_at": "2026-05-09T08:43:15Z"
     }
   ]
 }
