@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/02/authorities-issue-guidelines-to-ensure-respectful-vesak-celebrations",
-      "content_hash": "f56b311dbc8d5a520fb1816ca6a0bade5405e3c2b42dc1e5dfdad222ecd26bb4",
-      "title": "Authorities Issue Guidelines To Ensure Respectful Vesak Celebrations",
-      "sent_at": "2026-05-02T03:21:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/02/health-ministry-reports-dengue-increase-in-7-districts",
-      "content_hash": "1d08e67cc22d4799e09d548c92c5d08378930d5cd03289a8af17d7de40860394",
-      "title": "Health Ministry Reports Dengue Increase In 7 Districts",
-      "sent_at": "2026-05-02T03:21:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/02/over-4-700-drivers-charged-for-drug-use-in-past-four-months",
-      "content_hash": "7347911f2c6a51054abad9f6553dcef185ae61f752ce5c6a4039ee04814a2783",
-      "title": "Over 4,700 Drivers Charged for Drug Use in Past Four Months",
-      "sent_at": "2026-05-02T03:21:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/02/one-killed-and-three-injured-in-motorcycle-collision-on-puttalamtrincomalee-road",
       "content_hash": "4c42a553af0d6a656258153dbf2bdd128668a48a91810cd5c72ca13ce26d8e09",
       "title": "One Killed And Three Injured In Motorcycle Collision On Puttalam–Trincomalee Road",
@@ -857,6 +839,24 @@
       "content_hash": "5b29d11336e510dbd1d838770f92bf8e6a2256fc899949446dec9304d121e8bc",
       "title": "Special PCoI On Coal Probe Set Up At Adhikarana Piyasa",
       "sent_at": "2026-05-08T11:21:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/full-investigation-underway-into-kapila-chandrasena%e2%80%99s-death-min-of-public-security",
+      "content_hash": "0a10c27b3832c8ed2679208a6ddfbd3e2083521db8341d155cee28928c0e5aa8",
+      "title": "Full Investigation Underway Into Kapila Chandrasena’s Death- Min. of Public Security",
+      "sent_at": "2026-05-09T03:29:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/pallegama-hemarathana-thero-arrested-over-alleged-abuse-of-girl",
+      "content_hash": "2e697be6c7623069e56fc30a584026775db75e0d9d96ebed77c0147703fce8aa",
+      "title": "Pallegama Hemarathana Thero Arrested Over Alleged Abuse of Girl",
+      "sent_at": "2026-05-09T03:29:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/steps-taken-to-control-viral-fever-spread-in-deniyaya-no-risk-of-rapid-spread",
+      "content_hash": "86786005c148145961d8789a4fa1de32217387f89218b5fb97edf78971110724",
+      "title": "Steps Taken To Control Viral Fever Spread In Deniyaya: No Risk Of Rapid Spread",
+      "sent_at": "2026-05-09T03:29:04Z"
     }
   ]
 }
