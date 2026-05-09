@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/02/77-percent-of-aswesuma-beneficiaries-included-in-empowerment-program",
-      "content_hash": "54f08d2d3fb17ff458025a198617e764023ea2cc0256a0e03c6e89172cac1228",
-      "title": "77 Percent Of Aswesuma Beneficiaries Included In Empowerment Program",
-      "sent_at": "2026-05-02T10:56:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/02/presidential-commission-to-probe-coal-procurement-to-record-statements-from-officials-next-tuesday",
-      "content_hash": "fe85da797edb793096028f75fecb8abce5cf418c5c16cb9182c7d4a370df2d4f",
-      "title": "Presidential Commission to Probe Coal Procurement To Record Statements From Officials Next Tuesday",
-      "sent_at": "2026-05-02T11:49:35Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/02/special-traffic-plan-in-colombo-tomorrow-in-line-with-maldivian-president%e2%80%99s-visit",
       "content_hash": "f1abc7b919b65c2d1f7290c80ac9b7f70f862ebf4fa0bd4bec17fb1b83f74ed9",
       "title": "Special Traffic Plan In Colombo Tomorrow In line with Maldivian President’s Visit",
@@ -869,6 +857,12 @@
       "content_hash": "82eb04db79da7d3168c2f949c79350d29ce879c5025b222c39db32593f758264",
       "title": "ACMC Suspends Kurunegala Deputy Mayor Over Bribery Allegation",
       "sent_at": "2026-05-09T10:08:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/ccd-takes-over-investigation-into-death-of-kapila-chandrasena",
+      "content_hash": "1eff2e5cb8c41cda4ef3d1dacea1c7266c90a0fa9b0f445ac70d50dd70a40dfc",
+      "title": "CCD Takes Over Investigation Into Death Of Kapila Chandrasena",
+      "sent_at": "2026-05-09T11:53:24Z"
     }
   ]
 }
