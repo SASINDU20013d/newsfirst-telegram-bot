@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/02/cpc-fuel-prices-revised-with-effect-from-midnight-today-02",
-      "content_hash": "2e1de10e8170bbdcbdf1974ceed70456e795937a2cb085d9e4a237337c3f441f",
-      "title": "CPC Fuel Prices Revised with effect from Midnight Today (02)",
-      "sent_at": "2026-05-02T17:49:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/03/investigation-report-on-ranga-rajapaksa-s-death-to-be-submitted-on-the-25th",
       "content_hash": "7ff0aa5b91c658e8ca0ca9aa6540d18fa75f4150f997b9747389c4074b7ca4c5",
       "title": "Investigation Report on Ranga Rajapaksa's Death to be Submitted on the 25th",
@@ -827,6 +821,12 @@
       "content_hash": "1eff2e5cb8c41cda4ef3d1dacea1c7266c90a0fa9b0f445ac70d50dd70a40dfc",
       "title": "CCD Takes Over Investigation Into Death Of Kapila Chandrasena",
       "sent_at": "2026-05-09T11:53:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/09/ccd-to-probe-kapila-chandrasena%e2%80%99s-death",
+      "content_hash": "4df06875570d337858e3bfec403558bb0e926158bbf999fba5aa582efc82cae3",
+      "title": "CCD to Probe Kapila Chandrasena’s Death",
+      "sent_at": "2026-05-09T17:52:58Z"
     }
   ]
 }
