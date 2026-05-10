@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/03/investigation-report-on-ranga-rajapaksa-s-death-to-be-submitted-on-the-25th",
-      "content_hash": "7ff0aa5b91c658e8ca0ca9aa6540d18fa75f4150f997b9747389c4074b7ca4c5",
-      "title": "Investigation Report on Ranga Rajapaksa's Death to be Submitted on the 25th",
-      "sent_at": "2026-05-03T03:38:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/03/lanka-ioc-raises-fuel-prices-after-cpc-fuel-price-revision",
-      "content_hash": "f9ab59bc83a450302bb4332f316939229064e94574ec5e2098391a896e40407d",
-      "title": "Lanka IOC Raises Fuel Prices After CPC Fuel Price Revision",
-      "sent_at": "2026-05-03T03:38:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/03/permanent-trial-at-bar-appointed-for-prageeth-ekneligoda-case",
-      "content_hash": "c003ff030a84eb937b091c8c84c1063820aec55f3d64ac7514148596253cb5b6",
-      "title": "Permanent Trial-at-Bar Appointed for Prageeth Ekneligoda Case",
-      "sent_at": "2026-05-03T03:38:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/03/president-of-maldives-to-arrive-in-sri-lanka-today",
-      "content_hash": "04658cad5cf2ff718a21db401097acca6e210faa88e6d4ada8466f6b98818652",
-      "title": "President of Maldives to Arrive in Sri Lanka Today",
-      "sent_at": "2026-05-03T03:38:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/03/russian-health-minister-mikhail-murashko-to-arrive-in-sri-lanka-today",
       "content_hash": "e424eabc605bd4a457595f2529ce240f6850371b8cf78b3106f136a351b5e795",
       "title": "Russian Health Minister Mikhail Murashko To Arrive In Sri Lanka Today",
@@ -827,6 +803,36 @@
       "content_hash": "4df06875570d337858e3bfec403558bb0e926158bbf999fba5aa582efc82cae3",
       "title": "CCD to Probe Kapila Chandrasena’s Death",
       "sent_at": "2026-05-09T17:52:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/drug-kingpin-batuwatte-chamara-to-be-repatriated-from-dubai-today",
+      "content_hash": "af129e704fa0204b33751971845f02a11481592153392cad091b4e62a86d08e1",
+      "title": "Drug Kingpin Batuwatte Chamara to Be Repatriated from Dubai Today",
+      "sent_at": "2026-05-10T03:41:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/four-schools-in-deniyaya-to-remain-closed-due-to-viral-illness",
+      "content_hash": "b48886ad71af5e8af2ab4f0131d48df0011904f754c66ccd986d11c3a61fa60f",
+      "title": "Four Schools in Deniyaya to Remain Closed Due to Viral Illness",
+      "sent_at": "2026-05-10T03:41:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/heavy-rainfall-over-100mm-forecast-across-several-provinces-today",
+      "content_hash": "53d4be93c1b963f86c7c22b13f8e864e14ef5e5e77a51d40094efccc841278b7",
+      "title": "Heavy Rainfall Over 100mm Forecast Across Several Provinces Today",
+      "sent_at": "2026-05-10T03:41:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/public-to-review-2026-voters%e2%80%99-electoral-register-until-5th-june",
+      "content_hash": "dbbc738c1ac52109abb9cb7dc648dce138d6836c3f198cc29fe659175edb7f8d",
+      "title": "Public to Review 2026 Voters’ Electoral Register Until 5th June",
+      "sent_at": "2026-05-10T03:41:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/special-procurement-drive-begins-in-nuwaraeliya-to-provide-relief-for-potato-farmers",
+      "content_hash": "5394148a145018c9bf67d9f2746dd97983b01a4e7cf2463dfcebc211daf38556",
+      "title": "Special Procurement Drive Begins in NuwaraEliya to Provide Relief for Potato Farmers",
+      "sent_at": "2026-05-10T03:41:25Z"
     }
   ]
 }
