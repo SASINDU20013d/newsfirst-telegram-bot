@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/03/president-of-maldives-dr-mohamed-muizzu-arrives-in-sri-lanka-for-an-official-state-visit",
-      "content_hash": "419016547268786b01f8225ba3a19d160e6d2ab8e3867add2d681cc2bfedaa34",
-      "title": "President of Maldives Dr. Mohamed Muizzu Arrives in Sri Lanka for an Official State Visit",
-      "sent_at": "2026-05-03T13:20:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/04/colombo-to-host-official-state-ceremony-to-welcome-president-of-maldives-dr-mohamed-muizzu-key-mous-set-to-be-signed",
       "content_hash": "f0b258738298555230b8258fc5660ee72e863f2715127dd8b6968b08da8efb42",
       "title": "Colombo to Host Official State Ceremony to Welcome President of Maldives Dr. Mohamed Muizzu: Key MOUs Set To Be Signed",
@@ -821,6 +815,18 @@
       "content_hash": "eaddd8c40f2c1a14aad7d1c5bb827e73a0bb9f2ac93c0100c8a572bf328fa271",
       "title": "Yal Devi Resumes Services to Jaffna Tomorrow",
       "sent_at": "2026-05-10T08:57:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/actor-turned-politician-joseph-vijay-sworn-in-as-tamil-nadu-chief-minister-nine-member-cabinet-sworn-in-alongside-the-new-cm",
+      "content_hash": "69cdd00b3ef096572f665c8ced388043bafaaa93c2eb7eec2c7681f7adafda4d",
+      "title": "Actor- Turned Politician Joseph Vijay Sworn in as Tamil Nadu Chief Minister, Nine-Member Cabinet Sworn in Alongside the New CM",
+      "sent_at": "2026-05-10T13:27:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/mps-assigned-as-district-health-coordinating-officers-for-every-district",
+      "content_hash": "75e86ce6a2cdc74f57c72c29c045d87db889bcc900767d840a915a1f644eb560",
+      "title": "MPs Assigned As District Health Coordinating Officers For Every District",
+      "sent_at": "2026-05-10T13:27:09Z"
     }
   ]
 }
