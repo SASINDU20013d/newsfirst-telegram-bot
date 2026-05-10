@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/03/russian-health-minister-mikhail-murashko-to-arrive-in-sri-lanka-today",
-      "content_hash": "e424eabc605bd4a457595f2529ce240f6850371b8cf78b3106f136a351b5e795",
-      "title": "Russian Health Minister Mikhail Murashko To Arrive In Sri Lanka Today",
-      "sent_at": "2026-05-03T06:29:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/03/120-foreign-nationals-arrested-in-rajagiriya-over-immigration-and-cybercrime-suspicions",
       "content_hash": "4cc31d9f0f6d51d70a75d4811c1eb5739c726be2527e9dd1147b0528a3413a09",
       "title": "120 Foreign Nationals Arrested in Rajagiriya Over Immigration and Cybercrime Suspicions",
@@ -833,6 +827,24 @@
       "content_hash": "5394148a145018c9bf67d9f2746dd97983b01a4e7cf2463dfcebc211daf38556",
       "title": "Special Procurement Drive Begins in NuwaraEliya to Provide Relief for Potato Farmers",
       "sent_at": "2026-05-10T03:41:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/fire-destroys-shops-at-manning-market-in-peliyagoda",
+      "content_hash": "e2b135a740658a8218d035fd3e55e32b533e5818df22718e92c4e12fb51c8e31",
+      "title": "Fire Destroys Shops at Manning Market in Peliyagoda",
+      "sent_at": "2026-05-10T06:36:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/statements-recorded-from-former-cricketer-aravinda-de-silva-and-15-others-over-death-of-former-srilankan-airlines-ceo-kapila-chandrasena",
+      "content_hash": "0a2d717274402383ed02be3573d9912ab428688b8dcc0a473dd7489f25bc088e",
+      "title": "Statements Recorded from Former Cricketer Aravinda de Silva and 15 Others Over Death of Former SriLankan Airlines CEO Kapila Chandrasena",
+      "sent_at": "2026-05-10T06:36:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/suspect-arrested-at-bia-with-hashish-valued-at-over-rs-47-million",
+      "content_hash": "3b9adf178a7ce151093641694f37ca36b3736db88042bd790590c0c91b85d1f6",
+      "title": "Suspect Arrested at BIA with Hashish Valued at Over Rs. 47 Million",
+      "sent_at": "2026-05-10T06:36:22Z"
     }
   ]
 }
