@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/03/120-foreign-nationals-arrested-in-rajagiriya-over-immigration-and-cybercrime-suspicions",
-      "content_hash": "4cc31d9f0f6d51d70a75d4811c1eb5739c726be2527e9dd1147b0528a3413a09",
-      "title": "120 Foreign Nationals Arrested in Rajagiriya Over Immigration and Cybercrime Suspicions",
-      "sent_at": "2026-05-03T08:49:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/03/former-minister-priyankara-jayaratne-and-former-president-mahinda-rajapaksa-summoned-to-bribery-commission-over-airbus-deal",
-      "content_hash": "75c3588fa2d4b9576849a26080eca3b91df1c2f6df773f47a4919fc346060d76",
-      "title": "Former Minister Priyankara Jayaratne and Former President Mahinda Rajapaksa Summoned to Bribery Commission Over Airbus Deal",
-      "sent_at": "2026-05-03T08:49:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/03/health-minister-of-russia-arrives-in-sri-lanka-for-official-visit",
-      "content_hash": "535715d32571b44ffc2c3741c9a790e907aeb083a9619f03ee6deaa9d1d704ad",
-      "title": "Health Minister of Russia Arrives in Sri Lanka for Official Visit",
-      "sent_at": "2026-05-03T08:49:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/03/special-trial-at-bar-to-hear-the-greek-bond-case-against-former-central-bank-governor-ajith-nivard-cabraal",
-      "content_hash": "3280740b04efa139a9a9b3f16626df277e7f8ced9bdae22804c45a4897d27ce0",
-      "title": "Special Trial-at-Bar to Hear the Greek Bond Case Against Former Central Bank Governor Ajith Nivard Cabraal",
-      "sent_at": "2026-05-03T08:49:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/03/2-arrested-in-pannipitiya-with-heroin-ice-and-kush",
       "content_hash": "7682bfab6b0e24d8e505960f986ef45c31cf7ecb20f4e8268b778d61f6b986aa",
       "title": "2 Arrested in Pannipitiya with Heroin, ICE, and Kush",
@@ -845,6 +821,30 @@
       "content_hash": "3b9adf178a7ce151093641694f37ca36b3736db88042bd790590c0c91b85d1f6",
       "title": "Suspect Arrested at BIA with Hashish Valued at Over Rs. 47 Million",
       "sent_at": "2026-05-10T06:36:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/15-member-expert-committee-appointed-to-draft-national-medical-education-policy",
+      "content_hash": "da1d93d4fedc81c41acaecf722a32a5301933b0f567489e06a167ad2d96f9354",
+      "title": "15-Member Expert Committee Appointed to Draft National Medical Education Policy",
+      "sent_at": "2026-05-10T08:56:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/man-killed-in-vehicle-collision-in-yatiyantota",
+      "content_hash": "a8dbb28d114bde6b31073a9ae27805492f918dff404f5f47814c2e4bece90070",
+      "title": "Man Killed in Vehicle Collision in Yatiyantota",
+      "sent_at": "2026-05-10T08:57:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/spill-gates-opened-at-9-major-reservoirs-amid-heavy-rainfall",
+      "content_hash": "64c3209140feae77187930492b57b402ff24807d9e26399d198f1f0039ac0a8f",
+      "title": "Spill Gates Opened at 9 Major Reservoirs Amid Heavy Rainfall",
+      "sent_at": "2026-05-10T08:57:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/10/yal-devi-resumes-services-to-jaffna-tomorrow",
+      "content_hash": "eaddd8c40f2c1a14aad7d1c5bb827e73a0bb9f2ac93c0100c8a572bf328fa271",
+      "title": "Yal Devi Resumes Services to Jaffna Tomorrow",
+      "sent_at": "2026-05-10T08:57:12Z"
     }
   ]
 }
