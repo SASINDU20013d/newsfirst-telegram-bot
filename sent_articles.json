@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-and-maldives-allocate-land-for-reciprocal-high-commissions",
-      "content_hash": "c5f947b874effaf77da6039c868307494cb0fa867edd27439f997aee32ce37f5",
-      "title": "Sri Lanka and Maldives Allocate Land for Reciprocal High Commissions",
-      "sent_at": "2026-05-04T09:24:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-eyes-boat-manufacturing-opportunities-with-maldives",
-      "content_hash": "6e67506e02bd306f6d49bc9a9c5eebe37b23bd41fe5d8bedd3deb0ac2c7a95d2",
-      "title": "Sri Lanka Eyes Boat Manufacturing Opportunities With Maldives",
-      "sent_at": "2026-05-04T09:24:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-maldives-shift-focus-to-delivering-tangible-benefits",
-      "content_hash": "87fcc3716f418f0602f03fae503f7e3e473446a99e076e152ad5f71b11a990f8",
-      "title": "Sri Lanka, Maldives Shift Focus to Delivering Tangible Benefits",
-      "sent_at": "2026-05-04T09:24:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/04/inmate-reported-dead-at-welikada-prison-following-altercation",
       "content_hash": "715d2257a6fa9f37e88b7fe3fbdcc277d159d5a74f44183ce32a1f1509d6fdd9",
       "title": "Inmate Reported Dead At Welikada Prison Following Altercation",
@@ -821,6 +803,36 @@
       "content_hash": "0d13829b389ed8b764d803499f9b97322706284d38ad191f672b8acac6cf0ddb",
       "title": "Udaya Gammanpila Summoned to TID Over Statement Made During Book Launch",
       "sent_at": "2026-05-11T07:49:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/30-firefighters-deployed-to-contain-dam-street-blaze",
+      "content_hash": "e5722aef6a0ef1e8f3376aebfdf62fee9b0096e2c3ac5e1b184ecc9be1b00355",
+      "title": "30 Firefighters Deployed to Contain Dam Street Blaze",
+      "sent_at": "2026-05-11T11:28:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/legal-action-against-vehicles-with-dangerous-modifications-and-noisy-exhausts",
+      "content_hash": "38bef9bf8f30845614ae59aa9136bd22a2d4690f72366cafd02ec418cb556d07",
+      "title": "Legal Action Against Vehicles With Dangerous Modifications and Noisy Exhausts",
+      "sent_at": "2026-05-11T11:28:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/rs-20-bn-allocated-to-transform-anuradhapura-hospital",
+      "content_hash": "652d1a344ab9b1c377401ea32ebe2aab0181eaf94d838698d83fc90207310896",
+      "title": "Rs. 20 Bn Allocated to Transform Anuradhapura Hospital",
+      "sent_at": "2026-05-11T11:28:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/turkish-airlines-flight-catches-fire-in-tyre-in-kathmandu-all-on-board-safely-evacuated-using-slides",
+      "content_hash": "7d8d33afbaee6eba005904b496bbe8462d2bedb0362df5ee402b083aaa2796e7",
+      "title": "Turkish Airlines Flight Catches Fire in Tyre in Kathmandu: All on Board Safely Evacuated Using Slides",
+      "sent_at": "2026-05-11T11:28:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/your-tenant-could-be-a-criminal-police-urge-vigilance-as-rented-properties-used-for-illegal-activities",
+      "content_hash": "3d7f9c305608c84a4333c6ab3f0c7efaa756098b648949a67be3e99c7b328cda",
+      "title": "Your Tenant Could Be a Criminal : Police Urge Vigilance as Rented Properties Used for Illegal Activities",
+      "sent_at": "2026-05-11T11:28:40Z"
     }
   ]
 }
