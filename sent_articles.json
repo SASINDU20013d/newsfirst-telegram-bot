@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/04/court-remands-120-foreigners-arrested-over-immigration-cybercrime-allegations",
-      "content_hash": "2a18d2c4a813ad6ba2be6a8fbc80fb36b9bc3b10cddfac53fe63de986f6e8615",
-      "title": "Court Remands 120 Foreigners Arrested Over Immigration, Cybercrime Allegations",
-      "sent_at": "2026-05-04T06:42:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/drug-haul-hidden-in-sound-equipment-in-wattala",
-      "content_hash": "ade5f1395c43c25d874db0acb2ce5b4ba04a64fd8604489c4fd05838acebccc3",
-      "title": "Drug Haul Hidden in Sound Equipment In Wattala",
-      "sent_at": "2026-05-04T06:42:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/ins-sindhukesari-docks-at-colombo-on-official-visit",
-      "content_hash": "08313a9d254777ef3d5e061a15cc5f59ac9c61fb3628a3d82eecc6aafe8108c1",
-      "title": "INS Sindhukesari Docks at Colombo on Official Visit",
-      "sent_at": "2026-05-04T06:42:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/president-anura-kumara-officially-welcomes-maldivian-president-in-colombo",
-      "content_hash": "8e42410e2c1d4c4e830a1a021f09828f9673c60f25afe747c65cb1c12dec1e82",
-      "title": "President Anura Kumara Officially Welcomes Maldivian President in Colombo",
-      "sent_at": "2026-05-04T06:42:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/shakira-draws-crowd-of-2-million-for-rio-concert",
-      "content_hash": "935751137269af1b7f59e246c908ea6bcfe8a9968085fa9d61765ce69f05de1b",
-      "title": "Shakira Draws Crowd of 2 Million For Rio Concert",
-      "sent_at": "2026-05-04T06:42:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-maldives-exchange-7-mous-at-presidential-level-meeting",
-      "content_hash": "9484848939b3ec159a4afd0ce4ec0474665ae3b5b4af8da5aa8620401d712148",
-      "title": "Sri Lanka, Maldives Exchange 7 MoUs at Presidential-Level Meeting",
-      "sent_at": "2026-05-04T06:42:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/us-launches-%e2%80%9cproject-freedom%e2%80%9d-to-escort-stranded-vessels",
-      "content_hash": "3fa7b692ff513a99808c16a04150fb342a238f92f440a5376b6577fd367f2bfa",
-      "title": "US Launches “Project Freedom” to Escort Stranded Vessels",
-      "sent_at": "2026-05-04T06:42:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-and-maldives-allocate-land-for-reciprocal-high-commissions",
       "content_hash": "c5f947b874effaf77da6039c868307494cb0fa867edd27439f997aee32ce37f5",
       "title": "Sri Lanka and Maldives Allocate Land for Reciprocal High Commissions",
@@ -827,6 +785,42 @@
       "content_hash": "d0c0e3f9c6885a65558db8def49a65d3cbf1372db6ebf4dfb92f8faa492e78e9",
       "title": "Yal Devi Resumes Services to Jaffna Today",
       "sent_at": "2026-05-11T03:54:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/former-prime-minister-of-thailand-thaksin-shinawat-released-from-prison",
+      "content_hash": "05ce53826db5f7cda74ee79c9c65e961ed3d393fcbdf3dead148402408a9e3b5",
+      "title": "Former Prime Minister of Thailand Thaksin Shinawat Released from Prison",
+      "sent_at": "2026-05-11T07:48:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/key-suspect-in-drug-smuggling-monk-ring-flees-to-india",
+      "content_hash": "cbd2da6c275ecebb663a082ca1746f58cdd12f4416c9e16cebca7945bb5edbd2",
+      "title": "Key Suspect in Drug Smuggling Monk Ring Flees to India",
+      "sent_at": "2026-05-11T07:48:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/new-revelations-in-death-of-ex-srilankan-airlines-ceo",
+      "content_hash": "38d9554abe0235147c51f18a2cc11d82c228c4a87ab61e129dc11e0044a646fa",
+      "title": "New Revelations in Death of Ex-SriLankan Airlines CEO",
+      "sent_at": "2026-05-11T07:49:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/suspect-arrested-in-murder-of-former-police-inspector-dedimuni-balendra",
+      "content_hash": "c3c0c398a1ad4418bdc7bf089a4d6edd3d02640cdf0ae388b701431525c97a45",
+      "title": "Suspect Arrested in Murder of Former Police Inspector Dedimuni Balendra",
+      "sent_at": "2026-05-11T07:49:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/two-doctors-suspended-over-death-of-infant-in-trincomalee",
+      "content_hash": "0dd5620e418d6245278a8242749622147491a82690222cf3b6c99da86a1fc3fa",
+      "title": "Two Doctors Suspended Over Death of Infant in Trincomalee",
+      "sent_at": "2026-05-11T07:49:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/udaya-gammanpila-summoned-to-tid-over-statement-made-during-book-launch",
+      "content_hash": "0d13829b389ed8b764d803499f9b97322706284d38ad191f672b8acac6cf0ddb",
+      "title": "Udaya Gammanpila Summoned to TID Over Statement Made During Book Launch",
+      "sent_at": "2026-05-11T07:49:09Z"
     }
   ]
 }
