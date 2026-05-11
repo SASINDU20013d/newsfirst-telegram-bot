@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/04/inmate-reported-dead-at-welikada-prison-following-altercation",
-      "content_hash": "715d2257a6fa9f37e88b7fe3fbdcc277d159d5a74f44183ce32a1f1509d6fdd9",
-      "title": "Inmate Reported Dead At Welikada Prison Following Altercation",
-      "sent_at": "2026-05-04T11:52:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/navy-crackdown-on-illegal-fishing-77-arrested-17-dinghies-seized",
-      "content_hash": "e45704ba3f1213096f55da330f6f0d46e960fc9111a2939a14a5a39d36375c07",
-      "title": "Navy Crackdown On Illegal Fishing: 77 Arrested, 17 Dinghies Seized",
-      "sent_at": "2026-05-04T11:52:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/new-sri-lankan-envoy-to-palestine-appointed",
-      "content_hash": "deb0e8764a32f33cc64138e368c6d31e892652720b804b4565c55add4251aed4",
-      "title": "New Sri Lankan Envoy to Palestine Appointed",
-      "sent_at": "2026-05-04T11:52:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/russia-offers-full-support-to-upgrade-sri-lanka%e2%80%99s-healthcare-system",
-      "content_hash": "83cc7f2df50c679ca4aa6b718f5c2db06c9b8a56843a816017816d05add13f10",
-      "title": "Russia Offers Full Support to Upgrade Sri Lanka’s Healthcare System",
-      "sent_at": "2026-05-04T11:52:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/seven-agreements-seal-new-era-in-sri-lanka-maldives-ties",
-      "content_hash": "8c500da069b9739651bbc7ed8577b7cfa3620175d85bddf424b4bdf759e66843",
-      "title": "Seven Agreements Seal New Era in Sri Lanka-Maldives Ties",
-      "sent_at": "2026-05-04T11:52:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/sri-lanka-cricket-transformation-committee-to-meet-next-week",
-      "content_hash": "5ee5c26639e050507ba2f010ebfe689056514965b81d7f024fb7db11b8308add",
-      "title": "Sri Lanka Cricket Transformation Committee to Meet Next Week",
-      "sent_at": "2026-05-04T11:52:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/ex-slpp-local-politico-arrested-over-job-scam",
-      "content_hash": "1bff988e717d6e7fd08967e075cd034163adafa604c20e5ca697c60543d45253",
-      "title": "Ex-SLPP Local Politico Arrested Over Job Scam",
-      "sent_at": "2026-05-04T14:10:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/sc-dismisses-plea-to-be-recognised-as-slmc-mps",
-      "content_hash": "4b73f1fe4775b039e2f8a4ac0222be9ed53b91a34a644104ae6874cc23ca28fb",
-      "title": "SC Dismisses Plea to Be Recognised as SLMC MPs",
-      "sent_at": "2026-05-04T14:11:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/05/cert-issues-urgent-warning-over-whatsapp-video-call-extortion-fraud",
       "content_hash": "91dcb1bb15cbc56e775c749051413932ef709067db78b5707473c41da0919521",
       "title": "CERT Issues Urgent Warning Over WhatsApp Video Call Extortion Fraud",
@@ -833,6 +785,48 @@
       "content_hash": "3d7f9c305608c84a4333c6ab3f0c7efaa756098b648949a67be3e99c7b328cda",
       "title": "Your Tenant Could Be a Criminal : Police Urge Vigilance as Rented Properties Used for Illegal Activities",
       "sent_at": "2026-05-11T11:28:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/airbus-scandal-mr-ready-to-face-ciaboc-tomorrow-12",
+      "content_hash": "87687381d57464b7ed8fa10bd236d274a4354e3599d4de9a067313c8059d901f",
+      "title": "Airbus Scandal : MR Ready To Face CIABOC Tomorrow (12)",
+      "sent_at": "2026-05-11T15:20:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/cid-brings-back-woman-wanted-for-overseas-job-fraud",
+      "content_hash": "c91de2e6363d632416c688172379546134d709221b6ba024f74ba96463b99b27",
+      "title": "CID Brings Back Woman Wanted for Overseas Job Fraud",
+      "sent_at": "2026-05-11T15:20:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/death-row-inmate-linked-to-amarakeerthi-murder-dies",
+      "content_hash": "7f8239e4d004186a8b7fcb5ecf5bbd9071b1b41d9b6262593f589243f04e0b69",
+      "title": "Death Row Inmate Linked to Amarakeerthi Murder Dies",
+      "sent_at": "2026-05-11T15:20:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/new-electricity-tariffs-only-7-29-of-consumers-affected",
+      "content_hash": "80748b4a0dbaf958c576f2f1c7cbfd3e7778e99f2e47916738122a5868c277a2",
+      "title": "New Electricity Tariffs: Only 7.29% of Consumers Affected",
+      "sent_at": "2026-05-11T15:20:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/rising-illness-linked-to-unsafe-water-supply-in-deniyaya",
+      "content_hash": "122c632c16f2579c934af5d1cd7096063f1c6d917b4832f0fb11dc7a92daf22d",
+      "title": "Rising Illness Linked to Unsafe Water Supply in Deniyaya",
+      "sent_at": "2026-05-11T15:20:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/six-calls-unanswered-services-of-two-doctors-halted-after-infant-dies-during-delivery",
+      "content_hash": "de34b5f12561d61278b95cc746279f966d132c6e3534f2fd97f3b7395886ce75",
+      "title": "Six Calls Unanswered: Services of Two Doctors Halted After Infant Dies During Delivery",
+      "sent_at": "2026-05-11T15:20:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/tid-questions-gammanpila-for-almost-four-hours",
+      "content_hash": "ffadbc4fa7633a23dec5c852522c121dc93917aad1b7c9f5413c424680387173",
+      "title": "TID Questions Gammanpila For Almost Four Hours",
+      "sent_at": "2026-05-11T15:20:28Z"
     }
   ]
 }
