@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/04/colombo-to-host-official-state-ceremony-to-welcome-president-of-maldives-dr-mohamed-muizzu-key-mous-set-to-be-signed",
-      "content_hash": "f0b258738298555230b8258fc5660ee72e863f2715127dd8b6968b08da8efb42",
-      "title": "Colombo to Host Official State Ceremony to Welcome President of Maldives Dr. Mohamed Muizzu: Key MOUs Set To Be Signed",
-      "sent_at": "2026-05-04T03:36:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/efforts-underway-to-rescue-sri-lankan-aboard-ship-hijacked-by-somali-pirates",
-      "content_hash": "8d65f043c95839321240e740909fc33605361b0f8e21b86b81824aae0f957249",
-      "title": "Efforts Underway to Rescue Sri Lankan Aboard Ship Hijacked by Somali Pirates",
-      "sent_at": "2026-05-04T03:37:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/health-minister-of-russia-mikhail-mureshko-to-visit-national-hospital-of-sri-lanka-in-colombo",
-      "content_hash": "3e4fd649a955aa0fc62b42b6560d60bd3a44fe15e0df371bda0f7723a4116366",
-      "title": "Health Minister of Russia Mikhail Mureshko to Visit National Hospital of Sri Lanka in Colombo",
-      "sent_at": "2026-05-04T03:37:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/investigation-launched-into-shooting-incident-at-galle-prison",
-      "content_hash": "2cbb40360368fc66acf95d0c0a20446bfcfa3ee43f4635988d86daec6f38b924",
-      "title": "Investigation Launched into Shooting Incident at Galle Prison",
-      "sent_at": "2026-05-04T03:37:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/registration-for-vesak-dansal-begins",
-      "content_hash": "1bac4875da22388d9295c4630d6d98c259b85a917e3381c610337245d3acff59",
-      "title": "Registration for Vesak Dansal Begins",
-      "sent_at": "2026-05-04T03:37:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/04/report-called-on-viral-video-of-a-celebration-at-galle-prison",
-      "content_hash": "e3af205669b1db8744ce2440ba9d41f8a89e7534c6556c49de06dbc6b2a02aaf",
-      "title": "Report Called on Viral Video of a Celebration at Galle Prison",
-      "sent_at": "2026-05-04T03:37:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/04/court-remands-120-foreigners-arrested-over-immigration-cybercrime-allegations",
       "content_hash": "2a18d2c4a813ad6ba2be6a8fbc80fb36b9bc3b10cddfac53fe63de986f6e8615",
       "title": "Court Remands 120 Foreigners Arrested Over Immigration, Cybercrime Allegations",
@@ -833,6 +797,36 @@
       "content_hash": "ce882e6afc3bba9197dd73a659840b17fe42cccafdbfb9f0d3731478b667dd23",
       "title": "Sri Lanka Introduces Digital Motor Insurance Cards",
       "sent_at": "2026-05-10T17:54:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/human-rights-commission-summons-officials-over-estate-workers%e2%80%99-wages",
+      "content_hash": "106a795e8729be3e0564b6c84d065fb53e6ae70d100a49bc66e9f57a2eafb42d",
+      "title": "Human Rights Commission Summons Officials Over Estate Workers’ Wages",
+      "sent_at": "2026-05-11T03:54:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/low-pressure-area-to-develop-over-the-island-rain-and-landslide-warnings-issued",
+      "content_hash": "7b371b2c6f8bed264fbfd8e183df5140f2cf32d012c13256d40a2ba723e94e79",
+      "title": "Low-Pressure Area To Develop Over the Island; Rain and Landslide Warnings Issued",
+      "sent_at": "2026-05-11T03:54:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/organized-criminal-and-drug-trafficker-%e2%80%9cbatuwatte-chamara%e2%80%9d-repatriated-to-sri-lanka",
+      "content_hash": "8bdca1fa28ba4d0371a62b504f9884179228be61415cd23ca2fd198df3f2bdfc",
+      "title": "Organized Criminal and Drug Trafficker “Batuwatte Chamara” Repatriated to Sri Lanka",
+      "sent_at": "2026-05-11T03:54:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/unsafe-water-sources-reported-in-deniyaya-50-infected-with-viral-illness",
+      "content_hash": "3de71eb0bc445f1387e48114d605d37da775dd2019bce538e1e16c1ec2521b6e",
+      "title": "Unsafe Water Sources Reported in Deniyaya, 50 Infected with Viral Illness",
+      "sent_at": "2026-05-11T03:54:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/11/yal-devi-resumes-services-to-jaffna-today",
+      "content_hash": "d0c0e3f9c6885a65558db8def49a65d3cbf1372db6ebf4dfb92f8faa492e78e9",
+      "title": "Yal Devi Resumes Services to Jaffna Today",
+      "sent_at": "2026-05-11T03:54:55Z"
     }
   ]
 }
