@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/05/internal-probe-launched-into-death-of-welikada-prison-inmate",
-      "content_hash": "e67064722e7a6d249122ba2ff054937e4162133220e1040375bdb9285e784b00",
-      "title": "Internal Probe Launched into Death of Welikada Prison Inmate",
-      "sent_at": "2026-05-05T06:20:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/pet-scan-services-resume-at-government-hospitals",
-      "content_hash": "e1103fec1c26820dc126cb785762a83570bb36dc57fac70c8d0a8670e4b89041",
-      "title": "PET Scan Services Resume at Government Hospitals",
-      "sent_at": "2026-05-05T06:20:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/05/3-prison-guards-arrested-over-welikada-inmate-death-suspects-to-be-produced-before-court-today",
       "content_hash": "17bd07b352db38006cbd169cd71141a413cec6fb8bebc3dc7323c1bf95278420",
       "title": "3 Prison guards Arrested Over Welikada Inmate Death: Suspects To Be Produced Before Court Today",
@@ -827,6 +815,54 @@
       "content_hash": "fe831b619b2af7fb6a3c39982d18ec9dfaa07b57cb62c53f5a70249b5eb72f7e",
       "title": "Mahinda Rajapaksa To Appear Before Ciaboc Today (12)",
       "sent_at": "2026-05-12T03:52:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/23-monks-back-in-court-over-major-drug-smuggling-racket-from-thailand",
+      "content_hash": "cab249b78cd970640a84e18ec86c23dd4904d57fe9229290fa5e9f3d8e0f9be5",
+      "title": "23 Monks Back in Court Over Major Drug Smuggling Racket from Thailand",
+      "sent_at": "2026-05-12T06:39:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/74-year-old-broker-arrested-over-bail-sureties-linked-to-former-srilankan-airlines-ceo",
+      "content_hash": "c0b30fdb1957dd6e7e5924f80f962102709279683365f53c88d17c257c396a04",
+      "title": "74-Year-Old Broker Arrested Over Bail Sureties Linked to Former SriLankan Airlines CEO",
+      "sent_at": "2026-05-12T06:39:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/airbus-scandal-mahinda-rajapaksa-appears-at-ciaboc",
+      "content_hash": "8ef07503ac09e1649570817f3ea777a444cfbf09a667e50b5b55be684c78a5c9",
+      "title": "Airbus Scandal : Mahinda Rajapaksa Appears At CIABOC",
+      "sent_at": "2026-05-12T06:39:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/expert-committee-to-fix-2015-2019-national-housing-project-failures",
+      "content_hash": "7006f009aa9acda77c581617f99f3b313efc1473df0cd9c33eb8f231ac8fdb8e",
+      "title": "Expert Committee to Fix 2015-2019 National Housing Project Failures",
+      "sent_at": "2026-05-12T06:40:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/fatal-shooting-in-galle-leaves-one-dead",
+      "content_hash": "9b5a55d47d396f71fa4bfad14423217cb8890a1095975da823d741344ca2ecf1",
+      "title": "Fatal Shooting In Galle Leaves One Dead",
+      "sent_at": "2026-05-12T06:40:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/main-suspect-in-triple-murder-beheaded-after-armed-assault-at-home",
+      "content_hash": "184f01f975849169bd2638da70e06dc370999629d309a2e818ac6b24be416ad3",
+      "title": "Main Suspect in Triple Murder Beheaded After Armed Assault at Home",
+      "sent_at": "2026-05-12T06:40:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/mous-expected-as-sri-lanka%e2%80%99s-foreign-minister-undertakes-official-belarus-visit",
+      "content_hash": "1f2a242a86fd821bbe2dfa594c701cf603c24df4ce392905d89832cf9cfb7614",
+      "title": "MoUs Expected as Sri Lanka’s Foreign Minister Undertakes Official Belarus Visit",
+      "sent_at": "2026-05-12T06:40:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/president-warns-against-culture-of-power-above-the-law",
+      "content_hash": "77d989aebbb9b151fc1c661a46d343fc758208fba873aaa9cb7ba957bef36220",
+      "title": "President Warns Against Culture of Power Above the Law",
+      "sent_at": "2026-05-12T06:40:10Z"
     }
   ]
 }
