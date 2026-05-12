@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/05/cabinet-approves-appointment-of-new-director-general-of-customs",
-      "content_hash": "bb0dd80538e1e092432dfc94a935619f7cffaec318f466292fb213793c0ccc9a",
-      "title": "Cabinet Approves Appointment of New Director General of Customs",
-      "sent_at": "2026-05-05T11:17:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/cabinet-approves-five-mous-between-sri-lanka-and-vietnam",
-      "content_hash": "b404b21aa1f99bbffa2ffb863841b4dfb816585533912111ba97b8ed85816139",
-      "title": "Cabinet approves Five MoUs between Sri Lanka and Vietnam",
-      "sent_at": "2026-05-05T11:17:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/iranian-foreign-minister-abbas-araghchi-to-visit-beijing",
-      "content_hash": "a09819de3f6d856bcb35da465b8d6e14d0184774f9a29a3d6780b3467997f9ac",
-      "title": "Iranian Foreign Minister Abbas Araghchi to Visit Beijing",
-      "sent_at": "2026-05-05T11:17:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/politics-is-different-from-acting-says-namal-in-message-to-thalapathy-vijay",
-      "content_hash": "beb1d0fda714ca90d2d9fe1ae65deab3565fa5587f34dc75df24bb799708b586",
-      "title": "Politics Is Different From Acting, Says Namal in Message to Thalapathy Vijay",
-      "sent_at": "2026-05-05T11:17:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/russia-declares-victory-day-truce-warns-kiev-of-strike-if-moscow-targeted",
-      "content_hash": "f49de900c4ba0b8e85c095eb2206fccc97069b0dc2e6c2abcf3f34d4bd108bd0",
-      "title": "Russia Declares Victory Day truce, Warns Kiev Of strike If Moscow Targeted",
-      "sent_at": "2026-05-05T11:17:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/05/finance-ministry-secretary-to-remain-in-post-says-govt-after-cyber-theft-case",
       "content_hash": "5759520d8ad7ce1e145157ec45cdcbb671d509ef6e9d08a8f1e2dc77a131b37e",
       "title": "Finance Ministry Secretary to Remain in Post, Says Govt After Cyber Theft Case",
@@ -827,6 +797,24 @@
       "content_hash": "2f7f12627eeb49096138c9d3d7c59c7c947d8497fd28fc48374745f6afa17bcd",
       "title": "Mahinda Rajapaksa Leaves CIABOC After Appearing in Airbus Bribery Probe",
       "sent_at": "2026-05-12T09:43:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/court-orders-continued-remand-of-23-clergy-in-thailand-drug-haul-probe",
+      "content_hash": "2409ede4076235f0eef17f5ce032ecf680f8a608516725b52d6e2944bf8f463b",
+      "title": "Court Orders Continued Remand of 23 Clergy in Thailand Drug Haul Probe",
+      "sent_at": "2026-05-12T11:59:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/heavy-showers-expected-across-several-provinces",
+      "content_hash": "3fb71488dce004a47479f0d9eb829801e58a2d4eb79449bd1c833f797792d1b0",
+      "title": "Heavy Showers Expected Across Several Provinces",
+      "sent_at": "2026-05-12T11:59:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/political-shift-at-cmc-as-three-opposition-members-declare-independent",
+      "content_hash": "f7c8a5433aa0028d048d4ae286750885e39d67a5ada5e3c836c32b0a801707e2",
+      "title": "Political Shift at CMC as Three Opposition Members Declare Independent",
+      "sent_at": "2026-05-12T11:59:57Z"
     }
   ]
 }
