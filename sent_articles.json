@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/05/cert-issues-urgent-warning-over-whatsapp-video-call-extortion-fraud",
-      "content_hash": "91dcb1bb15cbc56e775c749051413932ef709067db78b5707473c41da0919521",
-      "title": "CERT Issues Urgent Warning Over WhatsApp Video Call Extortion Fraud",
-      "sent_at": "2026-05-05T03:23:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/special-dengue-eradication-programs-to-begin-tomorrow-as-dengue-cases-surge-due-to-intermittent-rains",
-      "content_hash": "e909e62b1ea9824a39b8efff089f22cd4c1b07ab0a46453213ee50bb01e443c2",
-      "title": "Special Dengue Eradication Programs to Begin Tomorrow as Dengue Cases Surge Due to Intermittent Rains",
-      "sent_at": "2026-05-05T03:23:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/visiting-health-minister-of-russia-mikhail-mureshko-pledges-russia-s-support-to-strengthen-healthcare-talks-focus-pharma-supply-health-education-and-energy-challenges",
-      "content_hash": "05a1ab96ad50a513706597be30475b31760705846731fe0e3d2bc90ac00f9a69",
-      "title": "Visiting Health Minister of Russia, Mikhail Mureshko Pledges Russia's Support To Strengthen Healthcare, Talks Focus Pharma Supply, Health Education And Energy Challenges",
-      "sent_at": "2026-05-05T03:23:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/visiting-maldivian-president-to-attend-a-key-business-forum-in-colombo-today-after-concluding-high-level-diplomatic-engagements",
-      "content_hash": "e3ff753df6d5cf5287ad5b8ac6877c6f155f1b2cccb7e725ca8fc61f4c4700d5",
-      "title": "Visiting Maldivian President to Attend a Key Business Forum In Colombo Today After Concluding High Level Diplomatic Engagements",
-      "sent_at": "2026-05-05T03:23:55Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/05/internal-probe-launched-into-death-of-welikada-prison-inmate",
       "content_hash": "e67064722e7a6d249122ba2ff054937e4162133220e1040375bdb9285e784b00",
       "title": "Internal Probe Launched into Death of Welikada Prison Inmate",
@@ -827,6 +803,30 @@
       "content_hash": "ffadbc4fa7633a23dec5c852522c121dc93917aad1b7c9f5413c424680387173",
       "title": "TID Questions Gammanpila For Almost Four Hours",
       "sent_at": "2026-05-11T15:20:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/198-foreign-nationals-arrested-in-24-hour-islandwide-crackdown-on-cybercrimes",
+      "content_hash": "75ac05695881e38ac6c42d863129cc12341cbedf5a4bbf998a5b6b0902f932fc",
+      "title": "198 Foreign Nationals Arrested In 24-Hour Islandwide Crackdown On Cybercrimes",
+      "sent_at": "2026-05-12T03:51:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/cid-launches-probe-into-foreign-cybercrime-suspects",
+      "content_hash": "10260591f8a094c8b9fe8007be56ccafdaa6809bf07a2af1fb4f2aa1fa566fca",
+      "title": "CID Launches Probe Into Foreign Cybercrime Suspects",
+      "sent_at": "2026-05-12T03:51:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/dengue-threat-rises-42-high-risk-zones-identified-islandwide",
+      "content_hash": "6cdfdc114cb9835c351e63c86f252b366551728b8c7479404cc1000d3ead5d2b",
+      "title": "Dengue Threat Rises: 42 High-Risk Zones Identified Islandwide",
+      "sent_at": "2026-05-12T03:52:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/mahinda-rajapaksa-to-appear-before-ciaboc-today-12",
+      "content_hash": "fe831b619b2af7fb6a3c39982d18ec9dfaa07b57cb62c53f5a70249b5eb72f7e",
+      "title": "Mahinda Rajapaksa To Appear Before Ciaboc Today (12)",
+      "sent_at": "2026-05-12T03:52:03Z"
     }
   ]
 }
