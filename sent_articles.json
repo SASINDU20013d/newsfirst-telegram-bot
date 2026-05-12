@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/05/3-prison-guards-arrested-over-welikada-inmate-death-suspects-to-be-produced-before-court-today",
-      "content_hash": "17bd07b352db38006cbd169cd71141a413cec6fb8bebc3dc7323c1bf95278420",
-      "title": "3 Prison guards Arrested Over Welikada Inmate Death: Suspects To Be Produced Before Court Today",
-      "sent_at": "2026-05-05T09:09:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/37-chinese-nationals-deported-over-immigration-violations",
-      "content_hash": "f87fd3dcdd18780915c5855c0bcad0d3bb67e86ee14c1c3274e3ec1d430c94a2",
-      "title": "37 Chinese Nationals Deported Over Immigration Violations",
-      "sent_at": "2026-05-05T09:09:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/australia-fao-and-sri-lanka-launch-usd-1-4-million-recovery-drive-for-cyclone-hit-vegetable-farmers",
-      "content_hash": "f2f68e4645811ac4177348a401ea527d57076dfe81a788d7a3ca0e5317664803",
-      "title": "Australia, FAO and Sri Lanka Launch USD 1.4 Million Recovery Drive for Cyclone-Hit Vegetable Farmers",
-      "sent_at": "2026-05-05T09:09:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/former-srilankan-airlines-ceo-kapila-chandrasena-gets-bail",
-      "content_hash": "3faa7151311e53fa927b2d1003d84566447ee99ff4e717e747ff9f2c9e512518",
-      "title": "Former SriLankan Airlines CEO Kapila Chandrasena Gets Bail",
-      "sent_at": "2026-05-05T09:09:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/shots-fired-into-air-at-kudawella-fisheries-harbour",
-      "content_hash": "6911829d391c0ce87592fcdc364240b71ff1cb3d79fd3caf0b30746ee6bad573",
-      "title": "Shots Fired into Air at Kudawella Fisheries Harbour",
-      "sent_at": "2026-05-05T09:09:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/sri-lanka-and-maldives-can-overcome-climate-and-global-crises-only-through-unity",
-      "content_hash": "1c60d4d26ca3cb6810d02734fdea4449b230f8cfa48ef86f44eb4c1d6314f44f",
-      "title": "Sri Lanka and Maldives Can Overcome Climate and Global Crises Only Through Unity",
-      "sent_at": "2026-05-05T09:09:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/05/the-ocean-unites-us-it-does-not-divide-us-muizzu-at-state-dinner-in-colombo",
-      "content_hash": "55d0c862dc64db93b4182ae8d8b7616ce401235f743702c46af08d520038b75f",
-      "title": "'The Ocean Unites Us, It Does Not Divide Us' - Muizzu at State Dinner In Colombo",
-      "sent_at": "2026-05-05T09:09:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/05/cabinet-approves-appointment-of-new-director-general-of-customs",
       "content_hash": "bb0dd80538e1e092432dfc94a935619f7cffaec318f466292fb213793c0ccc9a",
       "title": "Cabinet Approves Appointment of New Director General of Customs",
@@ -863,6 +821,12 @@
       "content_hash": "77d989aebbb9b151fc1c661a46d343fc758208fba873aaa9cb7ba957bef36220",
       "title": "President Warns Against Culture of Power Above the Law",
       "sent_at": "2026-05-12T06:40:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/12/mahinda-rajapaksa-leaves-ciaboc-after-appearing-in-airbus-bribery-probe",
+      "content_hash": "2f7f12627eeb49096138c9d3d7c59c7c947d8497fd28fc48374745f6afa17bcd",
+      "title": "Mahinda Rajapaksa Leaves CIABOC After Appearing in Airbus Bribery Probe",
+      "sent_at": "2026-05-12T09:43:09Z"
     }
   ]
 }
