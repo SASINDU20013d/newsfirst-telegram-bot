@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/06/628-foreigners-arrested-over-illegal-activities-in-this-year",
-      "content_hash": "505b27fc4a03bb6b1e3d47259a80cfb69dc91a05def3351378837668e74d2855",
-      "title": "628 Foreigners Arrested Over Illegal Activities In This Year",
-      "sent_at": "2026-05-06T03:35:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/over-4-000-principal-vacancies-in-schools-islandwide",
-      "content_hash": "169934e8c1b7e4125f4282fcb15956ed363c36ecc57edddc1650109593988758",
-      "title": "Over 4,000 Principal Vacancies In Schools Islandwide",
-      "sent_at": "2026-05-06T03:35:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/public-consultation-on-2026-electricity-tariff-revision-today",
-      "content_hash": "83e73128d8c9dfad622beab69b2ea20a50eb8da30b7f8cc0157a4274bd4903be",
-      "title": "Public Consultation On 2026 Electricity Tariff Revision Today",
-      "sent_at": "2026-05-06T03:35:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/special-mosquito-control-program-launched-in-high-risk-dengue-zones",
-      "content_hash": "fe66374a556db41cf9ce1dce9f2e458cf887282ee0e3bd31ce4c7b7e568f0a88",
-      "title": "Special Mosquito Control Program Launched In High-Risk Dengue Zones",
-      "sent_at": "2026-05-06T03:35:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/06/major-police-transfers-approved-by-police-commission",
       "content_hash": "9117d1947e5495b260397b6f71bd342f1606ecd618a2321277f84d434f60166f",
       "title": "Major Police Transfers Approved by Police Commission",
@@ -815,6 +791,24 @@
       "content_hash": "18783c05a879fc66d245691f301a759bf907dd4aec1441b1288e61f526667a31",
       "title": "Case Against Atamasthanadhipathi Fixed for May 15",
       "sent_at": "2026-05-12T14:33:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/audit-officials-summoned-over-coal-scams",
+      "content_hash": "ebeb1c7526f00a73f08ba2c6c60cffa0f046ad26af70910bdd5b396d6d890ee7",
+      "title": "Audit Officials Summoned Over Coal Scams",
+      "sent_at": "2026-05-13T04:50:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/deniyaya-schools-reopen-as-fever-control-measures-intensify",
+      "content_hash": "123107e5e618cef5d1557adc862a74f7a11e56328029a386d6c9bacc13da8ccf",
+      "title": "Deniyaya Schools Reopen As Fever Control Measures Intensify",
+      "sent_at": "2026-05-13T04:50:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/department-of-motor-traffic-reports-surge-in-vehicle-imports",
+      "content_hash": "224eb34620cb7a69d28139281dae8f7ad717607079fd3ee82c53dd06b4bd6c4e",
+      "title": "Department of Motor Traffic Reports Surge In Vehicle Imports",
+      "sent_at": "2026-05-13T04:50:14Z"
     }
   ]
 }
