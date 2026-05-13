@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/06/china-calls-for-strait-to-be-reopened-as-soon-as-possible-in-iran-talks",
-      "content_hash": "87f012438ecf51c6c0aeb981df3a695ad2ffb3b3420770292b51d4e4bd89a373",
-      "title": "China Calls For Strait To Be Reopened 'As Soon As Possible' in Iran Talks",
-      "sent_at": "2026-05-06T11:50:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/hambantota-bird-park-owner-acquitted-in-illegal-motorcycle-import-case",
-      "content_hash": "48e426a03476c0ee54526fe37add3d6b97d6a6af8366a4825adc54a9e851ff7a",
-      "title": "Hambantota Bird Park Owner Acquitted in Illegal Motorcycle Import Case",
-      "sent_at": "2026-05-06T11:50:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/litro-confirms-no-change-in-lp-gas-prices-for-may",
-      "content_hash": "fe5b881cc5db7e1d820a2f449553390fa2c36deccc2d5c3ee00a76078d189c84",
-      "title": "Litro Confirms NO Change in LP Gas Prices for May",
-      "sent_at": "2026-05-06T11:50:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/sltb-conductor-arrested-with-ice-in-teldeniya",
-      "content_hash": "c82b8b173199bb6de7297f8cc5749a3b2bb4f7fdaaa92fb664dc6403ba6c0fdb",
-      "title": "SLTB Conductor Arrested with 'Ice' in Teldeniya",
-      "sent_at": "2026-05-06T11:51:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/sri-lanka-to-introduce-preschool-education-reforms-in-2027",
-      "content_hash": "4ad7037d74ff97e929a300d48f1c78e40286b5998aa08c340141013a7278a806",
-      "title": "Sri Lanka to Introduce Preschool Education Reforms in 2027",
-      "sent_at": "2026-05-06T11:51:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/supreme-court-upholds-death-sentences-in-vithiya-rape-and-murder-case",
-      "content_hash": "297af3361199e320d211e600c8d4bae74e70eea93a41f56be4c64fe672a1583d",
-      "title": "Supreme Court Upholds Death Sentences in Vithiya Rape and Murder Case",
-      "sent_at": "2026-05-06T11:51:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/us-iran-close-to-agreeing-to-1-page-memo-to-end-war",
-      "content_hash": "8976a67aa33daecfc124745948bce6d3f3c1b2a0ee534d4b6aedd6d480c35a78",
-      "title": "US & Iran Close To Agreeing To 1-Page Memo To End War",
-      "sent_at": "2026-05-06T11:51:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/06/60-foreign-nationals-arrested-in-kollupitiya-over-suspected-cyber-crimes",
       "content_hash": "192fafae4eb6ca96681e903f8fb82c57f9b8fc92acc49675f9e08e469e8a397b",
       "title": "60 Foreign Nationals Arrested in Kollupitiya Over Suspected Cyber Crimes",
@@ -821,6 +779,42 @@
       "content_hash": "6518094549e6f768031685ec13d9a16d798be50d3b0368f724f49638295063dc",
       "title": "'Thalapathy' Vijay Wins Floor Test With 144 Votes",
       "sent_at": "2026-05-13T10:33:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/historic-mou-to-promote-sri-lanka-as-a-tourism-destination",
+      "content_hash": "760e6def1e1319d341a68f0936fe6eabc94f5c5d528dd6d68fdfe2d154c391cc",
+      "title": "Historic MoU To Promote Sri Lanka As a Tourism Destination",
+      "sent_at": "2026-05-13T13:16:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/indian-ocean-must-not-be-power-battleground-says-chinese-envoy-in-sri-lanka",
+      "content_hash": "892b3d7480d06fcbf4866a74a966d410d98079beb69674bed3a333acc73af68d",
+      "title": "Indian Ocean Must Not Be Power Battleground, Says Chinese Envoy in Sri Lanka",
+      "sent_at": "2026-05-13T13:16:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/joseph-vijay-wins-floor-test-with-144-votes",
+      "content_hash": "011ab235b8dedbb1029914cf40786bcc28b5f0b8a0de5c57b73e20fcc41213c0",
+      "title": "Joseph Vijay Wins Floor Test With 144 Votes",
+      "sent_at": "2026-05-13T13:16:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/shani-abeysekara-cleared-for-dig-promotion",
+      "content_hash": "9a7833e90f8ba107159b8fcdeb3f0e80e9bb029aad154722c2bedf1ba891fa4a",
+      "title": "Shani Abeysekara Cleared for DIG Promotion",
+      "sent_at": "2026-05-13T13:16:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/sri-lanka-s-fuel-import-costs-jump-sixfold-says-president",
+      "content_hash": "a00d371510ad9e2d373bf39f5b48816b2a4299ad356a8bae1e2683439aa64eca",
+      "title": "Sri Lanka's Fuel Import Costs Jump Sixfold, Says President",
+      "sent_at": "2026-05-13T13:16:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/trump-arrives-in-beijing-for-summit-with-president-xi",
+      "content_hash": "784c2152077a798c1592738da23883d257f07fa7e46936aecb8cd7945b2e0253",
+      "title": "Trump Arrives In Beijing For Summit With President Xi",
+      "sent_at": "2026-05-13T13:16:50Z"
     }
   ]
 }
