@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/06/major-police-transfers-approved-by-police-commission",
-      "content_hash": "9117d1947e5495b260397b6f71bd342f1606ecd618a2321277f84d434f60166f",
-      "title": "Major Police Transfers Approved by Police Commission",
-      "sent_at": "2026-05-06T06:32:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/new-audit-service-commission-members-take-oath-of-secrecy",
-      "content_hash": "f72d26dcb1f0b9be6931d801649cbf10574cc99739890c7534b9c601344481d2",
-      "title": "New Audit Service Commission Members Take Oath Of Secrecy",
-      "sent_at": "2026-05-06T06:32:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/pakistan-navy-rushes-to-help-stranded-indian-vessel",
-      "content_hash": "a2200f638571b444c859dcf1f2250811aecee41741d7aab9a7d14841b35c5062",
-      "title": "Pakistan Navy Rushes To Help Stranded Indian Vessel",
-      "sent_at": "2026-05-06T06:32:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/rs-1-84-bn-unpaid-new-indictments-against-cabraal",
-      "content_hash": "64037b4221bae72521a8c109f040bf4bece22ad1910c1dce48beab8c3a629a81",
-      "title": "Rs. 1.84 BN Unpaid: New Indictments Against Cabraal",
-      "sent_at": "2026-05-06T06:32:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/second-reading-debate-on-insolvency-bill-in-parliament-today",
-      "content_hash": "0480477ed13209581d7a5fdb41d7be73e131933c0922ab2d58309d8614902d06",
-      "title": "Second Reading Debate On Insolvency Bill In Parliament Today",
-      "sent_at": "2026-05-06T06:32:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/tn-07-cm-2026-vijay-s-goat-scene-goes-viral-after-election-win",
-      "content_hash": "9e0691468a0e69b7be88849b6bbcc298cb890563d9755396773faa2251fe1a3d",
-      "title": "'TN 07 CM 2026': Vijay's GOAT Scene Goes Viral After Election Win",
-      "sent_at": "2026-05-06T06:32:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/06/a-garden-a-vision-a-global-moment-for-sri-lanka-bevis-bawa%e2%80%99s-legacy-finds-global-applause",
       "content_hash": "a40b6312d6164b99fb2e4156afa9ca44a97ade49b1f6ef979cb6325de797ad74",
       "title": "A Garden, a Vision, a Global Moment for Sri Lanka: Bevis Bawa’s Legacy Finds Global Applause",
@@ -809,6 +773,60 @@
       "content_hash": "224eb34620cb7a69d28139281dae8f7ad717607079fd3ee82c53dd06b4bd6c4e",
       "title": "Department of Motor Traffic Reports Surge In Vehicle Imports",
       "sent_at": "2026-05-13T04:50:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/drop-in-students-entering-higher-education-raises-alarm-says-pm",
+      "content_hash": "ec1513d88640edbcfd92533f0270219e04eeb572084edca29690f1883ae93679",
+      "title": "Drop in Students Entering Higher Education Raises Alarm, Says PM",
+      "sent_at": "2026-05-13T07:51:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/heavy-rains-trigger-floods-as-reservoirs-reach-capacity",
+      "content_hash": "2af4fecc3d5b643fd3dd3fa737d28af6c529814d7656e0000e7eb2b018749fe6",
+      "title": "Heavy Rains Trigger Floods As Reservoirs Reach Capacity",
+      "sent_at": "2026-05-13T07:51:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/india-raises-gold-and-silver-tariffs-to-15-here-s-why",
+      "content_hash": "d93e87a443f5a753e39fe3014e8bacc6c53a47c7e4455d76d304169635af855e",
+      "title": "India Raises Gold and Silver Tariffs to 15%: Here's Why.",
+      "sent_at": "2026-05-13T07:52:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/indian-national-arrested-at-katunayake-with-kush-worth-millions",
+      "content_hash": "90bef0bb38b140807951f124e7034b12517ef8f8678d43d16617a4a920396a47",
+      "title": "Indian National Arrested At Katunayake With Kush Worth Millions",
+      "sent_at": "2026-05-13T07:52:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/maharaja-media-network-signs-historic-mou-with-tdm-macau",
+      "content_hash": "2f368d4b26b50da0277ee7fca4becbc66267ee96512ac3f6f8994e332f5804be",
+      "title": "Maharaja Media Network signs historic MoU with TDM Macau",
+      "sent_at": "2026-05-13T07:52:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/pensions-department-services-resume-after-system-upgrade",
+      "content_hash": "20610cbe8bb86e83be4de86fde9cd8a150f2e0ad697d7453a28069826cf75ccc",
+      "title": "Pensions Department Services Resume After System Upgrade",
+      "sent_at": "2026-05-13T07:52:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/sri-lanka-elevates-shrimp-aquaculture-with-high-tech-biosecure-overhaul",
+      "content_hash": "963446651c091849424091c75eb29c937937da0acd55181dedd966881e6830f0",
+      "title": "Sri Lanka Elevates Shrimp Aquaculture with High-Tech, Biosecure Overhaul",
+      "sent_at": "2026-05-13T07:52:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/sri-lanka-needs-a-new-era-says-harsha-de-silva",
+      "content_hash": "1a3099f067327d96830e3e437690bde496a06e69cc22af2f12db47aa9be76eb9",
+      "title": "Sri Lanka Needs a New Era, Says Harsha de Silva",
+      "sent_at": "2026-05-13T07:52:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/sri-lanka-to-launch-rainwater-harvesting-pilot-project",
+      "content_hash": "fc12304345f3de10fc310b8a91d11b1d02b166cd94dafe4fe45848f13be9ec07",
+      "title": "Sri Lanka to Launch Rainwater Harvesting Pilot Project",
+      "sent_at": "2026-05-13T07:52:12Z"
     }
   ]
 }
