@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/06/a-garden-a-vision-a-global-moment-for-sri-lanka-bevis-bawa%e2%80%99s-legacy-finds-global-applause",
-      "content_hash": "a40b6312d6164b99fb2e4156afa9ca44a97ade49b1f6ef979cb6325de797ad74",
-      "title": "A Garden, a Vision, a Global Moment for Sri Lanka: Bevis Bawa’s Legacy Finds Global Applause",
-      "sent_at": "2026-05-06T09:26:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/board-admitted-failure-fresh-start-for-slc",
-      "content_hash": "d2e6763a87d2c24fd3e43bb93b121a640b1c992f2f408ab4b7894f676373ae28",
-      "title": "Board Admitted Failure, Fresh Start for SLC",
-      "sent_at": "2026-05-06T09:26:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/constable-arrested-for-fraud-from-police-reward-fund",
-      "content_hash": "38473e994d8e207ca2d88af0a02122afd16f75d3db016f98cd4ab892b131e470",
-      "title": "Constable Arrested for Fraud From Police Reward Fund",
-      "sent_at": "2026-05-06T09:26:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/north-korea-grants-leader-command-over-nuclear-forces",
-      "content_hash": "5919501459fea7ac06597c565a10138e5463bcfc9c044577270836bb2c3cfbbf",
-      "title": "North Korea Grants Leader Command Over Nuclear Forces",
-      "sent_at": "2026-05-06T09:27:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/rs-91-3-bn-debt-restructured-what%e2%80%99s-next-for-srilankan-airlines",
-      "content_hash": "16afa6fed96197f4ccd67d1c108cd9af288dbeeff77d6ab2a5c0a41248cc1ce9",
-      "title": "Rs. 91.3 Bn Debt Restructured: What’s Next for SriLankan Airlines?",
-      "sent_at": "2026-05-06T09:27:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/sri-lanka-south-korea-formalise-usd-267-million-debt-restructuring-deal",
-      "content_hash": "09a14faf65c55525032c48a6524810e3505d2e88f9fc387179152cda0415e07c",
-      "title": "Sri Lanka, South Korea Formalise USD 267 Million Debt Restructuring Deal",
-      "sent_at": "2026-05-06T09:27:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/university-admissions-for-2025-26-academic-year-in-september-2026",
-      "content_hash": "a008fb12e8d7fffec764f02c4cb7035d50e91b71a33a914e96cf6d14f96d6132",
-      "title": "University Admissions for 2025/26 Academic Year in September 2026",
-      "sent_at": "2026-05-06T09:27:14Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/06/china-calls-for-strait-to-be-reopened-as-soon-as-possible-in-iran-talks",
       "content_hash": "87f012438ecf51c6c0aeb981df3a695ad2ffb3b3420770292b51d4e4bd89a373",
       "title": "China Calls For Strait To Be Reopened 'As Soon As Possible' in Iran Talks",
@@ -827,6 +785,42 @@
       "content_hash": "fc12304345f3de10fc310b8a91d11b1d02b166cd94dafe4fe45848f13be9ec07",
       "title": "Sri Lanka to Launch Rainwater Harvesting Pilot Project",
       "sent_at": "2026-05-13T07:52:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/55-foreign-nationals-arrested-in-hikkaduwa-over-illegal-operations",
+      "content_hash": "ebac28c19c974761757e36b46719e3ef7fb24e64c0e794c76334bf5553a8608f",
+      "title": "55 Foreign Nationals Arrested in Hikkaduwa Over Illegal Operations",
+      "sent_at": "2026-05-13T10:33:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/airbus-scandal-police-expose-unusual-bail-arrangements",
+      "content_hash": "81d9112a3363522502eddf6820ca7b48ccdc29d616af8dd95fdbabdf7cc93e08",
+      "title": "Airbus Scandal: Police Expose Unusual Bail Arrangements",
+      "sent_at": "2026-05-13T10:33:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/cbsl-chief-explains-slow-but-steady-economic-comeback",
+      "content_hash": "7cb630609b7f5c1e8a1ff21cac967ee5581a64bfd304dc9f3d57374a56d543b6",
+      "title": "CBSL Chief Explains Slow but Steady Economic Comeback",
+      "sent_at": "2026-05-13T10:33:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/ciaboc-to-submit-mahinda-s-statement-to-court",
+      "content_hash": "8ba9dd8559861c7389dcb569cecfd5f3bf8c3b432ac8bcc215f68db6fe12a072",
+      "title": "CIABOC to Submit Mahinda's Statement To Court",
+      "sent_at": "2026-05-13T10:33:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/police-arrest-two-over-savage-attack-in-ambalantota",
+      "content_hash": "46d5e4a099f2d6ed0b46c0db5d6bbb4dd38b11597a9d8cc01f5ed1891fb65c3b",
+      "title": "Police Arrest Two Over Savage Attack In Ambalantota",
+      "sent_at": "2026-05-13T10:33:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/thalapathy-vijay-wins-floor-test-with-144-votes",
+      "content_hash": "6518094549e6f768031685ec13d9a16d798be50d3b0368f724f49638295063dc",
+      "title": "'Thalapathy' Vijay Wins Floor Test With 144 Votes",
+      "sent_at": "2026-05-13T10:33:28Z"
     }
   ]
 }
