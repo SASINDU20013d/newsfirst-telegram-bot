@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/06/60-foreign-nationals-arrested-in-kollupitiya-over-suspected-cyber-crimes",
-      "content_hash": "192fafae4eb6ca96681e903f8fb82c57f9b8fc92acc49675f9e08e469e8a397b",
-      "title": "60 Foreign Nationals Arrested in Kollupitiya Over Suspected Cyber Crimes",
-      "sent_at": "2026-05-06T14:23:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/court-allows-sl-cert-to-inspect-sri-lanka-post-over-misrouted-usd-postal-payment",
-      "content_hash": "87e27dcbf0716f7ca952aff14dc5093f2f5032c940e00d3b7c2006bff7529b3c",
-      "title": "Court Allows SL-CERT To Inspect Sri Lanka Post Over Misrouted USD Postal Payment",
-      "sent_at": "2026-05-06T14:24:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/french-aircraft-carrier-group-moving-into-red-sea",
-      "content_hash": "124246d3a9b94dbf1a68f3d322140d1e9126ce925eb2cb8a835c138d6a39fd7e",
-      "title": "French Aircraft Carrier Group Moving Into Red Sea",
-      "sent_at": "2026-05-06T14:24:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/sjb-social-media-activist-released-on-bail-after-arrest-at-dehiwalamount-lavinia-council",
-      "content_hash": "062b92c778ffeb231f21d69278f05289e1bfcf317e7022b256748fa8eb784775",
-      "title": "SJB Social Media Activist Released on Bail After Arrest at Dehiwala–Mount Lavinia Council",
-      "sent_at": "2026-05-06T14:24:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/sri-lanka-cricket-transformation-committee-holds-first-meeting",
-      "content_hash": "0d8944f7b0d151c6a9bfac0aca76623a2a2cd1bc430b5f40cd3865ee03267b9a",
-      "title": "Sri Lanka Cricket Transformation Committee Holds First Meeting",
-      "sent_at": "2026-05-06T14:24:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/trial-against-former-energy-minister-kumara-jayakody-to-begin-on-june-17",
-      "content_hash": "ab22a5536fedd19cd227094fff63fe3a0b195e5589dbed3a219d9b8d10f01e35",
-      "title": "Trial Against Former Energy Minister Kumara Jayakody to Begin on June 17",
-      "sent_at": "2026-05-06T14:24:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/06/unp-sjb-unity-possible-under-two-leaders-says-harin",
-      "content_hash": "9e2ea61eb11a5e858cc0ed5ba5bb1645503ddf152029bef2a1e98e84af3e844f",
-      "title": "UNP-SJB Unity Possible Under Two Leaders, Says Harin",
-      "sent_at": "2026-05-06T14:24:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/06/cnn-founder-ted-turner-dies-at-87",
       "content_hash": "5a6a38fb2b15be38e6ff8f65f0f900aa0d4932bdc13bf709697176bb4e66959a",
       "title": "CNN Founder Ted Turner Dies at 87",
@@ -815,6 +773,24 @@
       "content_hash": "784c2152077a798c1592738da23883d257f07fa7e46936aecb8cd7945b2e0253",
       "title": "Trump Arrives In Beijing For Summit With President Xi",
       "sent_at": "2026-05-13T13:16:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/continuous-heavy-rain-batters-island-met-department-warns-of-up-to-200mm-showers-and-strong-winds",
+      "content_hash": "a96e2af2373d384e29bb846ae0c060c67cb672f9ceefb263c43cd9a3a921f8ae",
+      "title": "Continuous Heavy Rain Batters Island, MET Department Warns of up to 200mm Showers And Strong Winds",
+      "sent_at": "2026-05-13T16:22:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/france-locks-down-1-700-people-on-cruise-ship",
+      "content_hash": "d8ed28ccf873f2dc98944d737facf98f90478292772e8e19fa498303e8192dff",
+      "title": "France Locks Down 1,700 People On Cruise Ship",
+      "sent_at": "2026-05-13T16:22:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up",
+      "content_hash": "dcfcfdfcd8426c793a383f19b0eec4c46579c1b858b19a0cc2d7294c8edf983e",
+      "title": "Gunshots Ring Out At Philippine Senate Where Lawmaker Is Holed Up",
+      "sent_at": "2026-05-13T16:22:38Z"
     }
   ]
 }
