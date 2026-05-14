@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/07/four-schools-in-deniyaya-temporarily-closed-due-to-spread-of-virus",
-      "content_hash": "663352aeb4f5d557ee3a9ecea930c34216a0217d7625cd7d21bac7ab77a75e99",
-      "title": "Four Schools In Deniyaya Temporarily Closed Due To Spread of Virus",
-      "sent_at": "2026-05-07T09:36:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/special-traffic-plan-in-colombo-for-vietnam-president-t%c3%b4-l%c3%a2m-s-visit",
-      "content_hash": "5696c5da9db79b4188b4a900b1d2401ab0954ced53e22a60e15beb69ff42ae7d",
-      "title": "Special Traffic Plan In Colombo For Vietnam President Tô Lâm's Visit",
-      "sent_at": "2026-05-07T09:36:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/07/chief-prelates-bless-gammadda-s-3rd-phase-of-ditwah-response",
       "content_hash": "bdc3f0147f345f3961485234240a9399d6f2378e119f15686af95a19e4f6b47d",
       "title": "Chief Prelates Bless Gammadda's 3rd Phase of Ditwah Response",
@@ -815,6 +803,36 @@
       "content_hash": "64cb3b44038b2e82a445757b94b19eb8f01ea89ee4e3ac91956d6664f52eebc6",
       "title": "Vijitha Herath Meets Belarus Counterpart to Expand Bilateral Engagement",
       "sent_at": "2026-05-14T07:45:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/china-us-agree-on-%e2%80%98strategic-stability%e2%80%99-framework",
+      "content_hash": "9fbe186f4a0536046c3e3550174736e2601018ec8ff7e000f92b0866b1a40d0d",
+      "title": "China, US Agree on ‘Strategic Stability’ Framework",
+      "sent_at": "2026-05-14T10:22:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/indian-naval-ship-sunayna-to-dock-in-colombo-with-16-nation-naval-crew",
+      "content_hash": "2093d5b090bfdb09f556d054976daded04f2f75c70edc9450494cd9ad14ceeee",
+      "title": "Indian Naval Ship Sunayna to Dock in Colombo with 16-Nation Naval Crew",
+      "sent_at": "2026-05-14T10:23:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/no-complaints-filed-on-coal-fraud-claims-by-those-making-allegations-says-minister",
+      "content_hash": "7816df58df7b088176976f1a6af823c7c4393cf5df297d4e72c4f9dd1ab2a354",
+      "title": "No Complaints Filed on Coal Fraud Claims By Those Making Allegations, Says Minister",
+      "sent_at": "2026-05-14T10:23:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/trump-xi-agree-strait-of-hormuz-must-stay-open-white-house-says",
+      "content_hash": "0b82acbd49d1b0ab1c0b1d541f9988352cfb8358a5d2e15306825082679c12d2",
+      "title": "Trump, Xi agree Strait of Hormuz must stay open, White House says",
+      "sent_at": "2026-05-14T10:23:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/whatsapp-unveils-%e2%80%98incognito-chat%e2%80%99-for-private-ai-conversations",
+      "content_hash": "66b04e974a3da80c35b1fab6a440e01e6e20954f67a483e5a8ff05a1eaefc1fc",
+      "title": "WhatsApp Unveils ‘Incognito Chat’ for Private AI Conversations",
+      "sent_at": "2026-05-14T10:23:16Z"
     }
   ]
 }
