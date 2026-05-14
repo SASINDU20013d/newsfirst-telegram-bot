@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/07/chief-prelates-bless-gammadda-s-3rd-phase-of-ditwah-response",
-      "content_hash": "bdc3f0147f345f3961485234240a9399d6f2378e119f15686af95a19e4f6b47d",
-      "title": "Chief Prelates Bless Gammadda's 3rd Phase of Ditwah Response",
-      "sent_at": "2026-05-07T11:50:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/court-orders-arrest-of-kapila-chandrasena-after-breach-of-trust-allegations",
-      "content_hash": "bcc95b8ff227285547c79e31c9c8b62cfebde60c65711a0594fcf94bb5bc36b0",
-      "title": "Court Orders Arrest of Kapila Chandrasena After Breach of Trust Allegations",
-      "sent_at": "2026-05-07T11:50:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/live-bomb-found-in-weerakodithola-reserve-in-puttalam",
-      "content_hash": "5d56cff4cb8fa3ccae0e35a83390040f58789cfca2f78dd309fac365f8aa1b31",
-      "title": "Live Bomb Found In Weerakodithola Reserve In Puttalam",
-      "sent_at": "2026-05-07T11:50:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/six-people-injured-in-mapalagama-road-accident",
-      "content_hash": "543e7d6b02ad1a2349a2afc05b3825df53fb84ba5c2708b7dceefdf288cc51d8",
-      "title": "Six People Injured In Mapalagama Road Accident",
-      "sent_at": "2026-05-07T11:50:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/07/adb-says-resilience-must-be-built-for-the-long-term",
       "content_hash": "47aa81cbb11064c4bd3b321548cc3902d4d609678da83dc8692102e6d5f6dcbf",
       "title": "ADB Says Resilience Must Be Built for the Long Term",
@@ -833,6 +809,24 @@
       "content_hash": "66b04e974a3da80c35b1fab6a440e01e6e20954f67a483e5a8ff05a1eaefc1fc",
       "title": "WhatsApp Unveils ‘Incognito Chat’ for Private AI Conversations",
       "sent_at": "2026-05-14T10:23:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/four-injured-in-accident-in-teldeniya",
+      "content_hash": "a37aa8d495c8b5d141568db576c8b05ac014d37c5e164dff9486f45f5744d3df",
+      "title": "Four Injured in Accident in Teldeniya",
+      "sent_at": "2026-05-14T12:27:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/no-cctv-recordings-in-kapila-chandrasena-death-probe",
+      "content_hash": "1b76dec41ccc3828a4a2f5e7432216ec66a80c2dc7935a2037a05c7e38a6a630",
+      "title": "No CCTV Recordings in Kapila Chandrasena Death Probe",
+      "sent_at": "2026-05-14T12:27:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/vijitha-herath-meets-belarus-president-lukashenko-as-sri-lanka-eyes-gem-trade-machinery-imports",
+      "content_hash": "d7d7dffc8a57db78edf4c2e261b72815e8ac9a59334a84d888ab4e69cd868bc9",
+      "title": "Vijitha Herath Meets Belarus President Lukashenko As Sri Lanka Eyes Gem Trade, Machinery Imports",
+      "sent_at": "2026-05-14T12:27:35Z"
     }
   ]
 }
