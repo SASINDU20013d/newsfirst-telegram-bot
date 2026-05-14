@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/07/adb-says-resilience-must-be-built-for-the-long-term",
-      "content_hash": "47aa81cbb11064c4bd3b321548cc3902d4d609678da83dc8692102e6d5f6dcbf",
-      "title": "ADB Says Resilience Must Be Built for the Long Term",
-      "sent_at": "2026-05-07T14:24:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/pta-detention-of-suresh-salley-challenged",
-      "content_hash": "2708f4f587884b86d91b347562ea65f19d554481766639451ae3c9f6b9ec62c5",
-      "title": "PTA Detention of Suresh Salley Challenged",
-      "sent_at": "2026-05-07T14:24:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/second-round-of-grade-six-scholarship-appeals-open",
-      "content_hash": "27e96a8955b116075a439bb4a4967a67b118125372e0c6e2d9aa4fa3a5b21861",
-      "title": "Second Round of Grade Six Scholarship Appeals Open",
-      "sent_at": "2026-05-07T14:24:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/07/ministry-of-digital-economy-partners-with-paypal-sri-lanka-eyes-digital-transformation",
       "content_hash": "6ee907dae3a8c6334106f39eb44b6b53b3cee15dde64319b350bd34eec6992eb",
       "title": "Ministry of Digital Economy Partners with PayPal; Sri Lanka Eyes Digital Transformation",
@@ -827,6 +809,42 @@
       "content_hash": "d7d7dffc8a57db78edf4c2e261b72815e8ac9a59334a84d888ab4e69cd868bc9",
       "title": "Vijitha Herath Meets Belarus President Lukashenko As Sri Lanka Eyes Gem Trade, Machinery Imports",
       "sent_at": "2026-05-14T12:27:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/daisy-s-release-does-not-halt-case-against-yoshitha",
+      "content_hash": "f2965cdb906252984418d47e0b24181c11ce649016b4b1b2eb93a53bbb34fa68",
+      "title": "Daisy's Release Does Not Halt Case Against Yoshitha",
+      "sent_at": "2026-05-14T15:22:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/ex-mp-chandana-kathriarachchi-remanded-over-weapons-possession",
+      "content_hash": "7d492a700dace605c962737213b4ebd69dc6f850da9e7dbf4911f7e13205345e",
+      "title": "Ex-MP Chandana Kathriarachchi Remanded Over Weapons Possession",
+      "sent_at": "2026-05-14T15:22:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/extreme-weather-red-alert-warning-issued-for-heavy-rain",
+      "content_hash": "0fe872f35f2b8937f8a1b5a3cf19d35d1b5bdf1b615b67debf6cdab18fd249ab",
+      "title": "Extreme Weather: Red Alert Warning Issued for Heavy Rain",
+      "sent_at": "2026-05-14T15:22:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/imf-board-decision-on-sri-lanka-expected-within-weeks",
+      "content_hash": "ea8a761a2169821311934ca431b3abfdbb9a49ff7355c410e40404af321a478b",
+      "title": "IMF Board Decision on Sri Lanka Expected Within Weeks",
+      "sent_at": "2026-05-14T15:22:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/millions-in-transactions-uncovered-in-thai-drug-smuggling-case",
+      "content_hash": "5247fcf23bcff660edb77892a78b2207835db68bd593a17fc0da4f1811534c57",
+      "title": "Millions in Transactions Uncovered in Thai Drug Smuggling Case",
+      "sent_at": "2026-05-14T15:22:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/train-services-along-puttalam-line-restored",
+      "content_hash": "3c15391c40f976be95b3c8881dc4c63509e0131f01a85eb12bdbf842c16bb78e",
+      "title": "Train Services Along Puttalam Line Restored",
+      "sent_at": "2026-05-14T15:22:53Z"
     }
   ]
 }
