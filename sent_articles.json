@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/07/five-foreign-nationals-arrested-for-financial-fraud-in-matara",
-      "content_hash": "76f6d2dc4d93a5f470b0e2324bfd24763ce80a5a527535b7642848e342268df1",
-      "title": "Five Foreign Nationals Arrested For Financial Fraud in Matara",
-      "sent_at": "2026-05-07T06:40:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/government-to-import-200-luxury-buses-to-operate-on-expressways-and-long-distance-services",
-      "content_hash": "c0481f15b56768f85ba3d605afbb6adf90dc48a39365c8f3af8d0ec40187e1bd",
-      "title": "Government To Import 200 Luxury Buses to Operate on Expressways And Long-Distance Services",
-      "sent_at": "2026-05-07T06:40:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/laugfs-gas-increases-lp-gas-prices-litro-gas-prices-unchanged",
-      "content_hash": "11165eeadbf0a4cb1da488149da8fbf9c7c167473149bb1ec1b5ef47d9ae6693",
-      "title": "LAUGFS Gas Increases LP Gas Prices; Litro Gas Prices Unchanged",
-      "sent_at": "2026-05-07T06:40:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/president-of-vietnam-to-arrive-in-sri-lanka-today",
-      "content_hash": "4d41a93497120ac4c4ef9301c47f5d7663b7ac83f20b8dbe6b63599a77f31a29",
-      "title": "President of Vietnam to Arrive in Sri Lanka Today",
-      "sent_at": "2026-05-07T06:40:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/showers-and-thundershowers-expected-across-sri-lanka-over-next-few-days-due-to-prevailing-low-level-atmospheric-disturbance",
-      "content_hash": "459d29b049d835c6567f54b2b3cdd3718d69af33fdc5bbb33294c601622f7d11",
-      "title": "Showers and Thundershowers Expected Across Sri Lanka Over Next Few Days Due to Prevailing Low-level Atmospheric Disturbance",
-      "sent_at": "2026-05-07T06:40:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/special-business-forum-to-be-held-in-colombo-alongside-vietnam-president%e2%80%99s-visit",
-      "content_hash": "2a9b96e5d7506598d62feb45573c3b68e4444f1224c8af953018d90e78da04b3",
-      "title": "Special Business Forum to be Held in Colombo Alongside Vietnam President’s Visit",
-      "sent_at": "2026-05-07T06:40:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/07/udaya-gammanpila-summoned-over-comments-on-ranga-rajapaksha%e2%80%99s-death",
-      "content_hash": "163a6ffa3cff2725d49f4aaaf3e4d9733798cb15db4d0d4af558764037fef058",
-      "title": "Udaya Gammanpila Summoned Over Comments on Ranga Rajapaksha’s Death",
-      "sent_at": "2026-05-07T06:40:31Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/07/four-schools-in-deniyaya-temporarily-closed-due-to-spread-of-virus",
       "content_hash": "663352aeb4f5d557ee3a9ecea930c34216a0217d7625cd7d21bac7ab77a75e99",
       "title": "Four Schools In Deniyaya Temporarily Closed Due To Spread of Virus",
@@ -797,6 +755,66 @@
       "content_hash": "192156eae2fd4302c245ab4c7e2c50e94e94ecc41820afbc97a121c0db9adf45",
       "title": "Special Presidential Commission Continues Probe into Coal Transactions",
       "sent_at": "2026-05-14T04:08:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/boi-introduces-new-investment-opportunities-for-local-and-foreign-investors",
+      "content_hash": "e32e434c8457bc9af3e19058455694558d6e878df8d46db116d1f7cb17ba275b",
+      "title": "BOI Introduces New Investment Opportunities for Local and Foreign Investors",
+      "sent_at": "2026-05-14T07:45:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/court-clears-way-for-trial-against-yoshitha-rajapaksa",
+      "content_hash": "433aa7ecb12d85fe1e6c83621713c17081941e1095337e0c45c990b43667aa9d",
+      "title": "Court Clears Way for Trial Against Yoshitha Rajapaksa",
+      "sent_at": "2026-05-14T07:45:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/gampaha-osman-detained-for-72-hours-over-ganemulla-sanjeewa-murder",
+      "content_hash": "d86ca27afb213fd1d909f3fed11373612c3a96ad3e2fc3a0bb1e53eafe4687b8",
+      "title": "'Gampaha Osman' Detained for 72 Hours Over Ganemulla Sanjeewa Murder",
+      "sent_at": "2026-05-14T07:45:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/nine-private-bank-employees-arrested-in-kandy-over-alleged-loan-document-forgery",
+      "content_hash": "28bd1ca73349f40fef312c914dfd30a5ae5b83fcd538ba59f1cd67e8987b6352",
+      "title": "Nine Private Bank Employees Arrested in Kandy Over Alleged Loan Document Forgery",
+      "sent_at": "2026-05-14T07:45:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/rs-9-8-mn-software-claim-sparks-arrest-of-immigration-officer",
+      "content_hash": "438e166f0900d9547bce0facfd4e9c2af4c857bd2a58297fcff30a689eecc024",
+      "title": "Rs. 9.8 Mn Software Claim Sparks Arrest of Immigration Officer",
+      "sent_at": "2026-05-14T07:45:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/special-commission-to-address-public-sector-salary-disparities-and-performance-under-2026-budget",
+      "content_hash": "f138dd0433e67e79d95bbe328bcf8cf885cd418fc1d1f48395a9fb406d7c8fca",
+      "title": "Special Commission to Address Public Sector Salary Disparities and Performance Under 2026 Budget",
+      "sent_at": "2026-05-14T07:45:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/sri-lanka-belarus-sign-air-services-pact-mous-on-education-and-healthcare",
+      "content_hash": "dbd8bce45f3fe361b49e098fb2787bbebb9446df9e17d5412e462fb01c5d221a",
+      "title": "Sri Lanka, Belarus Sign Air Services Pact, MoUs On Education and Healthcare",
+      "sent_at": "2026-05-14T07:45:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/sri-lanka-s-finance-energy-leaders-meet-russian-envoy",
+      "content_hash": "7f7b6d10ad76fc835c59042cf46bc2e95afbc9b4ef23d6539ccad09a16ac201f",
+      "title": "Sri Lanka's Finance, Energy Leaders Meet Russian Envoy",
+      "sent_at": "2026-05-14T07:45:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/taiwan-says-us-has-reiterated-its-%e2%80%98clear-and-firm%e2%80%99-support",
+      "content_hash": "cd1003846a3612f8af0d1166fa3ccd41e7217b75263c9e09fc316e0abd63f66b",
+      "title": "Taiwan says US has reiterated its ‘clear and firm’ support",
+      "sent_at": "2026-05-14T07:45:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/14/vijitha-herath-meets-belarus-counterpart-to-expand-bilateral-engagement",
+      "content_hash": "64cb3b44038b2e82a445757b94b19eb8f01ea89ee4e3ac91956d6664f52eebc6",
+      "title": "Vijitha Herath Meets Belarus Counterpart to Expand Bilateral Engagement",
+      "sent_at": "2026-05-14T07:45:32Z"
     }
   ]
 }
