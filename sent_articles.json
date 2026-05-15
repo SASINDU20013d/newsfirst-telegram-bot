@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/08/akd-t%c3%b4-l%c3%a2m-discuss-expanding-cooperation-in-energy-technology-security-and-trade",
-      "content_hash": "d15f3ce6fd3f75c34b1e315a19ff2f7baad86173fcc44563a8ca103d9998d988",
-      "title": "AKD, Tô Lâm Discuss Expanding Cooperation in Energy, Technology, Security and Trade",
-      "sent_at": "2026-05-08T07:46:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/gammadda-re-build-empowers-nuwara-eliya-communities-after-cyclone-ditwah",
-      "content_hash": "61540c5872c17204f837460736f59cc9f46cc48a48738ab6753f0c3c8b8d5441",
-      "title": "Gammadda Re-Build Empowers Nuwara Eliya Communities After Cyclone Ditwah",
-      "sent_at": "2026-05-08T07:46:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/sri-lanka-vietnam-target-1-billion-trade-as-ties-reach-historic-turning-point",
-      "content_hash": "9f07e6554556052648b8472eae2e6099336bc5048737a2cacc87818b1d485b78",
-      "title": "Sri Lanka, Vietnam Target $1 Billion Trade as Ties Reach Historic Turning Point",
-      "sent_at": "2026-05-08T07:46:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/vietnam-hails-sri-lanka%e2%80%99s-economic-progress-calls-for-stronger-strategic-cooperation",
-      "content_hash": "175edf94ac0e79b12c6a29e951f0523538a063f2fbfbfc841d51395017d9c7da",
-      "title": "Vietnam Hails Sri Lanka’s Economic Progress,Calls for Stronger Strategic Cooperation",
-      "sent_at": "2026-05-08T07:46:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/rajanganaye-thero-taken-into-custody-in-early-morning-arrest",
-      "content_hash": "7eee90e7f3a7a9c92bfb4ab98c217fcde6397fcb3c226263384b777b6bccf5b6",
-      "title": "Rajanganaye Thero Taken Into Custody in Early-Morning Arrest",
-      "sent_at": "2026-05-08T09:27:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/08/akd-t%c3%b4-l%c3%a2m-honor-ho-chi-minh-in-colombo",
       "content_hash": "cc3e2355b6a86ffeb79ec4624d009c526b2b77034bdb344417b64fd79dc50911",
       "title": "AKD & Tô Lâm Honor Ho Chi Minh in Colombo",
@@ -833,6 +803,24 @@
       "content_hash": "34c0f02e98b0f341c958bce3a122af250e308baf2dd5f31efa0bd40c358d7451",
       "title": "Trump Admire's Beijing's Roses as Xi Promises Seeds",
       "sent_at": "2026-05-15T07:27:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/foreign-national-arrested-at-bia-with-nearly-2kg-of-cocaine",
+      "content_hash": "e7d4f2444b85ed13e298e55500e3b3109132b038558ed029e59604d277afc0b3",
+      "title": "Foreign National Arrested at BIA With Nearly 2kg Of Cocaine",
+      "sent_at": "2026-05-15T10:28:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/supreme-court-to-hear-petition-on-shopping-bag-tax-funds-on-november-3",
+      "content_hash": "e7d4d2a573feaaa6ac25d77e211a93e0ca57e6868d465473a7c44b77ff0bbdf4",
+      "title": "Supreme Court to Hear Petition on Shopping Bag Tax Funds on November 3",
+      "sent_at": "2026-05-15T10:28:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/wild-elephant-attack-claims-lives-of-father-and-daughter-in-wilgamuwa",
+      "content_hash": "0ca88c79c2e97bcdb45ce2c22d880419d9bd9f326f6b82c6d4013e7bb712b78d",
+      "title": "Wild Elephant Attack Claims Lives Of Father And Daughter In Wilgamuwa",
+      "sent_at": "2026-05-15T10:28:37Z"
     }
   ]
 }
