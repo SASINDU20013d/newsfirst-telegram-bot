@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/08/vietnamese-president-to-lam-to-receive-official-welcome-in-sri-lanka",
-      "content_hash": "4929ab3eca2249930543a9d6f9f2bfe817376083bd61bb560b3659834399e021",
-      "title": "Vietnamese President To Lam To Receive Official Welcome In Sri Lanka",
-      "sent_at": "2026-05-08T03:29:41Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/08/exsrilankan-airlines-ceo-found-dead-hours-after-court-issues-fresh-arrest-warrant",
       "content_hash": "b939049310ff6d9ac1c34103a50a6f8977057b258f25446d8f771209cab67671",
       "title": "Ex–SriLankan Airlines CEO Found Dead Hours After Court Issues Fresh Arrest Warrant",
@@ -839,6 +833,30 @@
       "content_hash": "3c15391c40f976be95b3c8881dc4c63509e0131f01a85eb12bdbf842c16bb78e",
       "title": "Train Services Along Puttalam Line Restored",
       "sent_at": "2026-05-14T15:22:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/compensation-payments-begin-for-ceb-employees",
+      "content_hash": "74efa9b0d7a27abd395e0b3c8b77186dccc7ce49f1594e82aad4f36d6d7baabf",
+      "title": "Compensation Payments Begin For CEB Employees",
+      "sent_at": "2026-05-15T03:50:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/national-police-commission-to-continue-duties-until-new-members-appointed",
+      "content_hash": "aba18707173cd793dfe18b49c41641a1bd49753510f1ed6ce6f87cbee2c82d54",
+      "title": "National Police Commission To Continue Duties Until New Members Appointed",
+      "sent_at": "2026-05-15T03:50:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/over-three-thousand-people-affected-by-severe-weather-across-seven-districts",
+      "content_hash": "08fcde24872b202dfd9a07e4a4dca5536ce44c0e943ace9ce0687fc5588067d8",
+      "title": "Over Three Thousand People Affected By Severe Weather Across Seven Districts",
+      "sent_at": "2026-05-15T03:50:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/sri-lanka-customs-revenue-soars-past-one-trillion-rupee-mark",
+      "content_hash": "1dbfdb67c8f02a72ca39839346a249b3c9cd48a73b8366bb70a71efcdcb1b5dc",
+      "title": "Sri Lanka Customs Revenue Soars Past One Trillion Rupee Mark",
+      "sent_at": "2026-05-15T03:50:55Z"
     }
   ]
 }
