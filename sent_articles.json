@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/08/exsrilankan-airlines-ceo-found-dead-hours-after-court-issues-fresh-arrest-warrant",
-      "content_hash": "b939049310ff6d9ac1c34103a50a6f8977057b258f25446d8f771209cab67671",
-      "title": "Ex–SriLankan Airlines CEO Found Dead Hours After Court Issues Fresh Arrest Warrant",
-      "sent_at": "2026-05-08T06:00:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/rs-50-million-worth-of-ice-and-heroin-seized-in-angoda",
-      "content_hash": "8928ac222da40ca5614b477705aa7aa95c2544450ebd663239a261b665f680a1",
-      "title": "Rs. 50 Million Worth Of Ice And Heroin Seized In Angoda",
-      "sent_at": "2026-05-08T06:00:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/special-checks-on-foreigners-linked-to-cybercrime",
-      "content_hash": "912c555eb78463cac072d8531d95b0a4184e6e0e3fe07469463afedfc93fc06e",
-      "title": "Special Checks On Foreigners Linked To Cybercrime",
-      "sent_at": "2026-05-08T06:00:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/special-traffic-plan-in-colombo-for-vietnamese-president%e2%80%99s-visit",
-      "content_hash": "01bc218efe87ca31f45e5c4496ad9c7cd2e75078e7a5d8207547e23e741b97ce",
-      "title": "Special Traffic Plan In Colombo For Vietnamese President’s Visit",
-      "sent_at": "2026-05-08T06:00:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/sri-lanka-to-screen-visitors-from-high-risk-countries-over-cybercrime-concerns",
-      "content_hash": "28a2322f5c8218031821a78e4bc41eda60406d84e944b094f62ddc0305895883",
-      "title": "Sri Lanka to Screen Visitors from High-Risk Countries Over Cybercrime Concerns",
-      "sent_at": "2026-05-08T06:00:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/sri-lanka-vietnam-sign-five-key-mous-during-president-t%c3%b4-l%c3%a2m%e2%80%99s-state-visit",
-      "content_hash": "72f450795ebad5a44ba791d757d5f8a6020008656c63cd6c16cfaa8b1a305581",
-      "title": "Sri Lanka, Vietnam Sign Five Key MoUs During President Tô Lâm’s State Visit",
-      "sent_at": "2026-05-08T06:00:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/un-research-vessel-completes-key-marine-survey-in-sea-of-sri-lanka",
-      "content_hash": "8ff0c4f444b3e32c830e9e3c75640b8a9eab96290a84ca426e40da777a43d3d8",
-      "title": "UN Research Vessel Completes Key Marine Survey in Sea of Sri Lanka",
-      "sent_at": "2026-05-08T06:00:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/08/vietnamese-president-t%c3%b4-l%c3%a2m-receives-ceremonial-welcome-at-sri-lanka-president%e2%80%99s-office",
-      "content_hash": "53644b3e363a098e209b90a82802cb224cb504e894374db6791361bd3ef4592a",
-      "title": "Vietnamese President Tô Lâm Receives Ceremonial Welcome at Sri Lanka President’s Office",
-      "sent_at": "2026-05-08T06:00:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/08/akd-t%c3%b4-l%c3%a2m-discuss-expanding-cooperation-in-energy-technology-security-and-trade",
       "content_hash": "d15f3ce6fd3f75c34b1e315a19ff2f7baad86173fcc44563a8ca103d9998d988",
       "title": "AKD, Tô Lâm Discuss Expanding Cooperation in Energy, Technology, Security and Trade",
@@ -857,6 +809,30 @@
       "content_hash": "1dbfdb67c8f02a72ca39839346a249b3c9cd48a73b8366bb70a71efcdcb1b5dc",
       "title": "Sri Lanka Customs Revenue Soars Past One Trillion Rupee Mark",
       "sent_at": "2026-05-15T03:50:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/donald-trump-boards-air-force-one-concluding-china-visit",
+      "content_hash": "5578b5541df0d411a4ddad6b5b456c6267573857dad5c966ec63abc32c50935e",
+      "title": "Donald Trump Boards Air Force One, Concluding China Visit",
+      "sent_at": "2026-05-15T07:27:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/sanath-nishantha%e2%80%99s-brother-found-guilty-on-three-charges-sentenced-to-prison",
+      "content_hash": "93dc4b56e4c4b7ab78f160fe9e47574b7f11366c7a990a9c4a1ba4ac800931a9",
+      "title": "Sanath Nishantha’s Brother Found Guilty on Three Charges, Sentenced to Prison",
+      "sent_at": "2026-05-15T07:27:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/the-importance-of-xi-s-tea-diplomacy",
+      "content_hash": "e04dfa4f3d1f714b4e0735842d1073970a8dbb6bc45125d29d684bc50bec2516",
+      "title": "The Importance Of Xi's 'Tea' Diplomacy",
+      "sent_at": "2026-05-15T07:27:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/15/trump-admire-s-beijing-s-roses-as-xi-promises-seeds",
+      "content_hash": "34c0f02e98b0f341c958bce3a122af250e308baf2dd5f31efa0bd40c358d7451",
+      "title": "Trump Admire's Beijing's Roses as Xi Promises Seeds",
+      "sent_at": "2026-05-15T07:27:11Z"
     }
   ]
 }
