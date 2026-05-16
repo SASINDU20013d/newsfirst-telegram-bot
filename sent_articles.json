@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/09/ccd-takes-over-investigation-into-death-of-kapila-chandrasena",
-      "content_hash": "1eff2e5cb8c41cda4ef3d1dacea1c7266c90a0fa9b0f445ac70d50dd70a40dfc",
-      "title": "CCD Takes Over Investigation Into Death Of Kapila Chandrasena",
-      "sent_at": "2026-05-09T11:53:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/09/ccd-to-probe-kapila-chandrasena%e2%80%99s-death",
       "content_hash": "4df06875570d337858e3bfec403558bb0e926158bbf999fba5aa582efc82cae3",
       "title": "CCD to Probe Kapila Chandrasena’s Death",
@@ -809,6 +803,18 @@
       "content_hash": "a318529c929172be9825b5d43bb39d7bd2d25796b6a31d2239e77850c880cf8f",
       "title": "IUSF Remains at Malwana Property Allegedly Linked to Basil Rajapaksa for Third Consecutive Day",
       "sent_at": "2026-05-16T08:50:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/16/illegal-high-capacity-motorcycles-seized-in-athurugiriya-with-suspects",
+      "content_hash": "bebe5109e7f323bed5443fbe56f59b93273c1fc774f3d41519301bac921de03a",
+      "title": "Illegal High-Capacity Motorcycles Seized In Athurugiriya With Suspects",
+      "sent_at": "2026-05-16T11:54:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/16/sri-lanka-imposes-50-temporary-surcharge-on-vehicle-import-duty-for-three-months",
+      "content_hash": "b683f0441d1362e48be0ea189b12c43a5ecd3d751a9632f789064e798acf7f17",
+      "title": "Sri Lanka Imposes 50% Temporary Surcharge on Vehicle Import Duty for Three Months",
+      "sent_at": "2026-05-16T11:54:50Z"
     }
   ]
 }
