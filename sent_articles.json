@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/09/sluice-gates-opened-at-several-reservoirs-due-to-heavy-rains",
-      "content_hash": "5e298504c4a6ea166447e9b5753cdb3647d384c0e64ad49ae3c1a954f672fac0",
-      "title": "Sluice Gates Opened At Several Reservoirs Due To Heavy Rains",
-      "sent_at": "2026-05-09T06:19:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/09/a-suspect-arrested-at-bia-with-kush-worth-rs-5-1-million",
       "content_hash": "7728a629f9841e52492551f1b1d9711b3b2e98385226d87218db77e6924dcaf3",
       "title": "A Suspect Arrested At BIA With Kush Worth Rs. 5.1 Million",
@@ -827,6 +821,18 @@
       "content_hash": "7d6db24ab8bb82c9b824cbe567422416d967acb1fdba12bde1c27083aa75a303",
       "title": "Government Considers Replacing Odd-Even Fuel System with QR Code Distribution",
       "sent_at": "2026-05-16T03:32:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/16/investigation-launched-after-polgahawela-kalutara-train-derails-10-hospitalized",
+      "content_hash": "2c5d4f77f0a4cdb9f63fcb86f9cb5683fb63bd1fb9fbb9a7a3663232b5d1f0f5",
+      "title": "Investigation Launched After Polgahawela-Kalutara Train Derails; 10 Hospitalized",
+      "sent_at": "2026-05-16T06:24:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/16/sri-lanka-imposes-50-customs-surcharge-on-imported-vehicles",
+      "content_hash": "78a49b0fa9037b1391da21b733300fe2d121c38df3567de52853322ce850194c",
+      "title": "Sri Lanka Imposes 50% Customs Surcharge on Imported Vehicles",
+      "sent_at": "2026-05-16T06:25:02Z"
     }
   ]
 }
