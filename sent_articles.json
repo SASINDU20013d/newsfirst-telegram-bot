@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/09/full-investigation-underway-into-kapila-chandrasena%e2%80%99s-death-min-of-public-security",
-      "content_hash": "0a10c27b3832c8ed2679208a6ddfbd3e2083521db8341d155cee28928c0e5aa8",
-      "title": "Full Investigation Underway Into Kapila Chandrasena’s Death- Min. of Public Security",
-      "sent_at": "2026-05-09T03:29:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/09/pallegama-hemarathana-thero-arrested-over-alleged-abuse-of-girl",
-      "content_hash": "2e697be6c7623069e56fc30a584026775db75e0d9d96ebed77c0147703fce8aa",
-      "title": "Pallegama Hemarathana Thero Arrested Over Alleged Abuse of Girl",
-      "sent_at": "2026-05-09T03:29:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/09/steps-taken-to-control-viral-fever-spread-in-deniyaya-no-risk-of-rapid-spread",
-      "content_hash": "86786005c148145961d8789a4fa1de32217387f89218b5fb97edf78971110724",
-      "title": "Steps Taken To Control Viral Fever Spread In Deniyaya: No Risk Of Rapid Spread",
-      "sent_at": "2026-05-09T03:29:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/09/sluice-gates-opened-at-several-reservoirs-due-to-heavy-rains",
       "content_hash": "5e298504c4a6ea166447e9b5753cdb3647d384c0e64ad49ae3c1a954f672fac0",
       "title": "Sluice Gates Opened At Several Reservoirs Due To Heavy Rains",
@@ -833,6 +815,18 @@
       "content_hash": "fc9a17dd40b8d22415bbc08a8d1c368301142011dc9962df8b0a0a585080b8ef",
       "title": "Potuhera–Rambukkana Stretch Set to Open by March",
       "sent_at": "2026-05-15T15:19:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/16/cbsl-introduces-digital-platform-for-public-complaints-against-financial-institutions",
+      "content_hash": "d943324cb1982565677f40a7e1654eacf050b759bfd46f52b6196be01f4077bc",
+      "title": "CBSL Introduces Digital Platform for Public Complaints Against Financial Institutions",
+      "sent_at": "2026-05-16T03:32:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/16/government-considers-replacing-odd-even-fuel-system-with-qr-code-distribution",
+      "content_hash": "7d6db24ab8bb82c9b824cbe567422416d967acb1fdba12bde1c27083aa75a303",
+      "title": "Government Considers Replacing Odd-Even Fuel System with QR Code Distribution",
+      "sent_at": "2026-05-16T03:32:58Z"
     }
   ]
 }
