@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/10/drug-kingpin-batuwatte-chamara-to-be-repatriated-from-dubai-today",
-      "content_hash": "af129e704fa0204b33751971845f02a11481592153392cad091b4e62a86d08e1",
-      "title": "Drug Kingpin Batuwatte Chamara to Be Repatriated from Dubai Today",
-      "sent_at": "2026-05-10T03:41:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/four-schools-in-deniyaya-to-remain-closed-due-to-viral-illness",
-      "content_hash": "b48886ad71af5e8af2ab4f0131d48df0011904f754c66ccd986d11c3a61fa60f",
-      "title": "Four Schools in Deniyaya to Remain Closed Due to Viral Illness",
-      "sent_at": "2026-05-10T03:41:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/heavy-rainfall-over-100mm-forecast-across-several-provinces-today",
-      "content_hash": "53d4be93c1b963f86c7c22b13f8e864e14ef5e5e77a51d40094efccc841278b7",
-      "title": "Heavy Rainfall Over 100mm Forecast Across Several Provinces Today",
-      "sent_at": "2026-05-10T03:41:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/public-to-review-2026-voters%e2%80%99-electoral-register-until-5th-june",
-      "content_hash": "dbbc738c1ac52109abb9cb7dc648dce138d6836c3f198cc29fe659175edb7f8d",
-      "title": "Public to Review 2026 Voters’ Electoral Register Until 5th June",
-      "sent_at": "2026-05-10T03:41:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/special-procurement-drive-begins-in-nuwaraeliya-to-provide-relief-for-potato-farmers",
-      "content_hash": "5394148a145018c9bf67d9f2746dd97983b01a4e7cf2463dfcebc211daf38556",
-      "title": "Special Procurement Drive Begins in NuwaraEliya to Provide Relief for Potato Farmers",
-      "sent_at": "2026-05-10T03:41:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/10/fire-destroys-shops-at-manning-market-in-peliyagoda",
       "content_hash": "e2b135a740658a8218d035fd3e55e32b533e5818df22718e92c4e12fb51c8e31",
       "title": "Fire Destroys Shops at Manning Market in Peliyagoda",
@@ -809,6 +779,30 @@
       "content_hash": "b683f0441d1362e48be0ea189b12c43a5ecd3d751a9632f789064e798acf7f17",
       "title": "Sri Lanka Imposes 50% Temporary Surcharge on Vehicle Import Duty for Three Months",
       "sent_at": "2026-05-16T11:54:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/imf-executive-board-to-decide-on-sri-lanka%e2%80%99s-combined-reviews-on-may-27",
+      "content_hash": "6cad0edf93d6f6595d1b0213c9863528f161ceb1b9ceaa802657def3a4f4a552",
+      "title": "IMF Executive Board to Decide On Sri Lanka’s Combined Reviews On May 27",
+      "sent_at": "2026-05-17T03:51:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/over-28-000-dengue-cases-reported-in-2026",
+      "content_hash": "73e281547b70e20debb91a76a96cdf15ecdfdcbd3bab2002888221baf850b038",
+      "title": "Over 28,000 Dengue Cases Reported in 2026",
+      "sent_at": "2026-05-17T03:51:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/sri-lanka-to-expect-more-rainfall-warns-met-department",
+      "content_hash": "f99f629238a5ab6786f8adc017b728360630eee6555e4687d8e24d30ee569684",
+      "title": "Sri Lanka to Expect More Rainfall, Warns Met Department",
+      "sent_at": "2026-05-17T03:51:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/tax-collection-reforms-to-address-insurance-policy-loopholes",
+      "content_hash": "f0a39ff267fd134bd88ece0dd000a03ad32341184008d5b49b306f428e69cd86",
+      "title": "Tax Collection Reforms to Address Insurance Policy Loopholes",
+      "sent_at": "2026-05-17T03:51:16Z"
     }
   ]
 }
