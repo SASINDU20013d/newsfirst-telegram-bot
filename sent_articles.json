@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/10/actor-turned-politician-joseph-vijay-sworn-in-as-tamil-nadu-chief-minister-nine-member-cabinet-sworn-in-alongside-the-new-cm",
-      "content_hash": "69cdd00b3ef096572f665c8ced388043bafaaa93c2eb7eec2c7681f7adafda4d",
-      "title": "Actor- Turned Politician Joseph Vijay Sworn in as Tamil Nadu Chief Minister, Nine-Member Cabinet Sworn in Alongside the New CM",
-      "sent_at": "2026-05-10T13:27:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/mps-assigned-as-district-health-coordinating-officers-for-every-district",
-      "content_hash": "75e86ce6a2cdc74f57c72c29c045d87db889bcc900767d840a915a1f644eb560",
-      "title": "MPs Assigned As District Health Coordinating Officers For Every District",
-      "sent_at": "2026-05-10T13:27:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/10/sri-lanka-introduces-digital-motor-insurance-cards",
       "content_hash": "ce882e6afc3bba9197dd73a659840b17fe42cccafdbfb9f0d3731478b667dd23",
       "title": "Sri Lanka Introduces Digital Motor Insurance Cards",
@@ -797,6 +785,30 @@
       "content_hash": "9da8c0286bc4549fc1fcba05d31cfac5eb5b95e1a1da2f236d2c8fd132cae6a8",
       "title": "Tens of Thousands Join Rival Marches in London",
       "sent_at": "2026-05-17T09:08:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/ciaboc-launches-probe-into-importation-of-rapid-antigen-test-kits",
+      "content_hash": "667e2bbea67abcf9b08f5374fa52391d2bee4bd4a5d8c4fa29fd50fdfbfbcdec",
+      "title": "CIABOC Launches Probe into Importation of Rapid Antigen Test Kits",
+      "sent_at": "2026-05-17T13:39:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/five-italians-drown-in-maldives-caves-rescue-diver-dies-during-search-for-bodies",
+      "content_hash": "558dd092b174c03789b7b61bd174147d15863b09a05ab5c475f28d4541a59acc",
+      "title": "Five Italians Drown in Maldives Caves: Rescue Diver Dies During Search for Bodies",
+      "sent_at": "2026-05-17T13:39:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/icc-eyes-sri-lanka-cricket-reset-top-delegation-meets-president-akd-amid-reform-push",
+      "content_hash": "a083ccfadfabcc1abe2a60a3b01d52493257375ddf5f2d826776b4b2088822f8",
+      "title": "ICC Eyes Sri lanka Cricket Reset: Top Delegation Meets President AKD Amid Reform Push",
+      "sent_at": "2026-05-17T13:39:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/two-remanded-over-wanawasala-train-derailment",
+      "content_hash": "66026899bb0095a0cf7cd59f6b40d4ec3f641a62ab52d9f0c23e212b90db235f",
+      "title": "Two Remanded Over Wanawasala Train Derailment",
+      "sent_at": "2026-05-17T13:39:37Z"
     }
   ]
 }
