@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/10/15-member-expert-committee-appointed-to-draft-national-medical-education-policy",
-      "content_hash": "da1d93d4fedc81c41acaecf722a32a5301933b0f567489e06a167ad2d96f9354",
-      "title": "15-Member Expert Committee Appointed to Draft National Medical Education Policy",
-      "sent_at": "2026-05-10T08:56:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/man-killed-in-vehicle-collision-in-yatiyantota",
-      "content_hash": "a8dbb28d114bde6b31073a9ae27805492f918dff404f5f47814c2e4bece90070",
-      "title": "Man Killed in Vehicle Collision in Yatiyantota",
-      "sent_at": "2026-05-10T08:57:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/spill-gates-opened-at-9-major-reservoirs-amid-heavy-rainfall",
-      "content_hash": "64c3209140feae77187930492b57b402ff24807d9e26399d198f1f0039ac0a8f",
-      "title": "Spill Gates Opened at 9 Major Reservoirs Amid Heavy Rainfall",
-      "sent_at": "2026-05-10T08:57:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/yal-devi-resumes-services-to-jaffna-tomorrow",
-      "content_hash": "eaddd8c40f2c1a14aad7d1c5bb827e73a0bb9f2ac93c0100c8a572bf328fa271",
-      "title": "Yal Devi Resumes Services to Jaffna Tomorrow",
-      "sent_at": "2026-05-10T08:57:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/10/actor-turned-politician-joseph-vijay-sworn-in-as-tamil-nadu-chief-minister-nine-member-cabinet-sworn-in-alongside-the-new-cm",
       "content_hash": "69cdd00b3ef096572f665c8ced388043bafaaa93c2eb7eec2c7681f7adafda4d",
       "title": "Actor- Turned Politician Joseph Vijay Sworn in as Tamil Nadu Chief Minister, Nine-Member Cabinet Sworn in Alongside the New CM",
@@ -797,6 +773,30 @@
       "content_hash": "44a91e5ec9a90e4b7341b408a37e3ec42bc31e8da293bb11d23910ba96e686ad",
       "title": "WHO Declares an Ebola Public Health Emergency in the DR of Congo",
       "sent_at": "2026-05-17T06:47:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/draft-bill-of-the-protection-of-the-state-from-terrorism-act-psta-to-be-submitted-to-justice-minister-this-month",
+      "content_hash": "b3f18a0f230dc9305abab0c828b923c84cca60037effdc4f864d8516d4dc7afb",
+      "title": "Draft Bill of \"The Protection of the State from Terrorism Act (PSTA)\" To Be Submitted to Justice Minister This Month",
+      "sent_at": "2026-05-17T09:08:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/pm-to-hold-talks-with-iusf-representatives-residing-at-abandoned-malwana-property",
+      "content_hash": "134580408ce68ac8bfd4c7a16e00f04d05701a7899776cad54e4109c4f129637",
+      "title": "PM to Hold Talks With IUSF Representatives Residing at Abandoned Malwana Property",
+      "sent_at": "2026-05-17T09:08:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/revolver-used-in-ganemulla-sanjeewa-murder-supplied-by-%e2%80%9cgampaha-osman%e2%80%9d-says-police",
+      "content_hash": "ed275f5a245d625d7dc6649c54861c979ef38c80c94a5b781a9fcd7761a2f3e6",
+      "title": "Revolver Used in Ganemulla Sanjeewa Murder Supplied by “Gampaha Osman”, says Police",
+      "sent_at": "2026-05-17T09:08:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/tens-of-thousands-join-rival-marches-in-london",
+      "content_hash": "9da8c0286bc4549fc1fcba05d31cfac5eb5b95e1a1da2f236d2c8fd132cae6a8",
+      "title": "Tens of Thousands Join Rival Marches in London",
+      "sent_at": "2026-05-17T09:08:26Z"
     }
   ]
 }
