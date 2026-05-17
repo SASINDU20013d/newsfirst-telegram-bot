@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/10/fire-destroys-shops-at-manning-market-in-peliyagoda",
-      "content_hash": "e2b135a740658a8218d035fd3e55e32b533e5818df22718e92c4e12fb51c8e31",
-      "title": "Fire Destroys Shops at Manning Market in Peliyagoda",
-      "sent_at": "2026-05-10T06:36:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/statements-recorded-from-former-cricketer-aravinda-de-silva-and-15-others-over-death-of-former-srilankan-airlines-ceo-kapila-chandrasena",
-      "content_hash": "0a2d717274402383ed02be3573d9912ab428688b8dcc0a473dd7489f25bc088e",
-      "title": "Statements Recorded from Former Cricketer Aravinda de Silva and 15 Others Over Death of Former SriLankan Airlines CEO Kapila Chandrasena",
-      "sent_at": "2026-05-10T06:36:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/10/suspect-arrested-at-bia-with-hashish-valued-at-over-rs-47-million",
-      "content_hash": "3b9adf178a7ce151093641694f37ca36b3736db88042bd790590c0c91b85d1f6",
-      "title": "Suspect Arrested at BIA with Hashish Valued at Over Rs. 47 Million",
-      "sent_at": "2026-05-10T06:36:22Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/10/15-member-expert-committee-appointed-to-draft-national-medical-education-policy",
       "content_hash": "da1d93d4fedc81c41acaecf722a32a5301933b0f567489e06a167ad2d96f9354",
       "title": "15-Member Expert Committee Appointed to Draft National Medical Education Policy",
@@ -803,6 +785,18 @@
       "content_hash": "f0a39ff267fd134bd88ece0dd000a03ad32341184008d5b49b306f428e69cd86",
       "title": "Tax Collection Reforms to Address Insurance Policy Loopholes",
       "sent_at": "2026-05-17T03:51:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/minister-urges-public-to-avoid-plastic-and-polythene-during-vesak-celebrations",
+      "content_hash": "f2681daeb530dc97637634006bcd5ce7b3fbad2bbbfe02e50f3f3bdcaf61ac78",
+      "title": "Minister Urges Public to Avoid Plastic and Polythene During Vesak Celebrations",
+      "sent_at": "2026-05-17T06:47:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/17/who-declares-an-ebola-public-health-emergency-in-the-dr-of-congo",
+      "content_hash": "44a91e5ec9a90e4b7341b408a37e3ec42bc31e8da293bb11d23910ba96e686ad",
+      "title": "WHO Declares an Ebola Public Health Emergency in the DR of Congo",
+      "sent_at": "2026-05-17T06:47:48Z"
     }
   ]
 }
