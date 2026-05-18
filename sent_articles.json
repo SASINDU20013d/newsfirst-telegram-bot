@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/11/former-prime-minister-of-thailand-thaksin-shinawat-released-from-prison",
-      "content_hash": "05ce53826db5f7cda74ee79c9c65e961ed3d393fcbdf3dead148402408a9e3b5",
-      "title": "Former Prime Minister of Thailand Thaksin Shinawat Released from Prison",
-      "sent_at": "2026-05-11T07:48:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/key-suspect-in-drug-smuggling-monk-ring-flees-to-india",
-      "content_hash": "cbd2da6c275ecebb663a082ca1746f58cdd12f4416c9e16cebca7945bb5edbd2",
-      "title": "Key Suspect in Drug Smuggling Monk Ring Flees to India",
-      "sent_at": "2026-05-11T07:48:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/new-revelations-in-death-of-ex-srilankan-airlines-ceo",
-      "content_hash": "38d9554abe0235147c51f18a2cc11d82c228c4a87ab61e129dc11e0044a646fa",
-      "title": "New Revelations in Death of Ex-SriLankan Airlines CEO",
-      "sent_at": "2026-05-11T07:49:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/suspect-arrested-in-murder-of-former-police-inspector-dedimuni-balendra",
-      "content_hash": "c3c0c398a1ad4418bdc7bf089a4d6edd3d02640cdf0ae388b701431525c97a45",
-      "title": "Suspect Arrested in Murder of Former Police Inspector Dedimuni Balendra",
-      "sent_at": "2026-05-11T07:49:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/two-doctors-suspended-over-death-of-infant-in-trincomalee",
-      "content_hash": "0dd5620e418d6245278a8242749622147491a82690222cf3b6c99da86a1fc3fa",
-      "title": "Two Doctors Suspended Over Death of Infant in Trincomalee",
-      "sent_at": "2026-05-11T07:49:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/udaya-gammanpila-summoned-to-tid-over-statement-made-during-book-launch",
-      "content_hash": "0d13829b389ed8b764d803499f9b97322706284d38ad191f672b8acac6cf0ddb",
-      "title": "Udaya Gammanpila Summoned to TID Over Statement Made During Book Launch",
-      "sent_at": "2026-05-11T07:49:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/11/30-firefighters-deployed-to-contain-dam-street-blaze",
       "content_hash": "e5722aef6a0ef1e8f3376aebfdf62fee9b0096e2c3ac5e1b184ecc9be1b00355",
       "title": "30 Firefighters Deployed to Contain Dam Street Blaze",
@@ -821,6 +785,66 @@
       "content_hash": "4f6f8c8ef2b2871d4d181466e82989b865fd61def06492f197f2392f8f3bf46f",
       "title": "Veteran Journalist and Political Analyst D.B.S. Jeyaraj Passes Away",
       "sent_at": "2026-05-18T04:03:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/50-surcharge-not-applicable-to-vehicles-under-earlier-credit-agreements",
+      "content_hash": "60a0269d3b873a78ea83ca1056e8d6937d61e47778564b74708bd80f369dee25",
+      "title": "50% Surcharge Not Applicable to Vehicles Under Earlier Credit Agreements",
+      "sent_at": "2026-05-18T08:12:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/bangkok-train-driver-tests-positive-for-drugs-two-railway-staff-face-charges",
+      "content_hash": "9653608c4891dd1555b3c0f8bdb4c91a13dc3a38ba9f84441a878b4d70a23e6a",
+      "title": "Bangkok Train Driver Tests Positive for Drugs; Two Railway Staff Face Charges",
+      "sent_at": "2026-05-18T08:12:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/damage-assessment-underway-after-wanawasala-train-derailment",
+      "content_hash": "1a216147859b54e8b763348f8d492ad8fd82e403d455997970942fdc3cfbe592",
+      "title": "Damage Assessment Underway After Wanawasala Train Derailment",
+      "sent_at": "2026-05-18T08:12:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/finnish-divers-arrive-in-maldives-as-search-for-bodies-of-four-italians-continues",
+      "content_hash": "e635bee291d57cc905e217845a0272b42006418b8784e61c116fcf1dd2c1a5f7",
+      "title": "Finnish Divers Arrive In Maldives As Search For Bodies Of Four Italians Continues",
+      "sent_at": "2026-05-18T08:12:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/myanmar-quake-felt-in-bangkok-high-rises",
+      "content_hash": "0b65459a8965002310ffbbcf69573a19e0293692a058c79d665a91eb7a251875",
+      "title": "Myanmar Quake Felt In Bangkok High-Rises",
+      "sent_at": "2026-05-18T08:12:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/negligence-lack-of-awareness-behind-rising-water-related-deaths-warn-authorities",
+      "content_hash": "e7b2ab468becbd2ce9f8a05fee3bb234ca0e72a5b7d673211281375610f93988",
+      "title": "Negligence, Lack of Awareness Behind Rising Water-Related Deaths, Warn Authorities",
+      "sent_at": "2026-05-18T08:12:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/special-inclusion-of-northern-and-eastern-war-hero-families-at-17th-national-victory-celebration",
+      "content_hash": "37e51e4472d6087b5f3a2c6e8c2f22afea494ffa46564b9f33390cf59d83bcf7",
+      "title": "Special Inclusion of Northern and Eastern War Hero Families at 17th National Victory Celebration",
+      "sent_at": "2026-05-18T08:12:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/sri-lanka-marks-17-years-since-end-of-decades-long-conflict",
+      "content_hash": "99fef34d1d5d5acb52800d268359486bca287e16b440500e439b13be2cbd5dde",
+      "title": "Sri Lanka Marks 17 Years Since End of Decades-Long Conflict",
+      "sent_at": "2026-05-18T08:12:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/sri-lanka-records-around-2-000-blood-cancer-cases-annually-with-only-four-specialists-to-serve-nationwide",
+      "content_hash": "57b3a4d1f3c2703bdc773e42c6cd5448d117cdb23230dcb4ef896b63d3120127",
+      "title": "Sri Lanka Records Around 2,000 Blood Cancer Cases Annually With Only Four Specialists To Serve Nationwide",
+      "sent_at": "2026-05-18T08:12:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/swatch-closes-stores-as-watch-launch-causes-chaos-worldwide",
+      "content_hash": "0e5951d90733f05341b0a81de907eaeef75da992297583a4a751ba4951531712",
+      "title": "Swatch Closes Stores As Watch Launch Causes Chaos Worldwide",
+      "sent_at": "2026-05-18T08:12:32Z"
     }
   ]
 }
