@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/11/30-firefighters-deployed-to-contain-dam-street-blaze",
-      "content_hash": "e5722aef6a0ef1e8f3376aebfdf62fee9b0096e2c3ac5e1b184ecc9be1b00355",
-      "title": "30 Firefighters Deployed to Contain Dam Street Blaze",
-      "sent_at": "2026-05-11T11:28:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/legal-action-against-vehicles-with-dangerous-modifications-and-noisy-exhausts",
-      "content_hash": "38bef9bf8f30845614ae59aa9136bd22a2d4690f72366cafd02ec418cb556d07",
-      "title": "Legal Action Against Vehicles With Dangerous Modifications and Noisy Exhausts",
-      "sent_at": "2026-05-11T11:28:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/rs-20-bn-allocated-to-transform-anuradhapura-hospital",
-      "content_hash": "652d1a344ab9b1c377401ea32ebe2aab0181eaf94d838698d83fc90207310896",
-      "title": "Rs. 20 Bn Allocated to Transform Anuradhapura Hospital",
-      "sent_at": "2026-05-11T11:28:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/turkish-airlines-flight-catches-fire-in-tyre-in-kathmandu-all-on-board-safely-evacuated-using-slides",
-      "content_hash": "7d8d33afbaee6eba005904b496bbe8462d2bedb0362df5ee402b083aaa2796e7",
-      "title": "Turkish Airlines Flight Catches Fire in Tyre in Kathmandu: All on Board Safely Evacuated Using Slides",
-      "sent_at": "2026-05-11T11:28:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/your-tenant-could-be-a-criminal-police-urge-vigilance-as-rented-properties-used-for-illegal-activities",
-      "content_hash": "3d7f9c305608c84a4333c6ab3f0c7efaa756098b648949a67be3e99c7b328cda",
-      "title": "Your Tenant Could Be a Criminal : Police Urge Vigilance as Rented Properties Used for Illegal Activities",
-      "sent_at": "2026-05-11T11:28:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/11/airbus-scandal-mr-ready-to-face-ciaboc-tomorrow-12",
       "content_hash": "87687381d57464b7ed8fa10bd236d274a4354e3599d4de9a067313c8059d901f",
       "title": "Airbus Scandal : MR Ready To Face CIABOC Tomorrow (12)",
@@ -845,6 +815,42 @@
       "content_hash": "0e5951d90733f05341b0a81de907eaeef75da992297583a4a751ba4951531712",
       "title": "Swatch Closes Stores As Watch Launch Causes Chaos Worldwide",
       "sent_at": "2026-05-18T08:12:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/5-289-tri-forces-personnel-promoted-ahead-of-war-heroes-day",
+      "content_hash": "8365deac34da93d6d33f85553ae6d456b966166257190531f0646a6bbe37cf74",
+      "title": "5,289 Tri-Forces Personnel Promoted Ahead of War Heroes Day",
+      "sent_at": "2026-05-18T12:36:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/bodies-of-missing-italian-divers-found-in-maldives",
+      "content_hash": "a07997d018b2cd055ec817a1a3a7fbaf4f3a3aec7f7bd34165df808be59dbf64",
+      "title": "Bodies of missing Italian divers found in Maldives",
+      "sent_at": "2026-05-18T12:36:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/mahason-balakaya-leader-and-wife-remanded-in-cabana-project-scam-case",
+      "content_hash": "5b307ed5f9c65520ba1881467a6f0fdd0b8c151c4fb924d98f8e678648d20875",
+      "title": "Mahason Balakaya Leader and Wife Remanded in Cabana Project Scam Case",
+      "sent_at": "2026-05-18T12:36:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/pen-shaped-firearm-discovered-in-cid-operation",
+      "content_hash": "0e323855ee403c17f7bd243ff03bc43105f14a83ffa33820f411b2b8a55dcb2e",
+      "title": "Pen-Shaped Firearm Discovered in CID Operation",
+      "sent_at": "2026-05-18T12:36:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/prime-minister-departs-for-uk-for-heads-of-government-summit",
+      "content_hash": "a61a74314dde59fb35facd1da217d42fd28d8f5ab0ade5d584e1533289ceb384",
+      "title": "Prime Minister Departs for UK for Heads of Government Summit",
+      "sent_at": "2026-05-18T12:36:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/railways-to-pay-compensation-to-injured-passengers",
+      "content_hash": "ec36860b01dfc8bd9c11c775c396e2f0be165865ae736554fc51e94c3f12e7e3",
+      "title": "Railways to Pay Compensation to Injured Passengers",
+      "sent_at": "2026-05-18T12:36:19Z"
     }
   ]
 }
