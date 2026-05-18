@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/11/human-rights-commission-summons-officials-over-estate-workers%e2%80%99-wages",
-      "content_hash": "106a795e8729be3e0564b6c84d065fb53e6ae70d100a49bc66e9f57a2eafb42d",
-      "title": "Human Rights Commission Summons Officials Over Estate Workers’ Wages",
-      "sent_at": "2026-05-11T03:54:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/low-pressure-area-to-develop-over-the-island-rain-and-landslide-warnings-issued",
-      "content_hash": "7b371b2c6f8bed264fbfd8e183df5140f2cf32d012c13256d40a2ba723e94e79",
-      "title": "Low-Pressure Area To Develop Over the Island; Rain and Landslide Warnings Issued",
-      "sent_at": "2026-05-11T03:54:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/organized-criminal-and-drug-trafficker-%e2%80%9cbatuwatte-chamara%e2%80%9d-repatriated-to-sri-lanka",
-      "content_hash": "8bdca1fa28ba4d0371a62b504f9884179228be61415cd23ca2fd198df3f2bdfc",
-      "title": "Organized Criminal and Drug Trafficker “Batuwatte Chamara” Repatriated to Sri Lanka",
-      "sent_at": "2026-05-11T03:54:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/unsafe-water-sources-reported-in-deniyaya-50-infected-with-viral-illness",
-      "content_hash": "3de71eb0bc445f1387e48114d605d37da775dd2019bce538e1e16c1ec2521b6e",
-      "title": "Unsafe Water Sources Reported in Deniyaya, 50 Infected with Viral Illness",
-      "sent_at": "2026-05-11T03:54:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/11/yal-devi-resumes-services-to-jaffna-today",
-      "content_hash": "d0c0e3f9c6885a65558db8def49a65d3cbf1372db6ebf4dfb92f8faa492e78e9",
-      "title": "Yal Devi Resumes Services to Jaffna Today",
-      "sent_at": "2026-05-11T03:54:55Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/11/former-prime-minister-of-thailand-thaksin-shinawat-released-from-prison",
       "content_hash": "05ce53826db5f7cda74ee79c9c65e961ed3d393fcbdf3dead148402408a9e3b5",
       "title": "Former Prime Minister of Thailand Thaksin Shinawat Released from Prison",
@@ -809,6 +779,48 @@
       "content_hash": "84298304581279f38f3c3065d651a122aa49d608faa02d196120043c53dcf296",
       "title": "Sri lanka Clinches Men’s and Women’s Titles at CASA 7s",
       "sent_at": "2026-05-17T15:00:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/10-000-rails-to-be-imported-to-replace-deteriorated-railtracks-on-the-coastal-railway-line",
+      "content_hash": "b539f0352b9d792d6acc0b0675a65e424073eae5bc9bb49c0bd17d196f38c4bd",
+      "title": "10,000 Rails to be Imported to Replace Deteriorated RailTracks on the Coastal Railway Line",
+      "sent_at": "2026-05-18T04:03:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/cpc-warns-of-legal-action-against-fuel-stations-issuing-fuel-without-qr-system",
+      "content_hash": "838521a8849dc442aa744931cf730c02d5a3a644663f705dabf740d8fffbeaa9",
+      "title": "CPC Warns of Legal Action Against Fuel Stations Issuing Fuel Without QR System",
+      "sent_at": "2026-05-18T04:03:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/government-to-provide-fuel-subsidy-for-three-months",
+      "content_hash": "05d95a4c48ae8c496caed8c43f57da78f02c6bd37ecc73bb522dcb71dfbecf4d",
+      "title": "Government to Provide Fuel Subsidy For Three Months",
+      "sent_at": "2026-05-18T04:03:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/health-minister-to-address-the-79th-world-health-assembly-today-18",
+      "content_hash": "2e3fd5360576e278088db4117c44551f080a953572b9def3b638ed9c4fe84497",
+      "title": "Health Minister To Address the 79th World Health Assembly Today (18)",
+      "sent_at": "2026-05-18T04:03:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/pm-to-hold-talks-with-iusf-representatives-regarding-the-abandoned-malwana-property-today-18",
+      "content_hash": "3760d3751f719444f5dc6bac47c6e76b705219302047f58f79f8831c29213ea7",
+      "title": "PM to Hold Talks With IUSF Representatives Regarding the Abandoned Malwana Property Today (18)",
+      "sent_at": "2026-05-18T04:03:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/services-at-the-consular-affairs-office-suspended-over-technical-failure",
+      "content_hash": "38bcdc1ef1d5ae88dab3b425e5c52d02548bfa5b2198d9ff861e06cc623839bc",
+      "title": "Services at the Consular Affairs Office Suspended Over Technical Failure",
+      "sent_at": "2026-05-18T04:03:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/18/veteran-journalist-and-political-analyst-d-b-s-jeyaraj-passes-away",
+      "content_hash": "4f6f8c8ef2b2871d4d181466e82989b865fd61def06492f197f2392f8f3bf46f",
+      "title": "Veteran Journalist and Political Analyst D.B.S. Jeyaraj Passes Away",
+      "sent_at": "2026-05-18T04:03:34Z"
     }
   ]
 }
