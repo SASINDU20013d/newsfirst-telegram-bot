@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/12/198-foreign-nationals-arrested-in-24-hour-islandwide-crackdown-on-cybercrimes",
-      "content_hash": "75ac05695881e38ac6c42d863129cc12341cbedf5a4bbf998a5b6b0902f932fc",
-      "title": "198 Foreign Nationals Arrested In 24-Hour Islandwide Crackdown On Cybercrimes",
-      "sent_at": "2026-05-12T03:51:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/cid-launches-probe-into-foreign-cybercrime-suspects",
-      "content_hash": "10260591f8a094c8b9fe8007be56ccafdaa6809bf07a2af1fb4f2aa1fa566fca",
-      "title": "CID Launches Probe Into Foreign Cybercrime Suspects",
-      "sent_at": "2026-05-12T03:51:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/dengue-threat-rises-42-high-risk-zones-identified-islandwide",
-      "content_hash": "6cdfdc114cb9835c351e63c86f252b366551728b8c7479404cc1000d3ead5d2b",
-      "title": "Dengue Threat Rises: 42 High-Risk Zones Identified Islandwide",
-      "sent_at": "2026-05-12T03:52:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/mahinda-rajapaksa-to-appear-before-ciaboc-today-12",
-      "content_hash": "fe831b619b2af7fb6a3c39982d18ec9dfaa07b57cb62c53f5a70249b5eb72f7e",
-      "title": "Mahinda Rajapaksa To Appear Before Ciaboc Today (12)",
-      "sent_at": "2026-05-12T03:52:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/12/23-monks-back-in-court-over-major-drug-smuggling-racket-from-thailand",
       "content_hash": "cab249b78cd970640a84e18ec86c23dd4904d57fe9229290fa5e9f3d8e0f9be5",
       "title": "23 Monks Back in Court Over Major Drug Smuggling Racket from Thailand",
@@ -851,6 +827,54 @@
       "content_hash": "db483b634839596f4ad2df0cf2f280d01193728c7fbda3efbd3c94c58180ba99",
       "title": "Wimal Accused of Assaulting Police Officer",
       "sent_at": "2026-05-18T18:54:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/indictment-filed-against-cabraal-over-greek-bond-case-breach",
+      "content_hash": "3c5f8ec2c3a0898b920d906d7c782545cdcc029194bfe5b5d5c763fc2ffddc39",
+      "title": "Indictment Filed Against Cabraal Over Greek Bond Case Breach",
+      "sent_at": "2026-05-19T05:04:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/legal-action-against-false-tin-registrations-inland-revenue-department-warns",
+      "content_hash": "2879898a06e85ebdc8d7e1fb624865e634a318fa36789105bd2b69027228832e",
+      "title": "Legal Action Against False TIN Registrations, Inland Revenue Department Warns",
+      "sent_at": "2026-05-19T05:04:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/national-war-heroes-commemoration-ceremony-to-be-held-today-in-battaramulla",
+      "content_hash": "e0d3501801d1ee943b891259e3f6751d737a049dcc36a146b456705d7e425da7",
+      "title": "National War Heroes Commemoration Ceremony to Be Held Today in Battaramulla",
+      "sent_at": "2026-05-19T05:04:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/parliament-to-debate-inland-revenue-amendment-bill-today",
+      "content_hash": "55181c22b81fbc746f7d8dba56df6758576661df7007dc4ec4317019bb71471e",
+      "title": "Parliament to Debate Inland Revenue Amendment Bill Today",
+      "sent_at": "2026-05-19T05:04:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/public-officials-warned-submit-asset-and-liability-statements-or-face-legal-action",
+      "content_hash": "b701062b865ffc856b22a1e97611659f30162595c5d6a45176bab9900dbeead0",
+      "title": "Public Officials Warned: Submit Asset and Liability Statements or Face Legal Action",
+      "sent_at": "2026-05-19T05:04:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/shakira-tax-fraud-case-massive-relief-for-colombian-singer-as-spain-s-high-court-clears-her-in-tax-evasion-charges",
+      "content_hash": "84adc37c4010e8c23b68a2ebb7094b64d73a1ef326744b230fc03d4d37dff7ef",
+      "title": "Shakira Tax Fraud Case: Massive Relief For Colombian Singer As Spain's High Court Clears Her In Tax Evasion Charges",
+      "sent_at": "2026-05-19T05:04:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/single-use-plastic-water-bottles-to-be-banned-in-state-institutions-from-may-31",
+      "content_hash": "f9110bd3335ea9055079362900e0404ce128e6d04a2918311dd424e0280bfde0",
+      "title": "Single-Use Plastic Water Bottles to Be Banned in State Institutions from May 31",
+      "sent_at": "2026-05-19T05:04:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/suspect-arrested-in-kadawatha-with-over-1-5kg-of-ice",
+      "content_hash": "c86f083ffd2961ad90f4681fd3227c6394eb3b3c0a793e3c04f8b2c60bf5c6f5",
+      "title": "Suspect Arrested in Kadawatha with Over 1.5kg of 'Ice'",
+      "sent_at": "2026-05-19T05:04:36Z"
     }
   ]
 }
