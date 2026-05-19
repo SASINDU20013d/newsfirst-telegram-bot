@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/12/23-monks-back-in-court-over-major-drug-smuggling-racket-from-thailand",
-      "content_hash": "cab249b78cd970640a84e18ec86c23dd4904d57fe9229290fa5e9f3d8e0f9be5",
-      "title": "23 Monks Back in Court Over Major Drug Smuggling Racket from Thailand",
-      "sent_at": "2026-05-12T06:39:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/74-year-old-broker-arrested-over-bail-sureties-linked-to-former-srilankan-airlines-ceo",
-      "content_hash": "c0b30fdb1957dd6e7e5924f80f962102709279683365f53c88d17c257c396a04",
-      "title": "74-Year-Old Broker Arrested Over Bail Sureties Linked to Former SriLankan Airlines CEO",
-      "sent_at": "2026-05-12T06:39:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/airbus-scandal-mahinda-rajapaksa-appears-at-ciaboc",
-      "content_hash": "8ef07503ac09e1649570817f3ea777a444cfbf09a667e50b5b55be684c78a5c9",
-      "title": "Airbus Scandal : Mahinda Rajapaksa Appears At CIABOC",
-      "sent_at": "2026-05-12T06:39:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/expert-committee-to-fix-2015-2019-national-housing-project-failures",
-      "content_hash": "7006f009aa9acda77c581617f99f3b313efc1473df0cd9c33eb8f231ac8fdb8e",
-      "title": "Expert Committee to Fix 2015-2019 National Housing Project Failures",
-      "sent_at": "2026-05-12T06:40:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/fatal-shooting-in-galle-leaves-one-dead",
-      "content_hash": "9b5a55d47d396f71fa4bfad14423217cb8890a1095975da823d741344ca2ecf1",
-      "title": "Fatal Shooting In Galle Leaves One Dead",
-      "sent_at": "2026-05-12T06:40:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/main-suspect-in-triple-murder-beheaded-after-armed-assault-at-home",
-      "content_hash": "184f01f975849169bd2638da70e06dc370999629d309a2e818ac6b24be416ad3",
-      "title": "Main Suspect in Triple Murder Beheaded After Armed Assault at Home",
-      "sent_at": "2026-05-12T06:40:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/mous-expected-as-sri-lanka%e2%80%99s-foreign-minister-undertakes-official-belarus-visit",
-      "content_hash": "1f2a242a86fd821bbe2dfa594c701cf603c24df4ce392905d89832cf9cfb7614",
-      "title": "MoUs Expected as Sri Lanka’s Foreign Minister Undertakes Official Belarus Visit",
-      "sent_at": "2026-05-12T06:40:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/president-warns-against-culture-of-power-above-the-law",
-      "content_hash": "77d989aebbb9b151fc1c661a46d343fc758208fba873aaa9cb7ba957bef36220",
-      "title": "President Warns Against Culture of Power Above the Law",
-      "sent_at": "2026-05-12T06:40:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/12/mahinda-rajapaksa-leaves-ciaboc-after-appearing-in-airbus-bribery-probe",
       "content_hash": "2f7f12627eeb49096138c9d3d7c59c7c947d8497fd28fc48374745f6afa17bcd",
       "title": "Mahinda Rajapaksa Leaves CIABOC After Appearing in Airbus Bribery Probe",
@@ -875,6 +827,54 @@
       "content_hash": "c86f083ffd2961ad90f4681fd3227c6394eb3b3c0a793e3c04f8b2c60bf5c6f5",
       "title": "Suspect Arrested in Kadawatha with Over 1.5kg of 'Ice'",
       "sent_at": "2026-05-19T05:04:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/15-dengue-deaths-reported-as-cases-near-30-000-this-year",
+      "content_hash": "ca9ecf2bc3838b1fe846c4e60a7d2eb899e8c2c44a41ceccc50ad8d2a920dda0",
+      "title": "15 Dengue Deaths Reported as Cases Near 30,000 This Year",
+      "sent_at": "2026-05-19T08:36:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/finnish-divers-to-retrieve-two-bodies-of-italians-from-maldives-cave",
+      "content_hash": "74a330178f94257712af41016bf3288f86c0676130f2b746999f620423b125e9",
+      "title": "Finnish Divers to Retrieve Two Bodies of Italians from Maldives Cave",
+      "sent_at": "2026-05-19T08:36:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/fuel-consumption-drops-in-may-compared-to-recent-months",
+      "content_hash": "e8a14b3379a80f2cc91cc5fa634f284ca3cbe900454666dad440a8ae25915040",
+      "title": "Fuel Consumption Drops In May Compared To Recent Months",
+      "sent_at": "2026-05-19T08:36:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/grateful-for-their-sacrifice-president-visits-ranaviru-sevana",
+      "content_hash": "c70e18709cc66b906ceed041c33d2ef5d1aa84086da23615f7d79935b1e5e351",
+      "title": "'Grateful for Their Sacrifice': President Visits Ranaviru Sevana",
+      "sent_at": "2026-05-19T08:36:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/man-arrested-for-aiding-escape-of-gang-member-s-partner",
+      "content_hash": "6129ead638668e52604ab07819500e2792bcebbbb2986ac1ab09fbd047a6060b",
+      "title": "Man Arrested for Aiding Escape of Gang Member's Partner",
+      "sent_at": "2026-05-19T08:36:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/musk-loses-openai-court-battle-here-are-the-key-moments",
+      "content_hash": "db20172ce91bc76d1c9039f1aa371dd9a18a2d7d73ef7a09de8cf8359143006f",
+      "title": "Musk Loses OpenAI Court Battle : Here Are The Key Moments",
+      "sent_at": "2026-05-19T08:36:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/president-stresses-timely-use-of-uda-funds-focus-on-colombo-flood-control-and-housing",
+      "content_hash": "a7afe08f14f99e27a82d9ae41ab9da728e948abd482030d9a3a1d2a5b639c42e",
+      "title": "President Stresses Timely Use of UDA Funds; Focus on Colombo Flood Control and Housing",
+      "sent_at": "2026-05-19T08:36:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/special-traffic-plan-in-effect-today-for-war-heroes-commemoration-ceremony-in-battaramulla",
+      "content_hash": "5182b97314b4b8c62384b3d9275ed4c9fd39e244648cec06ec77fbbb1892b074",
+      "title": "Special Traffic Plan In Effect Today For War Heroes Commemoration Ceremony In Battaramulla",
+      "sent_at": "2026-05-19T08:36:53Z"
     }
   ]
 }
