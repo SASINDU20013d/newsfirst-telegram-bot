@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/12/mahinda-rajapaksa-leaves-ciaboc-after-appearing-in-airbus-bribery-probe",
-      "content_hash": "2f7f12627eeb49096138c9d3d7c59c7c947d8497fd28fc48374745f6afa17bcd",
-      "title": "Mahinda Rajapaksa Leaves CIABOC After Appearing in Airbus Bribery Probe",
-      "sent_at": "2026-05-12T09:43:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/court-orders-continued-remand-of-23-clergy-in-thailand-drug-haul-probe",
-      "content_hash": "2409ede4076235f0eef17f5ce032ecf680f8a608516725b52d6e2944bf8f463b",
-      "title": "Court Orders Continued Remand of 23 Clergy in Thailand Drug Haul Probe",
-      "sent_at": "2026-05-12T11:59:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/heavy-showers-expected-across-several-provinces",
-      "content_hash": "3fb71488dce004a47479f0d9eb829801e58a2d4eb79449bd1c833f797792d1b0",
-      "title": "Heavy Showers Expected Across Several Provinces",
-      "sent_at": "2026-05-12T11:59:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/12/political-shift-at-cmc-as-three-opposition-members-declare-independent",
-      "content_hash": "f7c8a5433aa0028d048d4ae286750885e39d67a5ada5e3c836c32b0a801707e2",
-      "title": "Political Shift at CMC as Three Opposition Members Declare Independent",
-      "sent_at": "2026-05-12T11:59:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/12/aravinda-de-silva-wife-give-evidence-in-kapila-chandrasena-death-inquest",
       "content_hash": "5807fe56e84f28b11cf0c2983c87a354013ce1202232025fae512af584449080",
       "title": "Aravinda de Silva, Wife Give Evidence in Kapila Chandrasena Death Inquest",
@@ -875,6 +851,42 @@
       "content_hash": "5182b97314b4b8c62384b3d9275ed4c9fd39e244648cec06ec77fbbb1892b074",
       "title": "Special Traffic Plan In Effect Today For War Heroes Commemoration Ceremony In Battaramulla",
       "sent_at": "2026-05-19T08:36:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/indian-air-chief-pays-tribute-at-ipkf-memorial-during-sri-lanka-visit",
+      "content_hash": "bd3d4e51aa9f2259cadc80e1e2ef8b691817ed3bcd53d3c3a748beb4db37b6e1",
+      "title": "Indian Air Chief Pays Tribute at IPKF Memorial During Sri Lanka Visit",
+      "sent_at": "2026-05-19T12:13:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/leave-no-one-behind-sri-lanka-commits-to-people-centred-health-system",
+      "content_hash": "e504c6ee61a0b1003bc41d8885a390ca19c005913fecd2e82e3ddd748c473575",
+      "title": "'Leave No One Behind': Sri Lanka Commits to People-Centred Health System",
+      "sent_at": "2026-05-19T12:13:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/police-seek-forensic-reports-on-dvrs-and-medicines-in-ex-airline-ceo-s-death-probe",
+      "content_hash": "b5977c680a99813fb4cf80689e600766bac0dd72f781d49f8768e7c71505e482",
+      "title": "Police Seek Forensic Reports on DVRs and Medicines in Ex-Airline CEO's Death Probe",
+      "sent_at": "2026-05-19T12:13:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/sri-lanka-calls-for-lifelong-care-for-childhood-cancer-survivors",
+      "content_hash": "5c558bb26741485742302dec217f8f1b4c73004e0f76dfd5c85c4903d0d3fca3",
+      "title": "Sri Lanka Calls for Lifelong Care for Childhood Cancer Survivors",
+      "sent_at": "2026-05-19T12:13:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/sri-lanka-honoured-with-who-public-health-achievement-certificate",
+      "content_hash": "ce83b5910ff3faee697a1cf7c424ebabed1653011ad53ae5edf21499d70cee49",
+      "title": "Sri Lanka Honoured with WHO Public Health Achievement Certificate",
+      "sent_at": "2026-05-19T12:13:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/19/who-commends-sri-lanka%e2%80%99s-success-in-eliminating-mother-to-child-hiv-and-syphilis",
+      "content_hash": "c58b7d18f8298f384f898d12106fc1f2b07d6da4c13aad0935b98ee694cdf3c0",
+      "title": "WHO Commends Sri Lanka’s Success in Eliminating Mother-to-Child HIV and Syphilis",
+      "sent_at": "2026-05-19T12:13:12Z"
     }
   ]
 }
