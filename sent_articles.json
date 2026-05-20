@@ -1,60 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/13/drop-in-students-entering-higher-education-raises-alarm-says-pm",
-      "content_hash": "ec1513d88640edbcfd92533f0270219e04eeb572084edca29690f1883ae93679",
-      "title": "Drop in Students Entering Higher Education Raises Alarm, Says PM",
-      "sent_at": "2026-05-13T07:51:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/heavy-rains-trigger-floods-as-reservoirs-reach-capacity",
-      "content_hash": "2af4fecc3d5b643fd3dd3fa737d28af6c529814d7656e0000e7eb2b018749fe6",
-      "title": "Heavy Rains Trigger Floods As Reservoirs Reach Capacity",
-      "sent_at": "2026-05-13T07:51:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/india-raises-gold-and-silver-tariffs-to-15-here-s-why",
-      "content_hash": "d93e87a443f5a753e39fe3014e8bacc6c53a47c7e4455d76d304169635af855e",
-      "title": "India Raises Gold and Silver Tariffs to 15%: Here's Why.",
-      "sent_at": "2026-05-13T07:52:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/indian-national-arrested-at-katunayake-with-kush-worth-millions",
-      "content_hash": "90bef0bb38b140807951f124e7034b12517ef8f8678d43d16617a4a920396a47",
-      "title": "Indian National Arrested At Katunayake With Kush Worth Millions",
-      "sent_at": "2026-05-13T07:52:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/maharaja-media-network-signs-historic-mou-with-tdm-macau",
-      "content_hash": "2f368d4b26b50da0277ee7fca4becbc66267ee96512ac3f6f8994e332f5804be",
-      "title": "Maharaja Media Network signs historic MoU with TDM Macau",
-      "sent_at": "2026-05-13T07:52:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/pensions-department-services-resume-after-system-upgrade",
-      "content_hash": "20610cbe8bb86e83be4de86fde9cd8a150f2e0ad697d7453a28069826cf75ccc",
-      "title": "Pensions Department Services Resume After System Upgrade",
-      "sent_at": "2026-05-13T07:52:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/sri-lanka-elevates-shrimp-aquaculture-with-high-tech-biosecure-overhaul",
-      "content_hash": "963446651c091849424091c75eb29c937937da0acd55181dedd966881e6830f0",
-      "title": "Sri Lanka Elevates Shrimp Aquaculture with High-Tech, Biosecure Overhaul",
-      "sent_at": "2026-05-13T07:52:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/sri-lanka-needs-a-new-era-says-harsha-de-silva",
-      "content_hash": "1a3099f067327d96830e3e437690bde496a06e69cc22af2f12db47aa9be76eb9",
-      "title": "Sri Lanka Needs a New Era, Says Harsha de Silva",
-      "sent_at": "2026-05-13T07:52:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/sri-lanka-to-launch-rainwater-harvesting-pilot-project",
-      "content_hash": "fc12304345f3de10fc310b8a91d11b1d02b166cd94dafe4fe45848f13be9ec07",
-      "title": "Sri Lanka to Launch Rainwater Harvesting Pilot Project",
-      "sent_at": "2026-05-13T07:52:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/13/55-foreign-nationals-arrested-in-hikkaduwa-over-illegal-operations",
       "content_hash": "ebac28c19c974761757e36b46719e3ef7fb24e64c0e794c76334bf5553a8608f",
       "title": "55 Foreign Nationals Arrested in Hikkaduwa Over Illegal Operations",
@@ -941,6 +887,48 @@
       "content_hash": "b04294706fcadacaabb783670b948d9c3033bb129b07761e7ab65b668fa31b66",
       "title": "Police Open Fire on Lorry Transporting Cattle Illegally",
       "sent_at": "2026-05-20T05:07:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/deadline-nears-for-coal-procurement-complaints-16-complaints-filed-so-far",
+      "content_hash": "e5045610127a2742ddd28d28177a8833bae97e45662c28d5d045315b89a6434f",
+      "title": "Deadline Nears for Coal Procurement Complaints; 16 Complaints Filed So Far",
+      "sent_at": "2026-05-20T09:41:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/easter-attack-suspect-suresh-salley-produced-in-court",
+      "content_hash": "02cf21c79c1c44e44705535a8985c34eae2fa65564e7e50fb95bc79ede0b4210",
+      "title": "Easter Attack Suspect Suresh Salley Produced in Court",
+      "sent_at": "2026-05-20T09:41:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/half-of-diesel-vehicles-tested-found-emitting-harmful-black-smoke",
+      "content_hash": "d706d65f681b6aca341a407b9b4c43cf272eb381fd178aabd6d4e5ffb36dda4b",
+      "title": "Half of Diesel Vehicles Tested Found Emitting Harmful Black Smoke",
+      "sent_at": "2026-05-20T09:41:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/indian-air-force-chief-meets-sri-lanka%e2%80%99s-deputy-defence-minister",
+      "content_hash": "1d03d4d66ca6bc8fc1c8d2c18b28d6a9bcaf580f4f3427f6d110726a521d2c24",
+      "title": "Indian Air Force Chief Meets Sri Lanka’s Deputy Defence Minister",
+      "sent_at": "2026-05-20T09:41:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/price-hike-announced-for-400g-and-1kg-milk-powder-packs",
+      "content_hash": "81539d04926a8d2243392ebcd66756c3c909be655370d2f834836fde5c09ffad",
+      "title": "Price Hike Announced for 400g and 1kg Milk Powder Packs",
+      "sent_at": "2026-05-20T09:41:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/sri-lanka-launches-digital-seed-system-to-transform-agriculture-sector",
+      "content_hash": "a14a04a6a92613aa76f9464bfb30e4409c7bfa013baf5569567507d3ada19c69",
+      "title": "Sri Lanka Launches Digital Seed System to Transform Agriculture Sector",
+      "sent_at": "2026-05-20T09:41:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/sri-lanka-moves-to-streamline-data-sharing-across-government-institutions",
+      "content_hash": "e126b7fe4232b115928b1f15b61edfafb8e681ac5fa3dcd0c9af2a76bca98033",
+      "title": "Sri Lanka Moves to Streamline Data Sharing Across Government Institutions",
+      "sent_at": "2026-05-20T09:41:24Z"
     }
   ]
 }
