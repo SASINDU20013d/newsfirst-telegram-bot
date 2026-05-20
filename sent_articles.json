@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/13/55-foreign-nationals-arrested-in-hikkaduwa-over-illegal-operations",
-      "content_hash": "ebac28c19c974761757e36b46719e3ef7fb24e64c0e794c76334bf5553a8608f",
-      "title": "55 Foreign Nationals Arrested in Hikkaduwa Over Illegal Operations",
-      "sent_at": "2026-05-13T10:33:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/airbus-scandal-police-expose-unusual-bail-arrangements",
-      "content_hash": "81d9112a3363522502eddf6820ca7b48ccdc29d616af8dd95fdbabdf7cc93e08",
-      "title": "Airbus Scandal: Police Expose Unusual Bail Arrangements",
-      "sent_at": "2026-05-13T10:33:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/cbsl-chief-explains-slow-but-steady-economic-comeback",
-      "content_hash": "7cb630609b7f5c1e8a1ff21cac967ee5581a64bfd304dc9f3d57374a56d543b6",
-      "title": "CBSL Chief Explains Slow but Steady Economic Comeback",
-      "sent_at": "2026-05-13T10:33:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/ciaboc-to-submit-mahinda-s-statement-to-court",
-      "content_hash": "8ba9dd8559861c7389dcb569cecfd5f3bf8c3b432ac8bcc215f68db6fe12a072",
-      "title": "CIABOC to Submit Mahinda's Statement To Court",
-      "sent_at": "2026-05-13T10:33:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/police-arrest-two-over-savage-attack-in-ambalantota",
-      "content_hash": "46d5e4a099f2d6ed0b46c0db5d6bbb4dd38b11597a9d8cc01f5ed1891fb65c3b",
-      "title": "Police Arrest Two Over Savage Attack In Ambalantota",
-      "sent_at": "2026-05-13T10:33:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/thalapathy-vijay-wins-floor-test-with-144-votes",
-      "content_hash": "6518094549e6f768031685ec13d9a16d798be50d3b0368f724f49638295063dc",
-      "title": "'Thalapathy' Vijay Wins Floor Test With 144 Votes",
-      "sent_at": "2026-05-13T10:33:28Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/13/historic-mou-to-promote-sri-lanka-as-a-tourism-destination",
       "content_hash": "760e6def1e1319d341a68f0936fe6eabc94f5c5d528dd6d68fdfe2d154c391cc",
       "title": "Historic MoU To Promote Sri Lanka As a Tourism Destination",
@@ -929,6 +893,30 @@
       "content_hash": "e126b7fe4232b115928b1f15b61edfafb8e681ac5fa3dcd0c9af2a76bca98033",
       "title": "Sri Lanka Moves to Streamline Data Sharing Across Government Institutions",
       "sent_at": "2026-05-20T09:41:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/court-orders-evidence-based-charges-over-war-memorial-incident",
+      "content_hash": "d781eb8bd9c938d5230fa7d10c2c283149b80858f4c283b6cc8405fb6ff48196",
+      "title": "Court Orders Evidence-Based Charges Over War Memorial Incident",
+      "sent_at": "2026-05-20T12:27:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/final-two-bodies-of-missing-italian-divers-recovered-in-maldives",
+      "content_hash": "f10bf9debf7d45174cacd84f7e449c75b18850e1f6b1075867f210bc470dddf1",
+      "title": "Final Two Bodies of Missing Italian Divers Recovered in Maldives",
+      "sent_at": "2026-05-20T12:27:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/new-batticaloa-public-library-opened-under-presidential-patronage",
+      "content_hash": "f78590a25dceb12f5c0c9456bbafd71545961e97dd0adf572cbbbb33718766a7",
+      "title": "New Batticaloa Public Library Opened Under Presidential Patronage",
+      "sent_at": "2026-05-20T12:27:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/rajapaksas-met-pillayan-after-easter-attacks-ags-department-tells-court",
+      "content_hash": "8e0ff4fcefc32b9c2ae19ac066230e972acd2da78d60dff47eabbdeb89e81561",
+      "title": "Rajapaksas Met 'Pillayan' After Easter Attacks; AGs Department Tells Court",
+      "sent_at": "2026-05-20T12:27:38Z"
     }
   ]
 }
