@@ -1,60 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/13/historic-mou-to-promote-sri-lanka-as-a-tourism-destination",
-      "content_hash": "760e6def1e1319d341a68f0936fe6eabc94f5c5d528dd6d68fdfe2d154c391cc",
-      "title": "Historic MoU To Promote Sri Lanka As a Tourism Destination",
-      "sent_at": "2026-05-13T13:16:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/indian-ocean-must-not-be-power-battleground-says-chinese-envoy-in-sri-lanka",
-      "content_hash": "892b3d7480d06fcbf4866a74a966d410d98079beb69674bed3a333acc73af68d",
-      "title": "Indian Ocean Must Not Be Power Battleground, Says Chinese Envoy in Sri Lanka",
-      "sent_at": "2026-05-13T13:16:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/joseph-vijay-wins-floor-test-with-144-votes",
-      "content_hash": "011ab235b8dedbb1029914cf40786bcc28b5f0b8a0de5c57b73e20fcc41213c0",
-      "title": "Joseph Vijay Wins Floor Test With 144 Votes",
-      "sent_at": "2026-05-13T13:16:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/shani-abeysekara-cleared-for-dig-promotion",
-      "content_hash": "9a7833e90f8ba107159b8fcdeb3f0e80e9bb029aad154722c2bedf1ba891fa4a",
-      "title": "Shani Abeysekara Cleared for DIG Promotion",
-      "sent_at": "2026-05-13T13:16:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/sri-lanka-s-fuel-import-costs-jump-sixfold-says-president",
-      "content_hash": "a00d371510ad9e2d373bf39f5b48816b2a4299ad356a8bae1e2683439aa64eca",
-      "title": "Sri Lanka's Fuel Import Costs Jump Sixfold, Says President",
-      "sent_at": "2026-05-13T13:16:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/trump-arrives-in-beijing-for-summit-with-president-xi",
-      "content_hash": "784c2152077a798c1592738da23883d257f07fa7e46936aecb8cd7945b2e0253",
-      "title": "Trump Arrives In Beijing For Summit With President Xi",
-      "sent_at": "2026-05-13T13:16:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/continuous-heavy-rain-batters-island-met-department-warns-of-up-to-200mm-showers-and-strong-winds",
-      "content_hash": "a96e2af2373d384e29bb846ae0c060c67cb672f9ceefb263c43cd9a3a921f8ae",
-      "title": "Continuous Heavy Rain Batters Island, MET Department Warns of up to 200mm Showers And Strong Winds",
-      "sent_at": "2026-05-13T16:22:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/france-locks-down-1-700-people-on-cruise-ship",
-      "content_hash": "d8ed28ccf873f2dc98944d737facf98f90478292772e8e19fa498303e8192dff",
-      "title": "France Locks Down 1,700 People On Cruise Ship",
-      "sent_at": "2026-05-13T16:22:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up",
-      "content_hash": "dcfcfdfcd8426c793a383f19b0eec4c46579c1b858b19a0cc2d7294c8edf983e",
-      "title": "Gunshots Ring Out At Philippine Senate Where Lawmaker Is Holed Up",
-      "sent_at": "2026-05-13T16:22:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/14/130-local-government-bodies-complete-digital-payment-integration-via-govpay",
       "content_hash": "77f39950483d9cd5462dadfc7879f03f0c00339836ead45d4d7add66bf5bbac8",
       "title": "130 Local Government Bodies Complete Digital Payment Integration via GovPay",
@@ -917,6 +863,24 @@
       "content_hash": "8e0ff4fcefc32b9c2ae19ac066230e972acd2da78d60dff47eabbdeb89e81561",
       "title": "Rajapaksas Met 'Pillayan' After Easter Attacks; AGs Department Tells Court",
       "sent_at": "2026-05-20T12:27:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/ag-says-suresh-salley-is-mastermind-in-easter-attacks-rajapaksa-trio%e2%80%99s-prison-visit-to-see-pillayan-revealed",
+      "content_hash": "772d1df74767b39c3e186578ff52a7cfa3cde925a5abc3362e93bd31867b3535",
+      "title": "AG Says Suresh Salley Is Mastermind in Easter Attacks; Rajapaksa Trio’s Prison Visit To See Pillayan Revealed",
+      "sent_at": "2026-05-20T16:27:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/outrage-won-t-stop-justice-akd-signals-end-of-elite-immunity",
+      "content_hash": "7cf6cb59feb67150337a7fbf9a6eecf30e0f50e253fc9237cb03b66b6f33a832",
+      "title": "\"Outrage Won't Stop Justice\" : AKD Signals End of Elite Immunity",
+      "sent_at": "2026-05-20T16:27:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/pm-dr-harini-amarasuriya-delivers-oxford-lecture-set-to-attend-commonwealth-meeting-during-uk-visit",
+      "content_hash": "94a3beb59dcae3f9e9cfc8ba627c4915e789220ba35f2e4c7e1705bf89227bf2",
+      "title": "PM Dr. Harini Amarasuriya Delivers Oxford Lecture, Set to Attend Commonwealth Meeting during UK Visit",
+      "sent_at": "2026-05-20T16:27:54Z"
     }
   ]
 }
