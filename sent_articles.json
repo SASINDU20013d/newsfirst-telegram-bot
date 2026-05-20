@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/13/audit-officials-summoned-over-coal-scams",
-      "content_hash": "ebeb1c7526f00a73f08ba2c6c60cffa0f046ad26af70910bdd5b396d6d890ee7",
-      "title": "Audit Officials Summoned Over Coal Scams",
-      "sent_at": "2026-05-13T04:50:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/deniyaya-schools-reopen-as-fever-control-measures-intensify",
-      "content_hash": "123107e5e618cef5d1557adc862a74f7a11e56328029a386d6c9bacc13da8ccf",
-      "title": "Deniyaya Schools Reopen As Fever Control Measures Intensify",
-      "sent_at": "2026-05-13T04:50:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/13/department-of-motor-traffic-reports-surge-in-vehicle-imports",
-      "content_hash": "224eb34620cb7a69d28139281dae8f7ad717607079fd3ee82c53dd06b4bd6c4e",
-      "title": "Department of Motor Traffic Reports Surge In Vehicle Imports",
-      "sent_at": "2026-05-13T04:50:14Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/13/drop-in-students-entering-higher-education-raises-alarm-says-pm",
       "content_hash": "ec1513d88640edbcfd92533f0270219e04eeb572084edca29690f1883ae93679",
       "title": "Drop in Students Entering Higher Education Raises Alarm, Says PM",
@@ -917,6 +899,48 @@
       "content_hash": "17e12de1571289b1c31f34a859dc2ed040b94ba594f6ae63ba9c47be34d1213e",
       "title": "'Sri Lanka Will Not Fall Again': President Declares Zero Tolerance for Extremism",
       "sent_at": "2026-05-19T16:24:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/cabinet-revokes-previous-decisions-on-domesticated-elephants",
+      "content_hash": "1c0881c4b0bfc9478bd88561ec638fb4d8680e51b08dd68b208645b26c2e3c24",
+      "title": "Cabinet Revokes Previous Decisions on Domesticated Elephants",
+      "sent_at": "2026-05-20T05:07:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/chinese-trio-arrested-rs-5-14-mn-worth-mobile-devices-seized",
+      "content_hash": "ae554018855c858b18997c90df00a9d523826bda186bb349c5a11d5e91262159",
+      "title": "Chinese Trio Arrested, Rs. 5.14 Mn Worth Mobile Devices Seized",
+      "sent_at": "2026-05-20T05:07:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/cpc-says-sri-lanka-has-fuel-stocks-until-august",
+      "content_hash": "1a4fdcb7e04da908db039424b0076683ab54ff855163e003b0e4a49efea6b92e",
+      "title": "CPC Says Sri Lanka Has Fuel Stocks Until August",
+      "sent_at": "2026-05-20T05:07:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/eight-bus-drivers-and-conductor-arrested-for-driving-under-influence-of-drugs",
+      "content_hash": "af5e714a1eb9e3a044e3d821e820871d628d66ceda7c99eb82fcd16d04838b35",
+      "title": "Eight Bus Drivers and Conductor Arrested for Driving Under Influence of Drugs",
+      "sent_at": "2026-05-20T05:07:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/election-commission-summoned-before-parliamentary-committee",
+      "content_hash": "e50dbb1aee8cfb5762164599ca16d320284aefe7c878d841ee9dbd09ff10dae8",
+      "title": "Election Commission Summoned Before Parliamentary Committee",
+      "sent_at": "2026-05-20T05:07:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/pm-harini-meets-uk-ministers-during-official-visit",
+      "content_hash": "aa13b0092386bf2f93f38e2828ead215f1ab853e6f31fb3248d3b9658c7b6758",
+      "title": "PM Harini Meets UK Ministers During Official Visit",
+      "sent_at": "2026-05-20T05:07:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/20/police-open-fire-on-lorry-transporting-cattle-illegally",
+      "content_hash": "b04294706fcadacaabb783670b948d9c3033bb129b07761e7ab65b668fa31b66",
+      "title": "Police Open Fire on Lorry Transporting Cattle Illegally",
+      "sent_at": "2026-05-20T05:07:28Z"
     }
   ]
 }
