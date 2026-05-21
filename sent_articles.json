@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/14/china-us-agree-on-%e2%80%98strategic-stability%e2%80%99-framework",
-      "content_hash": "9fbe186f4a0536046c3e3550174736e2601018ec8ff7e000f92b0866b1a40d0d",
-      "title": "China, US Agree on ‘Strategic Stability’ Framework",
-      "sent_at": "2026-05-14T10:22:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/14/indian-naval-ship-sunayna-to-dock-in-colombo-with-16-nation-naval-crew",
-      "content_hash": "2093d5b090bfdb09f556d054976daded04f2f75c70edc9450494cd9ad14ceeee",
-      "title": "Indian Naval Ship Sunayna to Dock in Colombo with 16-Nation Naval Crew",
-      "sent_at": "2026-05-14T10:23:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/14/no-complaints-filed-on-coal-fraud-claims-by-those-making-allegations-says-minister",
-      "content_hash": "7816df58df7b088176976f1a6af823c7c4393cf5df297d4e72c4f9dd1ab2a354",
-      "title": "No Complaints Filed on Coal Fraud Claims By Those Making Allegations, Says Minister",
-      "sent_at": "2026-05-14T10:23:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/14/trump-xi-agree-strait-of-hormuz-must-stay-open-white-house-says",
-      "content_hash": "0b82acbd49d1b0ab1c0b1d541f9988352cfb8358a5d2e15306825082679c12d2",
-      "title": "Trump, Xi agree Strait of Hormuz must stay open, White House says",
-      "sent_at": "2026-05-14T10:23:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/14/whatsapp-unveils-%e2%80%98incognito-chat%e2%80%99-for-private-ai-conversations",
-      "content_hash": "66b04e974a3da80c35b1fab6a440e01e6e20954f67a483e5a8ff05a1eaefc1fc",
-      "title": "WhatsApp Unveils ‘Incognito Chat’ for Private AI Conversations",
-      "sent_at": "2026-05-14T10:23:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/14/four-injured-in-accident-in-teldeniya",
       "content_hash": "a37aa8d495c8b5d141568db576c8b05ac014d37c5e164dff9486f45f5744d3df",
       "title": "Four Injured in Accident in Teldeniya",
@@ -869,6 +839,24 @@
       "content_hash": "744811b00ff80a13d8e2ac182e798820996e5f1b657d1bb744b3ff1a104220e3",
       "title": "'Weapons Supermarket' : Inside China's Wartime Bonded Warehouses in Sri Lanka",
       "sent_at": "2026-05-21T08:35:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/21/sri-lanka-must-understand-india-and-china-to-navigate-global-pressures",
+      "content_hash": "f66cc5c44d309532980a557d0874c1819c651bef3d1b413ddca3efbf3d91e275",
+      "title": "Sri Lanka Must Understand India and China to Navigate Global Pressures",
+      "sent_at": "2026-05-21T12:18:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/21/sri-lanka-surpasses-rs-1-trillion-tax-revenue-milestone",
+      "content_hash": "c767d4c8d16873da78738680e37eae1c2f01ca47b36c12116a74a703f8ae1eba",
+      "title": "Sri Lanka Surpasses Rs. 1 Trillion Tax Revenue Milestone",
+      "sent_at": "2026-05-21T12:18:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/21/weerawansa-ordered-to-appear-before-thalangama-police",
+      "content_hash": "fd1b2a995b400035c1f50ddba0f939bf9bc4b49775c73622066378525d010f1c",
+      "title": "Weerawansa Ordered to Appear Before Thalangama Police",
+      "sent_at": "2026-05-21T12:18:08Z"
     }
   ]
 }
