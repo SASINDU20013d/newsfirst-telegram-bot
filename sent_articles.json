@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/15/compensation-payments-begin-for-ceb-employees",
-      "content_hash": "74efa9b0d7a27abd395e0b3c8b77186dccc7ce49f1594e82aad4f36d6d7baabf",
-      "title": "Compensation Payments Begin For CEB Employees",
-      "sent_at": "2026-05-15T03:50:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/national-police-commission-to-continue-duties-until-new-members-appointed",
-      "content_hash": "aba18707173cd793dfe18b49c41641a1bd49753510f1ed6ce6f87cbee2c82d54",
-      "title": "National Police Commission To Continue Duties Until New Members Appointed",
-      "sent_at": "2026-05-15T03:50:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/over-three-thousand-people-affected-by-severe-weather-across-seven-districts",
-      "content_hash": "08fcde24872b202dfd9a07e4a4dca5536ce44c0e943ace9ce0687fc5588067d8",
-      "title": "Over Three Thousand People Affected By Severe Weather Across Seven Districts",
-      "sent_at": "2026-05-15T03:50:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/sri-lanka-customs-revenue-soars-past-one-trillion-rupee-mark",
-      "content_hash": "1dbfdb67c8f02a72ca39839346a249b3c9cd48a73b8366bb70a71efcdcb1b5dc",
-      "title": "Sri Lanka Customs Revenue Soars Past One Trillion Rupee Mark",
-      "sent_at": "2026-05-15T03:50:55Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/15/donald-trump-boards-air-force-one-concluding-china-visit",
       "content_hash": "5578b5541df0d411a4ddad6b5b456c6267573857dad5c966ec63abc32c50935e",
       "title": "Donald Trump Boards Air Force One, Concluding China Visit",
@@ -833,6 +809,30 @@
       "content_hash": "a7a5ba2f0826ede2f3f792d6e7f9c0962a11d6d940baf93740b7e3ecda132242",
       "title": "IMF Says Sri Lanka's Policy Framework Stronger Than In The Past",
       "sent_at": "2026-05-21T18:59:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/coal-commission-closes-complaint-submissions-today",
+      "content_hash": "76fa11f25b28c3b0947788440643214b675148e01ad26ab56ee00e8910d649e3",
+      "title": "Coal Commission Closes Complaint Submissions Today",
+      "sent_at": "2026-05-22T05:04:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/flood-warning-issued-for-aththanagalu-oya-basin-9-areas-put-on-high-alert",
+      "content_hash": "9f2af6f7ed2221878f93db442bdc5bbc3bf6bb46161617903b20c2428f931ec9",
+      "title": "Flood Warning Issued for Aththanagalu Oya Basin: 9 Areas Put On High Alert",
+      "sent_at": "2026-05-22T05:04:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/heavy-rain-disrupts-traffic-and-rail-services-minor-flood-warnings-in-effect-for-next-24-hours",
+      "content_hash": "d143744a3d9157cf00ab8a214082773eba08e5cdbb0653c9cd3398a2cf3c3f6b",
+      "title": "Heavy Rain Disrupts Traffic And Rail Services; Minor Flood Warnings In Effect For Next 24 Hours",
+      "sent_at": "2026-05-22T05:04:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/national-anti-drug-youth-conference-scheduled-for-june-26",
+      "content_hash": "8a317a3e92c71c77f9094a10fcebda3b2927acef26c0ea596f4eeb382e5b2f9c",
+      "title": "National Anti Drug Youth Conference Scheduled For June 26",
+      "sent_at": "2026-05-22T05:04:48Z"
     }
   ]
 }
