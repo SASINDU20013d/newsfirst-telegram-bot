@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/15/foreign-national-arrested-at-bia-with-nearly-2kg-of-cocaine",
-      "content_hash": "e7d4f2444b85ed13e298e55500e3b3109132b038558ed029e59604d277afc0b3",
-      "title": "Foreign National Arrested at BIA With Nearly 2kg Of Cocaine",
-      "sent_at": "2026-05-15T10:28:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/supreme-court-to-hear-petition-on-shopping-bag-tax-funds-on-november-3",
-      "content_hash": "e7d4d2a573feaaa6ac25d77e211a93e0ca57e6868d465473a7c44b77ff0bbdf4",
-      "title": "Supreme Court to Hear Petition on Shopping Bag Tax Funds on November 3",
-      "sent_at": "2026-05-15T10:28:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/wild-elephant-attack-claims-lives-of-father-and-daughter-in-wilgamuwa",
-      "content_hash": "0ca88c79c2e97bcdb45ce2c22d880419d9bd9f326f6b82c6d4013e7bb712b78d",
-      "title": "Wild Elephant Attack Claims Lives Of Father And Daughter In Wilgamuwa",
-      "sent_at": "2026-05-15T10:28:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/15/ios-sagar-docks-in-colombo-with-rare-16-nation-crew",
       "content_hash": "07aca477fded68712acdc4e1c04086fbc7faf053470db69b4ef7fccf6ea5d8b0",
       "title": "IOS Sagar Docks in Colombo with Rare 16-Nation Crew",
@@ -851,6 +833,18 @@
       "content_hash": "5837d80a3fabf44c2a39295d236b27ab810f6fd6695126b1617e33126707185b",
       "title": "Motorists Urged to Collect Unclaimed Number Plates Before June 30 Deadline",
       "sent_at": "2026-05-22T08:29:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/no-repeat-of-2022-economic-crisis-assures-president",
+      "content_hash": "ad73f5fcd507ffd8c3e510e6d9a5fee2f57b769aa7bce85e933c4239f473519d",
+      "title": "No Repeat of 2022 Economic Crisis, Assures President",
+      "sent_at": "2026-05-22T11:47:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/police-detain-21-deported-suspects-tied-to-organised-crime",
+      "content_hash": "ecca96348f2572618a850357d2d4cc9a1c40cf59743e74b6fe174babc1bfad93",
+      "title": "Police Detain 21 Deported Suspects Tied to Organised Crime",
+      "sent_at": "2026-05-22T11:47:12Z"
     }
   ]
 }
