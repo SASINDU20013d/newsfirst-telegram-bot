@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/15/donald-trump-boards-air-force-one-concluding-china-visit",
-      "content_hash": "5578b5541df0d411a4ddad6b5b456c6267573857dad5c966ec63abc32c50935e",
-      "title": "Donald Trump Boards Air Force One, Concluding China Visit",
-      "sent_at": "2026-05-15T07:27:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/sanath-nishantha%e2%80%99s-brother-found-guilty-on-three-charges-sentenced-to-prison",
-      "content_hash": "93dc4b56e4c4b7ab78f160fe9e47574b7f11366c7a990a9c4a1ba4ac800931a9",
-      "title": "Sanath Nishantha’s Brother Found Guilty on Three Charges, Sentenced to Prison",
-      "sent_at": "2026-05-15T07:27:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/the-importance-of-xi-s-tea-diplomacy",
-      "content_hash": "e04dfa4f3d1f714b4e0735842d1073970a8dbb6bc45125d29d684bc50bec2516",
-      "title": "The Importance Of Xi's 'Tea' Diplomacy",
-      "sent_at": "2026-05-15T07:27:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/trump-admire-s-beijing-s-roses-as-xi-promises-seeds",
-      "content_hash": "34c0f02e98b0f341c958bce3a122af250e308baf2dd5f31efa0bd40c358d7451",
-      "title": "Trump Admire's Beijing's Roses as Xi Promises Seeds",
-      "sent_at": "2026-05-15T07:27:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/15/foreign-national-arrested-at-bia-with-nearly-2kg-of-cocaine",
       "content_hash": "e7d4f2444b85ed13e298e55500e3b3109132b038558ed029e59604d277afc0b3",
       "title": "Foreign National Arrested at BIA With Nearly 2kg Of Cocaine",
@@ -833,6 +809,48 @@
       "content_hash": "8a317a3e92c71c77f9094a10fcebda3b2927acef26c0ea596f4eeb382e5b2f9c",
       "title": "National Anti Drug Youth Conference Scheduled For June 26",
       "sent_at": "2026-05-22T05:04:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/23-complaints-filed-as-coal-commission-closes-submissions",
+      "content_hash": "dd63ef101869f92860fccc91395d6f93eec3bd288ff4c532137d0781efe39548",
+      "title": "23 Complaints Filed as Coal Commission Closes Submissions",
+      "sent_at": "2026-05-22T08:29:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/court-issues-arrest-warrant-against-basil-rajapaksa-over-brown-hill-case",
+      "content_hash": "2c63861c9645935df08ed1b86e68da2c567898c8e420437f2279900ab342584e",
+      "title": "Court Issues Arrest Warrant Against Basil Rajapaksa Over Brown Hill Case",
+      "sent_at": "2026-05-22T08:29:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/elderly-couple-brutally-murdered-in-hatton-shop",
+      "content_hash": "58eb3de57ce61e47c6563ef999db6c431f91860df45fb17b1732c1d263f2d826",
+      "title": "Elderly Couple Brutally Murdered in Hatton Shop",
+      "sent_at": "2026-05-22T08:29:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/election-commission-ready-for-provincial-polls-under-parliament-approved-system",
+      "content_hash": "f6b73782fdabdbc87c9944de501032ee38bc2ce9d9f7c894afd6976d1dc1fddb",
+      "title": "Election Commission Ready for Provincial Polls Under Parliament-Approved System",
+      "sent_at": "2026-05-22T08:29:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/katunayake-airport-operations-returning-to-normal",
+      "content_hash": "74f5592d9319da422d018e221304d0063dfa7938e7eda2dbf8ffb64e11179124",
+      "title": "Katunayake Airport Operations Returning to Normal",
+      "sent_at": "2026-05-22T08:29:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/mattala-airport-development-investor-workshop-held-today",
+      "content_hash": "d98402b8ef62ffb028b4a80c29f38942bd91ec43a785eb382893fa1b10b43d55",
+      "title": "Mattala Airport Development Investor Workshop Held Today",
+      "sent_at": "2026-05-22T08:29:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/motorists-urged-to-collect-unclaimed-number-plates-before-june-30-deadline",
+      "content_hash": "5837d80a3fabf44c2a39295d236b27ab810f6fd6695126b1617e33126707185b",
+      "title": "Motorists Urged to Collect Unclaimed Number Plates Before June 30 Deadline",
+      "sent_at": "2026-05-22T08:29:31Z"
     }
   ]
 }
