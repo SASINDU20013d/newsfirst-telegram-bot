@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/15/ios-sagar-docks-in-colombo-with-rare-16-nation-crew",
-      "content_hash": "07aca477fded68712acdc4e1c04086fbc7faf053470db69b4ef7fccf6ea5d8b0",
-      "title": "IOS Sagar Docks in Colombo with Rare 16-Nation Crew",
-      "sent_at": "2026-05-15T12:56:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/russia%e2%80%99s-putin-is-heading-to-china-next-week-days-after-historic-xi-trump-summit",
-      "content_hash": "7f9379dae984e02fca256ea55d65f454283a454bce5588df142a3128764003e8",
-      "title": "Russia’s Putin Is Heading To China Next Week, Days After Historic Xi-Trump Summit",
-      "sent_at": "2026-05-15T12:56:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/15/unconditional-apology-in-court-senior-police-officials-admit-role-in-2022-protest-incident",
-      "content_hash": "d603e394996bc2fc64d2878d73fa91657525002594c26a189b348fe9a3098a42",
-      "title": "Unconditional Apology in Court: Senior Police Officials Admit Role in 2022 Protest Incident",
-      "sent_at": "2026-05-15T12:56:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/15/peradeniya-bridge-nears-completion",
       "content_hash": "3e31fba82c7cdba0c8d478f30dd3f162a6344f5efcbbde158eb20caadda29879",
       "title": "Peradeniya Bridge Nears Completion",
@@ -845,6 +827,12 @@
       "content_hash": "ecca96348f2572618a850357d2d4cc9a1c40cf59743e74b6fe174babc1bfad93",
       "title": "Police Detain 21 Deported Suspects Tied to Organised Crime",
       "sent_at": "2026-05-22T11:47:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/22/pambegama-records-highest-rainfall-as-heavy-showers-continue",
+      "content_hash": "12a2be9b55379eafd785fd48e2c954645d1db5cf43b1da671d9423314714133e",
+      "title": "Pambegama Records Highest Rainfall as Heavy Showers Continue",
+      "sent_at": "2026-05-22T14:46:51Z"
     }
   ]
 }
