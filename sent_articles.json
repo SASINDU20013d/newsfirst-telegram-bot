@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/16/iusf-remains-at-malwana-property-allegedly-linked-to-basil-rajapaksa-for-third-consecutive-day",
-      "content_hash": "a318529c929172be9825b5d43bb39d7bd2d25796b6a31d2239e77850c880cf8f",
-      "title": "IUSF Remains at Malwana Property Allegedly Linked to Basil Rajapaksa for Third Consecutive Day",
-      "sent_at": "2026-05-16T08:50:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/16/illegal-high-capacity-motorcycles-seized-in-athurugiriya-with-suspects",
       "content_hash": "bebe5109e7f323bed5443fbe56f59b93273c1fc774f3d41519301bac921de03a",
       "title": "Illegal High-Capacity Motorcycles Seized In Athurugiriya With Suspects",
@@ -857,6 +851,30 @@
       "content_hash": "993717feb0f1724d6c952048c98b254717db394c7ad07885516231be9e1d6b23",
       "title": "Tulsi Gabbard Resigns as Donald Trump’s US Intelligence Chief",
       "sent_at": "2026-05-23T04:43:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/23/death-penalty-for-five-in-bataduwa-murder-case",
+      "content_hash": "f6c7fc31d603edc984565aa113a471bcb0cf8b3428f35cb2c482c221e4f65975",
+      "title": "Death penalty for five in Bataduwa murder case",
+      "sent_at": "2026-05-23T09:57:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/23/pm-dr-harini-amarasuriya-returns-to-sri-lanka-after-official-uk-visit",
+      "content_hash": "3ff66cd12463c42e0f92c8c47e7fc096e5349bbc80db74fc31063c0c058b3a51",
+      "title": "PM Dr . Harini Amarasuriya Returns to Sri Lanka After Official UK Visit",
+      "sent_at": "2026-05-23T09:57:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/23/sri-lankan-authorities-launch-rescue-operations-3-sri-lankan-multi-day-vessels-in-distress-at-sea",
+      "content_hash": "a145f0975bbc73b78d6e305bc7f63921a661ab46c42eac080bdf5d6e29ab03a0",
+      "title": "Sri Lankan Authorities Launch Rescue Operations: 3 Sri Lankan Multi-day Vessels in Distress At Sea",
+      "sent_at": "2026-05-23T09:57:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/23/two-suspects-among-21-deported-from-dubai-issued-red-notice",
+      "content_hash": "ffd2be6576a6c2f6eef011bf0ae76180b9b5e9a313187e5f71539fd26719054d",
+      "title": "Two Suspects among 21 Deported from Dubai Issued Red Notice",
+      "sent_at": "2026-05-23T09:57:16Z"
     }
   ]
 }
