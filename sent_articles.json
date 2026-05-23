@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/16/illegal-high-capacity-motorcycles-seized-in-athurugiriya-with-suspects",
-      "content_hash": "bebe5109e7f323bed5443fbe56f59b93273c1fc774f3d41519301bac921de03a",
-      "title": "Illegal High-Capacity Motorcycles Seized In Athurugiriya With Suspects",
-      "sent_at": "2026-05-16T11:54:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/16/sri-lanka-imposes-50-temporary-surcharge-on-vehicle-import-duty-for-three-months",
-      "content_hash": "b683f0441d1362e48be0ea189b12c43a5ecd3d751a9632f789064e798acf7f17",
-      "title": "Sri Lanka Imposes 50% Temporary Surcharge on Vehicle Import Duty for Three Months",
-      "sent_at": "2026-05-16T11:54:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/17/imf-executive-board-to-decide-on-sri-lanka%e2%80%99s-combined-reviews-on-may-27",
       "content_hash": "6cad0edf93d6f6595d1b0213c9863528f161ceb1b9ceaa802657def3a4f4a552",
       "title": "IMF Executive Board to Decide On Sri Lanka’s Combined Reviews On May 27",
@@ -887,6 +875,12 @@
       "content_hash": "0cbacb63b1c06a0e660130c1dfd695b02a76ae90ba308d4f4ae623b3d3a7966d",
       "title": "Main Suspect in the Sirisara Uyana Shooting Arrested",
       "sent_at": "2026-05-23T11:15:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/23/dilum-amunugama-summoned-over-remarks-against-abuse-victim",
+      "content_hash": "cfc354c587b6c1893ce0aa5829f05301c4def486a48b522dcdcdfcc31b8dd026",
+      "title": "Dilum Amunugama Summoned Over Remarks Against Abuse Victim",
+      "sent_at": "2026-05-23T13:43:59Z"
     }
   ]
 }
