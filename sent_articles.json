@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/17/draft-bill-of-the-protection-of-the-state-from-terrorism-act-psta-to-be-submitted-to-justice-minister-this-month",
-      "content_hash": "b3f18a0f230dc9305abab0c828b923c84cca60037effdc4f864d8516d4dc7afb",
-      "title": "Draft Bill of \"The Protection of the State from Terrorism Act (PSTA)\" To Be Submitted to Justice Minister This Month",
-      "sent_at": "2026-05-17T09:08:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/pm-to-hold-talks-with-iusf-representatives-residing-at-abandoned-malwana-property",
-      "content_hash": "134580408ce68ac8bfd4c7a16e00f04d05701a7899776cad54e4109c4f129637",
-      "title": "PM to Hold Talks With IUSF Representatives Residing at Abandoned Malwana Property",
-      "sent_at": "2026-05-17T09:08:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/revolver-used-in-ganemulla-sanjeewa-murder-supplied-by-%e2%80%9cgampaha-osman%e2%80%9d-says-police",
-      "content_hash": "ed275f5a245d625d7dc6649c54861c979ef38c80c94a5b781a9fcd7761a2f3e6",
-      "title": "Revolver Used in Ganemulla Sanjeewa Murder Supplied by “Gampaha Osman”, says Police",
-      "sent_at": "2026-05-17T09:08:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/tens-of-thousands-join-rival-marches-in-london",
-      "content_hash": "9da8c0286bc4549fc1fcba05d31cfac5eb5b95e1a1da2f236d2c8fd132cae6a8",
-      "title": "Tens of Thousands Join Rival Marches in London",
-      "sent_at": "2026-05-17T09:08:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/17/ciaboc-launches-probe-into-importation-of-rapid-antigen-test-kits",
       "content_hash": "667e2bbea67abcf9b08f5374fa52391d2bee4bd4a5d8c4fa29fd50fdfbfbcdec",
       "title": "CIABOC Launches Probe into Importation of Rapid Antigen Test Kits",
@@ -917,6 +893,12 @@
       "content_hash": "0d778e4ec4fff0c4583334c527373e8ef79f14904e6bb338b24e975945a98abb",
       "title": "Trump Says Iran Agreement ‘Largely Negotiated’, Awaiting Finalisation",
       "sent_at": "2026-05-24T07:24:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/good-news-in-few-hours-says-us-secretary-of-state-marco-rubio-during-india-visit",
+      "content_hash": "4cd2e5db70cd965371619f1ff2322654169ec86a70f3ba5b429b09c996007536",
+      "title": "\"Good News In Few Hours,\" Says US Secretary of State Marco Rubio During India Visit",
+      "sent_at": "2026-05-24T09:58:43Z"
     }
   ]
 }
