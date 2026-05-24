@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/17/minister-urges-public-to-avoid-plastic-and-polythene-during-vesak-celebrations",
-      "content_hash": "f2681daeb530dc97637634006bcd5ce7b3fbad2bbbfe02e50f3f3bdcaf61ac78",
-      "title": "Minister Urges Public to Avoid Plastic and Polythene During Vesak Celebrations",
-      "sent_at": "2026-05-17T06:47:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/who-declares-an-ebola-public-health-emergency-in-the-dr-of-congo",
-      "content_hash": "44a91e5ec9a90e4b7341b408a37e3ec42bc31e8da293bb11d23910ba96e686ad",
-      "title": "WHO Declares an Ebola Public Health Emergency in the DR of Congo",
-      "sent_at": "2026-05-17T06:47:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/17/draft-bill-of-the-protection-of-the-state-from-terrorism-act-psta-to-be-submitted-to-justice-minister-this-month",
       "content_hash": "b3f18a0f230dc9305abab0c828b923c84cca60037effdc4f864d8516d4dc7afb",
       "title": "Draft Bill of \"The Protection of the State from Terrorism Act (PSTA)\" To Be Submitted to Justice Minister This Month",
@@ -887,6 +875,48 @@
       "content_hash": "826e7e6fb40ba1216d1a05e979006a62748d4775526a0c13662932594a3f2702",
       "title": "Suspect Arrested Over Double Murder in Hatton–Dikoya Area",
       "sent_at": "2026-05-24T04:00:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/araqchi-regional-counterparts-discuss-diplomatic-efforts-to-end-us-israeli-war",
+      "content_hash": "f24b16a3b0a935df4e9066cdea9d35fe42ddb2fc854bcdc24a29e411832bb960",
+      "title": "Araqchi, Regional Counterparts Discuss Diplomatic Efforts to End US-Israeli War",
+      "sent_at": "2026-05-24T07:24:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/foreign-minister-vijitha-herath-to-undertake-an-official-visit-to-australia-and-new-zealand",
+      "content_hash": "961d8b0c7a59a2265ef38cfb7e6abd7697593b2b0303ca7a0cf332350ff42c95",
+      "title": "Foreign Minister Vijitha Herath to Undertake An Official Visit to Australia and New Zealand",
+      "sent_at": "2026-05-24T07:24:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/mattala-rajapaksa-international-airport-prepared-for-emergency-landings-as-showery-conditions-persist-at-bia",
+      "content_hash": "89937e3d7c095387ca64f1f9f5a00161f0ae03aa0eab3bb9128c413a9463b4bd",
+      "title": "Mattala Rajapaksa International Airport Prepared For Emergency Landings As Showery Conditions Persist at BIA",
+      "sent_at": "2026-05-24T07:24:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/minor-floods-landslide-and-heavy-rain-advisories-to-continue-across-several-areas",
+      "content_hash": "6cc6067c734bc83bd0e180a97fab5a3d357ae6a961e8b117c0a8c6088f0f2536",
+      "title": "Minor Floods, Landslide, and Heavy Rain Advisories to Continue Across Several Areas",
+      "sent_at": "2026-05-24T07:24:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/several-feared-killed-in-pakistan-s-quetta-train-blast-more-than-20-injured",
+      "content_hash": "4a98f08b184a2b15adea878fb6136855aeaed12cd53e670ea0e91d9189f9050d",
+      "title": "Several Feared Killed in Pakistan's Quetta Train Blast; More Than 20 Injured",
+      "sent_at": "2026-05-24T07:24:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/statements-recorded-from-former-officials-over-missing-paintings-at-national-art-gallery",
+      "content_hash": "f29b844a4437483d3b8456d43d847bbef883f770f515e3735067a9dedfe5fecb",
+      "title": "Statements Recorded From Former Officials Over Missing Paintings at National Art Gallery",
+      "sent_at": "2026-05-24T07:24:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/trump-says-iran-agreement-%e2%80%98largely-negotiated%e2%80%99-awaiting-finalisation",
+      "content_hash": "0d778e4ec4fff0c4583334c527373e8ef79f14904e6bb338b24e975945a98abb",
+      "title": "Trump Says Iran Agreement ‘Largely Negotiated’, Awaiting Finalisation",
+      "sent_at": "2026-05-24T07:24:32Z"
     }
   ]
 }
