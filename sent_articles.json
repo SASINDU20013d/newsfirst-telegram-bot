@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/17/ciaboc-launches-probe-into-importation-of-rapid-antigen-test-kits",
-      "content_hash": "667e2bbea67abcf9b08f5374fa52391d2bee4bd4a5d8c4fa29fd50fdfbfbcdec",
-      "title": "CIABOC Launches Probe into Importation of Rapid Antigen Test Kits",
-      "sent_at": "2026-05-17T13:39:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/five-italians-drown-in-maldives-caves-rescue-diver-dies-during-search-for-bodies",
-      "content_hash": "558dd092b174c03789b7b61bd174147d15863b09a05ab5c475f28d4541a59acc",
-      "title": "Five Italians Drown in Maldives Caves: Rescue Diver Dies During Search for Bodies",
-      "sent_at": "2026-05-17T13:39:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/icc-eyes-sri-lanka-cricket-reset-top-delegation-meets-president-akd-amid-reform-push",
-      "content_hash": "a083ccfadfabcc1abe2a60a3b01d52493257375ddf5f2d826776b4b2088822f8",
-      "title": "ICC Eyes Sri lanka Cricket Reset: Top Delegation Meets President AKD Amid Reform Push",
-      "sent_at": "2026-05-17T13:39:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/two-remanded-over-wanawasala-train-derailment",
-      "content_hash": "66026899bb0095a0cf7cd59f6b40d4ec3f641a62ab52d9f0c23e212b90db235f",
-      "title": "Two Remanded Over Wanawasala Train Derailment",
-      "sent_at": "2026-05-17T13:39:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/17/sri-lanka-clinches-men%e2%80%99s-and-women%e2%80%99s-titles-at-casa-7s",
       "content_hash": "84298304581279f38f3c3065d651a122aa49d608faa02d196120043c53dcf296",
       "title": "Sri lanka Clinches Men’s and Women’s Titles at CASA 7s",
@@ -911,6 +887,18 @@
       "content_hash": "bcccd049a6754d5e108df5de2009e3f66e74756115ea7cfaf15763b9456c9b9f",
       "title": "Potential Deal Could Restore Hormuz Traffic to Pre-War Level in 30 Days, Says Iran",
       "sent_at": "2026-05-24T11:19:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/7-suspected-meningitis-cases-at-angunakolapelessa-prison",
+      "content_hash": "d0917f367d86ffcf5943e9659cdb4552242867cb4823e7dc8be388102e93f1c0",
+      "title": "7 Suspected Meningitis Cases at Angunakolapelessa Prison",
+      "sent_at": "2026-05-24T13:43:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/over-100-meningitis-cases-reported-across-several-areas-in-sri-lanka",
+      "content_hash": "26cc6adbe9853d46377c716a291fa4d32e145a4f450dfe31159896b956808469",
+      "title": "Over 100 Meningitis Cases Reported Across Several Areas in Sri Lanka",
+      "sent_at": "2026-05-24T13:43:45Z"
     }
   ]
 }
