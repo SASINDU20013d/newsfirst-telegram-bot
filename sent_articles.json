@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/17/imf-executive-board-to-decide-on-sri-lanka%e2%80%99s-combined-reviews-on-may-27",
-      "content_hash": "6cad0edf93d6f6595d1b0213c9863528f161ceb1b9ceaa802657def3a4f4a552",
-      "title": "IMF Executive Board to Decide On Sri Lanka’s Combined Reviews On May 27",
-      "sent_at": "2026-05-17T03:51:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/over-28-000-dengue-cases-reported-in-2026",
-      "content_hash": "73e281547b70e20debb91a76a96cdf15ecdfdcbd3bab2002888221baf850b038",
-      "title": "Over 28,000 Dengue Cases Reported in 2026",
-      "sent_at": "2026-05-17T03:51:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/sri-lanka-to-expect-more-rainfall-warns-met-department",
-      "content_hash": "f99f629238a5ab6786f8adc017b728360630eee6555e4687d8e24d30ee569684",
-      "title": "Sri Lanka to Expect More Rainfall, Warns Met Department",
-      "sent_at": "2026-05-17T03:51:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/17/tax-collection-reforms-to-address-insurance-policy-loopholes",
-      "content_hash": "f0a39ff267fd134bd88ece0dd000a03ad32341184008d5b49b306f428e69cd86",
-      "title": "Tax Collection Reforms to Address Insurance Policy Loopholes",
-      "sent_at": "2026-05-17T03:51:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/17/minister-urges-public-to-avoid-plastic-and-polythene-during-vesak-celebrations",
       "content_hash": "f2681daeb530dc97637634006bcd5ce7b3fbad2bbbfe02e50f3f3bdcaf61ac78",
       "title": "Minister Urges Public to Avoid Plastic and Polythene During Vesak Celebrations",
@@ -881,6 +857,36 @@
       "content_hash": "cfc354c587b6c1893ce0aa5829f05301c4def486a48b522dcdcdfcc31b8dd026",
       "title": "Dilum Amunugama Summoned Over Remarks Against Abuse Victim",
       "sent_at": "2026-05-23T13:43:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/cope-reveals-alleged-land-fraud-at-the-national-housing-development-authority",
+      "content_hash": "b95f48602e0e68cac5a642cfe4918442d76af3578903c2fa383d959f82491a82",
+      "title": "COPE Reveals Alleged Land Fraud at the National Housing Development Authority",
+      "sent_at": "2026-05-24T04:00:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/ministry-of-health-identifies-surge-in-meningitis-across-several-districts",
+      "content_hash": "c40c541837a0988526e8a03786ec0321301f6ad295780e3630e934973aedcff2",
+      "title": "Ministry of Health Identifies Surge in Meningitis Across Several Districts",
+      "sent_at": "2026-05-24T04:00:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/minor-flood-warnings-remain-in-low-lying-areas-along-kalu-river",
+      "content_hash": "07a95731caafc1d27a034ca73ac7d4fcce970269291f258d4c9a0b03763cb22f",
+      "title": "Minor Flood Warnings Remain in Low-Lying Areas Along Kalu River",
+      "sent_at": "2026-05-24T04:00:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/red-notices-issued-to-arrest-226-suspects-linked-to-organized-crime-and-other-criminal-offences",
+      "content_hash": "e80ef6bcbc8c77fdf0da3d224a82db45f18fc4f4742be432316fe3c8e844209d",
+      "title": "Red Notices Issued to Arrest 226 Suspects Linked to Organized Crime and Other Criminal Offences",
+      "sent_at": "2026-05-24T04:00:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/24/suspect-arrested-over-double-murder-in-hattondikoya-area",
+      "content_hash": "826e7e6fb40ba1216d1a05e979006a62748d4775526a0c13662932594a3f2702",
+      "title": "Suspect Arrested Over Double Murder in Hatton–Dikoya Area",
+      "sent_at": "2026-05-24T04:00:28Z"
     }
   ]
 }
