@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/18/5-289-tri-forces-personnel-promoted-ahead-of-war-heroes-day",
-      "content_hash": "8365deac34da93d6d33f85553ae6d456b966166257190531f0646a6bbe37cf74",
-      "title": "5,289 Tri-Forces Personnel Promoted Ahead of War Heroes Day",
-      "sent_at": "2026-05-18T12:36:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/bodies-of-missing-italian-divers-found-in-maldives",
-      "content_hash": "a07997d018b2cd055ec817a1a3a7fbaf4f3a3aec7f7bd34165df808be59dbf64",
-      "title": "Bodies of missing Italian divers found in Maldives",
-      "sent_at": "2026-05-18T12:36:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/mahason-balakaya-leader-and-wife-remanded-in-cabana-project-scam-case",
-      "content_hash": "5b307ed5f9c65520ba1881467a6f0fdd0b8c151c4fb924d98f8e678648d20875",
-      "title": "Mahason Balakaya Leader and Wife Remanded in Cabana Project Scam Case",
-      "sent_at": "2026-05-18T12:36:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/pen-shaped-firearm-discovered-in-cid-operation",
-      "content_hash": "0e323855ee403c17f7bd243ff03bc43105f14a83ffa33820f411b2b8a55dcb2e",
-      "title": "Pen-Shaped Firearm Discovered in CID Operation",
-      "sent_at": "2026-05-18T12:36:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/prime-minister-departs-for-uk-for-heads-of-government-summit",
-      "content_hash": "a61a74314dde59fb35facd1da217d42fd28d8f5ab0ade5d584e1533289ceb384",
-      "title": "Prime Minister Departs for UK for Heads of Government Summit",
-      "sent_at": "2026-05-18T12:36:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/railways-to-pay-compensation-to-injured-passengers",
-      "content_hash": "ec36860b01dfc8bd9c11c775c396e2f0be165865ae736554fc51e94c3f12e7e3",
-      "title": "Railways to Pay Compensation to Injured Passengers",
-      "sent_at": "2026-05-18T12:36:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/18/250-million-expected-from-adb-and-world-bank",
       "content_hash": "334ee422be832dd9445967850a8f0b6d03983d30c5aa1ccb1462288a36d1a6fb",
       "title": "$250 Million Expected from ADB and World Bank",
@@ -905,6 +869,24 @@
       "content_hash": "11143f846cd749bd66637f246693d7329e8287ecce33d3a48f6162c824f67179",
       "title": "Sri Lanka Exports Surge Past $5.7 Billion in Early 2026",
       "sent_at": "2026-05-25T12:34:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/25/sri-lanka-names-squads-for-west-indies-tour-2026-across-all-formats",
+      "content_hash": "c8fd2b04d4ec79a3c7da35e2af2f368cff84e09e9831985f01216ac983ef39bf",
+      "title": "Sri Lanka Names Squads for West Indies Tour 2026 Across All Formats",
+      "sent_at": "2026-05-25T15:53:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/25/tilvin-silva-appears-before-presidential-commission-on-coal-probe",
+      "content_hash": "f20e5221df3dba039ced82b6b9ad63ea8d273b8ac465453d5cc0524c5bb459a8",
+      "title": "Tilvin Silva Appears Before Presidential Commission on Coal Probe",
+      "sent_at": "2026-05-25T15:53:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/25/weerawansa-granted-bail-by-kaduwela-court",
+      "content_hash": "2bc01aa05e0f62419864b1e247a13c5c163398232ca8eafe14883fbe73dd9a5d",
+      "title": "Weerawansa Granted Bail by Kaduwela Court",
+      "sent_at": "2026-05-25T15:53:39Z"
     }
   ]
 }
