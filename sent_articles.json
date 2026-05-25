@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/18/10-000-rails-to-be-imported-to-replace-deteriorated-railtracks-on-the-coastal-railway-line",
-      "content_hash": "b539f0352b9d792d6acc0b0675a65e424073eae5bc9bb49c0bd17d196f38c4bd",
-      "title": "10,000 Rails to be Imported to Replace Deteriorated RailTracks on the Coastal Railway Line",
-      "sent_at": "2026-05-18T04:03:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/cpc-warns-of-legal-action-against-fuel-stations-issuing-fuel-without-qr-system",
-      "content_hash": "838521a8849dc442aa744931cf730c02d5a3a644663f705dabf740d8fffbeaa9",
-      "title": "CPC Warns of Legal Action Against Fuel Stations Issuing Fuel Without QR System",
-      "sent_at": "2026-05-18T04:03:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/government-to-provide-fuel-subsidy-for-three-months",
-      "content_hash": "05d95a4c48ae8c496caed8c43f57da78f02c6bd37ecc73bb522dcb71dfbecf4d",
-      "title": "Government to Provide Fuel Subsidy For Three Months",
-      "sent_at": "2026-05-18T04:03:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/health-minister-to-address-the-79th-world-health-assembly-today-18",
-      "content_hash": "2e3fd5360576e278088db4117c44551f080a953572b9def3b638ed9c4fe84497",
-      "title": "Health Minister To Address the 79th World Health Assembly Today (18)",
-      "sent_at": "2026-05-18T04:03:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/pm-to-hold-talks-with-iusf-representatives-regarding-the-abandoned-malwana-property-today-18",
-      "content_hash": "3760d3751f719444f5dc6bac47c6e76b705219302047f58f79f8831c29213ea7",
-      "title": "PM to Hold Talks With IUSF Representatives Regarding the Abandoned Malwana Property Today (18)",
-      "sent_at": "2026-05-18T04:03:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/services-at-the-consular-affairs-office-suspended-over-technical-failure",
-      "content_hash": "38bcdc1ef1d5ae88dab3b425e5c52d02548bfa5b2198d9ff861e06cc623839bc",
-      "title": "Services at the Consular Affairs Office Suspended Over Technical Failure",
-      "sent_at": "2026-05-18T04:03:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/18/veteran-journalist-and-political-analyst-d-b-s-jeyaraj-passes-away",
-      "content_hash": "4f6f8c8ef2b2871d4d181466e82989b865fd61def06492f197f2392f8f3bf46f",
-      "title": "Veteran Journalist and Political Analyst D.B.S. Jeyaraj Passes Away",
-      "sent_at": "2026-05-18T04:03:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/18/50-surcharge-not-applicable-to-vehicles-under-earlier-credit-agreements",
       "content_hash": "60a0269d3b873a78ea83ca1056e8d6937d61e47778564b74708bd80f369dee25",
       "title": "50% Surcharge Not Applicable to Vehicles Under Earlier Credit Agreements",
@@ -899,6 +857,36 @@
       "content_hash": "62304a647f47e2da1e2dd8a572a5070cdbb33aaa3c7a1eb9607081b98e4d4b3c",
       "title": "CBSL Cuts How Much You Can Borrow Against Gold and Vehicles",
       "sent_at": "2026-05-24T17:07:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/25/inmate-transfers-and-court-visits-temporarily-halted-at-angunakolapelessa-prison-due-to-flu-outbreak",
+      "content_hash": "987f8cd45044634c06949673de9731a7f9fa5d0a67a1abd618de46cd3ef28254",
+      "title": "Inmate Transfers And Court Visits Temporarily Halted At Angunakolapelessa Prison Due to Flu OutBreak",
+      "sent_at": "2026-05-25T04:45:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/25/justice-yasantha-kodagoda-cleared-for-judicial-service-commission-role",
+      "content_hash": "7c3f4de0621fb63d5fb8cf7d8df18f82e2863286635d74772bdf66c765a6ba95",
+      "title": "Justice Yasantha Kodagoda Cleared for Judicial Service Commission Role",
+      "sent_at": "2026-05-25T04:45:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/25/nearly-700-foreigners-arrested-for-immigration-law-violations",
+      "content_hash": "52c51d5cda4d13050781f6dcd74eafe77e34d926fb613fb23f0f6c83c31bd687",
+      "title": "Nearly 700 Foreigners Arrested for Immigration Law Violations",
+      "sent_at": "2026-05-25T04:45:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/25/over-160-000-candidates-apply-for-teacher-recruitment-examination-moe",
+      "content_hash": "bc9941e0b851c84c9b32a7518047af0b6ef9b060f72feb34ac36de3df0b68071",
+      "title": "Over 160,000 Candidates Apply for Teacher Recruitment Examination: MOE",
+      "sent_at": "2026-05-25T04:45:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/25/viral-illness-similar-to-meningitis-reported-in-multiple-areas-health-ministry-urges-public-to-follow-preventive-measures",
+      "content_hash": "3decffca1de8a6ece530aad75eb2856fd680634d5bc1a786819f85c7d54cec6f",
+      "title": "Viral Illness Similar to Meningitis Reported In Multiple Areas: Health Ministry Urges Public to Follow Preventive Measures",
+      "sent_at": "2026-05-25T04:45:19Z"
     }
   ]
 }
