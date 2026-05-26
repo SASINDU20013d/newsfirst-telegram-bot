@@ -1,90 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/19/15-dengue-deaths-reported-as-cases-near-30-000-this-year",
-      "content_hash": "ca9ecf2bc3838b1fe846c4e60a7d2eb899e8c2c44a41ceccc50ad8d2a920dda0",
-      "title": "15 Dengue Deaths Reported as Cases Near 30,000 This Year",
-      "sent_at": "2026-05-19T08:36:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/finnish-divers-to-retrieve-two-bodies-of-italians-from-maldives-cave",
-      "content_hash": "74a330178f94257712af41016bf3288f86c0676130f2b746999f620423b125e9",
-      "title": "Finnish Divers to Retrieve Two Bodies of Italians from Maldives Cave",
-      "sent_at": "2026-05-19T08:36:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/fuel-consumption-drops-in-may-compared-to-recent-months",
-      "content_hash": "e8a14b3379a80f2cc91cc5fa634f284ca3cbe900454666dad440a8ae25915040",
-      "title": "Fuel Consumption Drops In May Compared To Recent Months",
-      "sent_at": "2026-05-19T08:36:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/grateful-for-their-sacrifice-president-visits-ranaviru-sevana",
-      "content_hash": "c70e18709cc66b906ceed041c33d2ef5d1aa84086da23615f7d79935b1e5e351",
-      "title": "'Grateful for Their Sacrifice': President Visits Ranaviru Sevana",
-      "sent_at": "2026-05-19T08:36:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/man-arrested-for-aiding-escape-of-gang-member-s-partner",
-      "content_hash": "6129ead638668e52604ab07819500e2792bcebbbb2986ac1ab09fbd047a6060b",
-      "title": "Man Arrested for Aiding Escape of Gang Member's Partner",
-      "sent_at": "2026-05-19T08:36:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/musk-loses-openai-court-battle-here-are-the-key-moments",
-      "content_hash": "db20172ce91bc76d1c9039f1aa371dd9a18a2d7d73ef7a09de8cf8359143006f",
-      "title": "Musk Loses OpenAI Court Battle : Here Are The Key Moments",
-      "sent_at": "2026-05-19T08:36:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/president-stresses-timely-use-of-uda-funds-focus-on-colombo-flood-control-and-housing",
-      "content_hash": "a7afe08f14f99e27a82d9ae41ab9da728e948abd482030d9a3a1d2a5b639c42e",
-      "title": "President Stresses Timely Use of UDA Funds; Focus on Colombo Flood Control and Housing",
-      "sent_at": "2026-05-19T08:36:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/special-traffic-plan-in-effect-today-for-war-heroes-commemoration-ceremony-in-battaramulla",
-      "content_hash": "5182b97314b4b8c62384b3d9275ed4c9fd39e244648cec06ec77fbbb1892b074",
-      "title": "Special Traffic Plan In Effect Today For War Heroes Commemoration Ceremony In Battaramulla",
-      "sent_at": "2026-05-19T08:36:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/indian-air-chief-pays-tribute-at-ipkf-memorial-during-sri-lanka-visit",
-      "content_hash": "bd3d4e51aa9f2259cadc80e1e2ef8b691817ed3bcd53d3c3a748beb4db37b6e1",
-      "title": "Indian Air Chief Pays Tribute at IPKF Memorial During Sri Lanka Visit",
-      "sent_at": "2026-05-19T12:13:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/leave-no-one-behind-sri-lanka-commits-to-people-centred-health-system",
-      "content_hash": "e504c6ee61a0b1003bc41d8885a390ca19c005913fecd2e82e3ddd748c473575",
-      "title": "'Leave No One Behind': Sri Lanka Commits to People-Centred Health System",
-      "sent_at": "2026-05-19T12:13:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/police-seek-forensic-reports-on-dvrs-and-medicines-in-ex-airline-ceo-s-death-probe",
-      "content_hash": "b5977c680a99813fb4cf80689e600766bac0dd72f781d49f8768e7c71505e482",
-      "title": "Police Seek Forensic Reports on DVRs and Medicines in Ex-Airline CEO's Death Probe",
-      "sent_at": "2026-05-19T12:13:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/sri-lanka-calls-for-lifelong-care-for-childhood-cancer-survivors",
-      "content_hash": "5c558bb26741485742302dec217f8f1b4c73004e0f76dfd5c85c4903d0d3fca3",
-      "title": "Sri Lanka Calls for Lifelong Care for Childhood Cancer Survivors",
-      "sent_at": "2026-05-19T12:13:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/sri-lanka-honoured-with-who-public-health-achievement-certificate",
-      "content_hash": "ce83b5910ff3faee697a1cf7c424ebabed1653011ad53ae5edf21499d70cee49",
-      "title": "Sri Lanka Honoured with WHO Public Health Achievement Certificate",
-      "sent_at": "2026-05-19T12:13:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/19/who-commends-sri-lanka%e2%80%99s-success-in-eliminating-mother-to-child-hiv-and-syphilis",
-      "content_hash": "c58b7d18f8298f384f898d12106fc1f2b07d6da4c13aad0935b98ee694cdf3c0",
-      "title": "WHO Commends Sri Lanka’s Success in Eliminating Mother-to-Child HIV and Syphilis",
-      "sent_at": "2026-05-19T12:13:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/19/bodies-of-two-italian-divers-recovered-and-taken-to-maldives-capital-for-identification",
       "content_hash": "1b718fa74b0d05a58dcaa8f65329ca34101a10a604b6c415fbc814534460fa7a",
       "title": "Bodies of Two Italian Divers Recovered And Taken To Maldives Capital For Identification",
@@ -881,6 +797,66 @@
       "content_hash": "e3af36340bf0a23703165577e428df9a23b48f73bd09f992898cce89ed78cef1",
       "title": "Third Arrest Made in Galle Drive-By Killing Case",
       "sent_at": "2026-05-26T07:54:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/12-hour-water-cut-for-mahara-and-gampaha-pradeshiya-sabha-divisions-tomorrow-26",
+      "content_hash": "a6447736ab607fdb07724154f30e0ba96251469d197b950569b276fb31f2b038",
+      "title": "12-Hour Water Cut for Mahara and Gampaha Pradeshiya Sabha Divisions Tomorrow (26)",
+      "sent_at": "2026-05-26T15:47:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/23-monks-back-in-remand-over-drug-racket",
+      "content_hash": "c4ee264c7f0238874dba6170b9c4e24b65a7fe30101cc8aeca18df29e93e15f3",
+      "title": "23 Monks Back In Remand Over Drug Racket",
+      "sent_at": "2026-05-26T15:47:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/cbsl-chief-signals-stability-despite-global-pressures-and-currency-adjustments",
+      "content_hash": "37e1f548dc068c277640803a9698de02a761ba07118449b39595552c5a6d26c8",
+      "title": "CBSL Chief Signals Stability Despite Global Pressures and Currency Adjustments",
+      "sent_at": "2026-05-26T15:47:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/fbi-assistance-sought-to-unlock-chandrasena-s-phone",
+      "content_hash": "7ea850217d884d178a5834644131e1872d1f7287d31f1ff5962d99336b42fc54",
+      "title": "FBI Assistance Sought to Unlock Chandrasena's Phone",
+      "sent_at": "2026-05-26T15:47:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/pavithra-gives-statement-over-asset-investigation-johnston-seeks-new-date",
+      "content_hash": "bdcdc54ed333c78adb08f72699a11e4c2534a12278460b84d8ac01b4bde20003",
+      "title": "Pavithra Gives Statement Over Asset Investigation; Johnston Seeks New Date",
+      "sent_at": "2026-05-26T15:47:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/singapore-foreign-minister-heads-to-north-korea-in-rare-visit",
+      "content_hash": "63b6730d3fccfd6a192be33d1978ef7f69a4e1b01c86cebbab74a5b3ec173b48",
+      "title": "Singapore Foreign Minister Heads To North Korea In Rare Visit",
+      "sent_at": "2026-05-26T15:47:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/speculation-drove-dollar-spike-central-bank-chief-clarifies-rate-distortion",
+      "content_hash": "516f1801f146f77811c873f7007f669fc2eec9972a5bef61181bcffa3690790d",
+      "title": "Speculation Drove Dollar Spike: Central Bank Chief Clarifies Rate Distortion",
+      "sent_at": "2026-05-26T15:47:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/sri-lanka-has-flexibility-on-subsidies-and-imf-targets-adjusted-to-global-conditions",
+      "content_hash": "ab7e0ab6f065a0d05bbe64564be8f7c360ce170eea4926d5a0ab753a87331d23",
+      "title": "Sri Lanka Has Flexibility on Subsidies and IMF Targets Adjusted to Global Conditions",
+      "sent_at": "2026-05-26T15:47:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/taiwan-market-rises-ahead-of-india-as-tsmc-gains",
+      "content_hash": "bf4b41019b59e4f1f998e345faa39d181fd8df41f7d885c4dbb8168b3b8b4465",
+      "title": "Taiwan Market Rises Ahead of India as TSMC Gains",
+      "sent_at": "2026-05-26T15:47:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/26/we-fell-but-we-rise-again-gammedda-rebuild-ignites-new-futures",
+      "content_hash": "eadc10a14e9c535b2a84aa2cc2bdc53606bad0746eacf5925957e14c7ba8c5d1",
+      "title": "We Fell, But We Rise Again : Gammedda Rebuild Ignites New Futures",
+      "sent_at": "2026-05-26T15:47:34Z"
     }
   ]
 }
