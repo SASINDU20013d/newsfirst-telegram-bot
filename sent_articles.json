@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/20/deadline-nears-for-coal-procurement-complaints-16-complaints-filed-so-far",
-      "content_hash": "e5045610127a2742ddd28d28177a8833bae97e45662c28d5d045315b89a6434f",
-      "title": "Deadline Nears for Coal Procurement Complaints; 16 Complaints Filed So Far",
-      "sent_at": "2026-05-20T09:41:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/easter-attack-suspect-suresh-salley-produced-in-court",
-      "content_hash": "02cf21c79c1c44e44705535a8985c34eae2fa65564e7e50fb95bc79ede0b4210",
-      "title": "Easter Attack Suspect Suresh Salley Produced in Court",
-      "sent_at": "2026-05-20T09:41:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/half-of-diesel-vehicles-tested-found-emitting-harmful-black-smoke",
-      "content_hash": "d706d65f681b6aca341a407b9b4c43cf272eb381fd178aabd6d4e5ffb36dda4b",
-      "title": "Half of Diesel Vehicles Tested Found Emitting Harmful Black Smoke",
-      "sent_at": "2026-05-20T09:41:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/indian-air-force-chief-meets-sri-lanka%e2%80%99s-deputy-defence-minister",
-      "content_hash": "1d03d4d66ca6bc8fc1c8d2c18b28d6a9bcaf580f4f3427f6d110726a521d2c24",
-      "title": "Indian Air Force Chief Meets Sri Lanka’s Deputy Defence Minister",
-      "sent_at": "2026-05-20T09:41:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/price-hike-announced-for-400g-and-1kg-milk-powder-packs",
-      "content_hash": "81539d04926a8d2243392ebcd66756c3c909be655370d2f834836fde5c09ffad",
-      "title": "Price Hike Announced for 400g and 1kg Milk Powder Packs",
-      "sent_at": "2026-05-20T09:41:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/sri-lanka-launches-digital-seed-system-to-transform-agriculture-sector",
-      "content_hash": "a14a04a6a92613aa76f9464bfb30e4409c7bfa013baf5569567507d3ada19c69",
-      "title": "Sri Lanka Launches Digital Seed System to Transform Agriculture Sector",
-      "sent_at": "2026-05-20T09:41:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/sri-lanka-moves-to-streamline-data-sharing-across-government-institutions",
-      "content_hash": "e126b7fe4232b115928b1f15b61edfafb8e681ac5fa3dcd0c9af2a76bca98033",
-      "title": "Sri Lanka Moves to Streamline Data Sharing Across Government Institutions",
-      "sent_at": "2026-05-20T09:41:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/20/court-orders-evidence-based-charges-over-war-memorial-incident",
       "content_hash": "d781eb8bd9c938d5230fa7d10c2c283149b80858f4c283b6cc8405fb6ff48196",
       "title": "Court Orders Evidence-Based Charges Over War Memorial Incident",
@@ -803,6 +761,48 @@
       "content_hash": "1aef9d766918fdb8801cc426f7134e62fd95444a4f4b066b6a9e237de11a0063",
       "title": "Two Killed, One Injured in Ampara Tipper–Three-Wheeler Collision; Pedestrian Killed in Kosgoda Accident",
       "sent_at": "2026-05-27T05:19:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/17-dengue-related-deaths-so-far-in-2026",
+      "content_hash": "a1519e8d6109f1fe4f8cbc703f402ec4c7981f18e9fe7bc1826494427e40082d",
+      "title": "17 Dengue-related deaths so far in 2026",
+      "sent_at": "2026-05-27T10:00:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/53-calls-between-mujibur-rahman-and-jailed-drug-dealer",
+      "content_hash": "24293687bca7703aa9f6816e45e3c7b70d5a8e2c270717462a6cfbb51b961e7c",
+      "title": "53 Calls Between Mujibur Rahman and Jailed Drug Dealer",
+      "sent_at": "2026-05-27T10:00:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/double-murder-suspect-escapes-custody-after-hospital-transfer",
+      "content_hash": "585a5d25d1d007552adf79b9a6ec4de1672dabd1c9cd5e8e37740a38ba9572eb",
+      "title": "Double Murder Suspect Escapes Custody After Hospital Transfer",
+      "sent_at": "2026-05-27T10:00:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/foreign-minister-vijitha-herath-holds-bilateral-talks-with-new-zealand-speaker",
+      "content_hash": "d1753776cf21329eae05f4b4aafef086fd2b88953229351d94d5ca5a614a2ab8",
+      "title": "Foreign Minister Vijitha Herath Holds Bilateral Talks with New Zealand Speaker",
+      "sent_at": "2026-05-27T10:00:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/sri-lankan-defence-secretary-meets-russian-deputy-minister-of-defence-during-official-visit-to-moscow",
+      "content_hash": "7ae7d2b32f87656ece0049231ced053e12c11ce9e8a3393cf955ce2b1761e022",
+      "title": "Sri Lankan Defence Secretary Meets Russian Deputy Minister of Defence During Official Visit to Moscow",
+      "sent_at": "2026-05-27T10:00:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/suspect-arrested-with-large-drug-stock-in-ragama",
+      "content_hash": "b1c0dac76840dd8bd101ee9654ea8d0d9ec28751a40a05c3034d9d77d4e53d8f",
+      "title": "Suspect Arrested With Large Drug Stock In Ragama",
+      "sent_at": "2026-05-27T10:00:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/welikada-oic-arrested-for-alleged-bribe-attempt-in-passport-case",
+      "content_hash": "8d297794cd937b1a663a5456accfe279d7f2df34466dccdf583e0bacefb81fd5",
+      "title": "Welikada OIC Arrested For Alleged Bribe Attempt in Passport Case",
+      "sent_at": "2026-05-27T10:00:35Z"
     }
   ]
 }
