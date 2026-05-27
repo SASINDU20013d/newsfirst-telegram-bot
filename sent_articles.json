@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/20/court-orders-evidence-based-charges-over-war-memorial-incident",
-      "content_hash": "d781eb8bd9c938d5230fa7d10c2c283149b80858f4c283b6cc8405fb6ff48196",
-      "title": "Court Orders Evidence-Based Charges Over War Memorial Incident",
-      "sent_at": "2026-05-20T12:27:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/final-two-bodies-of-missing-italian-divers-recovered-in-maldives",
-      "content_hash": "f10bf9debf7d45174cacd84f7e449c75b18850e1f6b1075867f210bc470dddf1",
-      "title": "Final Two Bodies of Missing Italian Divers Recovered in Maldives",
-      "sent_at": "2026-05-20T12:27:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/new-batticaloa-public-library-opened-under-presidential-patronage",
-      "content_hash": "f78590a25dceb12f5c0c9456bbafd71545961e97dd0adf572cbbbb33718766a7",
-      "title": "New Batticaloa Public Library Opened Under Presidential Patronage",
-      "sent_at": "2026-05-20T12:27:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/20/rajapaksas-met-pillayan-after-easter-attacks-ags-department-tells-court",
-      "content_hash": "8e0ff4fcefc32b9c2ae19ac066230e972acd2da78d60dff47eabbdeb89e81561",
-      "title": "Rajapaksas Met 'Pillayan' After Easter Attacks; AGs Department Tells Court",
-      "sent_at": "2026-05-20T12:27:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/20/ag-says-suresh-salley-is-mastermind-in-easter-attacks-rajapaksa-trio%e2%80%99s-prison-visit-to-see-pillayan-revealed",
       "content_hash": "772d1df74767b39c3e186578ff52a7cfa3cde925a5abc3362e93bd31867b3535",
       "title": "AG Says Suresh Salley Is Mastermind in Easter Attacks; Rajapaksa Trio’s Prison Visit To See Pillayan Revealed",
@@ -803,6 +779,36 @@
       "content_hash": "8d297794cd937b1a663a5456accfe279d7f2df34466dccdf583e0bacefb81fd5",
       "title": "Welikada OIC Arrested For Alleged Bribe Attempt in Passport Case",
       "sent_at": "2026-05-27T10:00:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/amnesty-report-alleges-forced-labour-abuses-on-sri-lanka-tea-estates",
+      "content_hash": "dee76fb5815b3a5a3de318671e2c3f8bfe77d0d8a4ad0b9508e7ba2a2c37e953",
+      "title": "Amnesty Report Alleges Forced Labour Abuses on Sri Lanka Tea Estates",
+      "sent_at": "2026-05-27T12:55:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/easter-bombing-case-back-in-court-as-trial-against-top-officials-continues",
+      "content_hash": "429a1204979be5946613e11ead77f6d001535083a48437dea988de1adfba89b5",
+      "title": "Easter Bombing Case Back in Court as Trial Against Top Officials Continues",
+      "sent_at": "2026-05-27T12:55:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/historic-maori-welcome-for-fm-vijitha-in-new-zealand-as-talk-focus-on-cricket-trade-and-culture",
+      "content_hash": "316f7cbc3f3c5400fe52e5e61b0cffb2023e65928f14971ab791cdec80277ead",
+      "title": "Historic Maori Welcome For FM Vijitha In New Zealand As Talk Focus On Cricket, Trade, and Culture",
+      "sent_at": "2026-05-27T12:55:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/japan-commits-1-3-mn-to-clear-landmines-in-sri-lanka",
+      "content_hash": "b3931b005e4895cbd3d2172474b8bd74c46d0932fae00b6ba2de90b9c8c281fd",
+      "title": "Japan Commits $ 1.3 Mn to Clear Landmines in Sri Lanka",
+      "sent_at": "2026-05-27T12:55:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/27/meat-shops-casinos-to-close-for-three-days-for-vesak",
+      "content_hash": "00fbc5c18c99c9ffc4991fe6f1a19ff54fa4802fcc2e6448e288fd0e3506c6e4",
+      "title": "Meat Shops, Casinos to Close for Three Days For Vesak",
+      "sent_at": "2026-05-27T12:55:18Z"
     }
   ]
 }
