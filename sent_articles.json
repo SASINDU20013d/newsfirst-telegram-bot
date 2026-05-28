@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/21/new-constitution-planned-within-months-to-reform-sri-lanka-cricket",
-      "content_hash": "2c2ad6ddc977c2a742e6f5c126b111c107be1385975a73fd0320b9bca02b0540",
-      "title": "New Constitution Planned Within Months to Reform Sri Lanka Cricket",
-      "sent_at": "2026-05-21T16:20:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/rupee-slide-not-a-crisis-govt-pushes-back",
-      "content_hash": "ee20dc9c25a0658cae84b43c8dd26c105ef84bdb9887af6cbedb35fb0191a196",
-      "title": "Rupee Slide Not a Crisis: Govt Pushes Back",
-      "sent_at": "2026-05-21T16:20:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/sri-lanka-inflation-rises-to-4-7-in-april-2026",
-      "content_hash": "bd632b96ec68915f88d1658acabcb59ee400e7a374d9e5b6613b74d35228a168",
-      "title": "Sri Lanka Inflation Rises to 4.7% in April 2026",
-      "sent_at": "2026-05-21T16:20:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/tight-security-strict-rules-announced-for-vesak-week",
-      "content_hash": "481e74a76f509343f7c3c495193758dd06cd693c188c6bf6889330e9670652a3",
-      "title": "Tight Security, Strict Rules Announced for Vesak Week",
-      "sent_at": "2026-05-21T16:20:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/imf-says-sri-lanka-s-policy-framework-stronger-than-in-the-past",
-      "content_hash": "a7a5ba2f0826ede2f3f792d6e7f9c0962a11d6d940baf93740b7e3ecda132242",
-      "title": "IMF Says Sri Lanka's Policy Framework Stronger Than In The Past",
-      "sent_at": "2026-05-21T18:59:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/22/coal-commission-closes-complaint-submissions-today",
       "content_hash": "76fa11f25b28c3b0947788440643214b675148e01ad26ab56ee00e8910d649e3",
       "title": "Coal Commission Closes Complaint Submissions Today",
@@ -833,6 +803,18 @@
       "content_hash": "ef8b22a17fe84bac7f0d887957f9605ecaf7d4f8677a6aabbb81b78449adc6e2",
       "title": "Welikada OIC Remanded Over Alleged Bribery Bid",
       "sent_at": "2026-05-28T11:48:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/essential-services-gazette-extended-across-key-sectors",
+      "content_hash": "995b78dad9bf37f1f9c3a7a766016b48fd10d1fc3b6f7baf1899b03dd7b28baa",
+      "title": "Essential Services Gazette Extended Across Key Sectors",
+      "sent_at": "2026-05-28T19:37:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/rupee-is-our-first-line-of-defence-not-a-victim-says-imf-mission-chief",
+      "content_hash": "5641e572213b1245d6c65c056c6effdcac887e44a142f6d0a24fa85d4b1a1187",
+      "title": "Rupee Is Our First Line of Defence, Not a Victim, Says IMF Mission Chief",
+      "sent_at": "2026-05-28T19:37:42Z"
     }
   ]
 }
