@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/21/79-year-old-found-dead-in-bedroom-suitcase",
-      "content_hash": "7ac675d02172f5a70b92df6f23ece219483d4e8f2ad7ff6c35947ac7e33c1fa1",
-      "title": "79-Year-Old Found Dead in Bedroom Suitcase",
-      "sent_at": "2026-05-21T08:34:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/president-pledges-budget-focus-on-rural-roads-water-and-waste-in-batticaloa",
-      "content_hash": "1f727115d3d95f171088273f28e84f2679fcfa1a8d9ac15ce93dc7e5577f4d61",
-      "title": "President Pledges Budget Focus on Rural Roads, Water, and Waste in Batticaloa",
-      "sent_at": "2026-05-21T08:34:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/prime-minister-harini-amarasuriya-meets-foreign-secretary-of-the-united-kingdom",
-      "content_hash": "e6b07ac9cbb26a27d6ab6b9aff12a2417d380dda368f06079d8f2f64ee8fc466",
-      "title": "Prime Minister Harini Amarasuriya Meets Foreign Secretary of the United Kingdom",
-      "sent_at": "2026-05-21T08:35:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/probe-launched-into-missing-art-pieces-in-the-national-art-gallery",
-      "content_hash": "e8d1a82a29340132f59c91de1de0962098617cba25d8425493c96d1f6b8632ed",
-      "title": "Probe Launched into Missing Art Pieces in the National Art Gallery",
-      "sent_at": "2026-05-21T08:35:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/rs-1-2-bn-for-farmers-hit-by-nilwala-flooding",
-      "content_hash": "b31cf51735a26519a14ea9583e0fc1ea956cd6188c0e9265fd6c707bf3339467",
-      "title": "Rs. 1.2 Bn for Farmers Hit by Nilwala Flooding",
-      "sent_at": "2026-05-21T08:35:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/weapons-supermarket-inside-china-s-wartime-bonded-warehouses-in-sri-lanka",
-      "content_hash": "744811b00ff80a13d8e2ac182e798820996e5f1b657d1bb744b3ff1a104220e3",
-      "title": "'Weapons Supermarket' : Inside China's Wartime Bonded Warehouses in Sri Lanka",
-      "sent_at": "2026-05-21T08:35:12Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/21/sri-lanka-must-understand-india-and-china-to-navigate-global-pressures",
       "content_hash": "f66cc5c44d309532980a557d0874c1819c651bef3d1b413ddca3efbf3d91e275",
       "title": "Sri Lanka Must Understand India and China to Navigate Global Pressures",
@@ -869,6 +833,24 @@
       "content_hash": "a5171a024d75beb9c19fcc8552ea3f6da4061ab1fbe4518014a1608176e66f30",
       "title": "Six Foreign Nationals Arrested In Kollupitiya Over Illegal Gambling",
       "sent_at": "2026-05-28T08:04:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/cpc-to-receive-two-crude-oil-shipments-from-u-s-and-middle-east",
+      "content_hash": "5054dee5dad0314c4040eee957406a0b7ead2e3edebe3cf56e940560b14241f6",
+      "title": "CPC to Receive Two Crude Oil Shipments From U.S. and Middle East",
+      "sent_at": "2026-05-28T11:48:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/police-open-fire-on-vehicle-at-minuwangoda-checkpoint",
+      "content_hash": "37548413d1d93e057b654138fee4d22625328c58d8e234d02f988773d29d3335",
+      "title": "Police Open Fire on Vehicle at Minuwangoda Checkpoint",
+      "sent_at": "2026-05-28T11:48:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/welikada-oic-remanded-over-alleged-bribery-bid",
+      "content_hash": "ef8b22a17fe84bac7f0d887957f9605ecaf7d4f8677a6aabbb81b78449adc6e2",
+      "title": "Welikada OIC Remanded Over Alleged Bribery Bid",
+      "sent_at": "2026-05-28T11:48:51Z"
     }
   ]
 }
