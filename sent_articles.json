@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/21/census-process-for-aswesuma-phase-i-to-end-in-may",
-      "content_hash": "7b7fb5ada7ae7effee85446d6ab76df6c2f61c6a8a328a1014880e46729fb227",
-      "title": "Census Process for Aswesuma Phase I to End in May",
-      "sent_at": "2026-05-21T04:06:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/health-ministry-introduces-five-point-guideline-on-the-prevention-of-ebola-virus",
-      "content_hash": "392ceadae5a5c719b84f625b23a681b17e5aeb83ad574b8a6c5a3c9ea7ab2033",
-      "title": "Health Ministry Introduces Five-Point Guideline on the Prevention of Ebola Virus",
-      "sent_at": "2026-05-21T04:06:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/national-election-commission-summoned-before-parliamentary-special-committee-today",
-      "content_hash": "f37b5fedd327d6a4c2a7e558efba18c0316e001a33f2e6f5a3709d0da95da9a5",
-      "title": "National Election Commission Summoned Before Parliamentary Special Committee Today",
-      "sent_at": "2026-05-21T04:06:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/nearly-rs-1-7-million-damage-assessed-to-railway-system-due-to-the-wanawasala-train-accident",
-      "content_hash": "d335deb84c8232d106e28a55734fe2f33d38cc459377f7b8d7c4eec9c34c383e",
-      "title": "Nearly Rs. 1.7 Million Damage Assessed to Railway System Due to the Wanawasala Train Accident",
-      "sent_at": "2026-05-21T04:06:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/21/second-phase-of-the-pension-revision-programme-to-be-implemented-in-july",
-      "content_hash": "61a28464240549eb6e7e7a9b24433e840146c541ff077df3f6379ba7fa267876",
-      "title": "Second Phase of the Pension Revision Programme to Be Implemented in July",
-      "sent_at": "2026-05-21T04:06:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/21/79-year-old-found-dead-in-bedroom-suitcase",
       "content_hash": "7ac675d02172f5a70b92df6f23ece219483d4e8f2ad7ff6c35947ac7e33c1fa1",
       "title": "79-Year-Old Found Dead in Bedroom Suitcase",
@@ -863,6 +833,42 @@
       "content_hash": "8a3e8c3ddfd92909b3714104472ebfee2f32d73bd87525386563a10131726e96",
       "title": "IMF Approves $695M Boost for Sri Lanka as Reform Momentum Holds",
       "sent_at": "2026-05-28T03:59:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/14-chinese-nationals-arrested-at-bia-for-smuggling-cigarettes",
+      "content_hash": "2cd04b069b08c489ac568fe3e22b512d20c169618e010f645778acfc6a97c391",
+      "title": "14 Chinese Nationals Arrested At BIA for Smuggling Cigarettes",
+      "sent_at": "2026-05-28T08:04:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/fire-at-a-bookshop-in-kurunegala",
+      "content_hash": "9a5a8bc6eb226d62086032abc32c223b36202929147631c507080ae7b6ce35a2",
+      "title": "Fire At a Bookshop in Kurunegala",
+      "sent_at": "2026-05-28T08:04:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/man-shot-dead-in-vettumakada-kalutara-victim-identified-as-slaughterhouse-owner",
+      "content_hash": "5ddf867e4648d1b63b500c1f121c669574ac436b1c372a7ebbb9df5d050ca782",
+      "title": "Man Shot Dead In Vettumakada, Kalutara, Victim Identified As Slaughterhouse Owner",
+      "sent_at": "2026-05-28T08:04:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/president-dissanayake-calls-for-peace-and-unity-in-eid-al-adha-message",
+      "content_hash": "fe77601e14c16a6abd5ce6e450ec04813b52e9a720c83530ccae4bcee3803057",
+      "title": "President Dissanayake Calls For Peace And Unity In Eid al-Adha Message",
+      "sent_at": "2026-05-28T08:04:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/seven-sri-lankans-deported-from-uae-over-security-related-allegations-arrive-in-sri-lanka",
+      "content_hash": "42ee249a6f5e870ff32bdc697ff9fa68ec387467bd9866dfbdbd4336d0388006",
+      "title": "Seven Sri Lankans Deported From UAE Over Security-Related Allegations, Arrive In Sri Lanka",
+      "sent_at": "2026-05-28T08:04:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/28/six-foreign-nationals-arrested-in-kollupitiya-over-illegal-gambling",
+      "content_hash": "a5171a024d75beb9c19fcc8552ea3f6da4061ab1fbe4518014a1608176e66f30",
+      "title": "Six Foreign Nationals Arrested In Kollupitiya Over Illegal Gambling",
+      "sent_at": "2026-05-28T08:04:38Z"
     }
   ]
 }
