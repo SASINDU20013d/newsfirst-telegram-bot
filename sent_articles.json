@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/22/coal-commission-closes-complaint-submissions-today",
-      "content_hash": "76fa11f25b28c3b0947788440643214b675148e01ad26ab56ee00e8910d649e3",
-      "title": "Coal Commission Closes Complaint Submissions Today",
-      "sent_at": "2026-05-22T05:04:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/22/flood-warning-issued-for-aththanagalu-oya-basin-9-areas-put-on-high-alert",
-      "content_hash": "9f2af6f7ed2221878f93db442bdc5bbc3bf6bb46161617903b20c2428f931ec9",
-      "title": "Flood Warning Issued for Aththanagalu Oya Basin: 9 Areas Put On High Alert",
-      "sent_at": "2026-05-22T05:04:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/22/heavy-rain-disrupts-traffic-and-rail-services-minor-flood-warnings-in-effect-for-next-24-hours",
-      "content_hash": "d143744a3d9157cf00ab8a214082773eba08e5cdbb0653c9cd3398a2cf3c3f6b",
-      "title": "Heavy Rain Disrupts Traffic And Rail Services; Minor Flood Warnings In Effect For Next 24 Hours",
-      "sent_at": "2026-05-22T05:04:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/22/national-anti-drug-youth-conference-scheduled-for-june-26",
-      "content_hash": "8a317a3e92c71c77f9094a10fcebda3b2927acef26c0ea596f4eeb382e5b2f9c",
-      "title": "National Anti Drug Youth Conference Scheduled For June 26",
-      "sent_at": "2026-05-22T05:04:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/22/23-complaints-filed-as-coal-commission-closes-submissions",
       "content_hash": "dd63ef101869f92860fccc91395d6f93eec3bd288ff4c532137d0781efe39548",
       "title": "23 Complaints Filed as Coal Commission Closes Submissions",
@@ -851,6 +827,42 @@
       "content_hash": "30600e2aec7dbe159927dd3d683bc33227671acbd35f11596b561dafbd464f25",
       "title": "Sufficient Fuel Reserves Available Until September : CPC",
       "sent_at": "2026-05-29T04:01:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/29/515-nursing-graduates-finally-recruited-after-long-delay",
+      "content_hash": "5b9bd9c4fb66bd9237212d69d3ab91adf8e5e673023416c9c0072bc11e8acbc6",
+      "title": "515 Nursing Graduates Finally Recruited After Long Delay",
+      "sent_at": "2026-05-29T08:02:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/29/blue-origin-rocket-explodes-into-huge-ball-of-flame",
+      "content_hash": "613e69d5b874cc2e85b753c35cac07562f9a5a5245e01f5cbafe50b6aaa6cafc",
+      "title": "Blue Origin Rocket Explodes Into Huge Ball Of Flame",
+      "sent_at": "2026-05-29T08:03:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/29/imf-urges-sri-lanka-to-stay-the-reform-course",
+      "content_hash": "a52977c1911eae26c7b326398cbdeb76320a051f88af177de40db8ff00ea7a8e",
+      "title": "IMF Urges Sri Lanka to Stay the Reform Course",
+      "sent_at": "2026-05-29T08:03:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/29/over-3kg-of-%e2%80%98ice%e2%80%99-seized-in-baduraliya-school-targeting-drug-dealer-arrested",
+      "content_hash": "3ffd7a97fc0610016648094a82282d9c30a28fbb6d8c83ab5a28c774d83cf8a9",
+      "title": "Over 3kg of ‘Ice’ Seized in Baduraliya; School-Targeting Drug Dealer Arrested",
+      "sent_at": "2026-05-29T08:03:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/29/sri-lanka-debt-risks-remain-but-outlook-stabilising-with-growth-and-fiscal-discipline",
+      "content_hash": "6c713332dfee243a453f572641916f187fa9d67c7e9ad5c0090c673d814c203b",
+      "title": "Sri Lanka Debt Risks Remain but Outlook Stabilising with Growth and Fiscal Discipline",
+      "sent_at": "2026-05-29T08:03:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/29/sri-lanka-establishes-high-commission-in-wellington",
+      "content_hash": "d9d9c9c9a5af7df1d97ad85daf28a0467060da703117f8dd72cae7141da9aee6",
+      "title": "Sri Lanka Establishes High Commission in Wellington",
+      "sent_at": "2026-05-29T08:03:17Z"
     }
   ]
 }
