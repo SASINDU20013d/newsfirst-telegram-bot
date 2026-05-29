@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/22/no-repeat-of-2022-economic-crisis-assures-president",
-      "content_hash": "ad73f5fcd507ffd8c3e510e6d9a5fee2f57b769aa7bce85e933c4239f473519d",
-      "title": "No Repeat of 2022 Economic Crisis, Assures President",
-      "sent_at": "2026-05-22T11:47:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/22/police-detain-21-deported-suspects-tied-to-organised-crime",
-      "content_hash": "ecca96348f2572618a850357d2d4cc9a1c40cf59743e74b6fe174babc1bfad93",
-      "title": "Police Detain 21 Deported Suspects Tied to Organised Crime",
-      "sent_at": "2026-05-22T11:47:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/22/pambegama-records-highest-rainfall-as-heavy-showers-continue",
-      "content_hash": "12a2be9b55379eafd785fd48e2c954645d1db5cf43b1da671d9423314714133e",
-      "title": "Pambegama Records Highest Rainfall as Heavy Showers Continue",
-      "sent_at": "2026-05-22T14:46:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/23/116-suspected-meningitis-cases-reported-across-the-island",
       "content_hash": "de69e71d2b592ba9067a7f2ca5c9ee020148983b98cdb178d6de0b6866792ffa",
       "title": "116 Suspected Meningitis Cases Reported Across the Island",
@@ -863,6 +845,12 @@
       "content_hash": "2496d8fe39310422e40eb05474a16006d7b8745b142cfbfb3b369a37d0ba266f",
       "title": "Trial Against Namal In Krrish Case To Begin In July",
       "sent_at": "2026-05-29T11:37:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/29/political-power-behind-drug-trade-broken-says-president",
+      "content_hash": "ad243fa3964320ff1fe01418c4ce87fdaeb093bdfea2e9f979d0599d3133c00e",
+      "title": "Political Power Behind Drug Trade 'Broken' Says President",
+      "sent_at": "2026-05-29T15:49:35Z"
     }
   ]
 }
