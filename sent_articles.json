@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/23/death-penalty-for-five-in-bataduwa-murder-case",
-      "content_hash": "f6c7fc31d603edc984565aa113a471bcb0cf8b3428f35cb2c482c221e4f65975",
-      "title": "Death penalty for five in Bataduwa murder case",
-      "sent_at": "2026-05-23T09:57:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/pm-dr-harini-amarasuriya-returns-to-sri-lanka-after-official-uk-visit",
-      "content_hash": "3ff66cd12463c42e0f92c8c47e7fc096e5349bbc80db74fc31063c0c058b3a51",
-      "title": "PM Dr . Harini Amarasuriya Returns to Sri Lanka After Official UK Visit",
-      "sent_at": "2026-05-23T09:57:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/sri-lankan-authorities-launch-rescue-operations-3-sri-lankan-multi-day-vessels-in-distress-at-sea",
-      "content_hash": "a145f0975bbc73b78d6e305bc7f63921a661ab46c42eac080bdf5d6e29ab03a0",
-      "title": "Sri Lankan Authorities Launch Rescue Operations: 3 Sri Lankan Multi-day Vessels in Distress At Sea",
-      "sent_at": "2026-05-23T09:57:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/two-suspects-among-21-deported-from-dubai-issued-red-notice",
-      "content_hash": "ffd2be6576a6c2f6eef011bf0ae76180b9b5e9a313187e5f71539fd26719054d",
-      "title": "Two Suspects among 21 Deported from Dubai Issued Red Notice",
-      "sent_at": "2026-05-23T09:57:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/kalu-ganga-reaches-minor-flood-level-flood-warning-extended-in-kalutara-district",
-      "content_hash": "379dc282bdfbccb54e99619ca9a5bc0006b22cc9c337e11edf1b5e67eb6862c4",
-      "title": "Kalu Ganga Reaches Minor Flood Level; Flood Warning Extended in Kalutara District",
-      "sent_at": "2026-05-23T11:15:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/main-suspect-in-the-sirisara-uyana-shooting-arrested",
-      "content_hash": "0cbacb63b1c06a0e660130c1dfd695b02a76ae90ba308d4f4ae623b3d3a7966d",
-      "title": "Main Suspect in the Sirisara Uyana Shooting Arrested",
-      "sent_at": "2026-05-23T11:15:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/23/dilum-amunugama-summoned-over-remarks-against-abuse-victim",
       "content_hash": "cfc354c587b6c1893ce0aa5829f05301c4def486a48b522dcdcdfcc31b8dd026",
       "title": "Dilum Amunugama Summoned Over Remarks Against Abuse Victim",
@@ -845,6 +809,12 @@
       "content_hash": "226db7430cf831271701b372c580d5b602ec6fa5210af92823be0b9339408938",
       "title": "Sri Lanka Launches National Environmental Week Today With Focus On Conservation And Cleanliness",
       "sent_at": "2026-05-30T09:22:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/30/us-%e2%80%98more-than-capable%e2%80%99-of-resuming-war-against-iran-pete-hegseth",
+      "content_hash": "33a6e8f7441f6d6069645cf4638033bba3f0866017b2983b6372e34ce6426d43",
+      "title": "US ‘More Than Capable’ Of Resuming War Against Iran: Pete Hegseth",
+      "sent_at": "2026-05-30T11:23:48Z"
     }
   ]
 }
