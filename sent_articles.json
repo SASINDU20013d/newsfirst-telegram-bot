@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/23/dilum-amunugama-summoned-over-remarks-against-abuse-victim",
-      "content_hash": "cfc354c587b6c1893ce0aa5829f05301c4def486a48b522dcdcdfcc31b8dd026",
-      "title": "Dilum Amunugama Summoned Over Remarks Against Abuse Victim",
-      "sent_at": "2026-05-23T13:43:59Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/24/cope-reveals-alleged-land-fraud-at-the-national-housing-development-authority",
       "content_hash": "b95f48602e0e68cac5a642cfe4918442d76af3578903c2fa383d959f82491a82",
       "title": "COPE Reveals Alleged Land Fraud at the National Housing Development Authority",
@@ -815,6 +809,18 @@
       "content_hash": "33a6e8f7441f6d6069645cf4638033bba3f0866017b2983b6372e34ce6426d43",
       "title": "US ‘More Than Capable’ Of Resuming War Against Iran: Pete Hegseth",
       "sent_at": "2026-05-30T11:23:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/30/assembled-jeep-seized-in-kottawa-one-arrested",
+      "content_hash": "e316d5042a11311286db132ce0625638f9774af7735bc6d32526aed5931df808",
+      "title": "Assembled Jeep Seized in Kottawa; One Arrested",
+      "sent_at": "2026-05-30T13:47:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/30/malwathu-chapter-suspends-ven-pallegama-hemarathana-thero-temporary-atamasthanadhipathi-appointed",
+      "content_hash": "25d8a67f16743e5c3708fa27a363f376ac55bde68c70e65e404dd2abbe944d52",
+      "title": "Malwathu Chapter Suspends Ven. Pallegama Hemarathana Thero; Temporary Atamasthanadhipathi Appointed",
+      "sent_at": "2026-05-30T13:47:29Z"
     }
   ]
 }
