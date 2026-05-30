@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/23/116-suspected-meningitis-cases-reported-across-the-island",
-      "content_hash": "de69e71d2b592ba9067a7f2ca5c9ee020148983b98cdb178d6de0b6866792ffa",
-      "title": "116 Suspected Meningitis Cases Reported Across the Island",
-      "sent_at": "2026-05-23T04:43:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/atamasthanadhipathi-get-bail-on-strict-conditions",
-      "content_hash": "47beb3154a494b608547c28783a6a519ee785f53c5c71cf3886270ea2d0bc087",
-      "title": "Atamasthanadhipathi Get Bail On Strict Conditions",
-      "sent_at": "2026-05-23T04:43:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/basil-wanted-over-brown%e2%80%99s-hill-land-case",
-      "content_hash": "b1cdb8127d65cfc48faa8c17b8f768e8f29e962cf47868a4409814c67c19e15e",
-      "title": "Basil Wanted Over Brown’s Hill Land Case",
-      "sent_at": "2026-05-23T04:43:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/court-hears-new-evidence-in-chandrasena-death-probe",
-      "content_hash": "874c917364217bf01784895f5bd25cd6fc76bd53137a8f03e6bcac3e867adfc9",
-      "title": "Court Hears New Evidence in Chandrasena Death Probe",
-      "sent_at": "2026-05-23T04:43:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/flood-warning-extended-for-attanagalu-oya-basin-by-48-hours",
-      "content_hash": "d25c71e620632e9f0473f2748e8a91af43b5e9a458f6c388f904325461826267",
-      "title": "Flood Warning Extended for Attanagalu Oya Basin by 48 hours",
-      "sent_at": "2026-05-23T04:43:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/passengers-urged-to-arrive-early-amid-flooded-routes-to-bia",
-      "content_hash": "2f2a28fd5d50337b85170e711bee0bd2f33bbe35c75aee859c4bd3ef37337ba7",
-      "title": "Passengers Urged to Arrive Early Amid Flooded Routes to BIA",
-      "sent_at": "2026-05-23T04:43:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/rebuilding-lives-after-ditwah-skills-support-and-a-new-beginning-in-kandy",
-      "content_hash": "dcb3003cf86976836b4dae6dfbc834f7b0361a00fb2a0e54837fcb8b9a21898e",
-      "title": "Rebuilding Lives After Ditwah: Skills, Support and a New Beginning in Kandy",
-      "sent_at": "2026-05-23T04:43:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/rising-dollar-demand-linked-to-fuel-subsidies",
-      "content_hash": "5176e326244849e79ae58f41aa35ecff3f99c80fd56b3f4ea7fd7faaf9b6e294",
-      "title": "Rising Dollar Demand Linked to Fuel Subsidies",
-      "sent_at": "2026-05-23T04:43:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/severe-weather-causes-flooding-and-travel-disruptions",
-      "content_hash": "e87d071464435f21b6f854abfab4efc1a2477c390cf4a43f7d659ce99f4e687b",
-      "title": "Severe Weather Causes Flooding and Travel Disruptions",
-      "sent_at": "2026-05-23T04:43:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/23/tulsi-gabbard-resigns-as-donald-trump%e2%80%99s-us-intelligence-chief",
-      "content_hash": "993717feb0f1724d6c952048c98b254717db394c7ad07885516231be9e1d6b23",
-      "title": "Tulsi Gabbard Resigns as Donald Trump’s US Intelligence Chief",
-      "sent_at": "2026-05-23T04:43:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/23/death-penalty-for-five-in-bataduwa-murder-case",
       "content_hash": "f6c7fc31d603edc984565aa113a471bcb0cf8b3428f35cb2c482c221e4f65975",
       "title": "Death penalty for five in Bataduwa murder case",
@@ -887,6 +827,18 @@
       "content_hash": "35f91920a1e633459af44913933d373faaf2353cef738512e8228e389e391a0d",
       "title": "Vesak Full Moon Poya Day Observed Across Sri Lanka",
       "sent_at": "2026-05-30T03:49:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/30/airport-customs-arrest-18-suspects-over-illegal-cigarette-smuggling-attempt",
+      "content_hash": "29208a1f741b09a00c0419010a96f1709f288ff705c431f6390c868fdfdcea7a",
+      "title": "Airport Customs Arrest 18 Suspects Over Illegal Cigarette Smuggling Attempt",
+      "sent_at": "2026-05-30T06:49:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/30/minister-bimal-rathnayake-orders-review-of-disciplinary-procedures-for-drivers",
+      "content_hash": "e7e7234b4c89fddbdd7eb49b484bbba37af4bd4e1ef335a8b120553e130ef3dd",
+      "title": "Minister Bimal Rathnayake Orders Review Of Disciplinary Procedures For Drivers",
+      "sent_at": "2026-05-30T06:49:40Z"
     }
   ]
 }
