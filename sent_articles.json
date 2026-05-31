@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/24/good-news-in-few-hours-says-us-secretary-of-state-marco-rubio-during-india-visit",
-      "content_hash": "4cd2e5db70cd965371619f1ff2322654169ec86a70f3ba5b429b09c996007536",
-      "title": "\"Good News In Few Hours,\" Says US Secretary of State Marco Rubio During India Visit",
-      "sent_at": "2026-05-24T09:58:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/24/heavy-rain-advisories-to-continue-across-several-areas",
       "content_hash": "6e8f09564623dc5cefaf4fca845913e52138d30368f3f203d6d0f62d043be75f",
       "title": "Heavy Rain Advisories to Continue Across Several Areas",
@@ -833,6 +827,18 @@
       "content_hash": "c26423bcfa840cc282fc784af3b11dd08505dabda45d0b34564eda3483be40f0",
       "title": "Woman Murdered In Wellewa, Suspect Commits Suicide",
       "sent_at": "2026-05-31T08:16:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/japan-provides-usd-1-33-million-financial-aid-to-sri-lanka",
+      "content_hash": "7f96a769f80ecc34b2127dd3fd8a36abf6426fa1fca27a4fa19de2d2a8360a6d",
+      "title": "Japan Provides USD $1.33 Million Financial Aid to Sri Lanka",
+      "sent_at": "2026-05-31T11:00:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/special-security-and-traffic-plan-in-place-for-sirasa-namami-vesak-zone",
+      "content_hash": "69b6665f339465e2f5bc8b0dd7607987476ccef1c22f559acb4b7b80ea7d3f71",
+      "title": "Special Security And Traffic Plan In Place For Sirasa Namami Vesak Zone",
+      "sent_at": "2026-05-31T11:00:52Z"
     }
   ]
 }
