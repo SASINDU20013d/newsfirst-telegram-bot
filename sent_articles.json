@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/24/araqchi-regional-counterparts-discuss-diplomatic-efforts-to-end-us-israeli-war",
-      "content_hash": "f24b16a3b0a935df4e9066cdea9d35fe42ddb2fc854bcdc24a29e411832bb960",
-      "title": "Araqchi, Regional Counterparts Discuss Diplomatic Efforts to End US-Israeli War",
-      "sent_at": "2026-05-24T07:24:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/foreign-minister-vijitha-herath-to-undertake-an-official-visit-to-australia-and-new-zealand",
-      "content_hash": "961d8b0c7a59a2265ef38cfb7e6abd7697593b2b0303ca7a0cf332350ff42c95",
-      "title": "Foreign Minister Vijitha Herath to Undertake An Official Visit to Australia and New Zealand",
-      "sent_at": "2026-05-24T07:24:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/mattala-rajapaksa-international-airport-prepared-for-emergency-landings-as-showery-conditions-persist-at-bia",
-      "content_hash": "89937e3d7c095387ca64f1f9f5a00161f0ae03aa0eab3bb9128c413a9463b4bd",
-      "title": "Mattala Rajapaksa International Airport Prepared For Emergency Landings As Showery Conditions Persist at BIA",
-      "sent_at": "2026-05-24T07:24:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/minor-floods-landslide-and-heavy-rain-advisories-to-continue-across-several-areas",
-      "content_hash": "6cc6067c734bc83bd0e180a97fab5a3d357ae6a961e8b117c0a8c6088f0f2536",
-      "title": "Minor Floods, Landslide, and Heavy Rain Advisories to Continue Across Several Areas",
-      "sent_at": "2026-05-24T07:24:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/several-feared-killed-in-pakistan-s-quetta-train-blast-more-than-20-injured",
-      "content_hash": "4a98f08b184a2b15adea878fb6136855aeaed12cd53e670ea0e91d9189f9050d",
-      "title": "Several Feared Killed in Pakistan's Quetta Train Blast; More Than 20 Injured",
-      "sent_at": "2026-05-24T07:24:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/statements-recorded-from-former-officials-over-missing-paintings-at-national-art-gallery",
-      "content_hash": "f29b844a4437483d3b8456d43d847bbef883f770f515e3735067a9dedfe5fecb",
-      "title": "Statements Recorded From Former Officials Over Missing Paintings at National Art Gallery",
-      "sent_at": "2026-05-24T07:24:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/trump-says-iran-agreement-%e2%80%98largely-negotiated%e2%80%99-awaiting-finalisation",
-      "content_hash": "0d778e4ec4fff0c4583334c527373e8ef79f14904e6bb338b24e975945a98abb",
-      "title": "Trump Says Iran Agreement ‘Largely Negotiated’, Awaiting Finalisation",
-      "sent_at": "2026-05-24T07:24:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/24/good-news-in-few-hours-says-us-secretary-of-state-marco-rubio-during-india-visit",
       "content_hash": "4cd2e5db70cd965371619f1ff2322654169ec86a70f3ba5b429b09c996007536",
       "title": "\"Good News In Few Hours,\" Says US Secretary of State Marco Rubio During India Visit",
@@ -839,6 +797,42 @@
       "content_hash": "0d35caea79b66af57f7924d4c2626d28cd0395889db5c876322a2cdf0f289f07",
       "title": "Sri Lanka to Receive USD 695Mn IMF Tranches by Early June",
       "sent_at": "2026-05-31T04:46:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/2-867-new-nursing-appointments-to-be-granted-by-october-2026",
+      "content_hash": "f82227caa087c8963fea408a656701fe425e53a07f4edec82e12809e022b2959",
+      "title": "2,867 New Nursing Appointments To Be Granted By October 2026",
+      "sent_at": "2026-05-31T08:16:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/first-ever-triple-vessel-operation-underway-at-port-of-trincomalee",
+      "content_hash": "32005b1068eea67d4bca5b8e15a4a7fd45e9d8c5baedb95f4da84ad8c893893c",
+      "title": "First-Ever Triple Vessel Operation Underway At Port of Trincomalee",
+      "sent_at": "2026-05-31T08:16:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/lanka-ioc-increases-fuel-prices-following-cpc-revision",
+      "content_hash": "dcc782439879d26487ffc86612781c768a63c08cb0240feb6213d8fff93fd4ce",
+      "title": "Lanka IOC Increases Fuel Prices Following CPC Revision",
+      "sent_at": "2026-05-31T08:16:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/six-battery-energy-storage-systems-bess-imported-to-strengthen-national-power-grid",
+      "content_hash": "2ce3c08ecd5d3d671dd9242fec27e5a4204f18de1309a4c8161d42a78851decd",
+      "title": "Six Battery Energy Storage Systems (BESS) Imported To Strengthen National Power Grid",
+      "sent_at": "2026-05-31T08:16:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/three-wheeler-fares-to-remain-unchanged-despite-fuel-price-hike",
+      "content_hash": "e1df016dce6a55883ffd5244116b6e7d525b89bbba54a4169f2588f56126ca4f",
+      "title": "Three-Wheeler Fares To Remain Unchanged Despite Fuel Price Hike",
+      "sent_at": "2026-05-31T08:16:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/woman-murdered-in-wellewa-suspect-commits-suicide",
+      "content_hash": "c26423bcfa840cc282fc784af3b11dd08505dabda45d0b34564eda3483be40f0",
+      "title": "Woman Murdered In Wellewa, Suspect Commits Suicide",
+      "sent_at": "2026-05-31T08:16:39Z"
     }
   ]
 }
