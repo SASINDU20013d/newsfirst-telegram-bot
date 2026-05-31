@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/24/cope-reveals-alleged-land-fraud-at-the-national-housing-development-authority",
-      "content_hash": "b95f48602e0e68cac5a642cfe4918442d76af3578903c2fa383d959f82491a82",
-      "title": "COPE Reveals Alleged Land Fraud at the National Housing Development Authority",
-      "sent_at": "2026-05-24T04:00:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/ministry-of-health-identifies-surge-in-meningitis-across-several-districts",
-      "content_hash": "c40c541837a0988526e8a03786ec0321301f6ad295780e3630e934973aedcff2",
-      "title": "Ministry of Health Identifies Surge in Meningitis Across Several Districts",
-      "sent_at": "2026-05-24T04:00:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/minor-flood-warnings-remain-in-low-lying-areas-along-kalu-river",
-      "content_hash": "07a95731caafc1d27a034ca73ac7d4fcce970269291f258d4c9a0b03763cb22f",
-      "title": "Minor Flood Warnings Remain in Low-Lying Areas Along Kalu River",
-      "sent_at": "2026-05-24T04:00:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/red-notices-issued-to-arrest-226-suspects-linked-to-organized-crime-and-other-criminal-offences",
-      "content_hash": "e80ef6bcbc8c77fdf0da3d224a82db45f18fc4f4742be432316fe3c8e844209d",
-      "title": "Red Notices Issued to Arrest 226 Suspects Linked to Organized Crime and Other Criminal Offences",
-      "sent_at": "2026-05-24T04:00:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/suspect-arrested-over-double-murder-in-hattondikoya-area",
-      "content_hash": "826e7e6fb40ba1216d1a05e979006a62748d4775526a0c13662932594a3f2702",
-      "title": "Suspect Arrested Over Double Murder in Hatton–Dikoya Area",
-      "sent_at": "2026-05-24T04:00:28Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/24/araqchi-regional-counterparts-discuss-diplomatic-efforts-to-end-us-israeli-war",
       "content_hash": "f24b16a3b0a935df4e9066cdea9d35fe42ddb2fc854bcdc24a29e411832bb960",
       "title": "Araqchi, Regional Counterparts Discuss Diplomatic Efforts to End US-Israeli War",
@@ -827,6 +797,48 @@
       "content_hash": "dc5df119d91d7ab840ac2582adbc220943bc9c8147d3065bc3571079035627fe",
       "title": "Sri Lanka's CPC Raises Prices Of Diesel, Petrol, Kerosene",
       "sent_at": "2026-05-30T19:22:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/ban-on-single-use-plastic-water-bottles-in-state-sector",
+      "content_hash": "0247c156bc20f4c2a1c383895eb52602b0a029e5bf2f6ad8100b0729e135d0ec",
+      "title": "Ban on Single-Use Plastic Water Bottles in State Sector",
+      "sent_at": "2026-05-31T04:45:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/psg-wins-back-to-back-champions-league-titles-after-shootout-victory-against-arsenal",
+      "content_hash": "9513fe493b88b55420ffcb8d881de4f86b4b6761d1018e4063bff0dc3eb00bcd",
+      "title": "PSG Wins Back-to-Back Champions League Titles After Shootout Victory Against Arsenal",
+      "sent_at": "2026-05-31T04:46:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/search-underway-for-three-children-missing-after-bathing-in-seas-off-hungama",
+      "content_hash": "8d81eacac1dc2d62144b295155818e851c97123fb3746ea878024dc6996188f2",
+      "title": "Search Underway For Three Children Missing After Bathing In Seas Off Hungama",
+      "sent_at": "2026-05-31T04:46:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/showers-above-50mm-expected-met-dept",
+      "content_hash": "8147fcde60e13f539ecd34932bb357e04835fe968ba972655eaa8588d65a28d4",
+      "title": "Showers Above 50mm Expected: MET Dept.",
+      "sent_at": "2026-05-31T04:46:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/sirasa-namami-vesak-zone-continues-for-second-day-in-rangiri-dambulla-rajamaha-viharaya",
+      "content_hash": "3d6a49b6e7247acdf0790ac6a7061437b0608d8c5849359fe6a99e36f80328ba",
+      "title": "Sirasa Namami Vesak Zone Continues For Second Day In Rangiri Dambulla Rajamaha Viharaya",
+      "sent_at": "2026-05-31T04:46:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/solar-panel-operators-requested-to-deactivate-rooftop-solar-to-stabilize-national-grid",
+      "content_hash": "e3ffab52bd0fd8364cefd965f77a2eabc149c32967ac2b3542a98350e18bb40d",
+      "title": "Solar Panel Operators Requested to Deactivate Rooftop Solar to Stabilize National Grid",
+      "sent_at": "2026-05-31T04:46:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/sri-lanka-to-receive-usd-695mn-imf-tranches-by-early-june",
+      "content_hash": "0d35caea79b66af57f7924d4c2626d28cd0395889db5c876322a2cdf0f289f07",
+      "title": "Sri Lanka to Receive USD 695Mn IMF Tranches by Early June",
+      "sent_at": "2026-05-31T04:46:12Z"
     }
   ]
 }
