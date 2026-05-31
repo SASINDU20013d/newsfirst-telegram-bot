@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/24/heavy-rain-advisories-to-continue-across-several-areas",
-      "content_hash": "6e8f09564623dc5cefaf4fca845913e52138d30368f3f203d6d0f62d043be75f",
-      "title": "Heavy Rain Advisories to Continue Across Several Areas",
-      "sent_at": "2026-05-24T11:19:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/24/potential-deal-could-restore-hormuz-traffic-to-pre-war-level-in-30-days-says-iran",
-      "content_hash": "bcccd049a6754d5e108df5de2009e3f66e74756115ea7cfaf15763b9456c9b9f",
-      "title": "Potential Deal Could Restore Hormuz Traffic to Pre-War Level in 30 Days, Says Iran",
-      "sent_at": "2026-05-24T11:19:11Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/24/7-suspected-meningitis-cases-at-angunakolapelessa-prison",
       "content_hash": "d0917f367d86ffcf5943e9659cdb4552242867cb4823e7dc8be388102e93f1c0",
       "title": "7 Suspected Meningitis Cases at Angunakolapelessa Prison",
@@ -839,6 +827,12 @@
       "content_hash": "69b6665f339465e2f5bc8b0dd7607987476ccef1c22f559acb4b7b80ea7d3f71",
       "title": "Special Security And Traffic Plan In Place For Sirasa Namami Vesak Zone",
       "sent_at": "2026-05-31T11:00:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/05/31/edb-announces-significant-increase-in-export-earnings-in-april",
+      "content_hash": "4de18b474d2d77bf3814d144e7289ecddad44241094ab791cde0783507d66894",
+      "title": "EDB Announces Significant Increase In Export Earnings In April",
+      "sent_at": "2026-05-31T12:13:45Z"
     }
   ]
 }
