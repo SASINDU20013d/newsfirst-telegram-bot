@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/26/12-hour-water-cut-for-mahara-and-gampaha-pradeshiya-sabha-divisions-tomorrow-26",
-      "content_hash": "a6447736ab607fdb07724154f30e0ba96251469d197b950569b276fb31f2b038",
-      "title": "12-Hour Water Cut for Mahara and Gampaha Pradeshiya Sabha Divisions Tomorrow (26)",
-      "sent_at": "2026-05-26T15:47:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/23-monks-back-in-remand-over-drug-racket",
-      "content_hash": "c4ee264c7f0238874dba6170b9c4e24b65a7fe30101cc8aeca18df29e93e15f3",
-      "title": "23 Monks Back In Remand Over Drug Racket",
-      "sent_at": "2026-05-26T15:47:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/cbsl-chief-signals-stability-despite-global-pressures-and-currency-adjustments",
-      "content_hash": "37e1f548dc068c277640803a9698de02a761ba07118449b39595552c5a6d26c8",
-      "title": "CBSL Chief Signals Stability Despite Global Pressures and Currency Adjustments",
-      "sent_at": "2026-05-26T15:47:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/fbi-assistance-sought-to-unlock-chandrasena-s-phone",
-      "content_hash": "7ea850217d884d178a5834644131e1872d1f7287d31f1ff5962d99336b42fc54",
-      "title": "FBI Assistance Sought to Unlock Chandrasena's Phone",
-      "sent_at": "2026-05-26T15:47:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/pavithra-gives-statement-over-asset-investigation-johnston-seeks-new-date",
-      "content_hash": "bdcdc54ed333c78adb08f72699a11e4c2534a12278460b84d8ac01b4bde20003",
-      "title": "Pavithra Gives Statement Over Asset Investigation; Johnston Seeks New Date",
-      "sent_at": "2026-05-26T15:47:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/singapore-foreign-minister-heads-to-north-korea-in-rare-visit",
-      "content_hash": "63b6730d3fccfd6a192be33d1978ef7f69a4e1b01c86cebbab74a5b3ec173b48",
-      "title": "Singapore Foreign Minister Heads To North Korea In Rare Visit",
-      "sent_at": "2026-05-26T15:47:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/speculation-drove-dollar-spike-central-bank-chief-clarifies-rate-distortion",
-      "content_hash": "516f1801f146f77811c873f7007f669fc2eec9972a5bef61181bcffa3690790d",
-      "title": "Speculation Drove Dollar Spike: Central Bank Chief Clarifies Rate Distortion",
-      "sent_at": "2026-05-26T15:47:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/sri-lanka-has-flexibility-on-subsidies-and-imf-targets-adjusted-to-global-conditions",
-      "content_hash": "ab7e0ab6f065a0d05bbe64564be8f7c360ce170eea4926d5a0ab753a87331d23",
-      "title": "Sri Lanka Has Flexibility on Subsidies and IMF Targets Adjusted to Global Conditions",
-      "sent_at": "2026-05-26T15:47:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/taiwan-market-rises-ahead-of-india-as-tsmc-gains",
-      "content_hash": "bf4b41019b59e4f1f998e345faa39d181fd8df41f7d885c4dbb8168b3b8b4465",
-      "title": "Taiwan Market Rises Ahead of India as TSMC Gains",
-      "sent_at": "2026-05-26T15:47:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/we-fell-but-we-rise-again-gammedda-rebuild-ignites-new-futures",
-      "content_hash": "eadc10a14e9c535b2a84aa2cc2bdc53606bad0746eacf5925957e14c7ba8c5d1",
-      "title": "We Fell, But We Rise Again : Gammedda Rebuild Ignites New Futures",
-      "sent_at": "2026-05-26T15:47:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/27/203-meningitis-cases-reported-across-several-areas-of-the-island",
       "content_hash": "3b6212b117491419f956c9e35c8679f7c3a39d10756aa2f46a9b040c50505945",
       "title": "203 Meningitis Cases Reported Across Several Areas of the Island",
