@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/26/ag-moves-to-indict-ex-police-chief-deshabandu-within-a-month",
-      "content_hash": "57eb0753deade80ed485a0449d12e5d0c63d5930c8c487b1f49c376022c537e4",
-      "title": "AG Moves to Indict Ex-Police Chief Deshabandu Within a Month",
-      "sent_at": "2026-05-26T07:54:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/colombo-port-revenue-surges-20-amid-middle-east-conflict-disruptions",
-      "content_hash": "c6e6dc3bb532a9b7a8a4f67aba450403bd88d341bbc24cba717dfa028db4f568",
-      "title": "Colombo Port Revenue Surges 20% Amid Middle East Conflict Disruptions",
-      "sent_at": "2026-05-26T07:54:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/court-delays-verdict-in-cases-against-sarana-gunawardena",
-      "content_hash": "b7e3c7b08cc6d21638cc9b1239e2af78caa6df11269ad72e660aeb008a05a832",
-      "title": "Court Delays Verdict in Cases Against Sarana Gunawardena",
-      "sent_at": "2026-05-26T07:54:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/police-roll-out-special-traffic-and-security-plan-ahead-of-hajj-2026",
-      "content_hash": "bffe8b9a2ccaf947ab3903e0d373a4ecdd921518b230aa37796a3eb0c98ee0cb",
-      "title": "Police Roll Out Special Traffic and Security Plan Ahead of Hajj 2026",
-      "sent_at": "2026-05-26T07:54:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/sri-lanka%e2%80%99s-foreign-remittances-surge-to-3-06-billion-in-early-2026",
-      "content_hash": "1a533d73a3c12f01bc7e4b86a27387ebb63b316a9c4337136b042efca7c1444b",
-      "title": "Sri Lanka’s Foreign Remittances Surge to $3.06 Billion in Early 2026",
-      "sent_at": "2026-05-26T07:54:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/26/third-arrest-made-in-galle-drive-by-killing-case",
-      "content_hash": "e3af36340bf0a23703165577e428df9a23b48f73bd09f992898cce89ed78cef1",
-      "title": "Third Arrest Made in Galle Drive-By Killing Case",
-      "sent_at": "2026-05-26T07:54:19Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/26/12-hour-water-cut-for-mahara-and-gampaha-pradeshiya-sabha-divisions-tomorrow-26",
       "content_hash": "a6447736ab607fdb07724154f30e0ba96251469d197b950569b276fb31f2b038",
       "title": "12-Hour Water Cut for Mahara and Gampaha Pradeshiya Sabha Divisions Tomorrow (26)",
@@ -863,6 +827,48 @@
       "content_hash": "401c243a0b9d593ad6709604d59774b6a5e3415fa4a603dc17b6e5acac0e6d40",
       "title": "Sri Lanka to Gazette 5 Forest Reserves to Protect Ancient 'Wewa' hydraulic Heritage",
       "sent_at": "2026-06-02T05:52:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/02/10-us-sea-ranger-helicopters-arrive-to-boost-sri-lanka%e2%80%99s-air-power",
+      "content_hash": "33b3a020962eb78f6615849ebfce5b2f0785bdb2b8299ac4c90b7d0967759c03",
+      "title": "10 US 'Sea Ranger' Helicopters Arrive to Boost Sri Lanka’s Air Power",
+      "sent_at": "2026-06-02T10:42:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/02/23-high-profile-overseas-based-drug-traffickers-identified",
+      "content_hash": "6640b2ce0196ac3fb6a7a62d4d0cc155166eda9d22700e16f35e9824ccb3536b",
+      "title": "23 High-Profile Overseas-based Drug Traffickers Identified",
+      "sent_at": "2026-06-02T10:42:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/02/can-sri-lanka-become-a-high-income-nation-imf-urges-deep-reforms-for-sri-lanka%e2%80%99s-future",
+      "content_hash": "c5195e10bc55c0226c8627010323912edef3b7719a7634f7f51baf27f9edf944",
+      "title": "Can Sri Lanka Become a High-Income Nation? IMF Urges Deep Reforms for Sri Lanka’s Future",
+      "sent_at": "2026-06-02T10:42:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/02/court-summons-lawyers-in-kapila-chandrasena-death-probe",
+      "content_hash": "42dba5af684a46f326b545e7248c3857634c8f968603766808f7c54daa0753f1",
+      "title": "Court Summons Lawyers in Kapila Chandrasena Death Probe",
+      "sent_at": "2026-06-02T10:43:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/02/gota-allowed-to-testify-online-in-lalith-kugan-case",
+      "content_hash": "41d2a21bd52f66bf376301b250e58ff09c2eb502e0795247f43c16a9de122190",
+      "title": "Gota Allowed to Testify Online in Lalith-Kugan Case",
+      "sent_at": "2026-06-02T10:43:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/02/praja-shakthi-mega-rural-drive-launched",
+      "content_hash": "2dc95910fd7523369eb1e3ea0bf30787015ac60f7f9074d998b3be6cdbda5d52",
+      "title": "'Praja Shakthi' Mega Rural Drive Launched",
+      "sent_at": "2026-06-02T10:43:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/02/sri-lanka-open-for-business-hanif-yusoof-meets-us-under-secretary-of-state",
+      "content_hash": "4d0a1c23d60394feaaa0abfd193f02458258889b707149252d60a2daa1d0e177",
+      "title": "'Sri Lanka Open for Business': Hanif Yusoof Meets US Under Secretary of State",
+      "sent_at": "2026-06-02T10:43:10Z"
     }
   ]
 }
