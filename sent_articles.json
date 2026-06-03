@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/27/203-meningitis-cases-reported-across-several-areas-of-the-island",
-      "content_hash": "3b6212b117491419f956c9e35c8679f7c3a39d10756aa2f46a9b040c50505945",
-      "title": "203 Meningitis Cases Reported Across Several Areas of the Island",
-      "sent_at": "2026-05-27T05:19:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/27/coal-probe-statement-recording-to-begin-next-week",
-      "content_hash": "d90cbb26aa375a63ffdab5f06895b6980d3a7743a747b987e3cd2ee27a996939",
-      "title": "Coal Probe Statement Recording to Begin Next Week",
-      "sent_at": "2026-05-27T05:19:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/27/imf-executive-board-to-decide-on-sri-lanka%e2%80%99s-combined-reviews-today",
-      "content_hash": "7733cc979463391177ed660038410c297fc6441fb7d3aa7384ffe3c1fee533e6",
-      "title": "IMF Executive Board to Decide On Sri Lanka’s Combined Reviews Today",
-      "sent_at": "2026-05-27T05:19:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/27/missing-beruwala-fishing-boat-found",
-      "content_hash": "608c4a494f7f89e7d3eb760c9975220231d952a39e73974c0cffaf1cc9d868b4",
-      "title": "Missing Beruwala Fishing Boat Found",
-      "sent_at": "2026-05-27T05:19:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/27/national-vesak-week-commences-today",
-      "content_hash": "82f4d2539fdf13d65a6ed32805747fef8628d2127f76eeb014c4a40a8cf6d257",
-      "title": "National Vesak Week Commences Today",
-      "sent_at": "2026-05-27T05:19:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/27/two-killed-one-injured-in-ampara-tipperthree-wheeler-collision-pedestrian-killed-in-kosgoda-accident",
-      "content_hash": "1aef9d766918fdb8801cc426f7134e62fd95444a4f4b066b6a9e237de11a0063",
-      "title": "Two Killed, One Injured in Ampara Tipper–Three-Wheeler Collision; Pedestrian Killed in Kosgoda Accident",
-      "sent_at": "2026-05-27T05:19:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/27/17-dengue-related-deaths-so-far-in-2026",
       "content_hash": "a1519e8d6109f1fe4f8cbc703f402ec4c7981f18e9fe7bc1826494427e40082d",
       "title": "17 Dengue-related deaths so far in 2026",
@@ -881,6 +845,66 @@
       "content_hash": "13ed18642d596a83bcb9e6888f3a78f8c95926b45ff8dc611296295d64d53ee9",
       "title": "Sri Lanka Receives $695 Million IMF Funding Boost",
       "sent_at": "2026-06-03T04:40:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/2-5m-sent-to-fraudulent-party-without-verification",
+      "content_hash": "ee62ee5253215f29624992ff27258d4004f5284f6f43933590712eb97ae38095",
+      "title": "$2.5M Sent to Fraudulent Party Without Verification",
+      "sent_at": "2026-06-03T09:54:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/fire-at-a-hotel-in-new-delhi-21-dead-40-rescued",
+      "content_hash": "cc6939e35221564a714cb7941b70cd77659b4c0e8df654d7a21ebcdf759e764c",
+      "title": "Fire At A Hotel In New Delhi; 21 Dead & 40 Rescued",
+      "sent_at": "2026-06-03T09:54:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/indian-navy-s-ins-airavat-docks-in-colombo",
+      "content_hash": "6daca10b66a8684a044a2c0027b9ac153550fa9f23f1454e1c741ff2154b686a",
+      "title": "Indian Navy's INS Airavat Docks in Colombo",
+      "sent_at": "2026-06-03T09:54:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/japan-signals-strong-support-for-sri-lanka%e2%80%99s-blue-economy-and-farming-future",
+      "content_hash": "ac280b71ac41ca0bb8cff4a8274c4417742096b1a666d8748f2a54fc2e7e5b54",
+      "title": "Japan Signals Strong Support for Sri Lanka’s Blue Economy and Farming Future",
+      "sent_at": "2026-06-03T09:54:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/jetstar-to-launch-direct-flights-between-sri-lanka-and-australia-in-august-2026",
+      "content_hash": "e89ea5552acdf8ac1c92d1d1874743fea97f977976a430021bbb304135e2dbd7",
+      "title": "Jetstar to Launch Direct Flights Between Sri Lanka and Australia in August 2026",
+      "sent_at": "2026-06-03T09:54:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/pakistan-navy-ships-and-submarine-dock-in-colombo",
+      "content_hash": "4c75553b76faf5f1b5e7ef62181f3b5677ac5b1f933605c7b1f19f89a735bf19",
+      "title": "Pakistan Navy Ships and Submarine Dock in Colombo",
+      "sent_at": "2026-06-03T09:54:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/sri-lanka-gains-australia-new-zealand-backing-for-entry-into-world%e2%80%99s-largest-trade-pact",
+      "content_hash": "b2bea408543dd40abbc152c360d3d9e3f3595a02b528315cb5d33d56c4951efe",
+      "title": "Sri Lanka Gains Australia, New Zealand Backing for Entry into World’s Largest Trade Pact",
+      "sent_at": "2026-06-03T09:54:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/the-bond-scam-every-sri-lankan-should-know-what-happened-and-why-it-still-matters",
+      "content_hash": "e718ab0e44c84dd6c202e98b109b8132fddc318b08be6c8ffe00874b8ad3189a",
+      "title": "The Bond Scam Every Sri Lankan Should Know: What Happened and Why It Still Matters",
+      "sent_at": "2026-06-03T09:54:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/travel-ban-imposed-on-former-sri-lanka-president",
+      "content_hash": "c361edd98e5c4e4f16e162a7845bc419ce705c41bcd66ee17d8d3b855af15d02",
+      "title": "Travel Ban Imposed on Former Sri Lanka President",
+      "sent_at": "2026-06-03T09:54:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/03/us-lists-sri-lanka-in-global-forced-labor-trade-inquiry-ustr-proposes-additional-12-5-duty",
+      "content_hash": "b3622c5a0c0340fdfd3c2c79e114adb72f0b1e51acb359fcd99415a84c1b8cd9",
+      "title": "US Lists Sri Lanka in Global Forced Labor Trade Inquiry; USTR Proposes Additional 12.5% Duty",
+      "sent_at": "2026-06-03T09:54:33Z"
     }
   ]
 }
