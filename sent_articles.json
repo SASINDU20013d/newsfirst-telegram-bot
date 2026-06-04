@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/28/cpc-to-receive-two-crude-oil-shipments-from-u-s-and-middle-east",
-      "content_hash": "5054dee5dad0314c4040eee957406a0b7ead2e3edebe3cf56e940560b14241f6",
-      "title": "CPC to Receive Two Crude Oil Shipments From U.S. and Middle East",
-      "sent_at": "2026-05-28T11:48:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/28/police-open-fire-on-vehicle-at-minuwangoda-checkpoint",
-      "content_hash": "37548413d1d93e057b654138fee4d22625328c58d8e234d02f988773d29d3335",
-      "title": "Police Open Fire on Vehicle at Minuwangoda Checkpoint",
-      "sent_at": "2026-05-28T11:48:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/28/welikada-oic-remanded-over-alleged-bribery-bid",
-      "content_hash": "ef8b22a17fe84bac7f0d887957f9605ecaf7d4f8677a6aabbb81b78449adc6e2",
-      "title": "Welikada OIC Remanded Over Alleged Bribery Bid",
-      "sent_at": "2026-05-28T11:48:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/28/essential-services-gazette-extended-across-key-sectors",
       "content_hash": "995b78dad9bf37f1f9c3a7a766016b48fd10d1fc3b6f7baf1899b03dd7b28baa",
       "title": "Essential Services Gazette Extended Across Key Sectors",
@@ -851,6 +833,18 @@
       "content_hash": "68237830184558bef7df531401cd965e9a63861c6b591c0af5f55f71dd6730d3",
       "title": "Yoshitha Case Delayed:Court Awaits Appeal Decision",
       "sent_at": "2026-06-04T08:52:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/04/12-killed-in-batagoda-elders%e2%80%99-home-fire-in-anguruwathota",
+      "content_hash": "34ea3b01470afdf81754fc3f9e6dc93968e3f1917a9bffd0a55997700dac2ae7",
+      "title": "12 Killed in Batagoda Elders’ Home Fire in Anguruwathota",
+      "sent_at": "2026-06-04T11:59:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/04/one-in-five-sri-lankan-schoolchildren-malnourished",
+      "content_hash": "1c62353facd8dfa08786f22f1f3e8a4f7f7290d94c315f7177a55044a91b1f67",
+      "title": "One in Five Sri Lankan Schoolchildren Malnourished",
+      "sent_at": "2026-06-04T11:59:16Z"
     }
   ]
 }
