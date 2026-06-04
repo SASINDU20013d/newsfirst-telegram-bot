@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/28/abc-australia-maharaja-media-network-announce-partnership-brand-sri-lanka-to-the-world",
-      "content_hash": "c7a19d05e3dbb5bec999f105e02016b3622a386ba4d80c5b73801969df7ce6ea",
-      "title": "ABC Australia & Maharaja Media Network Announce Partnership: Brand Sri Lanka to the World",
-      "sent_at": "2026-05-28T03:59:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/28/authorities-warn-of-scam-under-a-fake-%e2%80%98gov-pay%e2%80%99-in-finance-fraud",
-      "content_hash": "fa1e75241561ab16c5ba0efb0074ffcd0954729146b3d311300da814a173f24b",
-      "title": "Authorities Warn of Scam Under A Fake ‘Gov Pay’ in Finance Fraud",
-      "sent_at": "2026-05-28T03:59:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/28/components-imported-for-the-country-s-first-commercial-scale-national-energy-project",
-      "content_hash": "430c2495c2307d36e766dff183d72724c62c88ef31c43e920b7153c559e1692a",
-      "title": "Components Imported For the Country's First Commercial-Scale National Energy Project",
-      "sent_at": "2026-05-28T03:59:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/28/construction-of-rambukkana-galagedara-section-of-the-central-expressway-to-begin-tomorrow-29",
-      "content_hash": "e7b8861819a8c3d57d0237a00f4b60e88da8d5f4564be90fb7d4ca2abc5d6050",
-      "title": "Construction of Rambukkana - Galagedara Section of The Central Expressway To Begin Tomorrow (29)",
-      "sent_at": "2026-05-28T03:59:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/28/imf-approves-695m-boost-for-sri-lanka-as-reform-momentum-holds",
-      "content_hash": "8a3e8c3ddfd92909b3714104472ebfee2f32d73bd87525386563a10131726e96",
-      "title": "IMF Approves $695M Boost for Sri Lanka as Reform Momentum Holds",
-      "sent_at": "2026-05-28T03:59:26Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/28/14-chinese-nationals-arrested-at-bia-for-smuggling-cigarettes",
       "content_hash": "2cd04b069b08c489ac568fe3e22b512d20c169618e010f645778acfc6a97c391",
       "title": "14 Chinese Nationals Arrested At BIA for Smuggling Cigarettes",
@@ -821,6 +791,42 @@
       "content_hash": "2f54198d055f0838356ae683a40895cf603523bdae3a6aa629a1aef0ec6d5c80",
       "title": "UPDATE: 11 Missing After Fire Engulfs Elderly Home",
       "sent_at": "2026-06-03T14:45:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/04/death-toll-rises-to-ten-in-tragic-blaze-in-anguruwatota-elderly-home",
+      "content_hash": "6b678f09047455b99d0ad1fa2c3b2003ab6f2973da8adcf44110163c48ef6105",
+      "title": "Death Toll Rises to Ten in Tragic Blaze in Anguruwatota Elderly Home",
+      "sent_at": "2026-06-04T04:25:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/04/gazzette-issued-for-recruitment-of-additional-3-000-student-nurses-to-strengthen-national-nursing-workforce",
+      "content_hash": "3ce31ff7772f93094b40c59c24fabecb51a0f06e71c47800be0d0339fefbec55",
+      "title": "Gazzette Issued for Recruitment of Additional 3,000 Student Nurses to Strengthen National Nursing Workforce",
+      "sent_at": "2026-06-04T04:25:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/04/heavy-rain-up-to-100mm-expected-in-several-provinces",
+      "content_hash": "eee211d1935f56eeb3c40288d9eb043aadb8760e4775309a8535a195e3b2e1c2",
+      "title": "Heavy Rain Up to 100mm Expected in Several Provinces",
+      "sent_at": "2026-06-04T04:25:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/04/sri-lanka-targets-usd-100-million-pharma-export-revenue",
+      "content_hash": "bb1892073252b0285a1711693a2003fa5ef7f2247490f3798f2b9635c97d9ed4",
+      "title": "Sri Lanka Targets USD 100 Million Pharma Export Revenue",
+      "sent_at": "2026-06-04T04:25:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/04/third-phase-of-gammadda-rebuild-kicks-off-in-badulla-restoring-livelihoods-of-ditwah-affected-families",
+      "content_hash": "dffd98284229bf7547f3650841fdbd814e0c0e94c3d8a1a13114ec76265c75e5",
+      "title": "Third Phase of Gammadda Rebuild Kicks Off in Badulla Restoring Livelihoods of Ditwah- Affected Families",
+      "sent_at": "2026-06-04T04:25:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/04/three-sri-lankans-among-injured-in-kuwait-international-airport-attack-embassy-confirms",
+      "content_hash": "3bc5d34c3b038a9cc6d55ed47fbcae3d51e57f3be23b7081abd6212997dcc222",
+      "title": "Three Sri Lankans Among Injured in Kuwait International Airport Attack, Embassy Confirms",
+      "sent_at": "2026-06-04T04:25:18Z"
     }
   ]
 }
