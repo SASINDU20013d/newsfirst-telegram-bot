@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/29/aswesuma-elderly-allowance-credited-to-banks-today",
-      "content_hash": "56cc65785a135c27479f11f2726c039587d4bebc54962d23a2dec70d75e2f23d",
-      "title": "Aswesuma Elderly Allowance Credited To Banks Today",
-      "sent_at": "2026-05-29T04:01:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/construction-of-rambukkana-galagedara-section-of-the-central-expressway-begins-today-29",
-      "content_hash": "27d1d398ea50bdd7957193e8bab3ddaba40be7a43794a64676705648a9fb796a",
-      "title": "Construction of Rambukkana - Galagedara Section of The Central Expressway Begins Today (29)",
-      "sent_at": "2026-05-29T04:01:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/red-notices-issued-for-eighty-nine-criminals-hiding-abroad",
-      "content_hash": "c207ce6613bb12391187085fa9c7fc094425f0687556d3095affa1264dbc4454",
-      "title": "Red Notices Issued For Eighty Nine Criminals Hiding Abroad",
-      "sent_at": "2026-05-29T04:01:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/registration-period-for-vesak-dansal-ends-today",
-      "content_hash": "e6446e9657202ea935fc6ac300fa59637f1dae01f3ad68baf195adf82612ca1a",
-      "title": "Registration Period For Vesak Dansal Ends Today",
-      "sent_at": "2026-05-29T04:01:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/special-transport-services-begin-for-vesak-festival",
-      "content_hash": "904de7d2f8ed21843455c8384ccd445b92729f979bc6cd007b5213e9f7d7cb5f",
-      "title": "Special Transport Services Begin For Vesak Festival",
-      "sent_at": "2026-05-29T04:01:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/sufficient-fuel-reserves-available-until-september-cpc",
-      "content_hash": "30600e2aec7dbe159927dd3d683bc33227671acbd35f11596b561dafbd464f25",
-      "title": "Sufficient Fuel Reserves Available Until September : CPC",
-      "sent_at": "2026-05-29T04:01:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/29/515-nursing-graduates-finally-recruited-after-long-delay",
       "content_hash": "5b9bd9c4fb66bd9237212d69d3ab91adf8e5e673023416c9c0072bc11e8acbc6",
       "title": "515 Nursing Graduates Finally Recruited After Long Delay",
@@ -869,6 +833,48 @@
       "content_hash": "820dce2dc654a108aa8fd24754437c8fc334165ed66403567e8a16aa0cca5444",
       "title": "IMF Reaffirms Social Welfare Safeguards in Sri Lanka Program",
       "sent_at": "2026-06-04T18:22:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/four-police-constables-suspended-over-drug-use-allegations",
+      "content_hash": "33947db305d51f93d0fabff9e894a04c603228f2a3d6c4acdaacdbae06fafecc",
+      "title": "Four Police Constables Suspended Over Drug Use Allegations",
+      "sent_at": "2026-06-05T05:21:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/gammadda-rebuild-initiative-continues-to-restore-livelihoods-in-badulla",
+      "content_hash": "9a93b22ae6f4bae1b724f72cc3bd60cfa2673546dc664310683afcae3903c8b7",
+      "title": "Gammadda Rebuild Initiative Continues to Restore Livelihoods in Badulla",
+      "sent_at": "2026-06-05T05:21:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/government-to-introduce-mandatory-registration-for-all-elders%e2%80%99-homes-following-anguruwatota-tragedy",
+      "content_hash": "34cd638c33473f80395b031edb271a0db4896c5270d96d3902a3cd5376ba0bcf",
+      "title": "Government to Introduce Mandatory Registration for All Elders’ Homes Following Anguruwatota Tragedy",
+      "sent_at": "2026-06-05T05:21:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/rumesh-tharanga-delivers-8th-best-javelin-throw-in-the-world-with-historic-diamond-league-performance",
+      "content_hash": "ae8ff7b2bd01c27a277fce04acc40cf77f99aa5c53f3520a4e7b1b9e3d6be7ca",
+      "title": "Rumesh Tharanga Delivers 8th-Best Javelin Throw in the World with Historic Diamond League Performance",
+      "sent_at": "2026-06-05T05:21:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/sri-lanka-s-paye-tax-to-be-reviewed-in-imf-backed-revenue-strategy",
+      "content_hash": "201817dc0c0049af54ad692e08ceabc000d21cc1ec7e109211325b492e1da0cb",
+      "title": "Sri Lanka's PAYE Tax To Be Reviewed in IMF-Backed Revenue Strategy",
+      "sent_at": "2026-06-05T05:21:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/water-supply-disrupted-in-kolonnawa-due-to-pipeline-leak-repairs-underway",
+      "content_hash": "53811b72c8c87e80b23506fc3e42f9767f875d836f0829cf40ece86293b82682",
+      "title": "Water Supply Disrupted in Kolonnawa Due to Pipeline Leak; Repairs Underway",
+      "sent_at": "2026-06-05T05:21:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/world-environment-day-marked-today-under-the-theme-of-climate-action",
+      "content_hash": "09b8471160b4d5c1dd354cf837511ca3b6bf2ba141700c81af1cd3dd9df10560",
+      "title": "World Environment Day Marked Today Under the Theme of Climate Action",
+      "sent_at": "2026-06-05T05:21:36Z"
     }
   ]
 }
