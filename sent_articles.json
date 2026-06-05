@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/29/26-injured-as-sltb-bus-crashes-off-road-in-monaragala",
-      "content_hash": "66b334a5f9c4f19fd33c08c30c310494bdcde7b2e44cec5f127e75e33c30aa8d",
-      "title": "26 Injured as SLTB Bus Crashes Off Road in Monaragala",
-      "sent_at": "2026-05-29T11:37:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/colombo-braces-for-massive-crowds-for-vesak-2026-road-closures-one-way-routes-accounced",
-      "content_hash": "a5e0199b8dce6c788b79bee3b40a5a21bb2f08fef2b9c1e1bfdc22c00808ad25",
-      "title": "Colombo Braces for Massive Crowds for Vesak 2026 : Road Closures & One-Way Routes Accounced",
-      "sent_at": "2026-05-29T11:37:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/court-orders-arrest-of-basil-rajapaksa-over-alleged-misuse-of-public-funds",
-      "content_hash": "657a3dd28730eba0d422f05717ccdfab32dc1450711d8812052822a0b83bc5e8",
-      "title": "Court Orders Arrest of Basil Rajapaksa Over Alleged Misuse of Public Funds",
-      "sent_at": "2026-05-29T11:37:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/court-to-decide-on-calling-president%e2%80%99s-counsel-in-chandrasena-case",
-      "content_hash": "5b282b4ab05b1cf3536404c718be5d4bb1c04321297056bd670b4d22e0f8d3b0",
-      "title": "Court To Decide on Calling President’s Counsel in Chandrasena Case",
-      "sent_at": "2026-05-29T11:37:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/no-return-to-import-restrictions-imf",
-      "content_hash": "ca08a279dd7a800c2668163e13c20dc48df4baf965e05c13e74029e606d1a05a",
-      "title": "'No Return to Import Restrictions' : IMF",
-      "sent_at": "2026-05-29T11:37:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/nuwara-eliya-high-court-hands-down-death-penalty-in-four-separate-murder-trials",
-      "content_hash": "8865dab1190d2c190fbd5352a904752610bcc7e1e7d2af58624a87ce5666fb0b",
-      "title": "Nuwara Eliya High Court Hands Down Death Penalty in Four Separate Murder Trials",
-      "sent_at": "2026-05-29T11:37:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/trial-against-namal-in-krrish-case-to-begin-in-july",
-      "content_hash": "2496d8fe39310422e40eb05474a16006d7b8745b142cfbfb3b369a37d0ba266f",
-      "title": "Trial Against Namal In Krrish Case To Begin In July",
-      "sent_at": "2026-05-29T11:37:21Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/29/political-power-behind-drug-trade-broken-says-president",
       "content_hash": "ad243fa3964320ff1fe01418c4ce87fdaeb093bdfea2e9f979d0599d3133c00e",
       "title": "Political Power Behind Drug Trade 'Broken' Says President",
@@ -869,6 +827,36 @@
       "content_hash": "560954d66fc7e3ab9e5a6b83eaeaedfa1de3c1fd1fbbbe426d21505ba80a1085",
       "title": "Two Arrested Over Gold Jewellery Theft in Negombo",
       "sent_at": "2026-06-05T09:58:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/24-year-prison-term-for-abuse-of-10-year-old-boy",
+      "content_hash": "251c08eb4320ee386a4045d780a84188229ea9d89b004a7687140b236efc4127",
+      "title": "24-Year Prison Term for Abuse of 10-Year-Old Boy",
+      "sent_at": "2026-06-05T12:40:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/cyclone-ditwah-recovery-effort-focuses-on-skills-jobs-and-long-term-rehabilitation",
+      "content_hash": "8646b1605bb7c2629a0197bd6a9c6c1c8daeea0c0a116d475f61fe47304529b2",
+      "title": "Cyclone Ditwah Recovery Effort Focuses On Skills, Jobs And Long-Term Rehabilitation",
+      "sent_at": "2026-06-05T12:40:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/kapila-chandrasena-s-legal-team-testifies-in-court",
+      "content_hash": "5dd8005a9012954745446a7b8448f9ca82854564cd793cd8abae98e51eccc20a",
+      "title": "Kapila Chandrasena's Legal Team Testifies In Court",
+      "sent_at": "2026-06-05T12:40:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/rs-30-mn-assets-frozen-in-drug-trafficking-probe",
+      "content_hash": "85c259a94c3ac82e91b8c750d4a6460af83d9499899e590d25468a93226c26c8",
+      "title": "Rs. 30 Mn Assets Frozen in Drug Trafficking Probe",
+      "sent_at": "2026-06-05T12:40:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/rumesh-targets-global-titles-after-92-62m-record-throw",
+      "content_hash": "7169edb3ef6491c110dc7ba3506c22e363234c025750df00da6e805ce2d076c9",
+      "title": "Rumesh Targets Global Titles After 92.62m Record Throw",
+      "sent_at": "2026-06-05T12:40:48Z"
     }
   ]
 }
