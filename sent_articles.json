@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/29/515-nursing-graduates-finally-recruited-after-long-delay",
-      "content_hash": "5b9bd9c4fb66bd9237212d69d3ab91adf8e5e673023416c9c0072bc11e8acbc6",
-      "title": "515 Nursing Graduates Finally Recruited After Long Delay",
-      "sent_at": "2026-05-29T08:02:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/blue-origin-rocket-explodes-into-huge-ball-of-flame",
-      "content_hash": "613e69d5b874cc2e85b753c35cac07562f9a5a5245e01f5cbafe50b6aaa6cafc",
-      "title": "Blue Origin Rocket Explodes Into Huge Ball Of Flame",
-      "sent_at": "2026-05-29T08:03:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/imf-urges-sri-lanka-to-stay-the-reform-course",
-      "content_hash": "a52977c1911eae26c7b326398cbdeb76320a051f88af177de40db8ff00ea7a8e",
-      "title": "IMF Urges Sri Lanka to Stay the Reform Course",
-      "sent_at": "2026-05-29T08:03:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/over-3kg-of-%e2%80%98ice%e2%80%99-seized-in-baduraliya-school-targeting-drug-dealer-arrested",
-      "content_hash": "3ffd7a97fc0610016648094a82282d9c30a28fbb6d8c83ab5a28c774d83cf8a9",
-      "title": "Over 3kg of ‘Ice’ Seized in Baduraliya; School-Targeting Drug Dealer Arrested",
-      "sent_at": "2026-05-29T08:03:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/sri-lanka-debt-risks-remain-but-outlook-stabilising-with-growth-and-fiscal-discipline",
-      "content_hash": "6c713332dfee243a453f572641916f187fa9d67c7e9ad5c0090c673d814c203b",
-      "title": "Sri Lanka Debt Risks Remain but Outlook Stabilising with Growth and Fiscal Discipline",
-      "sent_at": "2026-05-29T08:03:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/29/sri-lanka-establishes-high-commission-in-wellington",
-      "content_hash": "d9d9c9c9a5af7df1d97ad85daf28a0467060da703117f8dd72cae7141da9aee6",
-      "title": "Sri Lanka Establishes High Commission in Wellington",
-      "sent_at": "2026-05-29T08:03:17Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/29/26-injured-as-sltb-bus-crashes-off-road-in-monaragala",
       "content_hash": "66b334a5f9c4f19fd33c08c30c310494bdcde7b2e44cec5f127e75e33c30aa8d",
       "title": "26 Injured as SLTB Bus Crashes Off Road in Monaragala",
@@ -875,6 +839,36 @@
       "content_hash": "09b8471160b4d5c1dd354cf837511ca3b6bf2ba141700c81af1cd3dd9df10560",
       "title": "World Environment Day Marked Today Under the Theme of Climate Action",
       "sent_at": "2026-06-05T05:21:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/a-levels-first-monaco-next-yevan-david-set-for-fia-formula-3-return-this-weekend",
+      "content_hash": "2cfd2bb26cf1a0ed7bd664da66f228c75950e6fd5a85d49f61e0ea43a744103a",
+      "title": "A-Levels First, Monaco Next: Yevan David Set for FIA Formula 3 Return This Weekend",
+      "sent_at": "2026-06-05T09:58:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/death-toll-rises-to-13-after-tragic-care-home-fire-in-anguruwatota",
+      "content_hash": "180b564d2882bbc24dd5512925b3bfa788374ed3d799234fef0949c8f663c9bf",
+      "title": "Death Toll Rises to 13 After Tragic Care Home Fire in Anguruwatota",
+      "sent_at": "2026-06-05T09:58:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/presidential-commission-records-statements-from-40-officials-in-coal-deal-probe",
+      "content_hash": "a5b855944f96124543ec763adfc38fad1e974cd3dae2cf15247cee242d180ae3",
+      "title": "Presidential Commission Records Statements from 40 Officials in Coal Deal Probe",
+      "sent_at": "2026-06-05T09:58:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/suspect-arrested-over-rs-35-million-bank-theft-in-horana",
+      "content_hash": "ff468156761ba53d4e3a8143d7c68a0bccf7738dcb5a6cc18c28d850b60582bb",
+      "title": "Suspect Arrested Over Rs. 35 Million Bank Theft in Horana",
+      "sent_at": "2026-06-05T09:58:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/05/two-arrested-over-gold-jewellery-theft-in-negombo",
+      "content_hash": "560954d66fc7e3ab9e5a6b83eaeaedfa1de3c1fd1fbbbe426d21505ba80a1085",
+      "title": "Two Arrested Over Gold Jewellery Theft in Negombo",
+      "sent_at": "2026-06-05T09:58:50Z"
     }
   ]
 }
