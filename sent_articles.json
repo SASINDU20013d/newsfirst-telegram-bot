@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/30/assembled-jeep-seized-in-kottawa-one-arrested",
-      "content_hash": "e316d5042a11311286db132ce0625638f9774af7735bc6d32526aed5931df808",
-      "title": "Assembled Jeep Seized in Kottawa; One Arrested",
-      "sent_at": "2026-05-30T13:47:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/30/malwathu-chapter-suspends-ven-pallegama-hemarathana-thero-temporary-atamasthanadhipathi-appointed",
-      "content_hash": "25d8a67f16743e5c3708fa27a363f376ac55bde68c70e65e404dd2abbe944d52",
-      "title": "Malwathu Chapter Suspends Ven. Pallegama Hemarathana Thero; Temporary Atamasthanadhipathi Appointed",
-      "sent_at": "2026-05-30T13:47:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/30/sri-lanka-s-cpc-raises-prices-of-diesel-petrol-kerosene",
       "content_hash": "dc5df119d91d7ab840ac2582adbc220943bc9c8147d3065bc3571079035627fe",
       "title": "Sri Lanka's CPC Raises Prices Of Diesel, Petrol, Kerosene",
@@ -851,6 +839,12 @@
       "content_hash": "7113e116e5caeac5a734c335b2130bf49c757925591cec5f055c6fd5e40741cc",
       "title": "Tour Guide Arrested for Fraud in Benthara",
       "sent_at": "2026-06-06T11:37:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/ministry-calls-for-public-input-on-higher-education-reforms",
+      "content_hash": "f72b3a667fe11e1810edde4a7efbafbd1027fb9185b35799f1af82e3ab7020ce",
+      "title": "Ministry Calls For Public Input On Higher Education Reforms",
+      "sent_at": "2026-06-06T13:52:07Z"
     }
   ]
 }
