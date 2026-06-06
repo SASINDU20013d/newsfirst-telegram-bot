@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/30/sri-lanka-launches-national-environmental-week-today-with-focus-on-conservation-and-cleanliness",
-      "content_hash": "226db7430cf831271701b372c580d5b602ec6fa5210af92823be0b9339408938",
-      "title": "Sri Lanka Launches National Environmental Week Today With Focus On Conservation And Cleanliness",
-      "sent_at": "2026-05-30T09:22:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/30/us-%e2%80%98more-than-capable%e2%80%99-of-resuming-war-against-iran-pete-hegseth",
       "content_hash": "33a6e8f7441f6d6069645cf4638033bba3f0866017b2983b6372e34ce6426d43",
       "title": "US ‘More Than Capable’ Of Resuming War Against Iran: Pete Hegseth",
@@ -839,6 +833,24 @@
       "content_hash": "0aaacb0f8bfcbb7c2b90570d9141ef494ea0478039dca3b5f7c92e6778a1f918",
       "title": "Sri Lanka Gross Official Reserves Rise To US$ 6,873 Million In May- CBSL",
       "sent_at": "2026-06-06T06:55:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/mirigama-hospital-launches-program-to-clear-backlog-of-kidney-stone-surgeries",
+      "content_hash": "d43763eb5d8995d0eb76a7cdd89b77eee8f4a997275c63d12996fe5be01db6b5",
+      "title": "Mirigama Hospital Launches Program To Clear Backlog of Kidney Stone Surgeries",
+      "sent_at": "2026-06-06T09:27:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/police-seize-weapons-and-drugs-during-home-raid",
+      "content_hash": "9e5b837acf45454ee8aaaa87a78cd12c280bd9ed8872ad556ba35d40bbe81e44",
+      "title": "Police Seize Weapons and Drugs During Home Raid",
+      "sent_at": "2026-06-06T09:27:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/two-suspects-in-meegoda-fatal-cab-crash-surrender-to-police",
+      "content_hash": "5a7a88e0296a259bb65425d933b988fbf3be810df4734726984d6d6cc9c63b8b",
+      "title": "Two Suspects In Meegoda Fatal Cab Crash Surrender To Police",
+      "sent_at": "2026-06-06T09:27:39Z"
     }
   ]
 }
