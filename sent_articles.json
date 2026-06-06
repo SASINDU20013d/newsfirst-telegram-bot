@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/30/major-general-nilantha-premaratne-appointed-as-69th-chief-of-staff-of-sri-lanka-army",
-      "content_hash": "e4fc31238bb775a8cb9387defb5365699a45f607d142e108d194f3c1ba9cb138",
-      "title": "Major General Nilantha Premaratne Appointed as 69th Chief of Staff of Sri Lanka Army",
-      "sent_at": "2026-05-30T03:49:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/30/president-highlights-importance-of-inner-peace-in-vesak-message",
-      "content_hash": "cadaf609c1f5088ac42150287961d50656d3ac5fc73825faf6ce0efbbe40ab7f",
-      "title": "President Highlights Importance Of Inner Peace In Vesak Message",
-      "sent_at": "2026-05-30T03:49:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/30/presidential-pardon-granted-to-61-prisoners-for-vesak-festival-33-to-be-released-today",
-      "content_hash": "029d5894e4912a565f732943b08d5e67d159cc3269170a3a7d45a373f37088d8",
-      "title": "Presidential Pardon Granted To 61 Prisoners For Vesak Festival :33 To Be Released Today",
-      "sent_at": "2026-05-30T03:49:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/30/prime-minister-urges-nation-to-work-for-common-good-this-vesak",
-      "content_hash": "8a702525ffd7e82686ffa2568256f0840a8125418d8c015e11459b80cb130026",
-      "title": "Prime Minister Urges Nation To Work For Common Good This Vesak",
-      "sent_at": "2026-05-30T03:49:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/30/special-transport-services-deployed-for-vesak-devotees-across-the-country",
-      "content_hash": "8d8394b9ad75492d85358ee671267af99c60dd7c82ff7651f35a84a99a01913b",
-      "title": "Special Transport Services Deployed For Vesak Devotees Across The Country",
-      "sent_at": "2026-05-30T03:49:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/30/vesak-full-moon-poya-day-observed-across-sri-lanka",
-      "content_hash": "35f91920a1e633459af44913933d373faaf2353cef738512e8228e389e391a0d",
-      "title": "Vesak Full Moon Poya Day Observed Across Sri Lanka",
-      "sent_at": "2026-05-30T03:49:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/30/airport-customs-arrest-18-suspects-over-illegal-cigarette-smuggling-attempt",
       "content_hash": "29208a1f741b09a00c0419010a96f1709f288ff705c431f6390c868fdfdcea7a",
       "title": "Airport Customs Arrest 18 Suspects Over Illegal Cigarette Smuggling Attempt",
@@ -851,6 +815,30 @@
       "content_hash": "7169edb3ef6491c110dc7ba3506c22e363234c025750df00da6e805ce2d076c9",
       "title": "Rumesh Targets Global Titles After 92.62m Record Throw",
       "sent_at": "2026-06-05T12:40:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/35-000-dengue-cases-reported-as-post-ditwah-risks-rise",
+      "content_hash": "9cef73df0ea6feed9c9496e8fa1499a770addc053912f73db3abbfe7cfeffed5",
+      "title": "35,000 Dengue Cases Reported As Post-Ditwah Risks Rise",
+      "sent_at": "2026-06-06T03:52:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/authorities-warn-of-possible-spread-of-filariasis",
+      "content_hash": "f7302e209a952b055b941f735fde493d40ba081866085b14a9bd654da1ae25db",
+      "title": "Authorities Warn of Possible Spread of Filariasis",
+      "sent_at": "2026-06-06T03:52:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/bill-to-form-media-professionals-institute-gazetted",
+      "content_hash": "1e1b60f5419a70baa1aa7053abae86b7a3087aef961ba998591d409216ad857b",
+      "title": "Bill To Form Media Professionals Institute Gazetted",
+      "sent_at": "2026-06-06T03:52:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/final-rites-of-unclaimed-care-home-fire-victims-funded-by-state",
+      "content_hash": "0eb4d2f418b96a766f6d8653a11a472193c5c9676e75e133ba80ae1de0c21dd6",
+      "title": "Final Rites Of Unclaimed Care Home Fire Victims Funded By State",
+      "sent_at": "2026-06-06T03:52:36Z"
     }
   ]
 }
