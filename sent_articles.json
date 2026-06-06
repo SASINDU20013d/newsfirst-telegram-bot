@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/30/airport-customs-arrest-18-suspects-over-illegal-cigarette-smuggling-attempt",
-      "content_hash": "29208a1f741b09a00c0419010a96f1709f288ff705c431f6390c868fdfdcea7a",
-      "title": "Airport Customs Arrest 18 Suspects Over Illegal Cigarette Smuggling Attempt",
-      "sent_at": "2026-05-30T06:49:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/30/minister-bimal-rathnayake-orders-review-of-disciplinary-procedures-for-drivers",
-      "content_hash": "e7e7234b4c89fddbdd7eb49b484bbba37af4bd4e1ef335a8b120553e130ef3dd",
-      "title": "Minister Bimal Rathnayake Orders Review Of Disciplinary Procedures For Drivers",
-      "sent_at": "2026-05-30T06:49:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/30/sri-lanka-launches-national-environmental-week-today-with-focus-on-conservation-and-cleanliness",
       "content_hash": "226db7430cf831271701b372c580d5b602ec6fa5210af92823be0b9339408938",
       "title": "Sri Lanka Launches National Environmental Week Today With Focus On Conservation And Cleanliness",
@@ -839,6 +827,18 @@
       "content_hash": "0eb4d2f418b96a766f6d8653a11a472193c5c9676e75e133ba80ae1de0c21dd6",
       "title": "Final Rites Of Unclaimed Care Home Fire Victims Funded By State",
       "sent_at": "2026-06-06T03:52:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/bodies-of-victims-of-batagoda-care-home-handed-over-to-relatives",
+      "content_hash": "c62a3b7b74e343b647262550bda1f60596d19703439ec311682dab87c4f1a5a0",
+      "title": "Bodies of Victims of Batagoda Care Home handed over to relatives",
+      "sent_at": "2026-06-06T06:55:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/06/sri-lanka-gross-official-reserves-rise-to-us-6-873-million-in-may-cbsl",
+      "content_hash": "0aaacb0f8bfcbb7c2b90570d9141ef494ea0478039dca3b5f7c92e6778a1f918",
+      "title": "Sri Lanka Gross Official Reserves Rise To US$ 6,873 Million In May- CBSL",
+      "sent_at": "2026-06-06T06:55:50Z"
     }
   ]
 }
