@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/31/edb-announces-significant-increase-in-export-earnings-in-april",
-      "content_hash": "4de18b474d2d77bf3814d144e7289ecddad44241094ab791cde0783507d66894",
-      "title": "EDB Announces Significant Increase In Export Earnings In April",
-      "sent_at": "2026-05-31T12:13:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/31/presidential-secretariat-hosts-special-vesak-bhakthi-gee-event",
       "content_hash": "39e46b7de2b22a97c65e90100953f976ed5f199b86fe576ce59160ff4ffd8eb3",
       "title": "Presidential Secretariat Hosts Special Vesak Bhakthi Gee Event",
@@ -833,6 +827,18 @@
       "content_hash": "8cece2c24e5214d5db9cc064e51fc371fbfdbf041057f7b2e14497aecffc0aeb",
       "title": "Suresh Salley Demands Repeal of PTA: Launches Fast-Unto-Death Until Demands are Met",
       "sent_at": "2026-06-07T11:10:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/facebook-party-in-ambalangoda-raided-28-arrested-with-drugs",
+      "content_hash": "c48c2b4baeb4703b79f89c4ecf3918da76514eefb71c947323e47602d11c4357",
+      "title": "Facebook Party in Ambalangoda Raided, 28 Arrested with Drugs",
+      "sent_at": "2026-06-07T14:02:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/top-performing-ds-offices-in-western-province-recognised-for-bringing-president%e2%80%99s-fund-services-to-the-grassroots",
+      "content_hash": "df47184dbe860fe588ccfe007c39f63802a3cedbfe337adffcb471e0cd5de862",
+      "title": "Top-Performing DS Offices in Western Province Recognised for Bringing President’s Fund Services to the Grassroots",
+      "sent_at": "2026-06-07T14:02:14Z"
     }
   ]
 }
