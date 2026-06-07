@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/31/japan-provides-usd-1-33-million-financial-aid-to-sri-lanka",
-      "content_hash": "7f96a769f80ecc34b2127dd3fd8a36abf6426fa1fca27a4fa19de2d2a8360a6d",
-      "title": "Japan Provides USD $1.33 Million Financial Aid to Sri Lanka",
-      "sent_at": "2026-05-31T11:00:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/special-security-and-traffic-plan-in-place-for-sirasa-namami-vesak-zone",
-      "content_hash": "69b6665f339465e2f5bc8b0dd7607987476ccef1c22f559acb4b7b80ea7d3f71",
-      "title": "Special Security And Traffic Plan In Place For Sirasa Namami Vesak Zone",
-      "sent_at": "2026-05-31T11:00:52Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/31/edb-announces-significant-increase-in-export-earnings-in-april",
       "content_hash": "4de18b474d2d77bf3814d144e7289ecddad44241094ab791cde0783507d66894",
       "title": "EDB Announces Significant Increase In Export Earnings In April",
@@ -827,6 +815,24 @@
       "content_hash": "8271ea72b69c179209e20b63a17294aace63a78f5bf30f1fd8df053d2bbdb4f6",
       "title": "Suspect Arrested for Facilitating People to Travel Overseas Illegally",
       "sent_at": "2026-06-07T08:25:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/15-of-women-in-sri-lanka-found-to-be-obese-ministry-of-health",
+      "content_hash": "1d49d687e0d2edbb82aa351b69133fdaa73280537db312dd0fded1b4d18037fb",
+      "title": "15% Of Women In Sri Lanka Found To Be Obese - Ministry of Health",
+      "sent_at": "2026-06-07T11:10:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/drone-technology-to-be-introduced-for-maha-season-paddy-cultivation",
+      "content_hash": "ad23ba3c84e095020118974d01862f9992c6065e7f011fb2c053ada500fb6202",
+      "title": "Drone Technology To Be Introduced For Maha Season Paddy Cultivation",
+      "sent_at": "2026-06-07T11:10:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/suresh-salley-demands-repeal-of-pta-launches-fast-unto-death-until-demands-are-met",
+      "content_hash": "8cece2c24e5214d5db9cc064e51fc371fbfdbf041057f7b2e14497aecffc0aeb",
+      "title": "Suresh Salley Demands Repeal of PTA: Launches Fast-Unto-Death Until Demands are Met",
+      "sent_at": "2026-06-07T11:10:56Z"
     }
   ]
 }
