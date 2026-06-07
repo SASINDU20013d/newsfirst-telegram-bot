@@ -1,84 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/05/31/ban-on-single-use-plastic-water-bottles-in-state-sector",
-      "content_hash": "0247c156bc20f4c2a1c383895eb52602b0a029e5bf2f6ad8100b0729e135d0ec",
-      "title": "Ban on Single-Use Plastic Water Bottles in State Sector",
-      "sent_at": "2026-05-31T04:45:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/psg-wins-back-to-back-champions-league-titles-after-shootout-victory-against-arsenal",
-      "content_hash": "9513fe493b88b55420ffcb8d881de4f86b4b6761d1018e4063bff0dc3eb00bcd",
-      "title": "PSG Wins Back-to-Back Champions League Titles After Shootout Victory Against Arsenal",
-      "sent_at": "2026-05-31T04:46:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/search-underway-for-three-children-missing-after-bathing-in-seas-off-hungama",
-      "content_hash": "8d81eacac1dc2d62144b295155818e851c97123fb3746ea878024dc6996188f2",
-      "title": "Search Underway For Three Children Missing After Bathing In Seas Off Hungama",
-      "sent_at": "2026-05-31T04:46:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/showers-above-50mm-expected-met-dept",
-      "content_hash": "8147fcde60e13f539ecd34932bb357e04835fe968ba972655eaa8588d65a28d4",
-      "title": "Showers Above 50mm Expected: MET Dept.",
-      "sent_at": "2026-05-31T04:46:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/sirasa-namami-vesak-zone-continues-for-second-day-in-rangiri-dambulla-rajamaha-viharaya",
-      "content_hash": "3d6a49b6e7247acdf0790ac6a7061437b0608d8c5849359fe6a99e36f80328ba",
-      "title": "Sirasa Namami Vesak Zone Continues For Second Day In Rangiri Dambulla Rajamaha Viharaya",
-      "sent_at": "2026-05-31T04:46:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/solar-panel-operators-requested-to-deactivate-rooftop-solar-to-stabilize-national-grid",
-      "content_hash": "e3ffab52bd0fd8364cefd965f77a2eabc149c32967ac2b3542a98350e18bb40d",
-      "title": "Solar Panel Operators Requested to Deactivate Rooftop Solar to Stabilize National Grid",
-      "sent_at": "2026-05-31T04:46:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/sri-lanka-to-receive-usd-695mn-imf-tranches-by-early-june",
-      "content_hash": "0d35caea79b66af57f7924d4c2626d28cd0395889db5c876322a2cdf0f289f07",
-      "title": "Sri Lanka to Receive USD 695Mn IMF Tranches by Early June",
-      "sent_at": "2026-05-31T04:46:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/2-867-new-nursing-appointments-to-be-granted-by-october-2026",
-      "content_hash": "f82227caa087c8963fea408a656701fe425e53a07f4edec82e12809e022b2959",
-      "title": "2,867 New Nursing Appointments To Be Granted By October 2026",
-      "sent_at": "2026-05-31T08:16:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/first-ever-triple-vessel-operation-underway-at-port-of-trincomalee",
-      "content_hash": "32005b1068eea67d4bca5b8e15a4a7fd45e9d8c5baedb95f4da84ad8c893893c",
-      "title": "First-Ever Triple Vessel Operation Underway At Port of Trincomalee",
-      "sent_at": "2026-05-31T08:16:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/lanka-ioc-increases-fuel-prices-following-cpc-revision",
-      "content_hash": "dcc782439879d26487ffc86612781c768a63c08cb0240feb6213d8fff93fd4ce",
-      "title": "Lanka IOC Increases Fuel Prices Following CPC Revision",
-      "sent_at": "2026-05-31T08:16:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/six-battery-energy-storage-systems-bess-imported-to-strengthen-national-power-grid",
-      "content_hash": "2ce3c08ecd5d3d671dd9242fec27e5a4204f18de1309a4c8161d42a78851decd",
-      "title": "Six Battery Energy Storage Systems (BESS) Imported To Strengthen National Power Grid",
-      "sent_at": "2026-05-31T08:16:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/three-wheeler-fares-to-remain-unchanged-despite-fuel-price-hike",
-      "content_hash": "e1df016dce6a55883ffd5244116b6e7d525b89bbba54a4169f2588f56126ca4f",
-      "title": "Three-Wheeler Fares To Remain Unchanged Despite Fuel Price Hike",
-      "sent_at": "2026-05-31T08:16:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/05/31/woman-murdered-in-wellewa-suspect-commits-suicide",
-      "content_hash": "c26423bcfa840cc282fc784af3b11dd08505dabda45d0b34564eda3483be40f0",
-      "title": "Woman Murdered In Wellewa, Suspect Commits Suicide",
-      "sent_at": "2026-05-31T08:16:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/05/31/japan-provides-usd-1-33-million-financial-aid-to-sri-lanka",
       "content_hash": "7f96a769f80ecc34b2127dd3fd8a36abf6426fa1fca27a4fa19de2d2a8360a6d",
       "title": "Japan Provides USD $1.33 Million Financial Aid to Sri Lanka",
@@ -869,6 +791,42 @@
       "content_hash": "3c62d184432fa8055fa1f3376daef6605907f2ab1efe841478f8f6f7296bf650",
       "title": "Simple Blood Test Can Help Prevent Genetic Disorders, Health Officials Say",
       "sent_at": "2026-06-07T04:18:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/children-aged-1117-key-targets-of-drug-traffickers-says-minister-of-public-administration",
+      "content_hash": "fdc52bfd6927ddf5c5428a33adb5552f5c273584232edbe389be510da17486bc",
+      "title": "Children Aged 11–17 Key Targets of Drug Traffickers, Says Minister of Public Administration",
+      "sent_at": "2026-06-07T08:25:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/driver-arrested-over-fatal-accident-two-women-killed-in-hanwella",
+      "content_hash": "4358b6517dc932bdb48ec34beaaa1016c7dd0616a86379471e390f039066bd5a",
+      "title": "Driver Arrested Over Fatal Accident, Two Women Killed in Hanwella",
+      "sent_at": "2026-06-07T08:25:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/fire-breaks-out-at-electronics-store-in-mahara-kadawatha",
+      "content_hash": "db3455f75650d4d83103021422ca7ed1dcada21f70f26fc477566544cb4a44b9",
+      "title": "Fire Breaks Out at Electronics Store in Mahara, Kadawatha",
+      "sent_at": "2026-06-07T08:25:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/salley-begins-hunger-strike-says-gammanpila",
+      "content_hash": "1d95803ebce6d32791435ef9ccbcfe58f3756b8ac44f3b1fcf246ea06985ac48",
+      "title": "Salley Begins Hunger Strike Says Gammanpila",
+      "sent_at": "2026-06-07T08:25:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/sri-lanka-navy-recovers-firearms-and-ammunition-from-kalpitiya-lagoon",
+      "content_hash": "bb7671d582660876c04a37869ac2d938329852c0a4d972a691717dbe0506cb79",
+      "title": "Sri Lanka Navy Recovers Firearms And Ammunition from Kalpitiya Lagoon",
+      "sent_at": "2026-06-07T08:25:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/07/suspect-arrested-for-facilitating-people-to-travel-overseas-illegally",
+      "content_hash": "8271ea72b69c179209e20b63a17294aace63a78f5bf30f1fd8df053d2bbdb4f6",
+      "title": "Suspect Arrested for Facilitating People to Travel Overseas Illegally",
+      "sent_at": "2026-06-07T08:25:51Z"
     }
   ]
 }
