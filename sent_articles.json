@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/01/foreign-minister-vijitha-herath-meets-sri-lankan-community-in-melbourne",
-      "content_hash": "787c173c31be215ff49818c660ade1dc54abc92e200442750fcd4cbd21de871e",
-      "title": "Foreign Minister Vijitha Herath Meets Sri Lankan Community in Melbourne",
-      "sent_at": "2026-06-01T04:27:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/renovated-institute-of-neurology-to-be-opened-today-01",
-      "content_hash": "0e081c97c8af9d808422d66c71b36cdcba485bc63b1610304a3508457e396fff",
-      "title": "Renovated Institute of Neurology to Be Opened Today (01)",
-      "sent_at": "2026-06-01T04:27:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/royal-challengers-bengaluru-crowned-ipl-champions-for-second-consecutive-year",
-      "content_hash": "24762bcb21e27998396cf0eed312d2d8a33829ad887da9a17a50eaeb733b6ab4",
-      "title": "Royal Challengers Bengaluru Crowned IPL Champions for Second Consecutive Year",
-      "sent_at": "2026-06-01T04:27:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/showers-expected-in-several-provinces-strong-winds-forecast-by-met-department",
-      "content_hash": "36ce882f512dbe4444a1f0c37d79f6d52e70a894abfe2e64e81d0b55c05951b7",
-      "title": "Showers Expected in Several Provinces; Strong Winds Forecast by MET Department",
-      "sent_at": "2026-06-01T04:27:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/six-killed-seven-injured-after-cab-ploughs-into-dansala-in-meegoda",
-      "content_hash": "9ed9d19f84ca30ae4e8a6a50aa072bc314b05f0a51a5cb872c1bc9553ef4839f",
-      "title": "Six Killed, Seven Injured After Cab Ploughs Into Dansala in Meegoda",
-      "sent_at": "2026-06-01T04:27:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/sri-lanka%e2%80%99s-rumesh-tharanga-wins-silver-in-javelin-throw-at-rabat-diamond-league-2026",
-      "content_hash": "a2ec18622abad85cd462108a51cdd1f19aec415b9214c75bba453920ee6775f1",
-      "title": "Sri Lanka’s Rumesh Tharanga Wins Silver in Javelin Throw at Rabat Diamond League 2026",
-      "sent_at": "2026-06-01T04:27:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/sri-lanka-to-participate-in-international-labour-conference-in-geneva",
-      "content_hash": "e98570a2e22b8e8a8e4295b589d0c9586062de10ec5aa88d6b3bea780fb86f8e",
-      "title": "Sri Lanka to Participate in International Labour Conference in Geneva",
-      "sent_at": "2026-06-01T04:27:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/01/driver-of-deadly-meegoda-crash-to-be-produced-before-homagama-magistrate",
       "content_hash": "49b631ea2fb9a8c9445e9644e51293b9ea48b29aafa3a7d52124ff35d36e30b9",
       "title": "Driver of Deadly Meegoda Crash to Be Produced Before Homagama Magistrate",
@@ -875,6 +833,42 @@
       "content_hash": "fa8f5c93161355ea6e639f2ce0c91293e3fc26144d92241658ee3ac05a485b06",
       "title": "Vehicle Number Plate Printing Restarts Today (08) - DMT",
       "sent_at": "2026-06-08T04:22:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/08/china-s-xi-arrives-in-north-korea-to-meet-kim",
+      "content_hash": "27b39a162172450c6fe149a5d21c3062671987fb6004629809baef581e87fcc0",
+      "title": "China's Xi Arrives In North Korea To Meet Kim",
+      "sent_at": "2026-06-08T09:25:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/08/copf-to-review-treasury-cyber-theft-today-08",
+      "content_hash": "50d255d983f910ca8064f99faeb5b984252f685713c0c656fc416cdb4f319fb3",
+      "title": "COPF to Review Treasury Cyber Theft Today (08)",
+      "sent_at": "2026-06-08T09:25:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/08/fifa-2026-brings-trionda-ball-with-game-changing-var",
+      "content_hash": "775fbc6a67092a11ad1f7f8837b3feff1fb5ad240aa2d439c21f7a7b604a78d8",
+      "title": "FIFA 2026 Brings 'Trionda' Ball with Game-Changing VAR",
+      "sent_at": "2026-06-08T09:25:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/08/five-arrested-over-fatal-stabbing-in-omanthai",
+      "content_hash": "b4560a5997a37a34b23f15c2d6f7fcc11b7840605259533c00ddb551159a153a",
+      "title": "Five Arrested Over Fatal Stabbing in Omanthai",
+      "sent_at": "2026-06-08T09:25:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/08/wimal-gammanpila-lead-sathyagraha-for-suresh-salley",
+      "content_hash": "a0a62743a0bbf5e1964db4dab1678ad99b2a7f78f0bac96e41d56135add8a014",
+      "title": "Wimal, Gammanpila Lead Sathyagraha for Suresh Salley",
+      "sent_at": "2026-06-08T09:26:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/08/woman-arrested-with-fake-dollars-worth-rs-190-million",
+      "content_hash": "68b106fb2d3ff5c64ae81d1db8dcaa7065456af4455859049e4c0a04c15d96f0",
+      "title": "Woman Arrested with Fake Dollars Worth Rs. 190 Million",
+      "sent_at": "2026-06-08T09:26:04Z"
     }
   ]
 }
