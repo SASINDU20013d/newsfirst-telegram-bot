@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/01/24-dead-in-motor-accidents-during-vesak-weekend",
-      "content_hash": "b13fc9c387bfae6eaf557d106070b36d84d31df5f3ed71c588021302171a83fb",
-      "title": "24 Dead In Motor Accidents During Vesak Weekend",
-      "sent_at": "2026-06-01T16:40:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/airport-luxury-bus-relaunches-50-minute-ride-to-makumbura-now-available",
-      "content_hash": "6bd11688d5d95510829f662594519e6a192cc4ca3917c438a74382d26e74dcc5",
-      "title": "Airport Luxury Bus Relaunches : 50-Minute Ride to Makumbura Now Available",
-      "sent_at": "2026-06-01T16:40:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/breaking-supreme-court-clears-way-for-prosecution-in-bond-scam",
-      "content_hash": "24cd8e0f10268d31bb69ee24826fe037a0523fceff6308d16c58beab2e2abc3d",
-      "title": "BREAKING: Supreme Court Clears Way for Prosecution in Bond Scam",
-      "sent_at": "2026-06-01T16:40:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/company-is-a-%e2%80%98person%e2%80%99-supreme-court-clears-path-to-prosecute-ptl-ravi-k-mahendran-co-in-2016-bond-scam",
-      "content_hash": "707a62f0702d1a57e4d6576f42c9214ee1f0716fadd61cf897899dc1e6d6bc25",
-      "title": "Company Is a ‘Person’: Supreme Court Clears Path to Prosecute PTL, Ravi K, Mahendran & Co, in 2016 Bond Scam",
-      "sent_at": "2026-06-01T16:40:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/petition-filed-to-dismiss-charges-in-rs-39m-carrom-board-scandal",
-      "content_hash": "fffab3516bfa3112c9926c4906ccab27bf6579aeb0ebb13fae0000c0ab6df830",
-      "title": "Petition Filed to Dismiss Charges in Rs. 39M Carrom Board Scandal",
-      "sent_at": "2026-06-01T16:40:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/police-call-meegoda-crash-intentional-killing",
-      "content_hash": "6eb68c3c80f70517b5113d2d47fca7286f9fa49c88aedbdd20fcc8d6051ffffd",
-      "title": "Police Call Meegoda Crash 'Intentional Killing'",
-      "sent_at": "2026-06-01T16:40:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/sri-lanka-to-gazette-5-forest-reserves-to-protect-ancient-ellanga-systems",
-      "content_hash": "22d0b533aa047767e1710af62d8491098f06c512bc73277c6a8550bad59e9013",
-      "title": "Sri Lanka to Gazette 5 Forest Reserves To Protect Ancient Ellanga Systems",
-      "sent_at": "2026-06-01T16:40:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/01/two-arrested-over-deadly-kalutara-gun-attack",
-      "content_hash": "1641cb4e443d8321841a98ab507b25d63cd68545ad79f39e68bb2fe5ab2929d4",
-      "title": "Two Arrested Over Deadly Kalutara Gun Attack",
-      "sent_at": "2026-06-01T16:40:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/02/%e2%80%98praja-shakthi%e2%80%99-program-launches-across-1-000-villages-nationwide-today",
       "content_hash": "578ace443306cf8c6e503240e912df715502f1660fe7a67e6367f84a215af102",
       "title": "‘Praja Shakthi’ Program Launches Across 1,000 Villages Nationwide Today",
@@ -851,6 +803,12 @@
       "content_hash": "ebf8e2bdd9e5fb1ffe4709d2d971ec8562deefe9d5c0ca9d020bd4991e9d3763",
       "title": "Trump Tells Israel And Iran To Stop 'Shooting' Immediately",
       "sent_at": "2026-06-08T14:12:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/08/messi-ronaldo-48-nations-maharaja-media-network-to-deliver-104-matches-to-millions",
+      "content_hash": "df34993bef0fd866d26cce6e02557545fb01acfa66ae7d6d10072fc8f1827193",
+      "title": "Messi, Ronaldo & 48 Nations: Maharaja Media Network To Deliver 104 Matches to Millions",
+      "sent_at": "2026-06-08T17:57:22Z"
     }
   ]
 }
