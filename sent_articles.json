@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/02/johnston-questioned-over-providing-car-to-manamperi",
-      "content_hash": "f2ad939ac0976a2e067fbe17cf4fdd31fe66be082ac109aab2fafedec49b76e3",
-      "title": "Johnston Questioned Over Providing Car to Manamperi",
-      "sent_at": "2026-06-02T14:56:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/question-verify-act-digital-banking-boom-fuels-scam-surge-governor-calls-for-urgent-vigilance",
-      "content_hash": "2c00085daaea16870e71b76640907a1ab021c7d3a67d2ce47f4850c1600064f0",
-      "title": "'Question, Verify, Act' - Digital Banking Boom Fuels Scam Surge; Governor Calls for Urgent Vigilance",
-      "sent_at": "2026-06-02T14:56:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/special-court-to-rehear-public-property-charges-in-2016-bond-scam",
-      "content_hash": "317327100fb32cdf032d02db4c18da4bcf0917e6dd2d06bc57418b259b0aedf8",
-      "title": "Special Court to Rehear Public Property Charges In 2016 Bond Scam",
-      "sent_at": "2026-06-02T14:56:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/sri-lanka-cricket-unveils-2026-27-contracts-46-players-earn-national-deals",
-      "content_hash": "6464b825054ee1fbc6b2eeefe36a59e336ea837105fb1687a82dace3d061388f",
-      "title": "Sri Lanka Cricket Unveils 2026/27 Contracts - 46 Players Earn National Deals",
-      "sent_at": "2026-06-02T14:56:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/sri-lanka-s-biggest-rural-push-yet-14-000-villages-to-benefit-under-praja-shakthi",
-      "content_hash": "1cddd34d4b5340f89b5929872bfad6e984a4f9868f153c06ff47150cf920533a",
-      "title": "Sri Lanka's Biggest Rural Push Yet -14,000 Villages to Benefit Under Praja Shakthi",
-      "sent_at": "2026-06-02T14:56:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/supreme-court-reserves-judgment-in-pillayan-pta-detention-challenge",
-      "content_hash": "ff5339d2b38f201f2854826b4e0ae0342c8223b9590b22beffab0224e2386706",
-      "title": "Supreme Court Reserves Judgment in Pillayan PTA Detention Challenge",
-      "sent_at": "2026-06-02T14:57:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/travel-ban-on-cab-owner-in-fatal-meegoda-crash",
-      "content_hash": "386b2be8ae64071d7c85088657f06d5030f1565d0752be53102238d065254abe",
-      "title": "Travel Ban on Cab Owner in Fatal Meegoda Crash",
-      "sent_at": "2026-06-02T14:57:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/03/250-suspected-meningitis-cases-reported-across-sri-lanka",
       "content_hash": "1cd173ecec07beb85670857c6aeaeb2c269b458c206e8ca062a94166a163df09",
       "title": "250 Suspected Meningitis Cases Reported Across Sri Lanka",
@@ -815,6 +773,18 @@
       "content_hash": "3b0af01683ad654f346afd3394b04227a641c9311f9f723b5c4c87c70bd9b422",
       "title": "UNP Condemns Treatment of Suresh Salley",
       "sent_at": "2026-06-09T12:40:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/09/i-beg-for-justice-mother-s-cry-7-years-after-easter-horror",
+      "content_hash": "20c07e5c09e23d0f03c05f9620cb1a44879ebb91273dd5301f291a9c2c824b8d",
+      "title": "'I Beg for Justice': Mother's Cry 7 Years After Easter Horror",
+      "sent_at": "2026-06-09T16:05:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/09/why-was-hejaaz-framed-in-easter-probe-asks-mujibur",
+      "content_hash": "2da706508389f1118205fdc100becaedd9214b6c1e541c2b154c70092fb19df8",
+      "title": "Why Was Hejaaz Framed in Easter Probe?, Asks Mujibur",
+      "sent_at": "2026-06-09T16:05:23Z"
     }
   ]
 }
