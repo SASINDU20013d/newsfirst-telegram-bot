@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/02/10-us-sea-ranger-helicopters-arrive-to-boost-sri-lanka%e2%80%99s-air-power",
-      "content_hash": "33b3a020962eb78f6615849ebfce5b2f0785bdb2b8299ac4c90b7d0967759c03",
-      "title": "10 US 'Sea Ranger' Helicopters Arrive to Boost Sri Lanka’s Air Power",
-      "sent_at": "2026-06-02T10:42:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/23-high-profile-overseas-based-drug-traffickers-identified",
-      "content_hash": "6640b2ce0196ac3fb6a7a62d4d0cc155166eda9d22700e16f35e9824ccb3536b",
-      "title": "23 High-Profile Overseas-based Drug Traffickers Identified",
-      "sent_at": "2026-06-02T10:42:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/can-sri-lanka-become-a-high-income-nation-imf-urges-deep-reforms-for-sri-lanka%e2%80%99s-future",
-      "content_hash": "c5195e10bc55c0226c8627010323912edef3b7719a7634f7f51baf27f9edf944",
-      "title": "Can Sri Lanka Become a High-Income Nation? IMF Urges Deep Reforms for Sri Lanka’s Future",
-      "sent_at": "2026-06-02T10:42:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/court-summons-lawyers-in-kapila-chandrasena-death-probe",
-      "content_hash": "42dba5af684a46f326b545e7248c3857634c8f968603766808f7c54daa0753f1",
-      "title": "Court Summons Lawyers in Kapila Chandrasena Death Probe",
-      "sent_at": "2026-06-02T10:43:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/gota-allowed-to-testify-online-in-lalith-kugan-case",
-      "content_hash": "41d2a21bd52f66bf376301b250e58ff09c2eb502e0795247f43c16a9de122190",
-      "title": "Gota Allowed to Testify Online in Lalith-Kugan Case",
-      "sent_at": "2026-06-02T10:43:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/praja-shakthi-mega-rural-drive-launched",
-      "content_hash": "2dc95910fd7523369eb1e3ea0bf30787015ac60f7f9074d998b3be6cdbda5d52",
-      "title": "'Praja Shakthi' Mega Rural Drive Launched",
-      "sent_at": "2026-06-02T10:43:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/02/sri-lanka-open-for-business-hanif-yusoof-meets-us-under-secretary-of-state",
-      "content_hash": "4d0a1c23d60394feaaa0abfd193f02458258889b707149252d60a2daa1d0e177",
-      "title": "'Sri Lanka Open for Business': Hanif Yusoof Meets US Under Secretary of State",
-      "sent_at": "2026-06-02T10:43:10Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/02/johnston-questioned-over-providing-car-to-manamperi",
       "content_hash": "f2ad939ac0976a2e067fbe17cf4fdd31fe66be082ac109aab2fafedec49b76e3",
       "title": "Johnston Questioned Over Providing Car to Manamperi",
@@ -833,6 +791,30 @@
       "content_hash": "12e07a7bd307093d015f1978a170bec4f3e83cd15ac10d808e82405dafbf64e0",
       "title": "UPDATE: Sarana Gunawardena Sentenced to 16 Years",
       "sent_at": "2026-06-09T09:53:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/09/easter-attack-probe-will-not-be-derailed-by-threats",
+      "content_hash": "d33902c7f8b6098dccdfba0afc6ac323678793115194fa6e91a217f9c24a2d82",
+      "title": "Easter Attack Probe Will Not Be Derailed by Threats",
+      "sent_at": "2026-06-09T12:40:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/09/economic-decline-fueled-by-corrupt-officials-says-judge-in-sarana-gunawardena-sentencing",
+      "content_hash": "fb10c27d503dbc9f7bc3dbaef3d9ea60eff0392c122ccc0cf0433c4f6426f841",
+      "title": "'Economic Decline Fueled by Corrupt Officials,' says Judge In Sarana Gunawardena Sentencing",
+      "sent_at": "2026-06-09T12:40:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/09/kalpitiya-police-officers-transferred-over-misconduct-complaints",
+      "content_hash": "87b7de7d61615e257bfaf5ec068952f697a9904653487c2f33020ca5fed6907e",
+      "title": "Kalpitiya Police Officers Transferred Over Misconduct Complaints",
+      "sent_at": "2026-06-09T12:40:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/09/unp-condemns-treatment-of-suresh-salley",
+      "content_hash": "3b0af01683ad654f346afd3394b04227a641c9311f9f723b5c4c87c70bd9b422",
+      "title": "UNP Condemns Treatment of Suresh Salley",
+      "sent_at": "2026-06-09T12:40:54Z"
     }
   ]
 }
