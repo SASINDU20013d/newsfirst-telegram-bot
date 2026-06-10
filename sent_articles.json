@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/03/2-5m-sent-to-fraudulent-party-without-verification",
-      "content_hash": "ee62ee5253215f29624992ff27258d4004f5284f6f43933590712eb97ae38095",
-      "title": "$2.5M Sent to Fraudulent Party Without Verification",
-      "sent_at": "2026-06-03T09:54:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/fire-at-a-hotel-in-new-delhi-21-dead-40-rescued",
-      "content_hash": "cc6939e35221564a714cb7941b70cd77659b4c0e8df654d7a21ebcdf759e764c",
-      "title": "Fire At A Hotel In New Delhi; 21 Dead & 40 Rescued",
-      "sent_at": "2026-06-03T09:54:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/indian-navy-s-ins-airavat-docks-in-colombo",
-      "content_hash": "6daca10b66a8684a044a2c0027b9ac153550fa9f23f1454e1c741ff2154b686a",
-      "title": "Indian Navy's INS Airavat Docks in Colombo",
-      "sent_at": "2026-06-03T09:54:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/japan-signals-strong-support-for-sri-lanka%e2%80%99s-blue-economy-and-farming-future",
-      "content_hash": "ac280b71ac41ca0bb8cff4a8274c4417742096b1a666d8748f2a54fc2e7e5b54",
-      "title": "Japan Signals Strong Support for Sri Lanka’s Blue Economy and Farming Future",
-      "sent_at": "2026-06-03T09:54:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/jetstar-to-launch-direct-flights-between-sri-lanka-and-australia-in-august-2026",
-      "content_hash": "e89ea5552acdf8ac1c92d1d1874743fea97f977976a430021bbb304135e2dbd7",
-      "title": "Jetstar to Launch Direct Flights Between Sri Lanka and Australia in August 2026",
-      "sent_at": "2026-06-03T09:54:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/pakistan-navy-ships-and-submarine-dock-in-colombo",
-      "content_hash": "4c75553b76faf5f1b5e7ef62181f3b5677ac5b1f933605c7b1f19f89a735bf19",
-      "title": "Pakistan Navy Ships and Submarine Dock in Colombo",
-      "sent_at": "2026-06-03T09:54:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/sri-lanka-gains-australia-new-zealand-backing-for-entry-into-world%e2%80%99s-largest-trade-pact",
-      "content_hash": "b2bea408543dd40abbc152c360d3d9e3f3595a02b528315cb5d33d56c4951efe",
-      "title": "Sri Lanka Gains Australia, New Zealand Backing for Entry into World’s Largest Trade Pact",
-      "sent_at": "2026-06-03T09:54:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/the-bond-scam-every-sri-lankan-should-know-what-happened-and-why-it-still-matters",
-      "content_hash": "e718ab0e44c84dd6c202e98b109b8132fddc318b08be6c8ffe00874b8ad3189a",
-      "title": "The Bond Scam Every Sri Lankan Should Know: What Happened and Why It Still Matters",
-      "sent_at": "2026-06-03T09:54:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/travel-ban-imposed-on-former-sri-lanka-president",
-      "content_hash": "c361edd98e5c4e4f16e162a7845bc419ce705c41bcd66ee17d8d3b855af15d02",
-      "title": "Travel Ban Imposed on Former Sri Lanka President",
-      "sent_at": "2026-06-03T09:54:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/us-lists-sri-lanka-in-global-forced-labor-trade-inquiry-ustr-proposes-additional-12-5-duty",
-      "content_hash": "b3622c5a0c0340fdfd3c2c79e114adb72f0b1e51acb359fcd99415a84c1b8cd9",
-      "title": "US Lists Sri Lanka in Global Forced Labor Trade Inquiry; USTR Proposes Additional 12.5% Duty",
-      "sent_at": "2026-06-03T09:54:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/03/55-rescued-after-blaze-engulfs-home-for-elders-in-batagoda",
       "content_hash": "98cb764afdc69043a21c1d699f1d49af121bbbdd13e296af84bb4dc054169236",
       "title": "55 Rescued After Blaze Engulfs Home For Elders in Batagoda",
@@ -815,6 +755,66 @@
       "content_hash": "2da0c77b2ab1c6bbb36544d196f09eab0f1903f69d8efea80cd1b227cfdeae95",
       "title": "Three Day National Dengue Prevention Programme Ends Today (10)",
       "sent_at": "2026-06-10T05:22:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/2025-o-l-results-by-june-15-no-move-to-postpone-a-l-exams",
+      "content_hash": "c3dc0d815e4e05de4c8926bf84aff5756c396d04ac5dd57f7be15c0b82259dbd",
+      "title": "2025 O/L Results by June 15; No Move To Postpone A/L Exams",
+      "sent_at": "2026-06-10T10:09:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/court-orders-medical-probe-into-alleged-torture-of-ex-spy-chief-suresh-salley",
+      "content_hash": "770f9f8a1ac825241305b9863ad736279b1288c6b190150090adf25616ea9f8e",
+      "title": "Court Orders Medical Probe Into Alleged Torture of Ex-Spy Chief Suresh Salley",
+      "sent_at": "2026-06-10T10:09:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/credible-evidence-links-former-spy-chief-suresh-salley-of-orchestrating-easter-attacks",
+      "content_hash": "cb279feb8014f309f5bc6bf05ad7a5e7480719aa378ceae69185a45dc87d33fc",
+      "title": "'Credible Evidence' Links Former Spy Chief Suresh Salley of Orchestrating Easter Attacks",
+      "sent_at": "2026-06-10T10:09:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/ex-spy-chief-salley-knew-easter-sunday-plot-says-minister",
+      "content_hash": "9e439d984b72a3beec27d7e4dda2fe160bc72f5b47d38bde1ec8c9a6988b9c05",
+      "title": "Ex-Spy Chief Salley Knew Easter Sunday Plot, Says Minister",
+      "sent_at": "2026-06-10T10:09:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/indian-envoy-meets-sunil-handunnetti",
+      "content_hash": "bbc6d0764099a78f11cbbb72a98b5df66c50071e29f776f6899979637927228f",
+      "title": "Indian Envoy Meets Sunil Handunnetti",
+      "sent_at": "2026-06-10T10:09:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/no-more-long-walks-for-water-gammadda-brings-water-purification-system-to-rural-school",
+      "content_hash": "751ff0197494791b774d7f3a6502a391be91bd86f6e23b1446c5af139059f791",
+      "title": "\"No More Long Walks For Water\" Gammadda Brings Water Purification System To Rural School",
+      "sent_at": "2026-06-10T10:09:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/santosh-jha-ali-sabry-discuss-india-sri-lanka-ties",
+      "content_hash": "d7f2cd588dd068199bdbc3ed221090d18673bcf65d39165c4377de83ec468170",
+      "title": "Santosh Jha, Ali Sabry Discuss India-Sri Lanka Ties",
+      "sent_at": "2026-06-10T10:09:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/sathosa-reduces-prices-of-18-essential-food-items",
+      "content_hash": "49d5512d176ec1fbbe9165b5805680a2b5a097116d0520cb151fae6a39a60eb6",
+      "title": "Sathosa Reduces Prices of 18 Essential Food Items",
+      "sent_at": "2026-06-10T10:09:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/senior-dig-waruna-seeks-court-protection-from-arrest",
+      "content_hash": "a4b5a94a111f6f2c61cdf735bcf79370bb6681fe0e84b92b3a43af080183f969",
+      "title": "Senior DIG Waruna Seeks Court Protection From Arrest",
+      "sent_at": "2026-06-10T10:09:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/shan-wijayalal-arrested-in-corruption-probe",
+      "content_hash": "00ad092296a7b14d775e30328bb77536a899a6523745233b2e2b7f86d4b36120",
+      "title": "Shan Wijayalal Arrested in Corruption Probe",
+      "sent_at": "2026-06-10T10:09:35Z"
     }
   ]
 }
