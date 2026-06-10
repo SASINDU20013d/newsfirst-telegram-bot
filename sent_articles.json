@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/03/250-suspected-meningitis-cases-reported-across-sri-lanka",
-      "content_hash": "1cd173ecec07beb85670857c6aeaeb2c269b458c206e8ca062a94166a163df09",
-      "title": "250 Suspected Meningitis Cases Reported Across Sri Lanka",
-      "sent_at": "2026-06-03T04:40:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/75-of-yala-paddy-lands-receive-fertilizer-subsidy",
-      "content_hash": "a206da030adf024bfe2254de2e0121a124a5e7347d72d50d2a2756a56824c89f",
-      "title": "75% Of Yala Paddy Lands Receive Fertilizer Subsidy",
-      "sent_at": "2026-06-03T04:40:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/kiriella-road-accident-leads-to-gun-fire",
-      "content_hash": "94994714d8e6bf9beaef27d16fe959a9c9cfc6286f4ca75c665d76e48a2efe19",
-      "title": "Kiriella Road Accident Leads To Gun Fire",
-      "sent_at": "2026-06-03T04:40:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/new-laws-planned-to-regulate-commercial-groundwater-extraction",
-      "content_hash": "bf106f091bf1791146b4c2a79aac78179bbfef6c21e0ef24ed89562dc4b3626a",
-      "title": "New Laws Planned To Regulate Commercial Groundwater Extraction",
-      "sent_at": "2026-06-03T04:40:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/03/sri-lanka-receives-695-million-imf-funding-boost",
-      "content_hash": "13ed18642d596a83bcb9e6888f3a78f8c95926b45ff8dc611296295d64d53ee9",
-      "title": "Sri Lanka Receives $695 Million IMF Funding Boost",
-      "sent_at": "2026-06-03T04:40:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/03/2-5m-sent-to-fraudulent-party-without-verification",
       "content_hash": "ee62ee5253215f29624992ff27258d4004f5284f6f43933590712eb97ae38095",
       "title": "$2.5M Sent to Fraudulent Party Without Verification",
@@ -791,6 +761,60 @@
       "content_hash": "a515282b784f31ad874e7a31a668469f77b51cfac1b7ee4d55e79c2e4d07a0fd",
       "title": "CBSL Issues New Gazette: Exporters Mandated to Convert Residual Proceeds by 10th of Following Month",
       "sent_at": "2026-06-09T18:18:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/10-hour-water-cut-in-kalutara-today-10",
+      "content_hash": "b9fa5613d6099bd23496b2837987b5f8a6b331bd30dc1adf2d1bef3f5ab9830c",
+      "title": "10-Hour Water Cut in Kalutara Today (10)",
+      "sent_at": "2026-06-10T05:22:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/approval-granted-to-recruit-candidates-into-teaching-service-more-than-31-000-teachers-to-be-recruited-this-year",
+      "content_hash": "d846af3a683d61adf4dde8e8a45375671207d998023d65531a34ae2ed9f723e2",
+      "title": "Approval Granted To Recruit Candidates Into Teaching Service: More than 31,000 Teachers To Be Recruited This Year",
+      "sent_at": "2026-06-10T05:22:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/court-summons-ex-navy-chief-ravindra-wijegunaratne-in-abduction-probe",
+      "content_hash": "8ed416feddf2d7cfa16df6f372aeaffb3524afdcd1861c116370bd16cc4838c4",
+      "title": "Court Summons Ex-Navy Chief Ravindra Wijegunaratne In Abduction Probe",
+      "sent_at": "2026-06-10T05:22:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/el-ni%c3%b1o-conditions-expected-to-impact-sri-lanka-s-weather-in-july",
+      "content_hash": "88f3fa91db34122f17a22c68bca0736e43f2ca3833d419f09c50bfc157aeb21b",
+      "title": "El Niño Conditions Expected To Impact Sri Lanka's Weather in July",
+      "sent_at": "2026-06-10T05:22:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/gammadda-brings-relief-to-dikkgalpura-launches-another-clean-drinking-water-project",
+      "content_hash": "01e553223c2c09db691e3a5b4ae95fc78aabb0535c7dec5ffcc6ab30852c6a24",
+      "title": "Gammadda Brings Relief To Dikkgalpura: Launches Another Clean Drinking Water Project",
+      "sent_at": "2026-06-10T05:22:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/new-gazette-rule-tells-exporters-to-convert-forex-within-10-days",
+      "content_hash": "57aab16145e8579482878a89c6b681fb38bfef2ff4ac7ed5d78eb0563ee73cf8",
+      "title": "New Gazette Rule Tells Exporters to Convert Forex Within 10 Days",
+      "sent_at": "2026-06-10T05:22:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/parliament-approves-referral-of-audit-report-on-alleged-major-financial-irregularities-at-department-of-motor-traffic-to-attorney-general",
+      "content_hash": "4e056e44d2eea0128a53632ebd2cca43fb0a448197a499f652a6f0361858d485",
+      "title": "Parliament Approves Referral of Audit Report on Alleged Major Financial Irregularities At Department of Motor Traffic To Attorney General",
+      "sent_at": "2026-06-10T05:22:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/sirasa-tv-celebrates-28-years-of-transforming-sri-lankan-television-industry",
+      "content_hash": "aed5973126dcbe40ca361926de096ed706fe8e233fcba49d336118d11f1824e8",
+      "title": "Sirasa TV Celebrates 28 Years of Transforming Sri Lankan Television Industry",
+      "sent_at": "2026-06-10T05:22:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/10/three-day-national-dengue-prevention-programme-ends-today-10",
+      "content_hash": "2da0c77b2ab1c6bbb36544d196f09eab0f1903f69d8efea80cd1b227cfdeae95",
+      "title": "Three Day National Dengue Prevention Programme Ends Today (10)",
+      "sent_at": "2026-06-10T05:22:38Z"
     }
   ]
 }
