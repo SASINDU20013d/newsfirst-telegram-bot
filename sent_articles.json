@@ -1,102 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/04/death-toll-rises-to-ten-in-tragic-blaze-in-anguruwatota-elderly-home",
-      "content_hash": "6b678f09047455b99d0ad1fa2c3b2003ab6f2973da8adcf44110163c48ef6105",
-      "title": "Death Toll Rises to Ten in Tragic Blaze in Anguruwatota Elderly Home",
-      "sent_at": "2026-06-04T04:25:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/gazzette-issued-for-recruitment-of-additional-3-000-student-nurses-to-strengthen-national-nursing-workforce",
-      "content_hash": "3ce31ff7772f93094b40c59c24fabecb51a0f06e71c47800be0d0339fefbec55",
-      "title": "Gazzette Issued for Recruitment of Additional 3,000 Student Nurses to Strengthen National Nursing Workforce",
-      "sent_at": "2026-06-04T04:25:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/heavy-rain-up-to-100mm-expected-in-several-provinces",
-      "content_hash": "eee211d1935f56eeb3c40288d9eb043aadb8760e4775309a8535a195e3b2e1c2",
-      "title": "Heavy Rain Up to 100mm Expected in Several Provinces",
-      "sent_at": "2026-06-04T04:25:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/sri-lanka-targets-usd-100-million-pharma-export-revenue",
-      "content_hash": "bb1892073252b0285a1711693a2003fa5ef7f2247490f3798f2b9635c97d9ed4",
-      "title": "Sri Lanka Targets USD 100 Million Pharma Export Revenue",
-      "sent_at": "2026-06-04T04:25:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/third-phase-of-gammadda-rebuild-kicks-off-in-badulla-restoring-livelihoods-of-ditwah-affected-families",
-      "content_hash": "dffd98284229bf7547f3650841fdbd814e0c0e94c3d8a1a13114ec76265c75e5",
-      "title": "Third Phase of Gammadda Rebuild Kicks Off in Badulla Restoring Livelihoods of Ditwah- Affected Families",
-      "sent_at": "2026-06-04T04:25:17Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/three-sri-lankans-among-injured-in-kuwait-international-airport-attack-embassy-confirms",
-      "content_hash": "3bc5d34c3b038a9cc6d55ed47fbcae3d51e57f3be23b7081abd6212997dcc222",
-      "title": "Three Sri Lankans Among Injured in Kuwait International Airport Attack, Embassy Confirms",
-      "sent_at": "2026-06-04T04:25:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/20-students-stung-in-wasp-attack-at-school",
-      "content_hash": "abc29539d66a0d8197c1d6df69f28afe2bc7c5a3bddd59395abdcf2dce143a22",
-      "title": "20 Students Stung in Wasp Attack at School",
-      "sent_at": "2026-06-04T08:52:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/child-dies-after-car-and-three-wheeler-collision",
-      "content_hash": "6091b9c8ed725944e7fec93b783e8bf6ffbfc68966d2584b6be542105a6849a7",
-      "title": "Child Dies After Car and Three-Wheeler Collision",
-      "sent_at": "2026-06-04T08:52:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/falling-tree-claims-three-lives-including-schoolgirl",
-      "content_hash": "b47aae87e74488e1179b2a2d72bdff611ef5437d189b8f52aaf211b0c905ec1e",
-      "title": "Falling Tree Claims Three Lives Including Schoolgirl",
-      "sent_at": "2026-06-04T08:52:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/family-of-four-arrested-over-teen-attack",
-      "content_hash": "3a29bcf650deaa67c929df3efa6e15fd1e525d3913abd7e70529a77c957e4715",
-      "title": "Family of Four Arrested Over Teen Attack",
-      "sent_at": "2026-06-04T08:52:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/investigation-begins-into-deadly-elderly-home-fire-death-toll-rises-to-10",
-      "content_hash": "c5e9cbcb43f0773d04dea27e9f7565977de2a4031db638d7d9b7ce04795424bb",
-      "title": "Investigation Begins into Deadly Elderly Home Fire; Death Toll Rises To 10",
-      "sent_at": "2026-06-04T08:52:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/israel-lebanon-agree-to-implement-ceasefire-if-hezbollah-stops-attacks",
-      "content_hash": "5598d4e62113c68b497caf19ee280674a264f9faca34c33284cafc47a2697611",
-      "title": "Israel, Lebanon Agree To Implement Ceasefire If Hezbollah Stops Attacks",
-      "sent_at": "2026-06-04T08:52:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/lanka-sathosa-to-import-25-essential-items",
-      "content_hash": "a6b1455eb834625700287a674819cd1a8ee2bbf413af24a2fddc7cebe3155014",
-      "title": "Lanka Sathosa to Import 25 Essential Items",
-      "sent_at": "2026-06-04T08:52:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/man-survives-direct-lightning-hit-on-bangkok-flyover",
-      "content_hash": "3402b30863ad6dc050fd0cc3cca1ce645161a598e5b4ad9f6965c06668faad57",
-      "title": "Man Survives Direct Lightning Hit on Bangkok Flyover",
-      "sent_at": "2026-06-04T08:52:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/passenger-bus-slams-into-wall-in-galle-sri-lanka",
-      "content_hash": "e06137c48d149311505cf0b5c24af5a8140de92068c36914ff113c2fef26949d",
-      "title": "Passenger Bus Slams Into Wall In Galle, Sri Lanka",
-      "sent_at": "2026-06-04T08:52:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/yoshitha-case-delayed-court-awaits-appeal-decision",
-      "content_hash": "68237830184558bef7df531401cd965e9a63861c6b591c0af5f55f71dd6730d3",
-      "title": "Yoshitha Case Delayed:Court Awaits Appeal Decision",
-      "sent_at": "2026-06-04T08:52:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/04/12-killed-in-batagoda-elders%e2%80%99-home-fire-in-anguruwathota",
       "content_hash": "34ea3b01470afdf81754fc3f9e6dc93968e3f1917a9bffd0a55997700dac2ae7",
       "title": "12 Killed in Batagoda Elders’ Home Fire in Anguruwathota",
@@ -851,6 +755,66 @@
       "content_hash": "89060f510ccaf101167454181e10ba3eab24ba54d75c3ef021b20e521c18b616",
       "title": "President Reviews Implementation of Galle City Development Project",
       "sent_at": "2026-06-11T04:19:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/11-y-o-dies-after-drowning-incident-at-galle-face-beach-search-continues-for-missing-child",
+      "content_hash": "212c8d6306c6c9ecba2a9afd46080bb7eaff77d81e5fbed7ab9c3a9cccc5ab50",
+      "title": "11-Y/O Dies After Drowning Incident at Galle Face Beach; Search Continues for Missing Child",
+      "sent_at": "2026-06-11T09:14:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/build-back-better-japan-undp-target-hard-hit-communities",
+      "content_hash": "890a2ff5db7d07d5ccf4400f35f6f770e205e0f394fd56221ab7b1d9cd231163",
+      "title": "'Build Back Better' - Japan, UNDP Target Hard-Hit Communities",
+      "sent_at": "2026-06-11T09:14:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/court-rejects-shashi-weerawansa-appeal-upholds-prison-sentence",
+      "content_hash": "fe241fd1a1be73ccbdb7bc8efc971e0405d32d0ac169bc569f14c53c6521e3d7",
+      "title": "Court Rejects Shashi Weerawansa Appeal, Upholds Prison Sentence",
+      "sent_at": "2026-06-11T09:14:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/global-peace-index-2026-sri-lanka-ranks-67-globally-south-asia%e2%80%99s-2nd-most-peaceful-nation",
+      "content_hash": "6d48b7157e93b7f9d099d0e7e26b23560bda82c778f31b6af55b8fde7fc05614",
+      "title": "Global Peace Index 2026: Sri Lanka Ranks 67 Globally ; South Asia’s 2nd Most Peaceful Nation",
+      "sent_at": "2026-06-11T09:14:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/ice-heroin-seized-from-werahera",
+      "content_hash": "8685828ef340a27b74ae310b297e7b39beecdb5f7584c40b632f26b7f038a746",
+      "title": "ICE & Heroin Seized From Werahera",
+      "sent_at": "2026-06-11T09:14:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/japan-donates-refrigerated-trucks-to-ceylon-fisheries-corporation",
+      "content_hash": "d7320bce07ca88dc4e2886cac5c515bc7d6c15086256964727b343e00de1f2ec",
+      "title": "Japan Donates Refrigerated Trucks To Ceylon Fisheries Corporation",
+      "sent_at": "2026-06-11T09:14:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/pm-modi-thanks-akd-reaffirms-strong-indiasri-lanka-partnership",
+      "content_hash": "55399c5689a4bd150d3e79629baf717848f4de01ffc39783fb7ea8d21c9a237e",
+      "title": "PM Modi Thanks AKD; Reaffirms Strong India–Sri Lanka Partnership",
+      "sent_at": "2026-06-11T09:14:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/sri-lanka-prepares-for-el-ni%c3%b1o-impact-president-leads-strategy-talks-with-national-agencies",
+      "content_hash": "32e94fe7d11937644e1e986b7070006d81ba9dd6224ecf4acd0513094510556a",
+      "title": "Sri Lanka Prepares for El Niño Impact; President Leads Strategy Talks With National Agencies",
+      "sent_at": "2026-06-11T09:14:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/sri-lanka-to-explore-parliamentary-budget-office-with-us-backing",
+      "content_hash": "a862395118aff5202f839240a49c886bbef1d57811d684e228291fe8efe0b9fa",
+      "title": "Sri Lanka to Explore Parliamentary Budget Office with US Backing",
+      "sent_at": "2026-06-11T09:14:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/un-partners-end-emergency-response-to-cyclone-ditwah",
+      "content_hash": "f2374e2d5e1525270a265fded9358fefc4dda8c65e62b8614306eab0fd54828c",
+      "title": "UN, Partners End Emergency Response to Cyclone Ditwah",
+      "sent_at": "2026-06-11T09:14:32Z"
     }
   ]
 }
