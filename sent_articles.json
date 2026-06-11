@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/04/12-killed-in-batagoda-elders%e2%80%99-home-fire-in-anguruwathota",
-      "content_hash": "34ea3b01470afdf81754fc3f9e6dc93968e3f1917a9bffd0a55997700dac2ae7",
-      "title": "12 Killed in Batagoda Elders’ Home Fire in Anguruwathota",
-      "sent_at": "2026-06-04T11:59:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/04/one-in-five-sri-lankan-schoolchildren-malnourished",
-      "content_hash": "1c62353facd8dfa08786f22f1f3e8a4f7f7290d94c315f7177a55044a91b1f67",
-      "title": "One in Five Sri Lankan Schoolchildren Malnourished",
-      "sent_at": "2026-06-04T11:59:16Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/04/eheliyagoda-police-chief-taken-into-custody",
       "content_hash": "a12293dd9e3ba579ae679a69505befffc290fcb5e07544c951c9b2f466c78586",
       "title": "Eheliyagoda Police Chief Taken Into Custody",
@@ -815,6 +803,54 @@
       "content_hash": "f2374e2d5e1525270a265fded9358fefc4dda8c65e62b8614306eab0fd54828c",
       "title": "UN, Partners End Emergency Response to Cyclone Ditwah",
       "sent_at": "2026-06-11T09:14:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/18-chinese-nationals-held-over-online-scam-network",
+      "content_hash": "9db81031dcf95ad6780b76297e03dd77fe90395503c17007c9b75f35c3379a09",
+      "title": "18 Chinese Nationals Held Over Online Scam Network",
+      "sent_at": "2026-06-11T14:01:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/gammanpila-claims-patali-filed-complaint-over-political-rivalry",
+      "content_hash": "38fb9ba8c9b3bbdbf66485a2313969ddf351f3eacf21193132dd1838bf106410",
+      "title": "Gammanpila Claims Patali Filed Complaint Over Political Rivalry",
+      "sent_at": "2026-06-11T14:01:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/irregular-passport-possession-is-a-serious-offence-says-judge-as-shashi-weerawansa-loses-appeal",
+      "content_hash": "dce98481138c61ce24854a1128044e855f30d081d0925505510c98c4c675d87d",
+      "title": "Irregular Passport Possession Is a Serious Offence, says Judge As Shashi Weerawansa Loses Appeal",
+      "sent_at": "2026-06-11T14:01:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/over-6-200-dengue-larvae-sites-found-in-nationwide-crackdown",
+      "content_hash": "4f6b693b268a5cfc054ece3e758abcae5ba7d7899280ec212295ff2369d9bbab",
+      "title": "Over 6,200 Dengue Larvae Sites Found in Nationwide Crackdown",
+      "sent_at": "2026-06-11T14:01:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/salley-s-lawyer-points-to-ignored-intelligence-warnings-before-easter-attacks",
+      "content_hash": "958885417038b84d985cc2a4240e8f4a788ccc8971b84151c22e078443b64f70",
+      "title": "Salley's Lawyer Points to Ignored Intelligence Warnings Before Easter Attacks",
+      "sent_at": "2026-06-11T14:01:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/slaf-upgraded-kfir-successfully-completes-first-test-flight",
+      "content_hash": "5a62926806eebb3514c8c7946d888899d4a4c488422b40c7d4108ed3e49ec81e",
+      "title": "SLAF Upgraded Kfir Successfully Completes First Test Flight",
+      "sent_at": "2026-06-11T14:01:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/trump-us-will-be-hitting-iran-very-hard-tonight",
+      "content_hash": "60f367357244b9f3f3ea7a38fd2b86e39c276588b14afd3b3d8fffd9af263f71",
+      "title": "Trump: US Will Be Hitting Iran Very Hard Tonight",
+      "sent_at": "2026-06-11T14:01:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/11/where-did-kp%e2%80%99s-gold-disappear-fonseka-goes-to-bribery-commission",
+      "content_hash": "fb66725bddb6604aa790be7c8daf4ebd2e7b9957ae319be3f79bb49a589e5c47",
+      "title": "Where Did KP’s Gold Disappear? Fonseka Goes To Bribery Commission",
+      "sent_at": "2026-06-11T14:02:00Z"
     }
   ]
 }
