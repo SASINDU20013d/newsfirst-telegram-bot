@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/05/a-levels-first-monaco-next-yevan-david-set-for-fia-formula-3-return-this-weekend",
-      "content_hash": "2cfd2bb26cf1a0ed7bd664da66f228c75950e6fd5a85d49f61e0ea43a744103a",
-      "title": "A-Levels First, Monaco Next: Yevan David Set for FIA Formula 3 Return This Weekend",
-      "sent_at": "2026-06-05T09:58:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/death-toll-rises-to-13-after-tragic-care-home-fire-in-anguruwatota",
-      "content_hash": "180b564d2882bbc24dd5512925b3bfa788374ed3d799234fef0949c8f663c9bf",
-      "title": "Death Toll Rises to 13 After Tragic Care Home Fire in Anguruwatota",
-      "sent_at": "2026-06-05T09:58:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/presidential-commission-records-statements-from-40-officials-in-coal-deal-probe",
-      "content_hash": "a5b855944f96124543ec763adfc38fad1e974cd3dae2cf15247cee242d180ae3",
-      "title": "Presidential Commission Records Statements from 40 Officials in Coal Deal Probe",
-      "sent_at": "2026-06-05T09:58:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/suspect-arrested-over-rs-35-million-bank-theft-in-horana",
-      "content_hash": "ff468156761ba53d4e3a8143d7c68a0bccf7738dcb5a6cc18c28d850b60582bb",
-      "title": "Suspect Arrested Over Rs. 35 Million Bank Theft in Horana",
-      "sent_at": "2026-06-05T09:58:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/two-arrested-over-gold-jewellery-theft-in-negombo",
-      "content_hash": "560954d66fc7e3ab9e5a6b83eaeaedfa1de3c1fd1fbbbe426d21505ba80a1085",
-      "title": "Two Arrested Over Gold Jewellery Theft in Negombo",
-      "sent_at": "2026-06-05T09:58:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/05/24-year-prison-term-for-abuse-of-10-year-old-boy",
       "content_hash": "251c08eb4320ee386a4045d780a84188229ea9d89b004a7687140b236efc4127",
       "title": "24-Year Prison Term for Abuse of 10-Year-Old Boy",
@@ -809,6 +779,66 @@
       "content_hash": "9360d8cc815d1fe8257aad47e4545de6ae315f5e4a3c290425853d8761803a70",
       "title": "World Day Against Child Labour: 173 Child Labour Complaints Reported in 2025",
       "sent_at": "2026-06-12T05:51:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/100-government-technical-officers-to-be-recruited",
+      "content_hash": "7a11870f79a9eae0ab256a982aff8ee15e4df4816b4c798fbd3ddfb3787a5596",
+      "title": "100 Government Technical Officers To Be Recruited",
+      "sent_at": "2026-06-12T10:19:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/court-orders-dna-test-for-ex-atamasthanadhipathi",
+      "content_hash": "a93634c14f9cec67138996971eee874a507bbe84e435cf55b47a8275d0a49eb8",
+      "title": "Court Orders DNA Test for Ex-Atamasthanadhipathi",
+      "sent_at": "2026-06-12T10:19:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/dengue-eradication-programme-to-be-launched-from-june-15",
+      "content_hash": "74737ccb1f85e42a491c1e476ea0bd96513027d193921b76c2502b69ecccbf56",
+      "title": "Dengue Eradication Programme To Be Launched From June 15",
+      "sent_at": "2026-06-12T10:19:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/no-move-to-arrest-ex-dig-waruna-jayasundara-under-pta",
+      "content_hash": "b6f2515424148fce168ceae1eec1decd4a26eda5cc936d27ba00ff226c759570",
+      "title": "No Move to Arrest Ex-DIG Waruna Jayasundara Under PTA",
+      "sent_at": "2026-06-12T10:19:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/parliament-to-convene-june-2326",
+      "content_hash": "770928fecd3ff78f67c5c919e8b9e3a8300a54935baa7e72aa950ee5b54b3cf9",
+      "title": "Parliament to Convene June 23–26",
+      "sent_at": "2026-06-12T10:19:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/police-to-seize-noisy-motorcycles-during-poson-season",
+      "content_hash": "0e25271e807a33d6cb4c04334e3de34c231ee704c90aeb3e76147d4b346a368c",
+      "title": "Police To Seize Noisy Motorcycles During Poson Season",
+      "sent_at": "2026-06-12T10:19:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/s-m-chandrasena-indicted-over-seed-maize-scandal",
+      "content_hash": "ec94ef62a96003f55df178342508345bee81195bac5d554d686b95477fa1c164",
+      "title": "S.M. Chandrasena Indicted Over Seed Maize Scandal",
+      "sent_at": "2026-06-12T10:19:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/shan-wijayalal-granted-bail-in-corruption-case",
+      "content_hash": "eb4b5f9ca04b96bb14b5aebe48dd74ebedee63ce457925438b601a6ad84a6246",
+      "title": "Shan Wijayalal Granted Bail in Corruption Case",
+      "sent_at": "2026-06-12T10:19:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/sri-lanka-s-prison-population-rises-to-40-000",
+      "content_hash": "db06d1ab8213243d48bace4fc4a965e58a907f1a23cffcbee860be42e71074a7",
+      "title": "Sri Lanka's Prison Population Rises To 40,000",
+      "sent_at": "2026-06-12T10:19:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/srilankan-airlines-restructuring-committee-appointed",
+      "content_hash": "a743312317d33be1e6d9632855c0747ed92854c9978645f812614f2553078013",
+      "title": "SriLankan Airlines Restructuring Committee Appointed",
+      "sent_at": "2026-06-12T10:19:55Z"
     }
   ]
 }
