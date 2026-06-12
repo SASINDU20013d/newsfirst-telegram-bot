@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/05/four-police-constables-suspended-over-drug-use-allegations",
-      "content_hash": "33947db305d51f93d0fabff9e894a04c603228f2a3d6c4acdaacdbae06fafecc",
-      "title": "Four Police Constables Suspended Over Drug Use Allegations",
-      "sent_at": "2026-06-05T05:21:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/gammadda-rebuild-initiative-continues-to-restore-livelihoods-in-badulla",
-      "content_hash": "9a93b22ae6f4bae1b724f72cc3bd60cfa2673546dc664310683afcae3903c8b7",
-      "title": "Gammadda Rebuild Initiative Continues to Restore Livelihoods in Badulla",
-      "sent_at": "2026-06-05T05:21:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/government-to-introduce-mandatory-registration-for-all-elders%e2%80%99-homes-following-anguruwatota-tragedy",
-      "content_hash": "34cd638c33473f80395b031edb271a0db4896c5270d96d3902a3cd5376ba0bcf",
-      "title": "Government to Introduce Mandatory Registration for All Elders’ Homes Following Anguruwatota Tragedy",
-      "sent_at": "2026-06-05T05:21:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/rumesh-tharanga-delivers-8th-best-javelin-throw-in-the-world-with-historic-diamond-league-performance",
-      "content_hash": "ae8ff7b2bd01c27a277fce04acc40cf77f99aa5c53f3520a4e7b1b9e3d6be7ca",
-      "title": "Rumesh Tharanga Delivers 8th-Best Javelin Throw in the World with Historic Diamond League Performance",
-      "sent_at": "2026-06-05T05:21:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/sri-lanka-s-paye-tax-to-be-reviewed-in-imf-backed-revenue-strategy",
-      "content_hash": "201817dc0c0049af54ad692e08ceabc000d21cc1ec7e109211325b492e1da0cb",
-      "title": "Sri Lanka's PAYE Tax To Be Reviewed in IMF-Backed Revenue Strategy",
-      "sent_at": "2026-06-05T05:21:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/water-supply-disrupted-in-kolonnawa-due-to-pipeline-leak-repairs-underway",
-      "content_hash": "53811b72c8c87e80b23506fc3e42f9767f875d836f0829cf40ece86293b82682",
-      "title": "Water Supply Disrupted in Kolonnawa Due to Pipeline Leak; Repairs Underway",
-      "sent_at": "2026-06-05T05:21:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/world-environment-day-marked-today-under-the-theme-of-climate-action",
-      "content_hash": "09b8471160b4d5c1dd354cf837511ca3b6bf2ba141700c81af1cd3dd9df10560",
-      "title": "World Environment Day Marked Today Under the Theme of Climate Action",
-      "sent_at": "2026-06-05T05:21:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/05/a-levels-first-monaco-next-yevan-david-set-for-fia-formula-3-return-this-weekend",
       "content_hash": "2cfd2bb26cf1a0ed7bd664da66f228c75950e6fd5a85d49f61e0ea43a744103a",
       "title": "A-Levels First, Monaco Next: Yevan David Set for FIA Formula 3 Return This Weekend",
@@ -815,6 +773,42 @@
       "content_hash": "fb66725bddb6604aa790be7c8daf4ebd2e7b9957ae319be3f79bb49a589e5c47",
       "title": "Where Did KP’s Gold Disappear? Fonseka Goes To Bribery Commission",
       "sent_at": "2026-06-11T14:02:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/income-tax-return-filing-for-2025-2026-to-begin-next-month",
+      "content_hash": "a34161cd6bb0b09e97678af66a975458e6595b7ed789d1b18300310a11cd1f9b",
+      "title": "Income Tax Return Filing For 2025/2026 To Begin Next Month",
+      "sent_at": "2026-06-12T05:50:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/no-power-cuts-despite-el-ni%c3%b1o-situation-energy-minister",
+      "content_hash": "261d75fb8d1a65cf6511632a137ed5d6013bf12246098f0291ab119a4c1c8563",
+      "title": "No Power Cuts Despite El Niño Situation - Energy Minister",
+      "sent_at": "2026-06-12T05:51:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/residents-along-kuda-ganga-urged-to-remain-vigilant-as-water-levels-rise",
+      "content_hash": "0bf862c456f28dda2c575b654e3dc76423b1016f03d9fca529791422abe7f612",
+      "title": "Residents Along Kuda Ganga Urged To Remain Vigilant As Water Levels Rise",
+      "sent_at": "2026-06-12T05:51:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/srilankan-airlines-flight-returns-safely-after-lightning-strike",
+      "content_hash": "b9efda6d904b5669d8243181adeb4b97bf2be4c384887a877754ecd64efe48db",
+      "title": "SriLankan Airlines Flight Returns Safely After Lightning Strike",
+      "sent_at": "2026-06-12T05:51:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/us-warship-linked-to-iran-blockade-mission-anchors-in-colombo-port",
+      "content_hash": "a232c6c288bc91b993499e5db24ee213504b0ac1b0ca37d511115e9771d9164b",
+      "title": "US Warship Linked to Iran Blockade Mission Anchors in Colombo Port",
+      "sent_at": "2026-06-12T05:51:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/world-day-against-child-labour-173-child-labour-complaints-reported-in-2025",
+      "content_hash": "9360d8cc815d1fe8257aad47e4545de6ae315f5e4a3c290425853d8761803a70",
+      "title": "World Day Against Child Labour: 173 Child Labour Complaints Reported in 2025",
+      "sent_at": "2026-06-12T05:51:08Z"
     }
   ]
 }
