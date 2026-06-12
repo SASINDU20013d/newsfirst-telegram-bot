@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/05/24-year-prison-term-for-abuse-of-10-year-old-boy",
-      "content_hash": "251c08eb4320ee386a4045d780a84188229ea9d89b004a7687140b236efc4127",
-      "title": "24-Year Prison Term for Abuse of 10-Year-Old Boy",
-      "sent_at": "2026-06-05T12:40:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/cyclone-ditwah-recovery-effort-focuses-on-skills-jobs-and-long-term-rehabilitation",
-      "content_hash": "8646b1605bb7c2629a0197bd6a9c6c1c8daeea0c0a116d475f61fe47304529b2",
-      "title": "Cyclone Ditwah Recovery Effort Focuses On Skills, Jobs And Long-Term Rehabilitation",
-      "sent_at": "2026-06-05T12:40:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/kapila-chandrasena-s-legal-team-testifies-in-court",
-      "content_hash": "5dd8005a9012954745446a7b8448f9ca82854564cd793cd8abae98e51eccc20a",
-      "title": "Kapila Chandrasena's Legal Team Testifies In Court",
-      "sent_at": "2026-06-05T12:40:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/rs-30-mn-assets-frozen-in-drug-trafficking-probe",
-      "content_hash": "85c259a94c3ac82e91b8c750d4a6460af83d9499899e590d25468a93226c26c8",
-      "title": "Rs. 30 Mn Assets Frozen in Drug Trafficking Probe",
-      "sent_at": "2026-06-05T12:40:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/05/rumesh-targets-global-titles-after-92-62m-record-throw",
-      "content_hash": "7169edb3ef6491c110dc7ba3506c22e363234c025750df00da6e805ce2d076c9",
-      "title": "Rumesh Targets Global Titles After 92.62m Record Throw",
-      "sent_at": "2026-06-05T12:40:48Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/06/35-000-dengue-cases-reported-as-post-ditwah-risks-rise",
       "content_hash": "9cef73df0ea6feed9c9496e8fa1499a770addc053912f73db3abbfe7cfeffed5",
       "title": "35,000 Dengue Cases Reported As Post-Ditwah Risks Rise",
@@ -839,6 +809,48 @@
       "content_hash": "a743312317d33be1e6d9632855c0747ed92854c9978645f812614f2553078013",
       "title": "SriLankan Airlines Restructuring Committee Appointed",
       "sent_at": "2026-06-12T10:19:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/adb-rolls-out-4b-aid-sri-lanka-among-key-countries",
+      "content_hash": "597e9a36993d455e7b1215da9f410fa6834a43ff805322e727096b1018dc8c51",
+      "title": "ADB Rolls Out $4B Aid, Sri Lanka Among Key Countries",
+      "sent_at": "2026-06-12T14:10:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/fake-data-claims-rejected-as-sri-lanka-shows-debt-reduction",
+      "content_hash": "6326c6015411e10f698ede7d30df50e994a537031bca86a3e3a48dbdc0987952",
+      "title": "Fake Data Claims Rejected as Sri Lanka Shows Debt Reduction",
+      "sent_at": "2026-06-12T14:10:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/rs-20bn-supplementary-estimate-approved-without-vote",
+      "content_hash": "12e977b555447ba04b5d9f28e65a0468eb2ffc852c46d0a41449fe5b7d94efef",
+      "title": "Rs. 20Bn Supplementary Estimate Approved Without Vote",
+      "sent_at": "2026-06-12T14:10:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/sri-lanka-targets-value-added-mineral-industry",
+      "content_hash": "22646f1c4494b7d1c1904fde9acf42854cfeea1e23500dc099c0066cc8d951db",
+      "title": "Sri Lanka Targets Value-Added Mineral Industry",
+      "sent_at": "2026-06-12T14:10:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/verdict-against-ex-igp-pujith-set-for-july-31",
+      "content_hash": "b2ae2ada10187fd6c029a175042f28ad2ccd6731f7a95138778a18e2175c8ad1",
+      "title": "Verdict Against Ex-IGP Pujith Set for July 31",
+      "sent_at": "2026-06-12T14:10:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/visa-issues-force-cancellation-sri-lanka-vs-south-korea-rugby-clash",
+      "content_hash": "ed52b941af01516b15fc5e6dd165c4d28f798f44b0123a362d1b1c3529de3e2b",
+      "title": "Visa Issues Force Cancellation Sri Lanka vs South Korea Rugby Clash",
+      "sent_at": "2026-06-12T14:11:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/12/world-bank-warns-global-growth-to-slow-sharply",
+      "content_hash": "848f6c04dd0633f4ae4b4c0c2309ddeab4185eba7484c91fa8650a2539e22862",
+      "title": "World Bank Warns Global Growth to Slow Sharply",
+      "sent_at": "2026-06-12T14:11:04Z"
     }
   ]
 }
