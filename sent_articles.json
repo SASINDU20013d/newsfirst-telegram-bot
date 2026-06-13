@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/06/mirigama-hospital-launches-program-to-clear-backlog-of-kidney-stone-surgeries",
-      "content_hash": "d43763eb5d8995d0eb76a7cdd89b77eee8f4a997275c63d12996fe5be01db6b5",
-      "title": "Mirigama Hospital Launches Program To Clear Backlog of Kidney Stone Surgeries",
-      "sent_at": "2026-06-06T09:27:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/06/police-seize-weapons-and-drugs-during-home-raid",
-      "content_hash": "9e5b837acf45454ee8aaaa87a78cd12c280bd9ed8872ad556ba35d40bbe81e44",
-      "title": "Police Seize Weapons and Drugs During Home Raid",
-      "sent_at": "2026-06-06T09:27:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/06/two-suspects-in-meegoda-fatal-cab-crash-surrender-to-police",
-      "content_hash": "5a7a88e0296a259bb65425d933b988fbf3be810df4734726984d6d6cc9c63b8b",
-      "title": "Two Suspects In Meegoda Fatal Cab Crash Surrender To Police",
-      "sent_at": "2026-06-06T09:27:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/06/tour-guide-arrested-for-fraud-in-benthara",
-      "content_hash": "7113e116e5caeac5a734c335b2130bf49c757925591cec5f055c6fd5e40741cc",
-      "title": "Tour Guide Arrested for Fraud in Benthara",
-      "sent_at": "2026-06-06T11:37:07Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/06/ministry-calls-for-public-input-on-higher-education-reforms",
       "content_hash": "f72b3a667fe11e1810edde4a7efbafbd1027fb9185b35799f1af82e3ab7020ce",
       "title": "Ministry Calls For Public Input On Higher Education Reforms",
@@ -869,6 +845,18 @@
       "content_hash": "139b18c8eb5592b158e64f1545d729a8e8bd2fe4c5bebda06ec69185afff386a",
       "title": "UGC Begins Allowance Payments for University Students with Disabilities",
       "sent_at": "2026-06-13T09:22:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/businessman-arrested-at-bia-with-smuggled-foreign-cigarettes-worth-over-rs-3-million",
+      "content_hash": "98f96375dff42d8b5a3c9cb3681e9c741654551b978f0627b7f64494e07d9d41",
+      "title": "Businessman Arrested At BIA with Smuggled Foreign Cigarettes Worth Over Rs. 3 Million",
+      "sent_at": "2026-06-13T11:55:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/middle-east-conflict-disrupts-import-of-tar-to-sri-lanka",
+      "content_hash": "4f4bb5a87e3c9519d8fd63e13b83c4be5ff315edc26d85c70f80ef2e209acbfe",
+      "title": "Middle East Conflict Disrupts Import of Tar to Sri Lanka",
+      "sent_at": "2026-06-13T11:56:03Z"
     }
   ]
 }
