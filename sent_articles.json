@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/06/bodies-of-victims-of-batagoda-care-home-handed-over-to-relatives",
-      "content_hash": "c62a3b7b74e343b647262550bda1f60596d19703439ec311682dab87c4f1a5a0",
-      "title": "Bodies of Victims of Batagoda Care Home handed over to relatives",
-      "sent_at": "2026-06-06T06:55:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/06/sri-lanka-gross-official-reserves-rise-to-us-6-873-million-in-may-cbsl",
-      "content_hash": "0aaacb0f8bfcbb7c2b90570d9141ef494ea0478039dca3b5f7c92e6778a1f918",
-      "title": "Sri Lanka Gross Official Reserves Rise To US$ 6,873 Million In May- CBSL",
-      "sent_at": "2026-06-06T06:55:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/06/mirigama-hospital-launches-program-to-clear-backlog-of-kidney-stone-surgeries",
       "content_hash": "d43763eb5d8995d0eb76a7cdd89b77eee8f4a997275c63d12996fe5be01db6b5",
       "title": "Mirigama Hospital Launches Program To Clear Backlog of Kidney Stone Surgeries",
@@ -869,6 +857,18 @@
       "content_hash": "7ddfc1f7ef5ffc59aefebc305559b9459c10957f38937a8c8b3101601b31979b",
       "title": "Special Traffic Plan in Kochchikade for St. Anthony’s Feast Procession Today",
       "sent_at": "2026-06-13T05:22:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/body-of-6-year-old-child-found-inside-a-well-in-point-pedro",
+      "content_hash": "f9a07f795507b8ccfa19234fc7f0695e52ab08e055ee189ef7a72940f23696da",
+      "title": "Body Of 6-Year-Old Child Found Inside a Well In Point Pedro",
+      "sent_at": "2026-06-13T09:22:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/ugc-begins-allowance-payments-for-university-students-with-disabilities",
+      "content_hash": "139b18c8eb5592b158e64f1545d729a8e8bd2fe4c5bebda06ec69185afff386a",
+      "title": "UGC Begins Allowance Payments for University Students with Disabilities",
+      "sent_at": "2026-06-13T09:22:13Z"
     }
   ]
 }
