@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/06/35-000-dengue-cases-reported-as-post-ditwah-risks-rise",
-      "content_hash": "9cef73df0ea6feed9c9496e8fa1499a770addc053912f73db3abbfe7cfeffed5",
-      "title": "35,000 Dengue Cases Reported As Post-Ditwah Risks Rise",
-      "sent_at": "2026-06-06T03:52:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/06/authorities-warn-of-possible-spread-of-filariasis",
-      "content_hash": "f7302e209a952b055b941f735fde493d40ba081866085b14a9bd654da1ae25db",
-      "title": "Authorities Warn of Possible Spread of Filariasis",
-      "sent_at": "2026-06-06T03:52:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/06/bill-to-form-media-professionals-institute-gazetted",
-      "content_hash": "1e1b60f5419a70baa1aa7053abae86b7a3087aef961ba998591d409216ad857b",
-      "title": "Bill To Form Media Professionals Institute Gazetted",
-      "sent_at": "2026-06-06T03:52:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/06/final-rites-of-unclaimed-care-home-fire-victims-funded-by-state",
-      "content_hash": "0eb4d2f418b96a766f6d8653a11a472193c5c9676e75e133ba80ae1de0c21dd6",
-      "title": "Final Rites Of Unclaimed Care Home Fire Victims Funded By State",
-      "sent_at": "2026-06-06T03:52:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/06/bodies-of-victims-of-batagoda-care-home-handed-over-to-relatives",
       "content_hash": "c62a3b7b74e343b647262550bda1f60596d19703439ec311682dab87c4f1a5a0",
       "title": "Bodies of Victims of Batagoda Care Home handed over to relatives",
@@ -857,6 +833,42 @@
       "content_hash": "1bcade9fc89f73675a911acabfd6d25d597e647af69a6b9119bf0f0922e52ce3",
       "title": "Facebook Faces Major Global Outage Affecting Messenger and Main App",
       "sent_at": "2026-06-12T17:38:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/chinese-nationals-remanded-in-makola-online-financial-fraud-case",
+      "content_hash": "ef2757ec9355e4ac888a2982da1ebb31f41b655c2cef0ca636e904e3b68e768e",
+      "title": "Chinese Nationals Remanded In Makola Online Financial Fraud Case",
+      "sent_at": "2026-06-13T05:22:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/education-ministry-orders-schools-to-complete-2026-o-l-and-a-l-syllabus-on-time",
+      "content_hash": "5bcfb33e7ce61479e583cd0dc5abb56913d1cb407263515613bcc210a92fbb1f",
+      "title": "Education Ministry Orders Schools to Complete 2026 O/L and A/L Syllabus on Time",
+      "sent_at": "2026-06-13T05:22:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/elders-allowance-available-through-post-offices-from-next-monday",
+      "content_hash": "42598d3c90621e17c036f4b46321f6a2c1c262c21b76356949d41c8f28b6edbf",
+      "title": "Elders' Allowance Available Through Post Offices From Next Monday",
+      "sent_at": "2026-06-13T05:22:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/hospitals-over-capacity-as-dengue-surge-claims-21-lives-including-five-schoolchildren",
+      "content_hash": "684ac3c7a37ddacc9339554193e2ba7c7bb84db69276aca87d349aec68ed85f4",
+      "title": "Hospitals Over Capacity as Dengue Surge Claims 21 Lives, Including Five Schoolchildren",
+      "sent_at": "2026-06-13T05:22:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/kalu-ganga-and-attanagalu-oya-water-levels-rise",
+      "content_hash": "dfd5460680555408e9947ba5276a95049c2ccafc1ec25884d44cae4d59438e83",
+      "title": "Kalu Ganga And Attanagalu Oya Water Levels Rise",
+      "sent_at": "2026-06-13T05:22:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/13/special-traffic-plan-in-kochchikade-for-st-anthony%e2%80%99s-feast-procession-today",
+      "content_hash": "7ddfc1f7ef5ffc59aefebc305559b9459c10957f38937a8c8b3101601b31979b",
+      "title": "Special Traffic Plan in Kochchikade for St. Anthony’s Feast Procession Today",
+      "sent_at": "2026-06-13T05:22:54Z"
     }
   ]
 }
