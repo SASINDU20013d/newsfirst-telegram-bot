@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/07/15-of-women-in-sri-lanka-found-to-be-obese-ministry-of-health",
-      "content_hash": "1d49d687e0d2edbb82aa351b69133fdaa73280537db312dd0fded1b4d18037fb",
-      "title": "15% Of Women In Sri Lanka Found To Be Obese - Ministry of Health",
-      "sent_at": "2026-06-07T11:10:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/drone-technology-to-be-introduced-for-maha-season-paddy-cultivation",
-      "content_hash": "ad23ba3c84e095020118974d01862f9992c6065e7f011fb2c053ada500fb6202",
-      "title": "Drone Technology To Be Introduced For Maha Season Paddy Cultivation",
-      "sent_at": "2026-06-07T11:10:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/suresh-salley-demands-repeal-of-pta-launches-fast-unto-death-until-demands-are-met",
-      "content_hash": "8cece2c24e5214d5db9cc064e51fc371fbfdbf041057f7b2e14497aecffc0aeb",
-      "title": "Suresh Salley Demands Repeal of PTA: Launches Fast-Unto-Death Until Demands are Met",
-      "sent_at": "2026-06-07T11:10:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/07/facebook-party-in-ambalangoda-raided-28-arrested-with-drugs",
       "content_hash": "c48c2b4baeb4703b79f89c4ecf3918da76514eefb71c947323e47602d11c4357",
       "title": "Facebook Party in Ambalangoda Raided, 28 Arrested with Drugs",
@@ -875,6 +857,18 @@
       "content_hash": "1a4eac5700d8044fee5e061bd79758cf6178ea69c0070c02ab8669155d0de846",
       "title": "World Blood Donor Day Commemorated Today",
       "sent_at": "2026-06-14T09:41:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/nationwide-dengue-prevention-week-to-be-launched-from-tomorrow-14",
+      "content_hash": "94526e97b718d4689e45663a4e34329fffb6f5355345079d3fac96a1ba71f069",
+      "title": "Nationwide Dengue Prevention Week To Be Launched From Tomorrow (14)",
+      "sent_at": "2026-06-14T11:59:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/two-wild-elephants-died-of-electrocution",
+      "content_hash": "be9e9acc331784234f5f2c8a3c675ddf5660879d69a15791dc41a7581051479c",
+      "title": "Two Wild Elephants Died of Electrocution",
+      "sent_at": "2026-06-14T12:00:06Z"
     }
   ]
 }
