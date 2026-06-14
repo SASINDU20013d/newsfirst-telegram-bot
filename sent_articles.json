@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/07/crackdown-on-unregistered-elderly-care-facilities-underway-ministry-to-enforce-standards",
-      "content_hash": "33ed6d6a0f7482ed1eef00832160115ae3832840908c9a981820a07979ee4806",
-      "title": "Crackdown On Unregistered Elderly Care Facilities Underway, Ministry to Enforce Standards",
-      "sent_at": "2026-06-07T04:18:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/dengue-control-drive-begins-in-14-high-risk-districts",
-      "content_hash": "246ab1860b12f1d3053656eec297dbe11e35b87de56264236c297ba82590ec72",
-      "title": "Dengue Control Drive Begins in 14 High-Risk Districts",
-      "sent_at": "2026-06-07T04:18:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/heavy-rainfall-alert-issued-for-several-districts",
-      "content_hash": "53bc071cadf5ea543b05fdd6078dbe8e2a2f7598533c0f4598b654076562498a",
-      "title": "Heavy Rainfall Alert Issued For Several Districts",
-      "sent_at": "2026-06-07T04:18:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/irrigation-department-calls-for-prudent-water-use-as-el-ni%c3%b1o-looms",
-      "content_hash": "554ef3deacc4de8464f78c9b0322fd1a28b515dc487f9de8bb2eb5a8c26665ea",
-      "title": "Irrigation Department Calls For Prudent Water Use As El Niño Looms",
-      "sent_at": "2026-06-07T04:18:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/simple-blood-test-can-help-prevent-genetic-disorders-health-officials-say",
-      "content_hash": "3c62d184432fa8055fa1f3376daef6605907f2ab1efe841478f8f6f7296bf650",
-      "title": "Simple Blood Test Can Help Prevent Genetic Disorders, Health Officials Say",
-      "sent_at": "2026-06-07T04:18:36Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/07/children-aged-1117-key-targets-of-drug-traffickers-says-minister-of-public-administration",
       "content_hash": "fdc52bfd6927ddf5c5428a33adb5552f5c273584232edbe389be510da17486bc",
       "title": "Children Aged 11–17 Key Targets of Drug Traffickers, Says Minister of Public Administration",
@@ -857,6 +827,54 @@
       "content_hash": "9483ea0629ae02bf82de8387573bdaa5bdd293e9f7a80a1ac51f49bded8c4a86",
       "title": "Shakthi Debater Returns in Grand Style: Over 500 Students Attend Inauguration Ceremony",
       "sent_at": "2026-06-13T16:16:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/2025-gce-o-l-results-to-be-released-next-week",
+      "content_hash": "ee08b582eaeb5157aa0151ffe69e1d933d6cc38bc1aaf62db2cbfb7a83d76605",
+      "title": "2025 GCE O/L Results to Be Released Next Week",
+      "sent_at": "2026-06-14T05:52:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/body-washes-ashore-at-the-uswetakeiyawa-beach",
+      "content_hash": "2cd1d66e5ddb8af87673ac98cfa999d9c545a04cfe02c875e31263d604ec221a",
+      "title": "Body Washes Ashore At The Uswetakeiyawa Beach",
+      "sent_at": "2026-06-14T05:52:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/brother-of-alleged-crime-figure-and-drug-trafficker-modara-nipuna-arrested",
+      "content_hash": "d1545dace094adf18e339ec019549a9949a0268b5b8fc0e30e66bd75150283f0",
+      "title": "Brother of Alleged Crime Figure and Drug Trafficker 'Modara Nipuna' Arrested",
+      "sent_at": "2026-06-14T05:52:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/minor-flooding-continues-along-kuda-ganga",
+      "content_hash": "a7b332d03036be9b2ad51dccc62aae81511f5f1680c3a58e3231281d8dbd7561",
+      "title": "Minor Flooding Continues Along Kuda Ganga",
+      "sent_at": "2026-06-14T05:52:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/mosquito-larvae-density-rises-health-officials-warn-as-dengue-risk-looms-across-sri-lanka",
+      "content_hash": "022f75498fc339ac24a6c1a8ed5b4128598deb94cfbc0fbd72dad4a46d6953c9",
+      "title": "Mosquito Larvae Density Rises, Health Officials Warn as Dengue Risk Looms Across Sri Lanka",
+      "sent_at": "2026-06-14T05:52:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/seat-belt-compliance-to-be-strictly-monitored-on-expressways-from-june-19",
+      "content_hash": "63ed0a7b7c2130a112ecf4d5b9a23230d1960d02e2f534df0069a03fce31e216",
+      "title": "Seat Belt Compliance to Be Strictly Monitored on Expressways from June 19",
+      "sent_at": "2026-06-14T05:52:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/trump-says-deal-between-the-us-and-iran-to-be-signed-today",
+      "content_hash": "2be071a41e11acb20b4498a058bd5cca88fb5d7e77ab29c1696b0b9d7dbfb269",
+      "title": "Trump Says Deal Between The US and Iran to be Signed, Today",
+      "sent_at": "2026-06-14T05:53:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/two-arrested-in-ragama-for-stealing-telecommunication-cables",
+      "content_hash": "4879e3b1612503e8b39a7134f78a69c50d1edacde5facc8d4fe92c208146e65d",
+      "title": "Two Arrested in Ragama for Stealing Telecommunication Cables",
+      "sent_at": "2026-06-14T05:53:03Z"
     }
   ]
 }
