@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/07/children-aged-1117-key-targets-of-drug-traffickers-says-minister-of-public-administration",
-      "content_hash": "fdc52bfd6927ddf5c5428a33adb5552f5c273584232edbe389be510da17486bc",
-      "title": "Children Aged 11–17 Key Targets of Drug Traffickers, Says Minister of Public Administration",
-      "sent_at": "2026-06-07T08:25:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/driver-arrested-over-fatal-accident-two-women-killed-in-hanwella",
-      "content_hash": "4358b6517dc932bdb48ec34beaaa1016c7dd0616a86379471e390f039066bd5a",
-      "title": "Driver Arrested Over Fatal Accident, Two Women Killed in Hanwella",
-      "sent_at": "2026-06-07T08:25:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/fire-breaks-out-at-electronics-store-in-mahara-kadawatha",
-      "content_hash": "db3455f75650d4d83103021422ca7ed1dcada21f70f26fc477566544cb4a44b9",
-      "title": "Fire Breaks Out at Electronics Store in Mahara, Kadawatha",
-      "sent_at": "2026-06-07T08:25:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/salley-begins-hunger-strike-says-gammanpila",
-      "content_hash": "1d95803ebce6d32791435ef9ccbcfe58f3756b8ac44f3b1fcf246ea06985ac48",
-      "title": "Salley Begins Hunger Strike Says Gammanpila",
-      "sent_at": "2026-06-07T08:25:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/sri-lanka-navy-recovers-firearms-and-ammunition-from-kalpitiya-lagoon",
-      "content_hash": "bb7671d582660876c04a37869ac2d938329852c0a4d972a691717dbe0506cb79",
-      "title": "Sri Lanka Navy Recovers Firearms And Ammunition from Kalpitiya Lagoon",
-      "sent_at": "2026-06-07T08:25:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/07/suspect-arrested-for-facilitating-people-to-travel-overseas-illegally",
-      "content_hash": "8271ea72b69c179209e20b63a17294aace63a78f5bf30f1fd8df053d2bbdb4f6",
-      "title": "Suspect Arrested for Facilitating People to Travel Overseas Illegally",
-      "sent_at": "2026-06-07T08:25:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/07/15-of-women-in-sri-lanka-found-to-be-obese-ministry-of-health",
       "content_hash": "1d49d687e0d2edbb82aa351b69133fdaa73280537db312dd0fded1b4d18037fb",
       "title": "15% Of Women In Sri Lanka Found To Be Obese - Ministry of Health",
@@ -875,6 +839,42 @@
       "content_hash": "4879e3b1612503e8b39a7134f78a69c50d1edacde5facc8d4fe92c208146e65d",
       "title": "Two Arrested in Ragama for Stealing Telecommunication Cables",
       "sent_at": "2026-06-14T05:53:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/80-of-mosquito-breeding-sites-found-in-public-places-ndcu-warns",
+      "content_hash": "86b8fa087b326ba620737f80a864d5ecf5bc888891f955bbe9c45057f77775e3",
+      "title": "80% of Mosquito Breeding Sites Found in Public Places, NDCU Warns",
+      "sent_at": "2026-06-14T09:41:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/caa-launches-probe-into-a-supermarket-in-kollupitiya-over-imported-food",
+      "content_hash": "7f86ab889ae20ca019f7ec37a9b112924f3c30a3d34450ee63ab2c9bebbd0eb2",
+      "title": "CAA Launches Probe into A Supermarket in Kollupitiya Over Imported Food",
+      "sent_at": "2026-06-14T09:41:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/qatari-negotiators-return-to-iran-to-finalize-us-iran-agreement-as-two-sides-dispute-timings",
+      "content_hash": "c9d36c019ac9afe8419c5699e330fabe6933d1a4cb718df1d6371ebfc83e022c",
+      "title": "Qatari negotiators return to Iran to finalize US-Iran agreement as two sides dispute timings",
+      "sent_at": "2026-06-14T09:41:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/sri-lanka-tour-of-west-indies-2026-sri-lanka-beat-west-indies-for-a-dominant-37-run-victory-in-second-t20i",
+      "content_hash": "304d2296bc304d43dbd7131f4bc7ebd524068dc805794fc2aeb0069565c65cc8",
+      "title": "Sri Lanka tour of West Indies 2026: Sri Lanka Beat West Indies for a Dominant 37-Run Victory in Second T20I",
+      "sent_at": "2026-06-14T09:41:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/two-suspects-linked-to-organized-crime-and-drug-trafficking-arrested-after-deportation-from-the-uae",
+      "content_hash": "3b956eacbde74da3d425a7a48e0b85abdddc083246046dfb87f5d8a712d72960",
+      "title": "Two Suspects Linked to Organized Crime and Drug Trafficking Arrested After Deportation from the UAE",
+      "sent_at": "2026-06-14T09:41:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/14/world-blood-donor-day-commemorated-today",
+      "content_hash": "1a4eac5700d8044fee5e061bd79758cf6178ea69c0070c02ab8669155d0de846",
+      "title": "World Blood Donor Day Commemorated Today",
+      "sent_at": "2026-06-14T09:41:35Z"
     }
   ]
 }
