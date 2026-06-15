@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/08/china-s-xi-arrives-in-north-korea-to-meet-kim",
-      "content_hash": "27b39a162172450c6fe149a5d21c3062671987fb6004629809baef581e87fcc0",
-      "title": "China's Xi Arrives In North Korea To Meet Kim",
-      "sent_at": "2026-06-08T09:25:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/08/copf-to-review-treasury-cyber-theft-today-08",
-      "content_hash": "50d255d983f910ca8064f99faeb5b984252f685713c0c656fc416cdb4f319fb3",
-      "title": "COPF to Review Treasury Cyber Theft Today (08)",
-      "sent_at": "2026-06-08T09:25:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/08/fifa-2026-brings-trionda-ball-with-game-changing-var",
-      "content_hash": "775fbc6a67092a11ad1f7f8837b3feff1fb5ad240aa2d439c21f7a7b604a78d8",
-      "title": "FIFA 2026 Brings 'Trionda' Ball with Game-Changing VAR",
-      "sent_at": "2026-06-08T09:25:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/08/five-arrested-over-fatal-stabbing-in-omanthai",
-      "content_hash": "b4560a5997a37a34b23f15c2d6f7fcc11b7840605259533c00ddb551159a153a",
-      "title": "Five Arrested Over Fatal Stabbing in Omanthai",
-      "sent_at": "2026-06-08T09:25:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/08/wimal-gammanpila-lead-sathyagraha-for-suresh-salley",
-      "content_hash": "a0a62743a0bbf5e1964db4dab1678ad99b2a7f78f0bac96e41d56135add8a014",
-      "title": "Wimal, Gammanpila Lead Sathyagraha for Suresh Salley",
-      "sent_at": "2026-06-08T09:26:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/08/woman-arrested-with-fake-dollars-worth-rs-190-million",
-      "content_hash": "68b106fb2d3ff5c64ae81d1db8dcaa7065456af4455859049e4c0a04c15d96f0",
-      "title": "Woman Arrested with Fake Dollars Worth Rs. 190 Million",
-      "sent_at": "2026-06-08T09:26:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/08/cid-names-wimal-udaya-dilith-in-easter-probe-interference-claim",
       "content_hash": "ec5c78824ecb4843ed8c9b6c4ba137e8e47ae4d3c276806a51874c26dad08f71",
       "title": "CID Names Wimal, Udaya, Dilith in Easter Probe Interference Claim",
@@ -869,6 +833,66 @@
       "content_hash": "69bd7765f73f2af3a5c368d656b5b4f0d94f4c606f164e7422f0a9ddba112b07",
       "title": "Sweden Run Riot as Tunisia Crumble in Five-Goal World Cup Thriller",
       "sent_at": "2026-06-15T06:28:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/appeal-court-to-take-up-yoshitha-rajapaksa-case-tomorrow",
+      "content_hash": "a648e1ab450fb81ffdededad521e797a8e672da31c2ab4d6c2fc3cf3858395e4",
+      "title": "Appeal Court to Take Up Yoshitha Rajapaksa Case Tomorrow",
+      "sent_at": "2026-06-15T13:18:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/cid-moves-against-public-figures-over-easter-attack-statements",
+      "content_hash": "03537d836c03525eb1ee6da5bb301b1a86926c61bb4504a9d6310a6592b65a34",
+      "title": "CID Moves Against Public Figures Over Easter Attack Statements",
+      "sent_at": "2026-06-15T13:18:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/cid-moves-to-charge-multiple-figures-for-contempt",
+      "content_hash": "1f18f5b0ec24e09aaebcac5f3ebec937169859d0065138f72a530dd8cad9a97d",
+      "title": "CID Moves to Charge Multiple Figures For Contempt",
+      "sent_at": "2026-06-15T13:19:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/copf-to-meet-over-treasury-cyber-theft-case",
+      "content_hash": "d1fa44d9bd1c5a55394de29a4660728beced6c6ca6a6383f8d274650570f06c4",
+      "title": "COPF to Meet Over Treasury Cyber Theft Case",
+      "sent_at": "2026-06-15T13:19:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/five-murder-cases-linked-to-pillayan-cid-tells-court",
+      "content_hash": "31c97f97540e3a82d5b0114edf083df6cd54d5bc8fe5d08274649dc1d71c5346",
+      "title": "Five Murder Cases Linked to Pillayan, CID Tells Court",
+      "sent_at": "2026-06-15T13:19:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/july-31-set-for-rulings-in-easter-sunday-negligence-trials-against-hemasiri-pujith",
+      "content_hash": "8fe349c8bb175ffff6a93ca2e7f04a13cc385d0efc833402dd5a5934ddda49b6",
+      "title": "July 31 Set for Rulings in Easter Sunday Negligence Trials Against Hemasiri & Pujith",
+      "sent_at": "2026-06-15T13:19:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/olives-cheese-and-tea-t%c3%bcrkiye-brings-breakfast-magic-to-sri-lanka",
+      "content_hash": "1dbe394aa2c2d8339e68733da0e037b6a7ea8f251e7e3d9fb3f778f5d8c451c0",
+      "title": "Olives, Cheese and Tea: Türkiye Brings Breakfast Magic to Sri Lanka",
+      "sent_at": "2026-06-15T13:19:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/salley-stable-in-hospital-govt-rejects-serious-illness-reports",
+      "content_hash": "c2f587d823514eab7aa318de8ce5b35cef513ef3b475a9c4b1f3f9f0a68bd745",
+      "title": "Salley Stable in Hospital, Govt Rejects Serious Illness Reports",
+      "sent_at": "2026-06-15T13:19:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/sri-lanka-economy-grows-5-1-in-q1-2026",
+      "content_hash": "25ceb1bd408fedd27880ddb7a48e08dcaf403fffbb34d4ac968e99db474260a2",
+      "title": "Sri Lanka Economy Grows 5.1% in Q1 2026",
+      "sent_at": "2026-06-15T13:19:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/15/uk-bans-social-media-for-under-16s",
+      "content_hash": "23c63c7a7af72a1ac28981ef272ee3723e5bc8e615584251b13cad6607ecbdbc",
+      "title": "UK Bans Social Media for Under-16s",
+      "sent_at": "2026-06-15T13:19:17Z"
     }
   ]
 }
