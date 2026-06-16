@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/09/i-beg-for-justice-mother-s-cry-7-years-after-easter-horror",
-      "content_hash": "20c07e5c09e23d0f03c05f9620cb1a44879ebb91273dd5301f291a9c2c824b8d",
-      "title": "'I Beg for Justice': Mother's Cry 7 Years After Easter Horror",
-      "sent_at": "2026-06-09T16:05:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/why-was-hejaaz-framed-in-easter-probe-asks-mujibur",
-      "content_hash": "2da706508389f1118205fdc100becaedd9214b6c1e541c2b154c70092fb19df8",
-      "title": "Why Was Hejaaz Framed in Easter Probe?, Asks Mujibur",
-      "sent_at": "2026-06-09T16:05:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/cbsl-issues-new-gazette-exporters-mandated-to-convert-residual-proceeds-by-10th-of-following-month",
-      "content_hash": "a515282b784f31ad874e7a31a668469f77b51cfac1b7ee4d55e79c2e4d07a0fd",
-      "title": "CBSL Issues New Gazette: Exporters Mandated to Convert Residual Proceeds by 10th of Following Month",
-      "sent_at": "2026-06-09T18:18:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/10/10-hour-water-cut-in-kalutara-today-10",
       "content_hash": "b9fa5613d6099bd23496b2837987b5f8a6b331bd30dc1adf2d1bef3f5ab9830c",
       "title": "10-Hour Water Cut in Kalutara Today (10)",
@@ -863,6 +845,18 @@
       "content_hash": "4c2f8572a3f6bd91ec3024ae13714980806b7850c3b57534e3caa4c2c6dca09f",
       "title": "\"SLPP Operates With Blessings Of Basil Rajapaksa\", Namal Rajapaksa",
       "sent_at": "2026-06-16T15:58:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/how-gammadda-never-gave-up-on-ditwah%e2%80%99s-victims-a-movement-that-is-rebuilding-a-nation",
+      "content_hash": "16df37cd4f7b2199a4e90471d3e9bfa5d9137c2e7e6b9577764fc5138ecd9934",
+      "title": "How Gammadda Never Gave Up on Ditwah’s Victims: A Movement That Is Rebuilding A Nation",
+      "sent_at": "2026-06-16T19:39:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/uk-trade-envoy-lord-hannett-to-visit-sri-lanka-tomorrow",
+      "content_hash": "520ba57d1abfd80315d4ada6506b2ebce14dac87cb29d98d7be0f3e5415c9a20",
+      "title": "UK Trade Envoy Lord Hannett To Visit Sri Lanka Tomorrow",
+      "sent_at": "2026-06-16T19:40:04Z"
     }
   ]
 }
