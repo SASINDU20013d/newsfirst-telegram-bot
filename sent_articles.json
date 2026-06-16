@@ -1,90 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/09/coal-probe-commission-begins-questioning-procurement-officials",
-      "content_hash": "2b7d1745ed11ddbe0462af1522dccf065e1dea81fbf3d6dd451e59aa7791a1d8",
-      "title": "Coal Probe Commission Begins Questioning Procurement Officials",
-      "sent_at": "2026-06-09T05:09:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/more-fuel-shipments-due-to-arrive-this-week",
-      "content_hash": "028a7a68d0ced4a096a95e523b00214251e4e542c0712817f105904a01903243",
-      "title": "More Fuel Shipments Due to Arrive This Week",
-      "sent_at": "2026-06-09T05:09:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/nearly-2-000-doctors-to-be-recruited-for-internship-training",
-      "content_hash": "2a95dafdab19c6915538c802b5377a3c1aaabeb5058aade79a1d1e8cbbf15f59",
-      "title": "Nearly 2,000 Doctors to Be Recruited for Internship Training",
-      "sent_at": "2026-06-09T05:09:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/over-70-000-premises-inspected-as-nationwide-dengue-drive-continues",
-      "content_hash": "307a6751f4a5b35352ee8712c95ee422a0c4aa95845f20354f8c4cf90d8f5d4b",
-      "title": "Over 70,000 Premises Inspected as Nationwide Dengue Drive Continues",
-      "sent_at": "2026-06-09T05:09:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/sarana-gunawardena-sentenced-to-4-years-in-prison-for-corruption",
-      "content_hash": "35aa9a13b35c6d9bc9bc8d2405f1d1243cd39f3d7b4185cb0944a5d1f29e78e0",
-      "title": "Sarana Gunawardena Sentenced to 4 Years in Prison for Corruption",
-      "sent_at": "2026-06-09T05:09:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/suspect-arrested-over-2018-army-soldier-abduction-case-after-eight-years",
-      "content_hash": "e598cb075d1fb0e377bd8ab5d688322ec8b107b5e2bdf35d70bd545f2b92285d",
-      "title": "Suspect Arrested Over 2018 Army Soldier Abduction Case After Eight Years",
-      "sent_at": "2026-06-09T05:09:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/australia-donates-atvs-drones-to-sri-lanka-coast-guard",
-      "content_hash": "919e458734ee4e2c4f6c7f52efe92f42c3ec41f1f302dc42df611c7addfab19f",
-      "title": "Australia Donates ATVs & Drones to Sri Lanka Coast Guard",
-      "sent_at": "2026-06-09T09:52:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/copf-seeks-accountability-after-multi-million-dollar-breach",
-      "content_hash": "597934e331722c105466ba3854f49a2b26e2b2a31caecf00f27c208fa782ce46",
-      "title": "COPF Seeks Accountability After Multi-Million Dollar Breach",
-      "sent_at": "2026-06-09T09:52:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/day-2-of-satyagraha-for-salley-sees-low-turnout",
-      "content_hash": "8d4ef95005192895e45d0245560cd4d1544515cfec9c9e6096ac83ea8b681def",
-      "title": "Day 2 Of Satyagraha For Salley Sees Low Turnout",
-      "sent_at": "2026-06-09T09:52:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/fire-erupts-at-thalawathugoda-restaurant-three-rescued",
-      "content_hash": "f4e9cbebb8972d74ae344d4530bdcdd26a5ba879c2e6139137290a43b9423c39",
-      "title": "Fire Erupts at Thalawathugoda Restaurant, Three Rescued",
-      "sent_at": "2026-06-09T09:52:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/i-wish-i-could-see-again-easter-sunday-victim%e2%80%99s-heartbreaking-cry-for-justice",
-      "content_hash": "f2fd704bc158bb5a109fcd1d1d4554d8f922dd52d8b49da369b97a114dba9309",
-      "title": "'I Wish I Could See Again' - Easter Sunday Victim’s Heartbreaking Cry for Justice",
-      "sent_at": "2026-06-09T09:52:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/sri-lanka%e2%80%99s-iconic-ceylon-tea-culture-captivates-global-diplomacy-in-uae",
-      "content_hash": "4359270a6e117d25a04cbe8e50c3a8a3a11e7f44a489c60bb302200af13c2154",
-      "title": "Sri Lanka’s Iconic 'Ceylon Tea' Culture Captivates Global Diplomacy In UAE",
-      "sent_at": "2026-06-09T09:52:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/sri-lanka-s-envoy-meets-indonesia-s-president-at-jakarta-palace",
-      "content_hash": "91daf898dabd8b9f1b030e2733a51aefef868f2500939ccdc6c03318ba3e1005",
-      "title": "Sri Lanka's Envoy Meets Indonesia's President at Jakarta Palace",
-      "sent_at": "2026-06-09T09:52:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/09/update-sarana-gunawardena-sentenced-to-16-years",
-      "content_hash": "12e07a7bd307093d015f1978a170bec4f3e83cd15ac10d808e82405dafbf64e0",
-      "title": "UPDATE: Sarana Gunawardena Sentenced to 16 Years",
-      "sent_at": "2026-06-09T09:53:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/09/easter-attack-probe-will-not-be-derailed-by-threats",
       "content_hash": "d33902c7f8b6098dccdfba0afc6ac323678793115194fa6e91a217f9c24a2d82",
       "title": "Easter Attack Probe Will Not Be Derailed by Threats",
@@ -887,6 +803,66 @@
       "content_hash": "49dd50bb0a3692a3698a5c6b762c2b647246616abb06af5dfa96db2f263b97b4",
       "title": "Obesity on the Rise Among Schoolchildren",
       "sent_at": "2026-06-16T04:48:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/chinese-defence-attach%c3%a9-calls-on-deputy-minister-of-defence",
+      "content_hash": "063651bbbad424d650c2dcc5701632655a3df13a64b9e05bd4eae6cc7e81d41a",
+      "title": "Chinese Defence Attaché Calls on Deputy Minister of Defence",
+      "sent_at": "2026-06-16T10:11:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/dengue-cases-rise-to-42-232-as-600-patients-are-reported-daily",
+      "content_hash": "12a8a486979a51d650a331955e236ae1bd798bae006134bed71a4b070b2fc6d9",
+      "title": "Dengue Cases Rise To 42,232 As 600 Patients Are Reported Daily",
+      "sent_at": "2026-06-16T10:11:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/egypt-hold-belgium-in-seattle-in-world-cup-group-g-clash",
+      "content_hash": "64ed1272da6305053270d75db5740ba533550233f2f0b06103f1db24bcaecb5f",
+      "title": "Egypt Hold Belgium in Seattle In World Cup Group G Clash",
+      "sent_at": "2026-06-16T10:11:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/el-ni%c3%b1o-conditions-strengthen-as-pacific-sea-surface-temperature-rises",
+      "content_hash": "49bf7a533ed269e070f8c8f3b6a53fe732ca67efecb37c7d813446a65cf8f22d",
+      "title": "El Niño Conditions Strengthen As Pacific Sea Surface Temperature Rises",
+      "sent_at": "2026-06-16T10:11:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/highest-since-1995-bank-of-japan-raises-rates-to-1-for-first-time-in-three-decades",
+      "content_hash": "b0c064f4f3590f0216f7a9e268a889a4423c556d260b42a45f70b23e2e4db5fc",
+      "title": "Highest since 1995! Bank of Japan Raises Rates to 1% For First Time In Three Decades",
+      "sent_at": "2026-06-16T10:12:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/iran-fight-back-to-hold-new-zealand-in-world-cup",
+      "content_hash": "2936e5cafce3bd2dd3544c05a77dd32a3f8c3f90c48179d15083b1980950d1cc",
+      "title": "Iran Fight Back To Hold New Zealand In World Cup",
+      "sent_at": "2026-06-16T10:12:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/one-dead-two-injured-in-three-wheeler-accident-in-rideegama",
+      "content_hash": "994cc39ee7174886050b2be0d1dd7404ea6006cc870904c39e56a4552eea7e0c",
+      "title": "One Dead, Two Injured In Three-Wheeler Accident In Rideegama",
+      "sent_at": "2026-06-16T10:12:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/over-3-000-police-officers-deployed-for-security-in-anuradhapura-during-poson",
+      "content_hash": "3f676bb77a774bd2559dd1c360e77e3650ecdfd73b74e2def08e5a285396e82f",
+      "title": "Over 3,000 Police Officers Deployed for Security in Anuradhapura during Poson",
+      "sent_at": "2026-06-16T10:12:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/trump-may-release-us-iran-deal-before-friday",
+      "content_hash": "a0f3e2488a14247f62be1c796452667430c5a84ca55ce172b8e30dd20fbbf46d",
+      "title": "Trump may release US-Iran deal before Friday",
+      "sent_at": "2026-06-16T10:12:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/16/yoshitha-rajapaksa-informs-inability-to-appear-before-bribery-commission",
+      "content_hash": "df35e57d534aba8274af81b99bd8bea64fdc313451d3c2a0531ef7110b419679",
+      "title": "Yoshitha Rajapaksa Informs Inability to Appear Before Bribery Commission",
+      "sent_at": "2026-06-16T10:12:13Z"
     }
   ]
 }
