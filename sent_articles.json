@@ -1,60 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/10/10-hour-water-cut-in-kalutara-today-10",
-      "content_hash": "b9fa5613d6099bd23496b2837987b5f8a6b331bd30dc1adf2d1bef3f5ab9830c",
-      "title": "10-Hour Water Cut in Kalutara Today (10)",
-      "sent_at": "2026-06-10T05:22:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/approval-granted-to-recruit-candidates-into-teaching-service-more-than-31-000-teachers-to-be-recruited-this-year",
-      "content_hash": "d846af3a683d61adf4dde8e8a45375671207d998023d65531a34ae2ed9f723e2",
-      "title": "Approval Granted To Recruit Candidates Into Teaching Service: More than 31,000 Teachers To Be Recruited This Year",
-      "sent_at": "2026-06-10T05:22:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/court-summons-ex-navy-chief-ravindra-wijegunaratne-in-abduction-probe",
-      "content_hash": "8ed416feddf2d7cfa16df6f372aeaffb3524afdcd1861c116370bd16cc4838c4",
-      "title": "Court Summons Ex-Navy Chief Ravindra Wijegunaratne In Abduction Probe",
-      "sent_at": "2026-06-10T05:22:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/el-ni%c3%b1o-conditions-expected-to-impact-sri-lanka-s-weather-in-july",
-      "content_hash": "88f3fa91db34122f17a22c68bca0736e43f2ca3833d419f09c50bfc157aeb21b",
-      "title": "El Niño Conditions Expected To Impact Sri Lanka's Weather in July",
-      "sent_at": "2026-06-10T05:22:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/gammadda-brings-relief-to-dikkgalpura-launches-another-clean-drinking-water-project",
-      "content_hash": "01e553223c2c09db691e3a5b4ae95fc78aabb0535c7dec5ffcc6ab30852c6a24",
-      "title": "Gammadda Brings Relief To Dikkgalpura: Launches Another Clean Drinking Water Project",
-      "sent_at": "2026-06-10T05:22:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/new-gazette-rule-tells-exporters-to-convert-forex-within-10-days",
-      "content_hash": "57aab16145e8579482878a89c6b681fb38bfef2ff4ac7ed5d78eb0563ee73cf8",
-      "title": "New Gazette Rule Tells Exporters to Convert Forex Within 10 Days",
-      "sent_at": "2026-06-10T05:22:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/parliament-approves-referral-of-audit-report-on-alleged-major-financial-irregularities-at-department-of-motor-traffic-to-attorney-general",
-      "content_hash": "4e056e44d2eea0128a53632ebd2cca43fb0a448197a499f652a6f0361858d485",
-      "title": "Parliament Approves Referral of Audit Report on Alleged Major Financial Irregularities At Department of Motor Traffic To Attorney General",
-      "sent_at": "2026-06-10T05:22:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/sirasa-tv-celebrates-28-years-of-transforming-sri-lankan-television-industry",
-      "content_hash": "aed5973126dcbe40ca361926de096ed706fe8e233fcba49d336118d11f1824e8",
-      "title": "Sirasa TV Celebrates 28 Years of Transforming Sri Lankan Television Industry",
-      "sent_at": "2026-06-10T05:22:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/three-day-national-dengue-prevention-programme-ends-today-10",
-      "content_hash": "2da0c77b2ab1c6bbb36544d196f09eab0f1903f69d8efea80cd1b227cfdeae95",
-      "title": "Three Day National Dengue Prevention Programme Ends Today (10)",
-      "sent_at": "2026-06-10T05:22:38Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/10/2025-o-l-results-by-june-15-no-move-to-postpone-a-l-exams",
       "content_hash": "c3dc0d815e4e05de4c8926bf84aff5756c396d04ac5dd57f7be15c0b82259dbd",
       "title": "2025 O/L Results by June 15; No Move To Postpone A/L Exams",
@@ -857,6 +803,66 @@
       "content_hash": "520ba57d1abfd80315d4ada6506b2ebce14dac87cb29d98d7be0f3e5415c9a20",
       "title": "UK Trade Envoy Lord Hannett To Visit Sri Lanka Tomorrow",
       "sent_at": "2026-06-16T19:40:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/ag-says-no-instructions-in-gota-arrest-appeal-case",
+      "content_hash": "dfa38a7153ff6e4bda1d4e45bf2ef00b2cd217802281632b151b32395644d91e",
+      "title": "AG Says No Instructions in Gota Arrest Appeal Case",
+      "sent_at": "2026-06-17T06:17:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/construction-of-kurunegaladambulla-expressway-to-begin-in-november",
+      "content_hash": "87247ef0813ef000e6fde69334a7884c32b86a9617400252b796b21e5ba98278",
+      "title": "Construction of Kurunegala–Dambulla Expressway to Begin in November",
+      "sent_at": "2026-06-17T06:17:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/messi-hat-trick-powers-argentina-to-3-0-world-cup-win-over-algeria",
+      "content_hash": "0c01b18eb6275111286715d278ba9728ace607f04d780e8557200c2f8bc3d101",
+      "title": "Messi Hat-Trick Powers Argentina to 3-0 World Cup Win Over Algeria",
+      "sent_at": "2026-06-17T06:17:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/messi-joins-klose-at-top-of-fifa-world-cup-goals",
+      "content_hash": "17fe8a0acba9638ede54c7848e9181ddf936f9d32302bf50055188f625be135c",
+      "title": "Messi Joins Klose at Top of FIFA World Cup Goals",
+      "sent_at": "2026-06-17T06:17:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/new-urban-development-project-to-develop-ten-cities",
+      "content_hash": "83a9ee0aa24846b5cfb58b4ec8f6897a1ca44e5e32ac0f3bac2052dce4f9e91b",
+      "title": "New Urban Development Project to Develop Ten Cities",
+      "sent_at": "2026-06-17T06:17:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/norway-crush-iraq-4-1-in-fifa-world-cup-2026-as-haaland-steals-the-show",
+      "content_hash": "f6840e3870059bf18c35943909cbdc7402b152c95a6850b14cfaf8b2d337fb65",
+      "title": "Norway Crush Iraq 4-1 in FIFA World Cup 2026 as Haaland Steals the Show",
+      "sent_at": "2026-06-17T06:17:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/rumesh-tharanga-makes-history-with-golden-spike-victory",
+      "content_hash": "ed3f1f7aad81147f70d530f95a3590f13efbd4c2f53f6e3a8a71d893658996a6",
+      "title": "Rumesh Tharanga Makes History with Golden Spike Victory",
+      "sent_at": "2026-06-17T06:17:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/sri-lanka-unveils-ambitious-export-growth-plan-targeting-36-billion-by-2030",
+      "content_hash": "dba80bbf1aa5575d86629291ed08da3e148f5044074212dcad1c392cc7cd6807",
+      "title": "Sri Lanka Unveils Ambitious Export Growth Plan Targeting $36 Billion by 2030",
+      "sent_at": "2026-06-17T06:17:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/sri-lanka-women-chase-down-151-to-beat-new-zealand-by-5-wickets",
+      "content_hash": "81ca74ed3704c5dffc3da27dc31f9776075abf7b0d81374615b458f90253ec5f",
+      "title": "Sri Lanka Women Chase Down 151 to Beat New Zealand by 5 Wickets",
+      "sent_at": "2026-06-17T06:17:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/yoshitha-at-ciaboc-over-naval-appointment-probe",
+      "content_hash": "e92d820cfb3c2be2da2530666497b9e3b2b12e1deb540e90cb62ddd61f4d4fa7",
+      "title": "Yoshitha at CIABOC Over Naval Appointment Probe",
+      "sent_at": "2026-06-17T06:17:58Z"
     }
   ]
 }
