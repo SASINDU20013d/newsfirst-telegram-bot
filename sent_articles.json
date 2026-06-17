@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/10/akd-writes-to-pm-modi-praises-india-s-rise-and-strong-friendship",
-      "content_hash": "032519964ea3d1577bfc1cf91255097af5bd7c802708675e7b923e6f1e339847",
-      "title": "AKD Writes to PM Modi, Praises India's Rise and Strong Friendship",
-      "sent_at": "2026-06-10T14:25:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/kishore-reddy-re-elected-president-of-indian-ceo-forum",
-      "content_hash": "2d29990012d9694c2a13be7acc7165cc6a4c2b24d0aa88b4d743131e0a265a1f",
-      "title": "Kishore Reddy Re-Elected President of Indian CEO Forum",
-      "sent_at": "2026-06-10T14:25:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/q-a-suresh-salley-conspiracy-claims",
-      "content_hash": "a364d54c4e4d1a267b38faefb3822719706b9471f97d19486e7186b824976eac",
-      "title": "Q&A | Suresh Salley & Conspiracy Claims",
-      "sent_at": "2026-06-10T14:25:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/rumy-jauffer-sent-to-remand-over-rs-7-8-mn-misuse-allegations",
-      "content_hash": "f456dc213b500b4853e4c8b6d0160f793f7c0d2a2c3d0e2cae9126a54d547bbe",
-      "title": "Rumy Jauffer Sent to Remand Over Rs. 7.8 Mn Misuse Allegations",
-      "sent_at": "2026-06-10T14:25:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/salley-support-sathyagraha-in-fort-ends",
-      "content_hash": "54ad0d518c3ffe61944dae422c491087d94d272c416ca4092b37cfd423da5e80",
-      "title": "Salley Support Sathyagraha in Fort, Ends",
-      "sent_at": "2026-06-10T14:25:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/10/sirasa-s-28th-anniversary-delivers-clean-water-and-hope",
-      "content_hash": "1c88a362fac573f3fcd0b0258b32b75bb396de85e0ad4ccbe8bc39ecddc0c5b8",
-      "title": "Sirasa's 28th Anniversary Delivers Clean Water and Hope",
-      "sent_at": "2026-06-10T14:25:56Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/11/12-hour-water-cut-in-mahara-and-gampaha-nwsdb",
       "content_hash": "2fc0adaa838b7d581dd56d0083a12a1778fd9bf876d3b9153209bc6649e1819d",
       "title": "12-Hour Water Cut in Mahara and Gampaha - NWSDB",
@@ -863,6 +827,18 @@
       "content_hash": "649d65da613f809c3d68bd2331ec3256750652ccee4d75347d89c004290e1997",
       "title": "Yoshitha Rajapaksa Granted Bail After Arrest in Navy Probe",
       "sent_at": "2026-06-17T11:52:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/navy-entry-requirements-were-changed-for-yoshitha-sent-abroad-without-completing-training",
+      "content_hash": "ea3e6585153700c5132cad77be8444669a06e861a869e33d98ef995349259339",
+      "title": "Navy Entry Requirements Were Changed for Yoshitha; Sent Abroad Without Completing Training",
+      "sent_at": "2026-06-17T15:42:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/17/no-arrest-decision-court-closes-dig-s-writ-case",
+      "content_hash": "3c3c445f2939c044f3751d3ff3d085e79a652cad8cd22750ae44f35c62e12853",
+      "title": "No Arrest Decision: Court Closes DIG's Writ Case",
+      "sent_at": "2026-06-17T15:42:49Z"
     }
   ]
 }
