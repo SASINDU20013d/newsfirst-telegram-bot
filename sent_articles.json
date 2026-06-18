@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/11/18-chinese-nationals-held-over-online-scam-network",
-      "content_hash": "9db81031dcf95ad6780b76297e03dd77fe90395503c17007c9b75f35c3379a09",
-      "title": "18 Chinese Nationals Held Over Online Scam Network",
-      "sent_at": "2026-06-11T14:01:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/gammanpila-claims-patali-filed-complaint-over-political-rivalry",
-      "content_hash": "38fb9ba8c9b3bbdbf66485a2313969ddf351f3eacf21193132dd1838bf106410",
-      "title": "Gammanpila Claims Patali Filed Complaint Over Political Rivalry",
-      "sent_at": "2026-06-11T14:01:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/irregular-passport-possession-is-a-serious-offence-says-judge-as-shashi-weerawansa-loses-appeal",
-      "content_hash": "dce98481138c61ce24854a1128044e855f30d081d0925505510c98c4c675d87d",
-      "title": "Irregular Passport Possession Is a Serious Offence, says Judge As Shashi Weerawansa Loses Appeal",
-      "sent_at": "2026-06-11T14:01:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/over-6-200-dengue-larvae-sites-found-in-nationwide-crackdown",
-      "content_hash": "4f6b693b268a5cfc054ece3e758abcae5ba7d7899280ec212295ff2369d9bbab",
-      "title": "Over 6,200 Dengue Larvae Sites Found in Nationwide Crackdown",
-      "sent_at": "2026-06-11T14:01:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/salley-s-lawyer-points-to-ignored-intelligence-warnings-before-easter-attacks",
-      "content_hash": "958885417038b84d985cc2a4240e8f4a788ccc8971b84151c22e078443b64f70",
-      "title": "Salley's Lawyer Points to Ignored Intelligence Warnings Before Easter Attacks",
-      "sent_at": "2026-06-11T14:01:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/slaf-upgraded-kfir-successfully-completes-first-test-flight",
-      "content_hash": "5a62926806eebb3514c8c7946d888899d4a4c488422b40c7d4108ed3e49ec81e",
-      "title": "SLAF Upgraded Kfir Successfully Completes First Test Flight",
-      "sent_at": "2026-06-11T14:01:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/trump-us-will-be-hitting-iran-very-hard-tonight",
-      "content_hash": "60f367357244b9f3f3ea7a38fd2b86e39c276588b14afd3b3d8fffd9af263f71",
-      "title": "Trump: US Will Be Hitting Iran Very Hard Tonight",
-      "sent_at": "2026-06-11T14:01:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/where-did-kp%e2%80%99s-gold-disappear-fonseka-goes-to-bribery-commission",
-      "content_hash": "fb66725bddb6604aa790be7c8daf4ebd2e7b9957ae319be3f79bb49a589e5c47",
-      "title": "Where Did KP’s Gold Disappear? Fonseka Goes To Bribery Commission",
-      "sent_at": "2026-06-11T14:02:00Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/12/income-tax-return-filing-for-2025-2026-to-begin-next-month",
       "content_hash": "a34161cd6bb0b09e97678af66a975458e6595b7ed789d1b18300310a11cd1f9b",
       "title": "Income Tax Return Filing For 2025/2026 To Begin Next Month",
@@ -911,6 +863,18 @@
       "content_hash": "39244967548beeaa4a891f01ca85bc03a36c9d8ba1c5e805abf2fe0acecc731d",
       "title": "Murder or Suicide? Suspicion Over Physiotherapist’s Death",
       "sent_at": "2026-06-18T12:58:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/cannot-arrest-without-reason-gota-s-lawyer-tells-court",
+      "content_hash": "7a9903fdf96bd76106579110d66c57a2753dff095ebd1a6e33e5d45a5d5b5062",
+      "title": "'Cannot Arrest Without Reason' - Gota's Lawyer Tells Court",
+      "sent_at": "2026-06-18T16:36:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/ex-sri-lanka-president-gota-s-former-secretary-remanded-in-dual-salary-scandal",
+      "content_hash": "d1765834eadf2bc96cb281e43b0fb65fe089c4b52b6150c2004342c9c30dc6d3",
+      "title": "Ex-Sri Lanka President Gota's Former Secretary Remanded In Dual Salary Scandal",
+      "sent_at": "2026-06-18T16:36:19Z"
     }
   ]
 }
