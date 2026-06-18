@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/11/12-hour-water-cut-in-mahara-and-gampaha-nwsdb",
-      "content_hash": "2fc0adaa838b7d581dd56d0083a12a1778fd9bf876d3b9153209bc6649e1819d",
-      "title": "12-Hour Water Cut in Mahara and Gampaha - NWSDB",
-      "sent_at": "2026-06-11T04:19:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/cabinet-greenlights-draft-biosafety-bill",
-      "content_hash": "35b8ced76f0f1076eb2158b057f38ffd5db9322820bc0f656d4d585eb0ce22af",
-      "title": "Cabinet Greenlights Draft Biosafety Bill",
-      "sent_at": "2026-06-11T04:19:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/draft-regulations-on-elders%e2%80%99-homes-to-be-presented-to-parliament",
-      "content_hash": "b986b0657c3316a620995a7cec327c8e35c1d98b101734255fdcdaf8287681bd",
-      "title": "Draft Regulations on Elders’ Homes to Be Presented to Parliament",
-      "sent_at": "2026-06-11T04:19:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/farmers-urged-to-use-water-sparingly-due-to-el-ni%c3%b1o",
-      "content_hash": "72f421db7fbcbabc65441f98398926f913bbc8ff8d8c1fe61791aff146393498",
-      "title": "Farmers Urged to Use Water Sparingly Due to El Niño",
-      "sent_at": "2026-06-11T04:19:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/more-than-3-000-bribery-complaints-received-by-ciaboc-in-2026-70-arrested",
-      "content_hash": "d7f7c55e9a100173a66733bdc3be26b2e51c8f2ddf853c29e9856f49058bd3f2",
-      "title": "More Than 3,000 Bribery Complaints Received By CIABOC In 2026, 70 Arrested",
-      "sent_at": "2026-06-11T04:19:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/11/president-reviews-implementation-of-galle-city-development-project",
-      "content_hash": "89060f510ccaf101167454181e10ba3eab24ba54d75c3ef021b20e521c18b616",
-      "title": "President Reviews Implementation of Galle City Development Project",
-      "sent_at": "2026-06-11T04:19:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/11/11-y-o-dies-after-drowning-incident-at-galle-face-beach-search-continues-for-missing-child",
       "content_hash": "212c8d6306c6c9ecba2a9afd46080bb7eaff77d81e5fbed7ab9c3a9cccc5ab50",
       "title": "11-Y/O Dies After Drowning Incident at Galle Face Beach; Search Continues for Missing Child",
@@ -839,6 +803,66 @@
       "content_hash": "3c3c445f2939c044f3751d3ff3d085e79a652cad8cd22750ae44f35c62e12853",
       "title": "No Arrest Decision: Court Closes DIG's Writ Case",
       "sent_at": "2026-06-17T15:42:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/1-500-officers-recruited-to-protect-elephant-fences",
+      "content_hash": "4c045d583d67445048b4d79ac77ada9a9faeedf3aa2efe2a2c9bdd0ac0e72b18",
+      "title": "1,500 Officers Recruited To Protect Elephant Fences",
+      "sent_at": "2026-06-18T04:21:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/england-crush-croatia-4-2-in-world-cup-thriller-with-harry-kane-double",
+      "content_hash": "9e8c20c33f80ffd0d97e5d79d897c7e29c60f8e8bcbbc5ba215706a1df58f756",
+      "title": "England Crush Croatia 4-2 in World Cup Thriller with Harry Kane Double",
+      "sent_at": "2026-06-18T04:21:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/ghana-stun-panama-with-95th-minute-winner",
+      "content_hash": "d0d755600eaa697ff70ad56fe9088759e0cd98c284c84f9c832e1f5d99eca9f1",
+      "title": "Ghana Stun Panama with 95th-Minute Winner",
+      "sent_at": "2026-06-18T04:21:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/india-donates-us-5-5-million-worth-of-military-equipment-to-sri-lanka",
+      "content_hash": "7e548befd235f08152bd5b45f874fb3a04f7e13b95406830a941070a868a678c",
+      "title": "India Donates US$5.5 Million Worth of Military Equipment To Sri Lanka",
+      "sent_at": "2026-06-18T04:21:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/late-equaliser-denies-portugal-victory-against-dr-congo",
+      "content_hash": "ee12585f9dde93ba296843a206e6eb2fdac45aeffdcc13949f0eca75b27fea60",
+      "title": "Late Equaliser Denies Portugal Victory Against DR Congo",
+      "sent_at": "2026-06-18T04:21:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/national-dengue-control-unit-warns-schools-among-key-mosquito-breeding-locations",
+      "content_hash": "a329ccceceffbf05bbc5f37d8c71806c8e803180d5dec231c2404dec060ea3ce",
+      "title": "National Dengue Control Unit Warns Schools Among Key Mosquito Breeding Locations",
+      "sent_at": "2026-06-18T04:21:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/pakistan%e2%80%99s-sharif-says-islamabad-mou-%e2%80%98shall-enter-into-force-with-immediate-effect%e2%80%99",
+      "content_hash": "6bd71dc34abfb5a0cb573e863c56e1326626769a7f14616691660d06860c27da",
+      "title": "Pakistan’s Sharif Says Islamabad MoU ‘shall enter into force with immediate effect’",
+      "sent_at": "2026-06-18T04:21:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/rumesh-tharanga-rises-to-world-no-2-in-men%e2%80%99s-javelin",
+      "content_hash": "62778a5114ff3f95100690f678afb34407af63bd52af0691fb70c1eb51fb14d2",
+      "title": "Rumesh Tharanga Rises To World No. 2 In Men’s Javelin",
+      "sent_at": "2026-06-18T04:21:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/us-iran-presidents-signs-initial-peace-deal-digitally-and-remotely",
+      "content_hash": "b6fceebf65dbec96c6fd6611d4d6fd13c070d782f8805aad382983db58526983",
+      "title": "US, Iran Presidents Signs Initial Peace Deal Digitally and Remotely",
+      "sent_at": "2026-06-18T04:21:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/18/uzbekistan-score-historic-goal-but-colombia-seal-3-1-win",
+      "content_hash": "f0eb27cb24633c74daeece4a1a4a162b7fada8681025b6048df376fdb8dea324",
+      "title": "Uzbekistan Score Historic Goal but Colombia Seal 3-1 Win",
+      "sent_at": "2026-06-18T04:21:40Z"
     }
   ]
 }
