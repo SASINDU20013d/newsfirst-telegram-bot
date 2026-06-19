@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/12/100-government-technical-officers-to-be-recruited",
-      "content_hash": "7a11870f79a9eae0ab256a982aff8ee15e4df4816b4c798fbd3ddfb3787a5596",
-      "title": "100 Government Technical Officers To Be Recruited",
-      "sent_at": "2026-06-12T10:19:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/court-orders-dna-test-for-ex-atamasthanadhipathi",
-      "content_hash": "a93634c14f9cec67138996971eee874a507bbe84e435cf55b47a8275d0a49eb8",
-      "title": "Court Orders DNA Test for Ex-Atamasthanadhipathi",
-      "sent_at": "2026-06-12T10:19:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/dengue-eradication-programme-to-be-launched-from-june-15",
-      "content_hash": "74737ccb1f85e42a491c1e476ea0bd96513027d193921b76c2502b69ecccbf56",
-      "title": "Dengue Eradication Programme To Be Launched From June 15",
-      "sent_at": "2026-06-12T10:19:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/no-move-to-arrest-ex-dig-waruna-jayasundara-under-pta",
-      "content_hash": "b6f2515424148fce168ceae1eec1decd4a26eda5cc936d27ba00ff226c759570",
-      "title": "No Move to Arrest Ex-DIG Waruna Jayasundara Under PTA",
-      "sent_at": "2026-06-12T10:19:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/parliament-to-convene-june-2326",
-      "content_hash": "770928fecd3ff78f67c5c919e8b9e3a8300a54935baa7e72aa950ee5b54b3cf9",
-      "title": "Parliament to Convene June 23–26",
-      "sent_at": "2026-06-12T10:19:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/police-to-seize-noisy-motorcycles-during-poson-season",
-      "content_hash": "0e25271e807a33d6cb4c04334e3de34c231ee704c90aeb3e76147d4b346a368c",
-      "title": "Police To Seize Noisy Motorcycles During Poson Season",
-      "sent_at": "2026-06-12T10:19:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/s-m-chandrasena-indicted-over-seed-maize-scandal",
-      "content_hash": "ec94ef62a96003f55df178342508345bee81195bac5d554d686b95477fa1c164",
-      "title": "S.M. Chandrasena Indicted Over Seed Maize Scandal",
-      "sent_at": "2026-06-12T10:19:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/shan-wijayalal-granted-bail-in-corruption-case",
-      "content_hash": "eb4b5f9ca04b96bb14b5aebe48dd74ebedee63ce457925438b601a6ad84a6246",
-      "title": "Shan Wijayalal Granted Bail in Corruption Case",
-      "sent_at": "2026-06-12T10:19:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/sri-lanka-s-prison-population-rises-to-40-000",
-      "content_hash": "db06d1ab8213243d48bace4fc4a965e58a907f1a23cffcbee860be42e71074a7",
-      "title": "Sri Lanka's Prison Population Rises To 40,000",
-      "sent_at": "2026-06-12T10:19:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/srilankan-airlines-restructuring-committee-appointed",
-      "content_hash": "a743312317d33be1e6d9632855c0747ed92854c9978645f812614f2553078013",
-      "title": "SriLankan Airlines Restructuring Committee Appointed",
-      "sent_at": "2026-06-12T10:19:55Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/12/adb-rolls-out-4b-aid-sri-lanka-among-key-countries",
       "content_hash": "597e9a36993d455e7b1215da9f410fa6834a43ff805322e727096b1018dc8c51",
       "title": "ADB Rolls Out $4B Aid, Sri Lanka Among Key Countries",
@@ -911,6 +851,66 @@
       "content_hash": "b7515ecc4f5283bf75abc8e50b6f3e25f8904ccdbdfd94a4e3581c917f6f67c7",
       "title": "US-Iran Talks Planned For Friday Are Off : Switzerland",
       "sent_at": "2026-06-19T07:12:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/badullananu-oya-train-services-to-resume-tomorrow",
+      "content_hash": "624dcce4f54354025935737afbd78a14da1ed7e1f24a4270a6e8cc83d659f9d4",
+      "title": "Badulla–Nanu Oya Train Services To Resume Tomorrow",
+      "sent_at": "2026-06-19T12:10:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/lanka-salt-gm-granted-bail-in-corruption-probe",
+      "content_hash": "e2fd23ca4c9554fb511ac32a1685a500aaa3bfb4e4f7e47dc2a784bbf05a7f0f",
+      "title": "Lanka Salt GM Granted Bail in Corruption Probe",
+      "sent_at": "2026-06-19T12:10:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/lanka-salt-limited-gm-arrested-by-ciaboc",
+      "content_hash": "099d4f28b05f4ac20f33a5bb6efa571f325ff8844f93822e8443cca1e400d758",
+      "title": "Lanka Salt Limited GM Arrested By CIABOC",
+      "sent_at": "2026-06-19T12:10:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/new-import-system-every-dollar-now-monitored",
+      "content_hash": "919ce698c2843978a3e1569609679bc4e1fa6b38850bc94231d1a7f13ca4da21",
+      "title": "New Import System - Every Dollar Now Monitored",
+      "sent_at": "2026-06-19T12:10:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/police-injured-in-raid-gone-wrong-suspects-arrested",
+      "content_hash": "03122ae269ec0cef587845c9fb69ab92346bd7dd8c92cb2cd37999745b063d0b",
+      "title": "Police Injured in Raid Gone Wrong, Suspects Arrested",
+      "sent_at": "2026-06-19T12:10:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/president%e2%80%99s-fund-provides-laptops-to-university-students",
+      "content_hash": "2614bd11185e51391ec3b574a6457ea179c2c2856679f490059c30d93c9f9849",
+      "title": "President’s Fund Provides Laptops To University Students",
+      "sent_at": "2026-06-19T12:10:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/rs-75-million-kush-drug-bust-at-katunayake-airport",
+      "content_hash": "d1093c306032966b58608d967d71ab62e8acbea30fdca070fe84e61377f7daf4",
+      "title": "Rs. 75 Million Kush Drug Bust at Katunayake Airport",
+      "sent_at": "2026-06-19T12:10:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/shasheendra-indicted-over-rs-8-8-mn-compensation-claim",
+      "content_hash": "428873f5bef2bb53dbe7335f8e6ff84944f7f0c7e805fb866d210f8fb25a3fc0",
+      "title": "Shasheendra Indicted Over Rs. 8.8 Mn Compensation Claim",
+      "sent_at": "2026-06-19T12:10:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/sri-lanka-to-repeal-pta-this-year-new-law-in-final-stage",
+      "content_hash": "aac5f966447bd13a95783a364560ca30f2342eecc61d972b6e78f28dd29f0973",
+      "title": "Sri Lanka to Repeal PTA This Year, New Law in Final Stage",
+      "sent_at": "2026-06-19T12:10:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/vacancies-in-sri-lanka-police-to-be-filled-by-july-next-year",
+      "content_hash": "1cbded11b671351194e052cab6a43be2149a90d94a1f09cbf7b4c31cf2e2ea52",
+      "title": "Vacancies in Sri Lanka Police To Be Filled By July Next Year",
+      "sent_at": "2026-06-19T12:10:41Z"
     }
   ]
 }
