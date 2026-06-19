@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/12/adb-rolls-out-4b-aid-sri-lanka-among-key-countries",
-      "content_hash": "597e9a36993d455e7b1215da9f410fa6834a43ff805322e727096b1018dc8c51",
-      "title": "ADB Rolls Out $4B Aid, Sri Lanka Among Key Countries",
-      "sent_at": "2026-06-12T14:10:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/fake-data-claims-rejected-as-sri-lanka-shows-debt-reduction",
-      "content_hash": "6326c6015411e10f698ede7d30df50e994a537031bca86a3e3a48dbdc0987952",
-      "title": "Fake Data Claims Rejected as Sri Lanka Shows Debt Reduction",
-      "sent_at": "2026-06-12T14:10:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/rs-20bn-supplementary-estimate-approved-without-vote",
-      "content_hash": "12e977b555447ba04b5d9f28e65a0468eb2ffc852c46d0a41449fe5b7d94efef",
-      "title": "Rs. 20Bn Supplementary Estimate Approved Without Vote",
-      "sent_at": "2026-06-12T14:10:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/sri-lanka-targets-value-added-mineral-industry",
-      "content_hash": "22646f1c4494b7d1c1904fde9acf42854cfeea1e23500dc099c0066cc8d951db",
-      "title": "Sri Lanka Targets Value-Added Mineral Industry",
-      "sent_at": "2026-06-12T14:10:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/verdict-against-ex-igp-pujith-set-for-july-31",
-      "content_hash": "b2ae2ada10187fd6c029a175042f28ad2ccd6731f7a95138778a18e2175c8ad1",
-      "title": "Verdict Against Ex-IGP Pujith Set for July 31",
-      "sent_at": "2026-06-12T14:10:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/visa-issues-force-cancellation-sri-lanka-vs-south-korea-rugby-clash",
-      "content_hash": "ed52b941af01516b15fc5e6dd165c4d28f798f44b0123a362d1b1c3529de3e2b",
-      "title": "Visa Issues Force Cancellation Sri Lanka vs South Korea Rugby Clash",
-      "sent_at": "2026-06-12T14:11:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/world-bank-warns-global-growth-to-slow-sharply",
-      "content_hash": "848f6c04dd0633f4ae4b4c0c2309ddeab4185eba7484c91fa8650a2539e22862",
-      "title": "World Bank Warns Global Growth to Slow Sharply",
-      "sent_at": "2026-06-12T14:11:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/12/facebook-faces-major-global-outage-affecting-messenger-and-main-app",
       "content_hash": "1bcade9fc89f73675a911acabfd6d25d597e647af69a6b9119bf0f0922e52ce3",
       "title": "Facebook Faces Major Global Outage Affecting Messenger and Main App",
@@ -911,6 +869,24 @@
       "content_hash": "1cbded11b671351194e052cab6a43be2149a90d94a1f09cbf7b4c31cf2e2ea52",
       "title": "Vacancies in Sri Lanka Police To Be Filled By July Next Year",
       "sent_at": "2026-06-19T12:10:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/eknaligoda-disappearance-court-to-rule-on-witness",
+      "content_hash": "b01f293db2cb9727069b2ed5b65045e37fd7af51bbbc1e73519d46bd57595d03",
+      "title": "Eknaligoda Disappearance: Court to Rule on Witness",
+      "sent_at": "2026-06-19T16:08:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/icc-chairman-jay-shah-meets-sri-lanka-president-in-colombo",
+      "content_hash": "86abfe88f6b035e43f6e9ac05ee8306366c2ef9de35b7cb3c94b1bc22f861354",
+      "title": "ICC Chairman Jay Shah Meets Sri Lanka President in Colombo",
+      "sent_at": "2026-06-19T16:08:07Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/sri-lanka-cricket-updates-icc-on-key-reforms",
+      "content_hash": "c1177841148f617b2f86beccc1231f308af1cce39deb8cfb85f1f6bf193e775d",
+      "title": "Sri Lanka Cricket Updates ICC on Key Reforms",
+      "sent_at": "2026-06-19T16:08:20Z"
     }
   ]
 }
