@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/12/income-tax-return-filing-for-2025-2026-to-begin-next-month",
-      "content_hash": "a34161cd6bb0b09e97678af66a975458e6595b7ed789d1b18300310a11cd1f9b",
-      "title": "Income Tax Return Filing For 2025/2026 To Begin Next Month",
-      "sent_at": "2026-06-12T05:50:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/no-power-cuts-despite-el-ni%c3%b1o-situation-energy-minister",
-      "content_hash": "261d75fb8d1a65cf6511632a137ed5d6013bf12246098f0291ab119a4c1c8563",
-      "title": "No Power Cuts Despite El Niño Situation - Energy Minister",
-      "sent_at": "2026-06-12T05:51:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/residents-along-kuda-ganga-urged-to-remain-vigilant-as-water-levels-rise",
-      "content_hash": "0bf862c456f28dda2c575b654e3dc76423b1016f03d9fca529791422abe7f612",
-      "title": "Residents Along Kuda Ganga Urged To Remain Vigilant As Water Levels Rise",
-      "sent_at": "2026-06-12T05:51:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/srilankan-airlines-flight-returns-safely-after-lightning-strike",
-      "content_hash": "b9efda6d904b5669d8243181adeb4b97bf2be4c384887a877754ecd64efe48db",
-      "title": "SriLankan Airlines Flight Returns Safely After Lightning Strike",
-      "sent_at": "2026-06-12T05:51:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/us-warship-linked-to-iran-blockade-mission-anchors-in-colombo-port",
-      "content_hash": "a232c6c288bc91b993499e5db24ee213504b0ac1b0ca37d511115e9771d9164b",
-      "title": "US Warship Linked to Iran Blockade Mission Anchors in Colombo Port",
-      "sent_at": "2026-06-12T05:51:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/12/world-day-against-child-labour-173-child-labour-complaints-reported-in-2025",
-      "content_hash": "9360d8cc815d1fe8257aad47e4545de6ae315f5e4a3c290425853d8761803a70",
-      "title": "World Day Against Child Labour: 173 Child Labour Complaints Reported in 2025",
-      "sent_at": "2026-06-12T05:51:08Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/12/100-government-technical-officers-to-be-recruited",
       "content_hash": "7a11870f79a9eae0ab256a982aff8ee15e4df4816b4c798fbd3ddfb3787a5596",
       "title": "100 Government Technical Officers To Be Recruited",
@@ -887,6 +851,66 @@
       "content_hash": "7528b693cd0aee3eb57501bd90d930cff5237dab306a180a0dfafae054de0080",
       "title": "Special Committee To Be Appointed To Address El Niño Impact – PM",
       "sent_at": "2026-06-19T01:45:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/24-hour-water-cut-in-mahara-and-gampaha",
+      "content_hash": "3c9bc1fcb2b6c35b6d6e9b6166500fddcb6ae8f6cb21c77803a40a20635cd85d",
+      "title": "24-Hour Water Cut In Mahara And Gampaha",
+      "sent_at": "2026-06-19T07:11:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/canada-thrash-nine-man-qatar-6-0-david%e2%80%99s-hat-trick-seals-dream-night",
+      "content_hash": "cd0924ec11937bee957b0190ff78b4e9fb9dc93ab83116ad8fb8d76792f693f4",
+      "title": "Canada Thrash Nine-Man Qatar 6-0 – David’s Hat-Trick Seals Dream Night",
+      "sent_at": "2026-06-19T07:11:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/government-moves-to-bring-back-fugitives-hiding-abroad",
+      "content_hash": "b353cabbfda89122cf85c0048b922c7b37adb8fc2dc6fdab46fe443bcd561516",
+      "title": "Government Moves To Bring Back Fugitives Hiding Abroad",
+      "sent_at": "2026-06-19T07:11:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/maximum-retail-prices-of-60-medicines-to-be-revised",
+      "content_hash": "410cefe56f3abc5fcc341cc9106cac7950cff49c3dea8193019f62d61bf85cda",
+      "title": "Maximum Retail Prices Of 60 Medicines To Be Revised",
+      "sent_at": "2026-06-19T07:11:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/mexico-edge-korea-1-0-and-become-first-team-to-reach-round-of-32",
+      "content_hash": "61ce9ddb4293af11d95f7eee9511279d7442f230587a8daed289268b4e7993d6",
+      "title": "Mexico Edge Korea 1-0 And Become First Team to Reach Round of 32",
+      "sent_at": "2026-06-19T07:11:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/new-regulations-tighten-monitoring-of-import-payments",
+      "content_hash": "0e92d98f50b2ff0ffa88a0f0c2ab84b38ac195415ac542d0ce82e5e92274a4ec",
+      "title": "New Regulations Tighten Monitoring Of Import Payments",
+      "sent_at": "2026-06-19T07:11:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/seven-arrested-over-illegal-excavation-in-dambagalla",
+      "content_hash": "5d29e4d68e1dad1aa2da379d74f66b67b305a0f75299022390d454ab2bc51f59",
+      "title": "Seven Arrested Over Illegal Excavation in Dambagalla",
+      "sent_at": "2026-06-19T07:11:57Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/sirasa-fm-dengue-control-awareness-drive-begins-today",
+      "content_hash": "1fea1f3eb06e63a51e36854b43d4d3dbe4a4d690c7e1768c3e719bd2775a6c36",
+      "title": "Sirasa FM Dengue Control Awareness Drive Begins Today",
+      "sent_at": "2026-06-19T07:11:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/sri-lanka-plans-20-new-tourist-zones-as-visitor-numbers-surge",
+      "content_hash": "16ff90a76234f4274ca97e1d9a3c1c1a589676d7e31b0fb2ae9e9b4837f36c0b",
+      "title": "Sri Lanka Plans 20 New Tourist Zones as Visitor Numbers Surge",
+      "sent_at": "2026-06-19T07:12:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/19/us-iran-talks-planned-for-friday-are-off-switzerland",
+      "content_hash": "b7515ecc4f5283bf75abc8e50b6f3e25f8904ccdbdfd94a4e3581c917f6f67c7",
+      "title": "US-Iran Talks Planned For Friday Are Off : Switzerland",
+      "sent_at": "2026-06-19T07:12:05Z"
     }
   ]
 }
