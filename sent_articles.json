@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/13/chinese-nationals-remanded-in-makola-online-financial-fraud-case",
-      "content_hash": "ef2757ec9355e4ac888a2982da1ebb31f41b655c2cef0ca636e904e3b68e768e",
-      "title": "Chinese Nationals Remanded In Makola Online Financial Fraud Case",
-      "sent_at": "2026-06-13T05:22:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/13/education-ministry-orders-schools-to-complete-2026-o-l-and-a-l-syllabus-on-time",
-      "content_hash": "5bcfb33e7ce61479e583cd0dc5abb56913d1cb407263515613bcc210a92fbb1f",
-      "title": "Education Ministry Orders Schools to Complete 2026 O/L and A/L Syllabus on Time",
-      "sent_at": "2026-06-13T05:22:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/13/elders-allowance-available-through-post-offices-from-next-monday",
-      "content_hash": "42598d3c90621e17c036f4b46321f6a2c1c262c21b76356949d41c8f28b6edbf",
-      "title": "Elders' Allowance Available Through Post Offices From Next Monday",
-      "sent_at": "2026-06-13T05:22:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/13/hospitals-over-capacity-as-dengue-surge-claims-21-lives-including-five-schoolchildren",
-      "content_hash": "684ac3c7a37ddacc9339554193e2ba7c7bb84db69276aca87d349aec68ed85f4",
-      "title": "Hospitals Over Capacity as Dengue Surge Claims 21 Lives, Including Five Schoolchildren",
-      "sent_at": "2026-06-13T05:22:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/13/kalu-ganga-and-attanagalu-oya-water-levels-rise",
-      "content_hash": "dfd5460680555408e9947ba5276a95049c2ccafc1ec25884d44cae4d59438e83",
-      "title": "Kalu Ganga And Attanagalu Oya Water Levels Rise",
-      "sent_at": "2026-06-13T05:22:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/13/special-traffic-plan-in-kochchikade-for-st-anthony%e2%80%99s-feast-procession-today",
-      "content_hash": "7ddfc1f7ef5ffc59aefebc305559b9459c10957f38937a8c8b3101601b31979b",
-      "title": "Special Traffic Plan in Kochchikade for St. Anthony’s Feast Procession Today",
-      "sent_at": "2026-06-13T05:22:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/13/body-of-6-year-old-child-found-inside-a-well-in-point-pedro",
-      "content_hash": "f9a07f795507b8ccfa19234fc7f0695e52ab08e055ee189ef7a72940f23696da",
-      "title": "Body Of 6-Year-Old Child Found Inside a Well In Point Pedro",
-      "sent_at": "2026-06-13T09:22:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/13/ugc-begins-allowance-payments-for-university-students-with-disabilities",
-      "content_hash": "139b18c8eb5592b158e64f1545d729a8e8bd2fe4c5bebda06ec69185afff386a",
-      "title": "UGC Begins Allowance Payments for University Students with Disabilities",
-      "sent_at": "2026-06-13T09:22:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/13/businessman-arrested-at-bia-with-smuggled-foreign-cigarettes-worth-over-rs-3-million",
       "content_hash": "98f96375dff42d8b5a3c9cb3681e9c741654551b978f0627b7f64494e07d9d41",
       "title": "Businessman Arrested At BIA with Smuggled Foreign Cigarettes Worth Over Rs. 3 Million",
@@ -917,6 +869,24 @@
       "content_hash": "daaabe0fd2c1a4f967022475bea5216331bcf3a73bbb328b0265fb5386e8d747",
       "title": "STF Arrests Suspect with Rs. 100 Million Worth of ICE in Drug Bust",
       "sent_at": "2026-06-20T05:18:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/20/back-to-back-rumesh-shines-in-qatar-with-massive-throw",
+      "content_hash": "fcbd295b2c1e5b880e7d6a8230b3477f4dec9dc5dc3a226809cd7ace7f7f67b9",
+      "title": "Back To Back: Rumesh Shines In Qatar with massive throw",
+      "sent_at": "2026-06-20T09:23:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/20/mandatory-vat-and-sscl-registration-for-businesses-earning-over-rs-100-000-daily",
+      "content_hash": "e6df2113fe59921486af6ee6f091f24c87b5ead5f6a1eb2ab45af29658ca8f10",
+      "title": "Mandatory VAT And SSCL Registration For Businesses Earning Over Rs. 100,000 Daily",
+      "sent_at": "2026-06-20T09:23:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/20/special-probe-launched-over-attack-on-police-raid-in-deraniyagala",
+      "content_hash": "92b6d4751c1b1c4ea46fdeb0fd0bbfb2b337fd694a679e63bf16687639cecaed",
+      "title": "Special Probe Launched Over Attack On Police Raid In Deraniyagala",
+      "sent_at": "2026-06-20T09:23:13Z"
     }
   ]
 }
