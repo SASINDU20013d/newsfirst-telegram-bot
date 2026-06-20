@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/13/businessman-arrested-at-bia-with-smuggled-foreign-cigarettes-worth-over-rs-3-million",
-      "content_hash": "98f96375dff42d8b5a3c9cb3681e9c741654551b978f0627b7f64494e07d9d41",
-      "title": "Businessman Arrested At BIA with Smuggled Foreign Cigarettes Worth Over Rs. 3 Million",
-      "sent_at": "2026-06-13T11:55:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/13/middle-east-conflict-disrupts-import-of-tar-to-sri-lanka",
-      "content_hash": "4f4bb5a87e3c9519d8fd63e13b83c4be5ff315edc26d85c70f80ef2e209acbfe",
-      "title": "Middle East Conflict Disrupts Import of Tar to Sri Lanka",
-      "sent_at": "2026-06-13T11:56:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/13/shakthi-debater-returns-in-grand-style-over-500-students-attend-inauguration-ceremony",
       "content_hash": "9483ea0629ae02bf82de8387573bdaa5bdd293e9f7a80a1ac51f49bded8c4a86",
       "title": "Shakthi Debater Returns in Grand Style: Over 500 Students Attend Inauguration Ceremony",
@@ -887,6 +875,18 @@
       "content_hash": "92b6d4751c1b1c4ea46fdeb0fd0bbfb2b337fd694a679e63bf16687639cecaed",
       "title": "Special Probe Launched Over Attack On Police Raid In Deraniyagala",
       "sent_at": "2026-06-20T09:23:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/20/four-police-teams-assigned-to-investigate-death-of-weligama-physiotherapist",
+      "content_hash": "1c30cb318da31e591f1fa54a3781916b22f408d103c64f416a489cf3619b63eb",
+      "title": "Four Police Teams Assigned To Investigate Death Of Weligama Physiotherapist",
+      "sent_at": "2026-06-20T11:59:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/20/slfp-wattala-organizer-ranil-tharanga-remanded-until-24th-june",
+      "content_hash": "89df4f9fc82ce8fdcd8ecf56551a4e270eaa5b8d930df7f9ca3e828ed667dc0d",
+      "title": "SLFP Wattala Organizer Ranil Tharanga Remanded Until 24th June",
+      "sent_at": "2026-06-20T11:59:28Z"
     }
   ]
 }
