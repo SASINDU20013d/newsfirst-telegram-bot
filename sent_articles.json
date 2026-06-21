@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/14/2025-gce-o-l-results-to-be-released-next-week",
-      "content_hash": "ee08b582eaeb5157aa0151ffe69e1d933d6cc38bc1aaf62db2cbfb7a83d76605",
-      "title": "2025 GCE O/L Results to Be Released Next Week",
-      "sent_at": "2026-06-14T05:52:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/body-washes-ashore-at-the-uswetakeiyawa-beach",
-      "content_hash": "2cd1d66e5ddb8af87673ac98cfa999d9c545a04cfe02c875e31263d604ec221a",
-      "title": "Body Washes Ashore At The Uswetakeiyawa Beach",
-      "sent_at": "2026-06-14T05:52:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/brother-of-alleged-crime-figure-and-drug-trafficker-modara-nipuna-arrested",
-      "content_hash": "d1545dace094adf18e339ec019549a9949a0268b5b8fc0e30e66bd75150283f0",
-      "title": "Brother of Alleged Crime Figure and Drug Trafficker 'Modara Nipuna' Arrested",
-      "sent_at": "2026-06-14T05:52:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/minor-flooding-continues-along-kuda-ganga",
-      "content_hash": "a7b332d03036be9b2ad51dccc62aae81511f5f1680c3a58e3231281d8dbd7561",
-      "title": "Minor Flooding Continues Along Kuda Ganga",
-      "sent_at": "2026-06-14T05:52:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/mosquito-larvae-density-rises-health-officials-warn-as-dengue-risk-looms-across-sri-lanka",
-      "content_hash": "022f75498fc339ac24a6c1a8ed5b4128598deb94cfbc0fbd72dad4a46d6953c9",
-      "title": "Mosquito Larvae Density Rises, Health Officials Warn as Dengue Risk Looms Across Sri Lanka",
-      "sent_at": "2026-06-14T05:52:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/seat-belt-compliance-to-be-strictly-monitored-on-expressways-from-june-19",
-      "content_hash": "63ed0a7b7c2130a112ecf4d5b9a23230d1960d02e2f534df0069a03fce31e216",
-      "title": "Seat Belt Compliance to Be Strictly Monitored on Expressways from June 19",
-      "sent_at": "2026-06-14T05:52:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/trump-says-deal-between-the-us-and-iran-to-be-signed-today",
-      "content_hash": "2be071a41e11acb20b4498a058bd5cca88fb5d7e77ab29c1696b0b9d7dbfb269",
-      "title": "Trump Says Deal Between The US and Iran to be Signed, Today",
-      "sent_at": "2026-06-14T05:53:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/two-arrested-in-ragama-for-stealing-telecommunication-cables",
-      "content_hash": "4879e3b1612503e8b39a7134f78a69c50d1edacde5facc8d4fe92c208146e65d",
-      "title": "Two Arrested in Ragama for Stealing Telecommunication Cables",
-      "sent_at": "2026-06-14T05:53:03Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/14/80-of-mosquito-breeding-sites-found-in-public-places-ndcu-warns",
       "content_hash": "86b8fa087b326ba620737f80a864d5ecf5bc888891f955bbe9c45057f77775e3",
       "title": "80% of Mosquito Breeding Sites Found in Public Places, NDCU Warns",
@@ -905,6 +857,54 @@
       "content_hash": "2d06d2ce99c4d7e30f3960fc1468cefeff35d7b70616bceb540815b971e20015",
       "title": "Special Waste Management Plan Introduced For Poson Week In Anuradhapura",
       "sent_at": "2026-06-20T14:11:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/17-4-of-school-children-addicted-to-sugary-drinks",
+      "content_hash": "dcd2e93f327b303b63cb0916159ecec671aef56a338b534c9c387032784c8095",
+      "title": "17.4% Of School Children Addicted To Sugary Drinks",
+      "sent_at": "2026-06-21T06:06:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/90-of-farmers-receive-yala-fertilizer-subsidy",
+      "content_hash": "e4067eebb1d96a9ab05c489fb0f3a1eda1d33a4789a21152f2c33856417cfb78",
+      "title": "90% Of Farmers Receive Yala Fertilizer Subsidy",
+      "sent_at": "2026-06-21T06:06:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/dengue-cases-rise-to-45-756-nationwide",
+      "content_hash": "c39a25e65701f31575b93c0aa88a38ae4a67ca329c126684c027cf9485efcef7",
+      "title": "Dengue Cases Rise To 45,756 Nationwide",
+      "sent_at": "2026-06-21T06:06:19Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/four-new-drug-rehabilitation-centres-to-be-established",
+      "content_hash": "e640564a4632b1c69a1fc9f460255222b955a31a8c0eead74f12e83fcb70d6e4",
+      "title": "Four New Drug Rehabilitation Centres To Be Established",
+      "sent_at": "2026-06-21T06:06:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/four-remanded-over-assault-on-police-in-avissawella",
+      "content_hash": "7518385b6dcf72df10bbbe3ffc8283dac290a74afc1fc0d288058459251048b9",
+      "title": "Four Remanded Over Assault On Police In Avissawella",
+      "sent_at": "2026-06-21T06:06:24Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/fuel-qr-mechanism-to-continue",
+      "content_hash": "36bc75d2c8994c5c2b76c4d9d4a3ba3525b03f4fc82dcee1b137a837ef5248c1",
+      "title": "Fuel QR Mechanism To Continue",
+      "sent_at": "2026-06-21T06:06:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/imf-mission-to-sri-lanka-staff-visit-set-for-june-2430",
+      "content_hash": "26a07a8f45ccaec51e35054bae2b438c6e13be47856a9b889fc85f06c7fb54f1",
+      "title": "IMF Mission to Sri Lanka: Staff Visit Set for June 24–30",
+      "sent_at": "2026-06-21T06:06:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/us-iran-talks-to-begin-in-switzerland-as-tehran-says-it-closed-strait-of-hormuz",
+      "content_hash": "457055173ce5d2ffe579c69e84c7cc8a0140ed30686a299c2fc4aa6b0b743c1d",
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "sent_at": "2026-06-21T06:06:29Z"
     }
   ]
 }
