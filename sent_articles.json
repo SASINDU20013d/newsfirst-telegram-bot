@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/14/nationwide-dengue-prevention-week-to-be-launched-from-tomorrow-14",
-      "content_hash": "94526e97b718d4689e45663a4e34329fffb6f5355345079d3fac96a1ba71f069",
-      "title": "Nationwide Dengue Prevention Week To Be Launched From Tomorrow (14)",
-      "sent_at": "2026-06-14T11:59:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/two-wild-elephants-died-of-electrocution",
-      "content_hash": "be9e9acc331784234f5f2c8a3c675ddf5660879d69a15791dc41a7581051479c",
-      "title": "Two Wild Elephants Died of Electrocution",
-      "sent_at": "2026-06-14T12:00:06Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/15/auditor-general-s-department-expands-capacity-with-new-units",
       "content_hash": "3abe0485af49a690948ddf338c57439fa5c98a82efa690a70b36a2ef6e136c98",
       "title": "Auditor General's Department Expands Capacity With New Units",
@@ -905,6 +893,18 @@
       "content_hash": "7de7e73a7047a2e21626c19b3bdc7d3cdc7308c823c827e0793c58cd95a29bc4",
       "title": "Rs. 1.95 Billion CT Scanner Programme To Strengthen Hospital Diagnostics",
       "sent_at": "2026-06-21T10:33:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/dengue-cases-rise-to-46-037-as-hospitals-reach-maximum-capacity-in-multiple-districts",
+      "content_hash": "f25d4e3a90e14890f1ccd7b08b3f5e28befaa5612790420cc90ec91c152d5249",
+      "title": "Dengue Cases Rise To 46,037 As Hospitals Reach Maximum Capacity In Multiple Districts",
+      "sent_at": "2026-06-21T13:09:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/sri-lanka-exports-rise-6-despite-global-challenges",
+      "content_hash": "a8f5dd3f008451d4f2e8ac187ea85ea80fe4ed81c205470305eea622977eb780",
+      "title": "Sri Lanka Exports Rise 6% Despite Global Challenges",
+      "sent_at": "2026-06-21T13:10:00Z"
     }
   ]
 }
