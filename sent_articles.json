@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/14/80-of-mosquito-breeding-sites-found-in-public-places-ndcu-warns",
-      "content_hash": "86b8fa087b326ba620737f80a864d5ecf5bc888891f955bbe9c45057f77775e3",
-      "title": "80% of Mosquito Breeding Sites Found in Public Places, NDCU Warns",
-      "sent_at": "2026-06-14T09:41:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/caa-launches-probe-into-a-supermarket-in-kollupitiya-over-imported-food",
-      "content_hash": "7f86ab889ae20ca019f7ec37a9b112924f3c30a3d34450ee63ab2c9bebbd0eb2",
-      "title": "CAA Launches Probe into A Supermarket in Kollupitiya Over Imported Food",
-      "sent_at": "2026-06-14T09:41:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/qatari-negotiators-return-to-iran-to-finalize-us-iran-agreement-as-two-sides-dispute-timings",
-      "content_hash": "c9d36c019ac9afe8419c5699e330fabe6933d1a4cb718df1d6371ebfc83e022c",
-      "title": "Qatari negotiators return to Iran to finalize US-Iran agreement as two sides dispute timings",
-      "sent_at": "2026-06-14T09:41:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/sri-lanka-tour-of-west-indies-2026-sri-lanka-beat-west-indies-for-a-dominant-37-run-victory-in-second-t20i",
-      "content_hash": "304d2296bc304d43dbd7131f4bc7ebd524068dc805794fc2aeb0069565c65cc8",
-      "title": "Sri Lanka tour of West Indies 2026: Sri Lanka Beat West Indies for a Dominant 37-Run Victory in Second T20I",
-      "sent_at": "2026-06-14T09:41:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/two-suspects-linked-to-organized-crime-and-drug-trafficking-arrested-after-deportation-from-the-uae",
-      "content_hash": "3b956eacbde74da3d425a7a48e0b85abdddc083246046dfb87f5d8a712d72960",
-      "title": "Two Suspects Linked to Organized Crime and Drug Trafficking Arrested After Deportation from the UAE",
-      "sent_at": "2026-06-14T09:41:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/14/world-blood-donor-day-commemorated-today",
-      "content_hash": "1a4eac5700d8044fee5e061bd79758cf6178ea69c0070c02ab8669155d0de846",
-      "title": "World Blood Donor Day Commemorated Today",
-      "sent_at": "2026-06-14T09:41:35Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/14/nationwide-dengue-prevention-week-to-be-launched-from-tomorrow-14",
       "content_hash": "94526e97b718d4689e45663a4e34329fffb6f5355345079d3fac96a1ba71f069",
       "title": "Nationwide Dengue Prevention Week To Be Launched From Tomorrow (14)",
@@ -905,6 +869,42 @@
       "content_hash": "457055173ce5d2ffe579c69e84c7cc8a0140ed30686a299c2fc4aa6b0b743c1d",
       "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
       "sent_at": "2026-06-21T06:06:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/332-drivers-fined-for-disobeying-seatbelt-rules-on-expressways",
+      "content_hash": "2d12f89c51ab628e8859398aef94f7df56d51ecfecb9d47c773ab32aec66978b",
+      "title": "332 Drivers Fined For Disobeying Seatbelt Rules On Expressways",
+      "sent_at": "2026-06-21T10:32:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/a-l-exam-schedule-unchanged-confirms-education-ministry",
+      "content_hash": "6fa39664e6f3153079e2849786f65aa55a8f36a46d9e55e9a2fbaa46b1ceb972",
+      "title": "A/L Exam Schedule Unchanged, Confirms Education Ministry",
+      "sent_at": "2026-06-21T10:32:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/drug-proceeds-sent-overseas-through-sham-import-operation",
+      "content_hash": "13eb4538e45a3b87ed0c642ae4c9b61991a5ff8a02633d6f38ec9ad0dec1741f",
+      "title": "Drug Proceeds Sent Overseas Through Sham Import Operation",
+      "sent_at": "2026-06-21T10:32:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/italy%e2%80%99s-meloni-tells-trump-to-focus-on-your-own-popularity-as-row-escalates",
+      "content_hash": "15c3b37424bca6ff6b960e8f96d9fbd17244579765b66af12269b1105aabc677",
+      "title": "Italy’s Meloni Tells Trump To 'Focus On Your Own Popularity' As Row Escalates",
+      "sent_at": "2026-06-21T10:32:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/japan-grab-4-0-win-as-ueda%e2%80%99s-brace-knocks-tunisia-out-of-2026-world-cup",
+      "content_hash": "4d1fe27e3b0d95de78f9e3bd1722e3e896a38e07ff36187aa61a396beb3d05da",
+      "title": "Japan Grab 4-0 Win As Ueda’s Brace Knocks Tunisia Out Of 2026 World Cup",
+      "sent_at": "2026-06-21T10:33:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/21/rs-1-95-billion-ct-scanner-programme-to-strengthen-hospital-diagnostics",
+      "content_hash": "7de7e73a7047a2e21626c19b3bdc7d3cdc7308c823c827e0793c58cd95a29bc4",
+      "title": "Rs. 1.95 Billion CT Scanner Programme To Strengthen Hospital Diagnostics",
+      "sent_at": "2026-06-21T10:33:02Z"
     }
   ]
 }
