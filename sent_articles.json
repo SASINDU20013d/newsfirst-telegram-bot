@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/15/appeal-court-to-take-up-yoshitha-rajapaksa-case-tomorrow",
-      "content_hash": "a648e1ab450fb81ffdededad521e797a8e672da31c2ab4d6c2fc3cf3858395e4",
-      "title": "Appeal Court to Take Up Yoshitha Rajapaksa Case Tomorrow",
-      "sent_at": "2026-06-15T13:18:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/cid-moves-against-public-figures-over-easter-attack-statements",
-      "content_hash": "03537d836c03525eb1ee6da5bb301b1a86926c61bb4504a9d6310a6592b65a34",
-      "title": "CID Moves Against Public Figures Over Easter Attack Statements",
-      "sent_at": "2026-06-15T13:18:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/cid-moves-to-charge-multiple-figures-for-contempt",
-      "content_hash": "1f18f5b0ec24e09aaebcac5f3ebec937169859d0065138f72a530dd8cad9a97d",
-      "title": "CID Moves to Charge Multiple Figures For Contempt",
-      "sent_at": "2026-06-15T13:19:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/copf-to-meet-over-treasury-cyber-theft-case",
-      "content_hash": "d1fa44d9bd1c5a55394de29a4660728beced6c6ca6a6383f8d274650570f06c4",
-      "title": "COPF to Meet Over Treasury Cyber Theft Case",
-      "sent_at": "2026-06-15T13:19:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/five-murder-cases-linked-to-pillayan-cid-tells-court",
-      "content_hash": "31c97f97540e3a82d5b0114edf083df6cd54d5bc8fe5d08274649dc1d71c5346",
-      "title": "Five Murder Cases Linked to Pillayan, CID Tells Court",
-      "sent_at": "2026-06-15T13:19:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/july-31-set-for-rulings-in-easter-sunday-negligence-trials-against-hemasiri-pujith",
-      "content_hash": "8fe349c8bb175ffff6a93ca2e7f04a13cc385d0efc833402dd5a5934ddda49b6",
-      "title": "July 31 Set for Rulings in Easter Sunday Negligence Trials Against Hemasiri & Pujith",
-      "sent_at": "2026-06-15T13:19:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/olives-cheese-and-tea-t%c3%bcrkiye-brings-breakfast-magic-to-sri-lanka",
-      "content_hash": "1dbe394aa2c2d8339e68733da0e037b6a7ea8f251e7e3d9fb3f778f5d8c451c0",
-      "title": "Olives, Cheese and Tea: Türkiye Brings Breakfast Magic to Sri Lanka",
-      "sent_at": "2026-06-15T13:19:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/salley-stable-in-hospital-govt-rejects-serious-illness-reports",
-      "content_hash": "c2f587d823514eab7aa318de8ce5b35cef513ef3b475a9c4b1f3f9f0a68bd745",
-      "title": "Salley Stable in Hospital, Govt Rejects Serious Illness Reports",
-      "sent_at": "2026-06-15T13:19:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/sri-lanka-economy-grows-5-1-in-q1-2026",
-      "content_hash": "25ceb1bd408fedd27880ddb7a48e08dcaf403fffbb34d4ac968e99db474260a2",
-      "title": "Sri Lanka Economy Grows 5.1% in Q1 2026",
-      "sent_at": "2026-06-15T13:19:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/15/uk-bans-social-media-for-under-16s",
-      "content_hash": "23c63c7a7af72a1ac28981ef272ee3723e5bc8e615584251b13cad6607ecbdbc",
-      "title": "UK Bans Social Media for Under-16s",
-      "sent_at": "2026-06-15T13:19:17Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/15/ranil-was-in-constant-contact-with-me-says-gammanpila",
       "content_hash": "0b4b6061129e6df4cfff871b642e7bc47a15415a358ba0b708f2d2d59d98615b",
       "title": "Ranil Was In Constant Contact With Me, Says Gammanpila",
@@ -941,6 +881,60 @@
       "content_hash": "e8b83e9d5594a8448db2e59762a90f720443f4c49710d534b3b5a3a68b7a9140",
       "title": "UK's Starmer Expected To Set Out Exit Timetable As Burnham Waits In The Wings",
       "sent_at": "2026-06-22T10:42:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/7-day-detention-order-for-suspect-with-rs-60m-ice",
+      "content_hash": "8fc36fef51568e9cc96d1a5d63e65efedee2804ec53b4847e992a082af6ea9b1",
+      "title": "7 Day Detention Order For Suspect With Rs. 60M ICE",
+      "sent_at": "2026-06-22T15:55:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/andy-burnham-seeks-to-replace-starmer-as-pm",
+      "content_hash": "0cf060a4f2c0d6ab1d7a8415a870f658e27690c0e1571a28776d5294e92d4e54",
+      "title": "Andy Burnham Seeks To Replace Starmer As PM",
+      "sent_at": "2026-06-22T15:55:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/crown-snatching-controversy-verdict-set-for-october-17",
+      "content_hash": "41878748ae0cf507ebcc2ae4a6f705d36aca45f41830fa81849865cd5965dc2b",
+      "title": "Crown Snatching Controversy: Verdict Set for October 17",
+      "sent_at": "2026-06-22T15:55:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/pta-to-be-replaced-with-new-law-protecting-public-rights",
+      "content_hash": "120f5ff7a436a48116a4e3f78d276589e30dc8bfb9b8352ab6bff45e41fa2ee1",
+      "title": "PTA To Be Replaced with New Law Protecting Public Rights",
+      "sent_at": "2026-06-22T15:55:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/sri-lanka-inflation-hits-5-4",
+      "content_hash": "240a7fa7fcd2ed9c67ddfe0e5ccf19139967eb642e2907e08721cf38a9239756",
+      "title": "Sri Lanka Inflation Hits 5.4%",
+      "sent_at": "2026-06-22T15:55:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/sri-lanka-is-banning-junk-food-in-schools-here-s-why",
+      "content_hash": "cc565d9d3b92e3cb92b720fb7a12ccb09fb4dc74fae9aa46884e68ecb3432330",
+      "title": "Sri Lanka Is Banning Junk Food In Schools - Here's Why!",
+      "sent_at": "2026-06-22T15:55:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/supreme-court-clears-way-to-hear-case-challenging-security-minister%e2%80%99s-mp-seat",
+      "content_hash": "53d00273083e73cf39fa2596da292bb4a6640ff16498ededec8815b985185539",
+      "title": "Supreme Court Clears Way to Hear Case Challenging Security Minister’s MP Seat",
+      "sent_at": "2026-06-22T15:56:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/us-assistant-secretary-of-state-meets-akd",
+      "content_hash": "f3186495be92ed432b567b8ea217b37f102147fb2ac08070b5501fd485b190bb",
+      "title": "US Assistant Secretary of State Meets AKD",
+      "sent_at": "2026-06-22T15:56:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/22/us-boosts-sri-lanka-navy-with-4m-high-tech-satellite-system",
+      "content_hash": "4a149b6a21437ffaa60a152fc3a3b4816a0c1aea41e673157ff1be059c790398",
+      "title": "US Boosts Sri Lanka Navy with $4M High-Tech Satellite System",
+      "sent_at": "2026-06-22T15:56:05Z"
     }
   ]
 }
