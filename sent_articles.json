@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/16/coal-probe-commission-inspects-norochcholai-lakvijaya-power-plant",
-      "content_hash": "a8ba03ca04cc0c78d983b27ae746b350b01c5a937349c9fc73b2b377410fbcd8",
-      "title": "Coal Probe Commission Inspects Norochcholai Lakvijaya Power Plant",
-      "sent_at": "2026-06-16T15:58:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/gotabaya-rajapaksa-files-petition-to-prevent-arrest-over-easter-attacks",
-      "content_hash": "f315bed34b44c50fece2025b2c6c8739260527b347c4bf0cc5bfc20a90f216ef",
-      "title": "Gotabaya Rajapaksa Files Petition To Prevent Arrest Over Easter Attacks",
-      "sent_at": "2026-06-16T15:58:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/niruksha-kumara-calls-allegations-over-suresh-salley%e2%80%99s-laptop-a-serious-issue",
-      "content_hash": "f022bd014997ca5c6884ded4e0a0ce0611d57e48dd218c8cb80d0ef3b4e53cc4",
-      "title": "Niruksha Kumara Calls Allegations Over Suresh Salley’s Laptop a 'Serious Issue'",
-      "sent_at": "2026-06-16T15:58:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/slpp-operates-with-blessings-of-basil-rajapaksa-namal-rajapaksa",
-      "content_hash": "4c2f8572a3f6bd91ec3024ae13714980806b7850c3b57534e3caa4c2c6dca09f",
-      "title": "\"SLPP Operates With Blessings Of Basil Rajapaksa\", Namal Rajapaksa",
-      "sent_at": "2026-06-16T15:58:45Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/16/how-gammadda-never-gave-up-on-ditwah%e2%80%99s-victims-a-movement-that-is-rebuilding-a-nation",
       "content_hash": "16df37cd4f7b2199a4e90471d3e9bfa5d9137c2e7e6b9577764fc5138ecd9934",
       "title": "How Gammadda Never Gave Up on Ditwah’s Victims: A Movement That Is Rebuilding A Nation",
@@ -941,6 +917,12 @@
       "content_hash": "2489e059580d85eb7e3b1d40c13d40c77147ec04fbbc0cee13afe2595d66ccd3",
       "title": "Trump Says ‘No Further’ Hormuz Blockade, Claims Iran Agreed To ‘Highest Level’ Nuclear Inspections",
       "sent_at": "2026-06-23T15:52:22Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/ten-us-donated-helicopters-added-to-sri-lanka-air-force-fleet",
+      "content_hash": "8876cb69803da4c6afaf7201cce829d4f7486ecaa73afd1887728a4a5a267125",
+      "title": "Ten US-Donated Helicopters Added To Sri Lanka Air Force Fleet",
+      "sent_at": "2026-06-23T18:01:13Z"
     }
   ]
 }
