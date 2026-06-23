@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/16/19-hour-water-cut-to-affect-several-areas-in-gampaha",
-      "content_hash": "f961b33b21c085227e853d83a10c25dd26b7b807b117b214a5027f944a7f06a2",
-      "title": "19-Hour Water Cut to Affect Several Areas in Gampaha",
-      "sent_at": "2026-06-16T04:48:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/bribery-commission-to-open-23-regional-offices",
-      "content_hash": "caf3c2fe4bbc2ae4aa08559e8014d7ebfcc8c262ccbb9569ba0aa8d251fe0ad2",
-      "title": "Bribery Commission to Open 23 Regional Offices",
-      "sent_at": "2026-06-16T04:48:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/dengue-cases-rise-to-41-925-and-death-toll-hits-24",
-      "content_hash": "77ef8172b079d032bb63e54932ed2cccb2f6d53e9c751aebf42f02cdea5d9048",
-      "title": "Dengue Cases Rise To 41,925 And Death Toll Hits 24",
-      "sent_at": "2026-06-16T04:48:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/government-announces-toll-discount-for-electronic-toll-collection-users",
-      "content_hash": "91aab0d27149ff3dce72225dd2a98111c524221fa541238a207aa9d7e386bb8f",
-      "title": "Government Announces Toll Discount for Electronic Toll Collection Users",
-      "sent_at": "2026-06-16T04:48:12Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/obesity-on-the-rise-among-schoolchildren",
-      "content_hash": "49dd50bb0a3692a3698a5c6b762c2b647246616abb06af5dfa96db2f263b97b4",
-      "title": "Obesity on the Rise Among Schoolchildren",
-      "sent_at": "2026-06-16T04:48:15Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/16/chinese-defence-attach%c3%a9-calls-on-deputy-minister-of-defence",
       "content_hash": "063651bbbad424d650c2dcc5701632655a3df13a64b9e05bd4eae6cc7e81d41a",
       "title": "Chinese Defence Attaché Calls on Deputy Minister of Defence",
@@ -923,6 +893,36 @@
       "content_hash": "4a149b6a21437ffaa60a152fc3a3b4816a0c1aea41e673157ff1be059c790398",
       "title": "US Boosts Sri Lanka Navy with $4M High-Tech Satellite System",
       "sent_at": "2026-06-22T15:56:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/justice-ministry-moves-to-fast-track-child-related-court-cases",
+      "content_hash": "3ce5cf8fbbd4dc8164e233fc818d6006faf0cb2f4d84fe7612117414540f8156",
+      "title": "Justice Ministry Moves To Fast-Track Child-Related Court Cases",
+      "sent_at": "2026-06-23T05:04:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/national-human-elephant-conflict-action-plan-due-within-three-months",
+      "content_hash": "36c44423e87ca1bd630c9fc4f99e2f165fd849fe657e0685289ae404df324f38",
+      "title": "National Human-Elephant Conflict Action Plan Due Within Three Months",
+      "sent_at": "2026-06-23T05:04:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/special-program-prepared-to-tackle-el-ni%c3%b1o-impact",
+      "content_hash": "dcba7a7a92a1ea6a1f183eb2e332f7594542dbb22243d40d6f1d34b081bfa21e",
+      "title": "Special Program Prepared To Tackle El Niño Impact",
+      "sent_at": "2026-06-23T05:04:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/suspect-leads-police-to-hidden-pistol-and-ammunition-in-meetiyagoda",
+      "content_hash": "0da010b0cc0060bd7e98346d776b53a04aa5f223f7ac657cf065f9a602d3fa9b",
+      "title": "Suspect Leads Police To Hidden Pistol And Ammunition In Meetiyagoda",
+      "sent_at": "2026-06-23T05:04:55Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/tri-forces-led-dengue-monitoring-unit-to-be-established",
+      "content_hash": "c40a5e7c1d32e52168b16ad043e11ce76de9efabfb4ddda337f944d5cca0d081",
+      "title": "Tri-Forces-Led Dengue Monitoring Unit To Be Established",
+      "sent_at": "2026-06-23T05:04:57Z"
     }
   ]
 }
