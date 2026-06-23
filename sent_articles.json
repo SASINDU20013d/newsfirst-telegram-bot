@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/16/how-gammadda-never-gave-up-on-ditwah%e2%80%99s-victims-a-movement-that-is-rebuilding-a-nation",
-      "content_hash": "16df37cd4f7b2199a4e90471d3e9bfa5d9137c2e7e6b9577764fc5138ecd9934",
-      "title": "How Gammadda Never Gave Up on Ditwah’s Victims: A Movement That Is Rebuilding A Nation",
-      "sent_at": "2026-06-16T19:39:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/uk-trade-envoy-lord-hannett-to-visit-sri-lanka-tomorrow",
-      "content_hash": "520ba57d1abfd80315d4ada6506b2ebce14dac87cb29d98d7be0f3e5415c9a20",
-      "title": "UK Trade Envoy Lord Hannett To Visit Sri Lanka Tomorrow",
-      "sent_at": "2026-06-16T19:40:04Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/17/ag-says-no-instructions-in-gota-arrest-appeal-case",
       "content_hash": "dfa38a7153ff6e4bda1d4e45bf2ef00b2cd217802281632b151b32395644d91e",
       "title": "AG Says No Instructions in Gota Arrest Appeal Case",
@@ -923,6 +911,12 @@
       "content_hash": "8876cb69803da4c6afaf7201cce829d4f7486ecaa73afd1887728a4a5a267125",
       "title": "Ten US-Donated Helicopters Added To Sri Lanka Air Force Fleet",
       "sent_at": "2026-06-23T18:01:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/tea-and-cinnamon-can-power-sri-lanka%e2%80%99s-export-revival-as-wbg-says-north-and-east-hold-%e2%80%98huge-agri-potential%e2%80%99",
+      "content_hash": "7d75fb7da3571c15f89de9eb1f1cfc68609899c91f906e07c8b80fa0c4849565",
+      "title": "Tea and Cinnamon Can Power Sri Lanka’s Export Revival As WBG Says North and East Hold ‘Huge Agri Potential’",
+      "sent_at": "2026-06-23T20:12:35Z"
     }
   ]
 }
