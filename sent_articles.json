@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/16/chinese-defence-attach%c3%a9-calls-on-deputy-minister-of-defence",
-      "content_hash": "063651bbbad424d650c2dcc5701632655a3df13a64b9e05bd4eae6cc7e81d41a",
-      "title": "Chinese Defence Attaché Calls on Deputy Minister of Defence",
-      "sent_at": "2026-06-16T10:11:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/dengue-cases-rise-to-42-232-as-600-patients-are-reported-daily",
-      "content_hash": "12a8a486979a51d650a331955e236ae1bd798bae006134bed71a4b070b2fc6d9",
-      "title": "Dengue Cases Rise To 42,232 As 600 Patients Are Reported Daily",
-      "sent_at": "2026-06-16T10:11:52Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/egypt-hold-belgium-in-seattle-in-world-cup-group-g-clash",
-      "content_hash": "64ed1272da6305053270d75db5740ba533550233f2f0b06103f1db24bcaecb5f",
-      "title": "Egypt Hold Belgium in Seattle In World Cup Group G Clash",
-      "sent_at": "2026-06-16T10:11:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/el-ni%c3%b1o-conditions-strengthen-as-pacific-sea-surface-temperature-rises",
-      "content_hash": "49bf7a533ed269e070f8c8f3b6a53fe732ca67efecb37c7d813446a65cf8f22d",
-      "title": "El Niño Conditions Strengthen As Pacific Sea Surface Temperature Rises",
-      "sent_at": "2026-06-16T10:11:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/highest-since-1995-bank-of-japan-raises-rates-to-1-for-first-time-in-three-decades",
-      "content_hash": "b0c064f4f3590f0216f7a9e268a889a4423c556d260b42a45f70b23e2e4db5fc",
-      "title": "Highest since 1995! Bank of Japan Raises Rates to 1% For First Time In Three Decades",
-      "sent_at": "2026-06-16T10:12:00Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/iran-fight-back-to-hold-new-zealand-in-world-cup",
-      "content_hash": "2936e5cafce3bd2dd3544c05a77dd32a3f8c3f90c48179d15083b1980950d1cc",
-      "title": "Iran Fight Back To Hold New Zealand In World Cup",
-      "sent_at": "2026-06-16T10:12:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/one-dead-two-injured-in-three-wheeler-accident-in-rideegama",
-      "content_hash": "994cc39ee7174886050b2be0d1dd7404ea6006cc870904c39e56a4552eea7e0c",
-      "title": "One Dead, Two Injured In Three-Wheeler Accident In Rideegama",
-      "sent_at": "2026-06-16T10:12:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/over-3-000-police-officers-deployed-for-security-in-anuradhapura-during-poson",
-      "content_hash": "3f676bb77a774bd2559dd1c360e77e3650ecdfd73b74e2def08e5a285396e82f",
-      "title": "Over 3,000 Police Officers Deployed for Security in Anuradhapura during Poson",
-      "sent_at": "2026-06-16T10:12:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/trump-may-release-us-iran-deal-before-friday",
-      "content_hash": "a0f3e2488a14247f62be1c796452667430c5a84ca55ce172b8e30dd20fbbf46d",
-      "title": "Trump may release US-Iran deal before Friday",
-      "sent_at": "2026-06-16T10:12:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/16/yoshitha-rajapaksa-informs-inability-to-appear-before-bribery-commission",
-      "content_hash": "df35e57d534aba8274af81b99bd8bea64fdc313451d3c2a0531ef7110b419679",
-      "title": "Yoshitha Rajapaksa Informs Inability to Appear Before Bribery Commission",
-      "sent_at": "2026-06-16T10:12:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/16/coal-probe-commission-inspects-norochcholai-lakvijaya-power-plant",
       "content_hash": "a8ba03ca04cc0c78d983b27ae746b350b01c5a937349c9fc73b2b377410fbcd8",
       "title": "Coal Probe Commission Inspects Norochcholai Lakvijaya Power Plant",
@@ -959,6 +899,30 @@
       "content_hash": "de9ee843d59792ee2cdb7a6f0fb5e42dc3bc96b3096ac9565e4b4ce98b4f05e9",
       "title": "Veteran Sri Lankan Artist Motagedara Wanigarathna Passes Away at 93",
       "sent_at": "2026-06-23T08:36:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/24-hour-water-cut-for-maharagama-and-homagama-from-tomorrow-evening-24",
+      "content_hash": "748313df77deb09dac035c50d77b71a9016a6e8458bf26723a4c562d290fc55b",
+      "title": "24-Hour Water Cut for Maharagama and Homagama From Tomorrow Evening (24)",
+      "sent_at": "2026-06-23T12:09:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/imf-staff-delegation-to-arrive-in-sri-lanka-tomorrow-for-economic-review",
+      "content_hash": "339a73260c94d3f127fe165c7f7a8b559e918b929d57b103e491f469b0c23136",
+      "title": "IMF Staff Delegation to Arrive in Sri Lanka Tomorrow for Economic Review",
+      "sent_at": "2026-06-23T12:09:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/man-commits-suicide-after-setting-three-wheeler-on-fire",
+      "content_hash": "9343ac14e76178ea5c0ca06f870cdd731454b6e1c013288607fa9bbac44741e3",
+      "title": "Man Commits Suicide After Setting Three-Wheeler on Fire",
+      "sent_at": "2026-06-23T12:09:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/23/president-appoints-commission-to-address-public-sector-salary-and-pension-related-concerns",
+      "content_hash": "cf73fe5f8f5b0f794e11b698fb60b7c764734f41cf6ac42f6cfd5858b563e294",
+      "title": "President Appoints Commission to Address Public Sector Salary and Pension Related Concerns",
+      "sent_at": "2026-06-23T12:09:44Z"
     }
   ]
 }
