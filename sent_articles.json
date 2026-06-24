@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/17/navy-entry-requirements-were-changed-for-yoshitha-sent-abroad-without-completing-training",
-      "content_hash": "ea3e6585153700c5132cad77be8444669a06e861a869e33d98ef995349259339",
-      "title": "Navy Entry Requirements Were Changed for Yoshitha; Sent Abroad Without Completing Training",
-      "sent_at": "2026-06-17T15:42:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/17/no-arrest-decision-court-closes-dig-s-writ-case",
-      "content_hash": "3c3c445f2939c044f3751d3ff3d085e79a652cad8cd22750ae44f35c62e12853",
-      "title": "No Arrest Decision: Court Closes DIG's Writ Case",
-      "sent_at": "2026-06-17T15:42:49Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/18/1-500-officers-recruited-to-protect-elephant-fences",
       "content_hash": "4c045d583d67445048b4d79ac77ada9a9faeedf3aa2efe2a2c9bdd0ac0e72b18",
       "title": "1,500 Officers Recruited To Protect Elephant Fences",
@@ -905,6 +893,12 @@
       "content_hash": "dc7c1432a226db799c76ebf603cde9f22a8e3398a82879abde2b8d5d764d34d8",
       "title": "Zaharan Group Spiritual Leader Naufer Maulavi’s Confession Deemed Voluntary",
       "sent_at": "2026-06-24T14:39:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/24/northern-province-governor-removes-vavuniya-mayor-and-chavakachcheri-vice-chair-via-gazette",
+      "content_hash": "fa5cd62563d411b86525418add902c787dd39db1252f132b68db035a1c31313c",
+      "title": "Northern Province Governor Removes Vavuniya Mayor and Chavakachcheri Vice Chair Via Gazette",
+      "sent_at": "2026-06-24T17:07:43Z"
     }
   ]
 }
