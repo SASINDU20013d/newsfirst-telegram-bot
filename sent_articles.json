@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/19/over-10-tons-of-drugs-seized-under-a-nation-united-national-mission",
-      "content_hash": "aa16d2eb919325894a44f67ea5b08c98bbbbba5054b22eaf62852f98fbaf5516",
-      "title": "Over 10 Tons Of Drugs Seized Under 'A Nation United' National Mission",
-      "sent_at": "2026-06-19T01:45:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/special-committee-to-be-appointed-to-address-el-ni%c3%b1o-impact-pm",
-      "content_hash": "7528b693cd0aee3eb57501bd90d930cff5237dab306a180a0dfafae054de0080",
-      "title": "Special Committee To Be Appointed To Address El Niño Impact – PM",
-      "sent_at": "2026-06-19T01:45:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/19/24-hour-water-cut-in-mahara-and-gampaha",
       "content_hash": "3c9bc1fcb2b6c35b6d6e9b6166500fddcb6ae8f6cb21c77803a40a20635cd85d",
       "title": "24-Hour Water Cut In Mahara And Gampaha",
@@ -833,6 +821,30 @@
       "content_hash": "4d872de2a7583ba0261c7120c86d19a0b108aee2c015c966a15007e65bb79676",
       "title": "Rakitha, Charith Remanded In 'Harak Kata' Bribe Probe",
       "sent_at": "2026-06-25T16:28:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/body-found-in-poddala-identified-as-associate-of-organised-criminal",
+      "content_hash": "39ad5b19e04c4863f8a2f07efcc3a431c072cb60ba4dc45ea77c5f07c1bb15d0",
+      "title": "Body Found in Poddala Identified as Associate of Organised Criminal",
+      "sent_at": "2026-06-26T04:04:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/bus-fares-to-increase-from-july-1",
+      "content_hash": "6d86e347c71ed94b186027d49f2b19469daac6df2fa0012b0d6ef318c1ff1f0c",
+      "title": "Bus Fares to Increase from July 1",
+      "sent_at": "2026-06-26T04:04:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/imf-delegation-to-hold-key-economic-talks-with-sri-lankan-officials",
+      "content_hash": "49707e80ede03283fec70ba7e762b59ed0ae2870a3aebebe7dcce71b49417c45",
+      "title": "IMF Delegation to Hold Key Economic Talks with Sri Lankan Officials",
+      "sent_at": "2026-06-26T04:04:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/sharp-rise-in-drug-use-among-school-and-university-students",
+      "content_hash": "0115888beeb6c4f73594efb0a39a46debd574108809ee8145a0924d3648b6abb",
+      "title": "Sharp Rise in Drug Use Among School and University Students",
+      "sent_at": "2026-06-26T04:04:18Z"
     }
   ]
 }
