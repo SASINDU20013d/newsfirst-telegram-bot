@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/19/24-hour-water-cut-in-mahara-and-gampaha",
-      "content_hash": "3c9bc1fcb2b6c35b6d6e9b6166500fddcb6ae8f6cb21c77803a40a20635cd85d",
-      "title": "24-Hour Water Cut In Mahara And Gampaha",
-      "sent_at": "2026-06-19T07:11:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/canada-thrash-nine-man-qatar-6-0-david%e2%80%99s-hat-trick-seals-dream-night",
-      "content_hash": "cd0924ec11937bee957b0190ff78b4e9fb9dc93ab83116ad8fb8d76792f693f4",
-      "title": "Canada Thrash Nine-Man Qatar 6-0 – David’s Hat-Trick Seals Dream Night",
-      "sent_at": "2026-06-19T07:11:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/government-moves-to-bring-back-fugitives-hiding-abroad",
-      "content_hash": "b353cabbfda89122cf85c0048b922c7b37adb8fc2dc6fdab46fe443bcd561516",
-      "title": "Government Moves To Bring Back Fugitives Hiding Abroad",
-      "sent_at": "2026-06-19T07:11:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/maximum-retail-prices-of-60-medicines-to-be-revised",
-      "content_hash": "410cefe56f3abc5fcc341cc9106cac7950cff49c3dea8193019f62d61bf85cda",
-      "title": "Maximum Retail Prices Of 60 Medicines To Be Revised",
-      "sent_at": "2026-06-19T07:11:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/mexico-edge-korea-1-0-and-become-first-team-to-reach-round-of-32",
-      "content_hash": "61ce9ddb4293af11d95f7eee9511279d7442f230587a8daed289268b4e7993d6",
-      "title": "Mexico Edge Korea 1-0 And Become First Team to Reach Round of 32",
-      "sent_at": "2026-06-19T07:11:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/new-regulations-tighten-monitoring-of-import-payments",
-      "content_hash": "0e92d98f50b2ff0ffa88a0f0c2ab84b38ac195415ac542d0ce82e5e92274a4ec",
-      "title": "New Regulations Tighten Monitoring Of Import Payments",
-      "sent_at": "2026-06-19T07:11:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/seven-arrested-over-illegal-excavation-in-dambagalla",
-      "content_hash": "5d29e4d68e1dad1aa2da379d74f66b67b305a0f75299022390d454ab2bc51f59",
-      "title": "Seven Arrested Over Illegal Excavation in Dambagalla",
-      "sent_at": "2026-06-19T07:11:57Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/sirasa-fm-dengue-control-awareness-drive-begins-today",
-      "content_hash": "1fea1f3eb06e63a51e36854b43d4d3dbe4a4d690c7e1768c3e719bd2775a6c36",
-      "title": "Sirasa FM Dengue Control Awareness Drive Begins Today",
-      "sent_at": "2026-06-19T07:11:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/sri-lanka-plans-20-new-tourist-zones-as-visitor-numbers-surge",
-      "content_hash": "16ff90a76234f4274ca97e1d9a3c1c1a589676d7e31b0fb2ae9e9b4837f36c0b",
-      "title": "Sri Lanka Plans 20 New Tourist Zones as Visitor Numbers Surge",
-      "sent_at": "2026-06-19T07:12:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/us-iran-talks-planned-for-friday-are-off-switzerland",
-      "content_hash": "b7515ecc4f5283bf75abc8e50b6f3e25f8904ccdbdfd94a4e3581c917f6f67c7",
-      "title": "US-Iran Talks Planned For Friday Are Off : Switzerland",
-      "sent_at": "2026-06-19T07:12:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/19/badullananu-oya-train-services-to-resume-tomorrow",
       "content_hash": "624dcce4f54354025935737afbd78a14da1ed7e1f24a4270a6e8cc83d659f9d4",
       "title": "Badulla–Nanu Oya Train Services To Resume Tomorrow",
@@ -845,6 +785,42 @@
       "content_hash": "0115888beeb6c4f73594efb0a39a46debd574108809ee8145a0924d3648b6abb",
       "title": "Sharp Rise in Drug Use Among School and University Students",
       "sent_at": "2026-06-26T04:04:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/adb-approves-57-4m-for-sri-lanka%e2%80%99s-solar-power-expansion",
+      "content_hash": "22cd5a809a67b82f166c4f17a252ffe0f71c4f2d9230b2b2c313f1f295cc4264",
+      "title": "ADB Approves $57.4M for Sri Lanka’s Solar Power Expansion",
+      "sent_at": "2026-06-26T07:59:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/bus-collision-in-matara-injures-nearly-40",
+      "content_hash": "f1875b08aae09e319f731a9eff90e84ac0c09aab4e615143e5d0a7dd94e739b9",
+      "title": "Bus Collision in Matara: Injures Nearly 40",
+      "sent_at": "2026-06-26T07:59:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/growth-and-stability-return-to-sri-lanka%e2%80%99s-economy",
+      "content_hash": "914b34d8cb23498ec8baa9f7b324d6ae0bef4756c9acd7e2a47653ad257c0e66",
+      "title": "Growth and Stability Return to Sri Lanka’s Economy",
+      "sent_at": "2026-06-26T08:00:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/national-poson-week-begins-today",
+      "content_hash": "ff385de85b463e0422d6fa95cc988293eb69abced6810e482c1e1fa8fa4b9dea",
+      "title": "National Poson Week Begins Today",
+      "sent_at": "2026-06-26T08:00:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/thailandsri-lanka-business-forum-charts-new-pathways-for-trade-investment-and-regional-growth",
+      "content_hash": "ded0496f599dda593aac89673722e35d7cc4629c7103bab8b8bf96ef8e9de41e",
+      "title": "Thailand–Sri Lanka Business Forum Charts New Pathways for Trade, Investment and Regional Growth",
+      "sent_at": "2026-06-26T08:00:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/underworld-shooter-matiya-deported-to-sri-lanka",
+      "content_hash": "079a8148faacea3da9677ef9e41c86de04aafcf98ae35f5b1c69266cfe7537b0",
+      "title": "Underworld Shooter 'Matiya' Deported To Sri Lanka",
+      "sent_at": "2026-06-26T08:00:25Z"
     }
   ]
 }
