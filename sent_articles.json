@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/19/eknaligoda-disappearance-court-to-rule-on-witness",
-      "content_hash": "b01f293db2cb9727069b2ed5b65045e37fd7af51bbbc1e73519d46bd57595d03",
-      "title": "Eknaligoda Disappearance: Court to Rule on Witness",
-      "sent_at": "2026-06-19T16:08:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/icc-chairman-jay-shah-meets-sri-lanka-president-in-colombo",
-      "content_hash": "86abfe88f6b035e43f6e9ac05ee8306366c2ef9de35b7cb3c94b1bc22f861354",
-      "title": "ICC Chairman Jay Shah Meets Sri Lanka President in Colombo",
-      "sent_at": "2026-06-19T16:08:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/19/sri-lanka-cricket-updates-icc-on-key-reforms",
-      "content_hash": "c1177841148f617b2f86beccc1231f308af1cce39deb8cfb85f1f6bf193e775d",
-      "title": "Sri Lanka Cricket Updates ICC on Key Reforms",
-      "sent_at": "2026-06-19T16:08:20Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/20/2025-o-l-results-released-re-scrutiny-applications-open-from-june-25",
       "content_hash": "8110c39e843fc9cd7047cc047ed6de7e7042171e12c66d803b69bb509dbbf0f8",
       "title": "2025 O/L Results Released: Re-Scrutiny Applications Open from June 25",
@@ -809,6 +791,12 @@
       "content_hash": "3f2e2ad629522a19330a53c3b04d8f2f68d450f308813ac576c5f1392255a046",
       "title": "SJB Suspends Charith Abeysinghe Over Rs. 120 Mn Bribe Scandal",
       "sent_at": "2026-06-26T13:14:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/26/next-phase-of-bond-scam-trial-set-for-july-22",
+      "content_hash": "edef8ee5e0ad340420f2e22a1e42fdc7a598b6f5b4dba0938f8946ee8189d656",
+      "title": "Next Phase of Bond Scam Trial Set for July 22",
+      "sent_at": "2026-06-26T16:20:02Z"
     }
   ]
 }
