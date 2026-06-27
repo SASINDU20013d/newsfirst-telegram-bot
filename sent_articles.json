@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/20/2025-o-l-results-released-re-scrutiny-applications-open-from-june-25",
-      "content_hash": "8110c39e843fc9cd7047cc047ed6de7e7042171e12c66d803b69bb509dbbf0f8",
-      "title": "2025 O/L Results Released: Re-Scrutiny Applications Open from June 25",
-      "sent_at": "2026-06-20T05:18:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/20/audit-begins-into-2-5-million-cyber-theft-from-sri-lanka-treasury",
-      "content_hash": "8b5d93ae75368bb6385ae1f16f806936c5e9d773c7571617da16be1a1d6246e7",
-      "title": "Audit Begins Into $2.5 Million Cyber Theft From Sri Lanka Treasury",
-      "sent_at": "2026-06-20T05:18:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/20/badullananu-oya-train-services-resume-today",
-      "content_hash": "83d9a90056917c59658dfba8c8fe3c47e2ddd8455456d6fd785d4b3071abd3d0",
-      "title": "Badulla–Nanu Oya Train Services Resume Today",
-      "sent_at": "2026-06-20T05:18:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/20/bia-customs-make-major-drug-bust-student-arrested-with-rs-377m-hashish-haul",
-      "content_hash": "30651d2c2d6586572dd0573515e3579645517d6f9819375dd5f3de4829e052d3",
-      "title": "BIA Customs Make Major Drug Bust: Student Arrested With Rs. 377M Hashish Haul",
-      "sent_at": "2026-06-20T05:18:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/20/dengue-threat-grows-amid-rising-cases-and-new-breeding-hotspots",
-      "content_hash": "8f0f2b9e120619334f606d67a564eabe5c6cd04feb1c7291bf1873bca6d4c30e",
-      "title": "Dengue Threat Grows Amid Rising Cases and New Breeding Hotspots",
-      "sent_at": "2026-06-20T05:18:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/20/stf-arrests-suspect-with-rs-100-million-worth-of-ice-in-drug-bust",
-      "content_hash": "daaabe0fd2c1a4f967022475bea5216331bcf3a73bbb328b0265fb5386e8d747",
-      "title": "STF Arrests Suspect with Rs. 100 Million Worth of ICE in Drug Bust",
-      "sent_at": "2026-06-20T05:18:34Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/20/back-to-back-rumesh-shines-in-qatar-with-massive-throw",
       "content_hash": "fcbd295b2c1e5b880e7d6a8230b3477f4dec9dc5dc3a226809cd7ace7f7f67b9",
       "title": "Back To Back: Rumesh Shines In Qatar with massive throw",
@@ -839,6 +803,24 @@
       "content_hash": "416c6298037b5778749e1ce309805ceb5b906453afb257a97e0736d800105389",
       "title": "Sri Lanka Secures Seat on UN Women’s Rights Committee (CEDAW)",
       "sent_at": "2026-06-27T04:55:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/27/brake-failure-identified-as-cause-for-diyatalawa-bus-accident",
+      "content_hash": "eeeed3cfdfff37dac2cba7d1973cf466b640740f7394da99783b0af2472424de",
+      "title": "Brake Failure Identified as Cause For Diyatalawa Bus Accident",
+      "sent_at": "2026-06-27T07:51:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/27/president-pushes-export-oriented-manufacturing-economy",
+      "content_hash": "535bc8cb2c62c317944c053be58837e3c25d90e530470b4cf05f47834b789fb3",
+      "title": "President Pushes Export-Oriented Manufacturing Economy",
+      "sent_at": "2026-06-27T07:51:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/27/un-plans-additional-us-10-million-for-disaster-management-in-sri-lanka",
+      "content_hash": "2f0bb6f44b8b9d6e4bb755fd446833bdf5b79c5ccf156ca501fc42d12fec6d49",
+      "title": "UN Plans Additional US$10 Million for Disaster Management in Sri Lanka",
+      "sent_at": "2026-06-27T07:51:49Z"
     }
   ]
 }
