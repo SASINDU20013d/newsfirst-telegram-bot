@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/20/back-to-back-rumesh-shines-in-qatar-with-massive-throw",
-      "content_hash": "fcbd295b2c1e5b880e7d6a8230b3477f4dec9dc5dc3a226809cd7ace7f7f67b9",
-      "title": "Back To Back: Rumesh Shines In Qatar with massive throw",
-      "sent_at": "2026-06-20T09:23:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/20/mandatory-vat-and-sscl-registration-for-businesses-earning-over-rs-100-000-daily",
-      "content_hash": "e6df2113fe59921486af6ee6f091f24c87b5ead5f6a1eb2ab45af29658ca8f10",
-      "title": "Mandatory VAT And SSCL Registration For Businesses Earning Over Rs. 100,000 Daily",
-      "sent_at": "2026-06-20T09:23:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/20/special-probe-launched-over-attack-on-police-raid-in-deraniyagala",
-      "content_hash": "92b6d4751c1b1c4ea46fdeb0fd0bbfb2b337fd694a679e63bf16687639cecaed",
-      "title": "Special Probe Launched Over Attack On Police Raid In Deraniyagala",
-      "sent_at": "2026-06-20T09:23:13Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/20/four-police-teams-assigned-to-investigate-death-of-weligama-physiotherapist",
       "content_hash": "1c30cb318da31e591f1fa54a3781916b22f408d103c64f416a489cf3619b63eb",
       "title": "Four Police Teams Assigned To Investigate Death Of Weligama Physiotherapist",
@@ -821,6 +803,12 @@
       "content_hash": "2f0bb6f44b8b9d6e4bb755fd446833bdf5b79c5ccf156ca501fc42d12fec6d49",
       "title": "UN Plans Additional US$10 Million for Disaster Management in Sri Lanka",
       "sent_at": "2026-06-27T07:51:49Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/27/16-year-old-student-killed-in-motorcycle-collision-in-piliyandala",
+      "content_hash": "4c76eddd6c506d021705c6660a069b53ef0fd46bbfa38dc14671358d85712741",
+      "title": "16-Year-Old Student Killed In Motorcycle Collision In Piliyandala",
+      "sent_at": "2026-06-27T10:12:33Z"
     }
   ]
 }
