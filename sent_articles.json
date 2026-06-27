@@ -1,18 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/20/four-police-teams-assigned-to-investigate-death-of-weligama-physiotherapist",
-      "content_hash": "1c30cb318da31e591f1fa54a3781916b22f408d103c64f416a489cf3619b63eb",
-      "title": "Four Police Teams Assigned To Investigate Death Of Weligama Physiotherapist",
-      "sent_at": "2026-06-20T11:59:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/20/slfp-wattala-organizer-ranil-tharanga-remanded-until-24th-june",
-      "content_hash": "89df4f9fc82ce8fdcd8ecf56551a4e270eaa5b8d930df7f9ca3e828ed667dc0d",
-      "title": "SLFP Wattala Organizer Ranil Tharanga Remanded Until 24th June",
-      "sent_at": "2026-06-20T11:59:28Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/20/body-found-near-weliwita-bridge-in-kaduwela",
       "content_hash": "5dcf14ab8f3d752b5ec92d5663d75a9a32ba7cd6ece44efe91080db15f7753e4",
       "title": "Body Found Near Weliwita Bridge In Kaduwela",
@@ -809,6 +797,12 @@
       "content_hash": "4c76eddd6c506d021705c6660a069b53ef0fd46bbfa38dc14671358d85712741",
       "title": "16-Year-Old Student Killed In Motorcycle Collision In Piliyandala",
       "sent_at": "2026-06-27T10:12:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/27/presidential-secretariat-official-remanded-over-passport-fraud-allegations",
+      "content_hash": "bcf3079b04074ee1fd9c0477a65372e6f5ad4ddbc39eeeb6319ff4217a146611",
+      "title": "Presidential Secretariat Official Remanded Over Passport Fraud Allegations",
+      "sent_at": "2026-06-27T12:10:24Z"
     }
   ]
 }
