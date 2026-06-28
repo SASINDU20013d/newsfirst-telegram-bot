@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/21/332-drivers-fined-for-disobeying-seatbelt-rules-on-expressways",
-      "content_hash": "2d12f89c51ab628e8859398aef94f7df56d51ecfecb9d47c773ab32aec66978b",
-      "title": "332 Drivers Fined For Disobeying Seatbelt Rules On Expressways",
-      "sent_at": "2026-06-21T10:32:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/a-l-exam-schedule-unchanged-confirms-education-ministry",
-      "content_hash": "6fa39664e6f3153079e2849786f65aa55a8f36a46d9e55e9a2fbaa46b1ceb972",
-      "title": "A/L Exam Schedule Unchanged, Confirms Education Ministry",
-      "sent_at": "2026-06-21T10:32:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/drug-proceeds-sent-overseas-through-sham-import-operation",
-      "content_hash": "13eb4538e45a3b87ed0c642ae4c9b61991a5ff8a02633d6f38ec9ad0dec1741f",
-      "title": "Drug Proceeds Sent Overseas Through Sham Import Operation",
-      "sent_at": "2026-06-21T10:32:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/italy%e2%80%99s-meloni-tells-trump-to-focus-on-your-own-popularity-as-row-escalates",
-      "content_hash": "15c3b37424bca6ff6b960e8f96d9fbd17244579765b66af12269b1105aabc677",
-      "title": "Italy’s Meloni Tells Trump To 'Focus On Your Own Popularity' As Row Escalates",
-      "sent_at": "2026-06-21T10:32:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/japan-grab-4-0-win-as-ueda%e2%80%99s-brace-knocks-tunisia-out-of-2026-world-cup",
-      "content_hash": "4d1fe27e3b0d95de78f9e3bd1722e3e896a38e07ff36187aa61a396beb3d05da",
-      "title": "Japan Grab 4-0 Win As Ueda’s Brace Knocks Tunisia Out Of 2026 World Cup",
-      "sent_at": "2026-06-21T10:33:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/rs-1-95-billion-ct-scanner-programme-to-strengthen-hospital-diagnostics",
-      "content_hash": "7de7e73a7047a2e21626c19b3bdc7d3cdc7308c823c827e0793c58cd95a29bc4",
-      "title": "Rs. 1.95 Billion CT Scanner Programme To Strengthen Hospital Diagnostics",
-      "sent_at": "2026-06-21T10:33:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/21/dengue-cases-rise-to-46-037-as-hospitals-reach-maximum-capacity-in-multiple-districts",
       "content_hash": "f25d4e3a90e14890f1ccd7b08b3f5e28befaa5612790420cc90ec91c152d5249",
       "title": "Dengue Cases Rise To 46,037 As Hospitals Reach Maximum Capacity In Multiple Districts",
@@ -803,6 +767,30 @@
       "content_hash": "49962876aad80e8f361112a6962c1763437460c4616fc626273e2a7fb7038fac",
       "title": "Traffic OIC Arrested Over Unreturned Service Weapon",
       "sent_at": "2026-06-28T09:16:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/28/fast-track-id-drive-for-elderly-welfare-payments",
+      "content_hash": "6c5fb5338c76d89806dc1c2ac8c71971c4783daf5bb05958f22d0ceb8e8d79a5",
+      "title": "Fast-Track ID Drive for Elderly Welfare Payments",
+      "sent_at": "2026-06-28T11:48:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/28/president-extends-term-of-cmc-inquiry-commission",
+      "content_hash": "32af5efc64128cf3c9634d8489346d6b391febcfe8c2d50f1274d68b62aced30",
+      "title": "President Extends Term of CMC Inquiry Commission",
+      "sent_at": "2026-06-28T11:48:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/28/university-system-issues-to-be-discussed-on-july-2",
+      "content_hash": "ffd3ad61b96cfda85a78746e23cc4a8ec74bed9372d4930e0630f3ca7ad02672",
+      "title": "University System Issues To Be Discussed On July 2",
+      "sent_at": "2026-06-28T11:48:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/28/yatiyanthota-traffic-oic-remanded-until-july-30th",
+      "content_hash": "62ff9b2a027d74fa4668c759d94218a22bb8730b58f91318c0088582100dec37",
+      "title": "Yatiyanthota Traffic OIC Remanded Until July 30th",
+      "sent_at": "2026-06-28T11:48:37Z"
     }
   ]
 }
