@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/21/17-4-of-school-children-addicted-to-sugary-drinks",
-      "content_hash": "dcd2e93f327b303b63cb0916159ecec671aef56a338b534c9c387032784c8095",
-      "title": "17.4% Of School Children Addicted To Sugary Drinks",
-      "sent_at": "2026-06-21T06:06:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/90-of-farmers-receive-yala-fertilizer-subsidy",
-      "content_hash": "e4067eebb1d96a9ab05c489fb0f3a1eda1d33a4789a21152f2c33856417cfb78",
-      "title": "90% Of Farmers Receive Yala Fertilizer Subsidy",
-      "sent_at": "2026-06-21T06:06:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/dengue-cases-rise-to-45-756-nationwide",
-      "content_hash": "c39a25e65701f31575b93c0aa88a38ae4a67ca329c126684c027cf9485efcef7",
-      "title": "Dengue Cases Rise To 45,756 Nationwide",
-      "sent_at": "2026-06-21T06:06:19Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/four-new-drug-rehabilitation-centres-to-be-established",
-      "content_hash": "e640564a4632b1c69a1fc9f460255222b955a31a8c0eead74f12e83fcb70d6e4",
-      "title": "Four New Drug Rehabilitation Centres To Be Established",
-      "sent_at": "2026-06-21T06:06:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/four-remanded-over-assault-on-police-in-avissawella",
-      "content_hash": "7518385b6dcf72df10bbbe3ffc8283dac290a74afc1fc0d288058459251048b9",
-      "title": "Four Remanded Over Assault On Police In Avissawella",
-      "sent_at": "2026-06-21T06:06:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/fuel-qr-mechanism-to-continue",
-      "content_hash": "36bc75d2c8994c5c2b76c4d9d4a3ba3525b03f4fc82dcee1b137a837ef5248c1",
-      "title": "Fuel QR Mechanism To Continue",
-      "sent_at": "2026-06-21T06:06:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/imf-mission-to-sri-lanka-staff-visit-set-for-june-2430",
-      "content_hash": "26a07a8f45ccaec51e35054bae2b438c6e13be47856a9b889fc85f06c7fb54f1",
-      "title": "IMF Mission to Sri Lanka: Staff Visit Set for June 24–30",
-      "sent_at": "2026-06-21T06:06:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/21/us-iran-talks-to-begin-in-switzerland-as-tehran-says-it-closed-strait-of-hormuz",
-      "content_hash": "457055173ce5d2ffe579c69e84c7cc8a0140ed30686a299c2fc4aa6b0b743c1d",
-      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "sent_at": "2026-06-21T06:06:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/21/332-drivers-fined-for-disobeying-seatbelt-rules-on-expressways",
       "content_hash": "2d12f89c51ab628e8859398aef94f7df56d51ecfecb9d47c773ab32aec66978b",
       "title": "332 Drivers Fined For Disobeying Seatbelt Rules On Expressways",
@@ -827,6 +779,30 @@
       "content_hash": "dbe26c206a266f80ef32ca99c90cf0db46edcacd024a4d1415b0f6a488b5650a",
       "title": "Sirasa Ruhunu Maya Poson Zone Continues For Second Day",
       "sent_at": "2026-06-28T05:19:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/28/coconut-export-revenue-up-21-amid-shipping-disruptions",
+      "content_hash": "4f1e9ff4ad7271c3715c9fd595a544cd50a0939af2f5750e2ff6610eec0db589",
+      "title": "Coconut Export Revenue Up 21% Amid Shipping Disruptions",
+      "sent_at": "2026-06-28T09:16:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/28/four-arrested-at-bia-with-a-large-stock-of-kush-hashish",
+      "content_hash": "213ff74bf23e0e78bb2d14448d5c9b202afa015c61269d7e112b1c481aa4b277",
+      "title": "Four Arrested At BIA With A Large Stock of Kush & Hashish",
+      "sent_at": "2026-06-28T09:16:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/28/man-arrested-for-assaulting-%e2%80%98subramaniyam%e2%80%99",
+      "content_hash": "606970c14f1e7f052a331e0e90a3b0200c59e681a2a1bd51a96ba0b336102235",
+      "title": "Man Arrested For Assaulting ‘Subramaniyam’",
+      "sent_at": "2026-06-28T09:16:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/28/traffic-oic-arrested-over-unreturned-service-weapon",
+      "content_hash": "49962876aad80e8f361112a6962c1763437460c4616fc626273e2a7fb7038fac",
+      "title": "Traffic OIC Arrested Over Unreturned Service Weapon",
+      "sent_at": "2026-06-28T09:16:21Z"
     }
   ]
 }
