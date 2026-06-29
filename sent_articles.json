@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/22/negombo-drug-bust-two-arrested-with-hashish-ice-and-heroin-in-raid",
-      "content_hash": "04ea15c98cd1ab04903f3438e74514f4d66279eb77459aa66840f219cd4da128",
-      "title": "Negombo Drug Bust: Two Arrested With Hashish, Ice And Heroin In Raid",
-      "sent_at": "2026-06-22T04:51:04Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/public-warned-over-fake-phi-scam",
-      "content_hash": "d16d677e6863edd39c88d2329cc28a90890476a6dcff50e2d9118cec613318d3",
-      "title": "Public Warned Over Fake PHI Scam",
-      "sent_at": "2026-06-22T04:51:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/tiana-sumanasekera-chooses-sri-lanka-calls-it-a-dream-come-true",
-      "content_hash": "3106e6f232e21ae44517274bc39ae2f7cc933b3f26f314f0ff00734ef45b8168",
-      "title": "Tiana Sumanasekera Chooses Sri Lanka, Calls It a Dream Come True",
-      "sent_at": "2026-06-22T04:51:08Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/us-and-iran-conclude-high-level-talks-in-switzerland-mediators-say",
-      "content_hash": "3a55529ae4eb9d8452c82edb01d0f25fcccdf43039aff271dc02839d05a911a5",
-      "title": "US and Iran conclude high-level talks in Switzerland, mediators say",
-      "sent_at": "2026-06-22T04:51:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/us-assistant-state-secretary-paul-kapur-in-sri-lanka",
-      "content_hash": "2896b01d0ca18050e9e3651f5038524f053305a709430f771451bf12fe57834e",
-      "title": "US Assistant State Secretary Paul Kapur in Sri Lanka",
-      "sent_at": "2026-06-22T04:51:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/us-pacific-air-forces-commander-in-sri-lanka",
-      "content_hash": "b580ebce2d716c4cb680c1a897a76936937b043c8e5d2342f831c826b591fa76",
-      "title": "US Pacific Air Forces Commander in Sri Lanka",
-      "sent_at": "2026-06-22T04:51:15Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/22/13-000-dengue-cases-reported-in-just-21-days",
       "content_hash": "febb6c7c68453c35947e489293272cc3d3027f007899114f38d352f5f2302e45",
       "title": "13,000+ Dengue Cases Reported in Just 21 Days",
@@ -803,6 +767,42 @@
       "content_hash": "6a2b6feb13820802c5de5d7ae44d4bc9118064278925d36825565ade2de1c248",
       "title": "Sirasa Ruhunu Maya Poson Pooja in Ambalantota, Mattala And Ratnapura",
       "sent_at": "2026-06-29T04:18:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/deadline-to-submit-asset-liability-declaration-ends-tomorrow",
+      "content_hash": "481cfd473f65a5e4d38065efabebbe017cfff8071d86ba1f6303b49eead86cf3",
+      "title": "Deadline To Submit Asset & Liability Declaration Ends Tomorrow",
+      "sent_at": "2026-06-29T09:50:10Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/iran-and-us-agree-to-halt-attacks-and-renew-talks",
+      "content_hash": "23dacfed0ece6e5f9eebf1ccda1928ca4de33495899917b1162c03f34047bbe5",
+      "title": "Iran and US Agree to Halt Attacks and Renew Talks",
+      "sent_at": "2026-06-29T09:50:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/over-1-5-million-devotees-expected-in-anuradhapura-for-poson-security-lifesaving-and-special-measures-in-place",
+      "content_hash": "b3670e66a275dfb2e584e0bff88494db63dbc505019352815fb8ed195cbadf57",
+      "title": "Over 1.5 Million Devotees Expected In Anuradhapura for Poson: Security, Lifesaving And Special Measures In Place",
+      "sent_at": "2026-06-29T09:50:16Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/over-18-000-dansals-organized-for-poson",
+      "content_hash": "c3c9c1d19a0d566eb1a60f4dd0d62e8dd897e114c6a5ecd18c653a012d96a0f7",
+      "title": "Over 18,000 Dansals Organized for Poson",
+      "sent_at": "2026-06-29T09:50:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/popular-singer-rukman-asitha-passes-away",
+      "content_hash": "65b89dae3b8a6888234499051b5a6619043a10b2fd009deb2c74b450921efc1d",
+      "title": "Popular Singer Rukman Asitha Passes Away",
+      "sent_at": "2026-06-29T09:50:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/poson-poya-observed-across-sri-lanka-with-islandwide-religious-observances",
+      "content_hash": "988b93c28240f96c93f5e317792d1a296360ef5bef18f5453026b636d9e330a3",
+      "title": "Poson Poya Observed Across Sri Lanka with Islandwide Religious Observances",
+      "sent_at": "2026-06-29T09:50:29Z"
     }
   ]
 }
