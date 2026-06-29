@@ -1,60 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/22/7-day-detention-order-for-suspect-with-rs-60m-ice",
-      "content_hash": "8fc36fef51568e9cc96d1a5d63e65efedee2804ec53b4847e992a082af6ea9b1",
-      "title": "7 Day Detention Order For Suspect With Rs. 60M ICE",
-      "sent_at": "2026-06-22T15:55:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/andy-burnham-seeks-to-replace-starmer-as-pm",
-      "content_hash": "0cf060a4f2c0d6ab1d7a8415a870f658e27690c0e1571a28776d5294e92d4e54",
-      "title": "Andy Burnham Seeks To Replace Starmer As PM",
-      "sent_at": "2026-06-22T15:55:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/crown-snatching-controversy-verdict-set-for-october-17",
-      "content_hash": "41878748ae0cf507ebcc2ae4a6f705d36aca45f41830fa81849865cd5965dc2b",
-      "title": "Crown Snatching Controversy: Verdict Set for October 17",
-      "sent_at": "2026-06-22T15:55:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/pta-to-be-replaced-with-new-law-protecting-public-rights",
-      "content_hash": "120f5ff7a436a48116a4e3f78d276589e30dc8bfb9b8352ab6bff45e41fa2ee1",
-      "title": "PTA To Be Replaced with New Law Protecting Public Rights",
-      "sent_at": "2026-06-22T15:55:54Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/sri-lanka-inflation-hits-5-4",
-      "content_hash": "240a7fa7fcd2ed9c67ddfe0e5ccf19139967eb642e2907e08721cf38a9239756",
-      "title": "Sri Lanka Inflation Hits 5.4%",
-      "sent_at": "2026-06-22T15:55:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/sri-lanka-is-banning-junk-food-in-schools-here-s-why",
-      "content_hash": "cc565d9d3b92e3cb92b720fb7a12ccb09fb4dc74fae9aa46884e68ecb3432330",
-      "title": "Sri Lanka Is Banning Junk Food In Schools - Here's Why!",
-      "sent_at": "2026-06-22T15:55:59Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/supreme-court-clears-way-to-hear-case-challenging-security-minister%e2%80%99s-mp-seat",
-      "content_hash": "53d00273083e73cf39fa2596da292bb4a6640ff16498ededec8815b985185539",
-      "title": "Supreme Court Clears Way to Hear Case Challenging Security Minister’s MP Seat",
-      "sent_at": "2026-06-22T15:56:01Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/us-assistant-secretary-of-state-meets-akd",
-      "content_hash": "f3186495be92ed432b567b8ea217b37f102147fb2ac08070b5501fd485b190bb",
-      "title": "US Assistant Secretary of State Meets AKD",
-      "sent_at": "2026-06-22T15:56:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/us-boosts-sri-lanka-navy-with-4m-high-tech-satellite-system",
-      "content_hash": "4a149b6a21437ffaa60a152fc3a3b4816a0c1aea41e673157ff1be059c790398",
-      "title": "US Boosts Sri Lanka Navy with $4M High-Tech Satellite System",
-      "sent_at": "2026-06-22T15:56:05Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/23/justice-ministry-moves-to-fast-track-child-related-court-cases",
       "content_hash": "3ce5cf8fbbd4dc8164e233fc818d6006faf0cb2f4d84fe7612117414540f8156",
       "title": "Justice Ministry Moves To Fast-Track Child-Related Court Cases",
@@ -767,6 +713,12 @@
       "content_hash": "35103a7f332abf3104036fb4a615cb12b4bfbe096f5b820c08d63aa0aa7d9791",
       "title": "Suspect Arrested For Impersonating Inland Revenue Officer In Financial Fraud Scheme",
       "sent_at": "2026-06-29T14:07:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/cpc-announces-fuel-price-reduction-effective-from-midnight-today",
+      "content_hash": "2e51a4fd5a8cec81b054cbb385ac5175c4f6487782e3db64985ae5fdb4a0b355",
+      "title": "CPC Announces Fuel Price Reduction Effective From Midnight Today",
+      "sent_at": "2026-06-29T17:40:44Z"
     }
   ]
 }
