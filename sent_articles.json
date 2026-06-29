@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/22/13-000-dengue-cases-reported-in-just-21-days",
-      "content_hash": "febb6c7c68453c35947e489293272cc3d3027f007899114f38d352f5f2302e45",
-      "title": "13,000+ Dengue Cases Reported in Just 21 Days",
-      "sent_at": "2026-06-22T10:42:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/dengue-surge-over-1-000-new-infections-in-a-single-day",
-      "content_hash": "bdaa835860b18b953d7b9541e79f618619d170a3cdee083853cb3a0724f9c8cd",
-      "title": "Dengue Surge: Over 1,000 New Infections in a Single Day",
-      "sent_at": "2026-06-22T10:42:34Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/fatal-multi-vehicle-crash-in-kegalle-one-dead-dozens-injured",
-      "content_hash": "702063dbb18c91ced4361ffd3f588e10ed86c1bb20d03f96ff5f8655d6bc00a3",
-      "title": "Fatal Multi-Vehicle Crash in Kegalle: One Dead, Dozens Injured",
-      "sent_at": "2026-06-22T10:42:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/ice-worth-over-rs-60-million-seized-in-kotahena",
-      "content_hash": "20e1956cddc67b92794d9bb8ebf80bd696754fe0971dbdb0434079a39aaea873",
-      "title": "Ice Worth Over Rs. 60 Million Seized In Kotahena",
-      "sent_at": "2026-06-22T10:42:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/iran%e2%80%99s-negotiating-team-departs-switzerland-after-us-talks",
-      "content_hash": "b3beabc438947c8449871789cbaef46579acf40f0416f1c1768df0953e691c85",
-      "title": "Iran’s Negotiating Team Departs Switzerland After US Talks",
-      "sent_at": "2026-06-22T10:42:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/over-100-statements-recorded-by-coal-inquiry-commission",
-      "content_hash": "8eecb95656e0851fa21a55e6edae723ed388238b310c2c48bedbde0173385d1f",
-      "title": "Over 100 Statements Recorded by Coal Inquiry Commission",
-      "sent_at": "2026-06-22T10:42:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/sri-lanka-reaffirms-neutral-foreign-policy-in-talks-with-us",
-      "content_hash": "05dabccbf2995c6e413a14470de6232e37262b97fee4d9d0b95b82b4c083d4e7",
-      "title": "Sri Lanka Reaffirms Neutral Foreign Policy in Talks with US",
-      "sent_at": "2026-06-22T10:42:44Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/the-real-boss-of-no-10-larry-set-to-outlive-yet-another-prime-minister",
-      "content_hash": "c24d05fee7df6157b9ef946a74c584d4c9c389b3c8e44caec2c41314b6bac634",
-      "title": "The Real Boss of No.10? Larry Set to Outlive Yet Another Prime Minister",
-      "sent_at": "2026-06-22T10:42:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/uk-pm-starmer-to-step-down-as-labour-leader",
-      "content_hash": "a4f84ed68ac00cf68edc3c919eb806be71512f351494ae72ea76c22878470b3d",
-      "title": "UK PM Starmer to Step Down as Labour Leader",
-      "sent_at": "2026-06-22T10:42:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/22/uk-s-starmer-expected-to-set-out-exit-timetable-as-burnham-waits-in-the-wings",
-      "content_hash": "e8b83e9d5594a8448db2e59762a90f720443f4c49710d534b3b5a3a68b7a9140",
-      "title": "UK's Starmer Expected To Set Out Exit Timetable As Burnham Waits In The Wings",
-      "sent_at": "2026-06-22T10:42:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/22/7-day-detention-order-for-suspect-with-rs-60m-ice",
       "content_hash": "8fc36fef51568e9cc96d1a5d63e65efedee2804ec53b4847e992a082af6ea9b1",
       "title": "7 Day Detention Order For Suspect With Rs. 60M ICE",
@@ -803,6 +743,30 @@
       "content_hash": "988b93c28240f96c93f5e317792d1a296360ef5bef18f5453026b636d9e330a3",
       "title": "Poson Poya Observed Across Sri Lanka with Islandwide Religious Observances",
       "sent_at": "2026-06-29T09:50:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/dengue-cases-reach-53-159-nationwide-so-far-this-year",
+      "content_hash": "00210a69092c065a5f45ce4cde07092cb12b712775c81f0c3486a26b9160033d",
+      "title": "Dengue Cases Reach 53,159 Nationwide So Far This Year",
+      "sent_at": "2026-06-29T14:07:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/dengue-cases-top-53-000-as-authorities-step-up-mosquito-control-measures",
+      "content_hash": "cdf678c6d15a95663d40b76164d5db0dfb5193d4d04379438e63733cfdfa7854",
+      "title": "Dengue Cases Top 53,000 As Authorities Step Up Mosquito Control Measures",
+      "sent_at": "2026-06-29T14:07:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/poson-celebrations-underway-as-over-1-5-million-devotees-expected-in-anuradhapura",
+      "content_hash": "0873332545eb2432f0ae588f9e50550f78ee98896b92c7aa63b0c47dab46aab1",
+      "title": "Poson Celebrations Underway As Over 1.5 Million Devotees Expected In Anuradhapura",
+      "sent_at": "2026-06-29T14:07:47Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/29/suspect-arrested-for-impersonating-inland-revenue-officer-in-financial-fraud-scheme",
+      "content_hash": "35103a7f332abf3104036fb4a615cb12b4bfbe096f5b820c08d63aa0aa7d9791",
+      "title": "Suspect Arrested For Impersonating Inland Revenue Officer In Financial Fraud Scheme",
+      "sent_at": "2026-06-29T14:07:50Z"
     }
   ]
 }
