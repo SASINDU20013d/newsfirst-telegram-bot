@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/23/high-court-dismisses-gnanasara-thero%e2%80%99s-appeal",
-      "content_hash": "380f78461d3ad7ee5ab1a22385e0e4a8635bb287e4a2216e23aa8405a195a498",
-      "title": "High Court Dismisses Gnanasara Thero’s Appeal",
-      "sent_at": "2026-06-23T08:35:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/kalutara-police-inspector-held-for-accepting-bribe-from-businessman",
-      "content_hash": "af5dd402316fa016e5ee2163c28826ee4d30a6a75a096d8507d6fc33e3ffa8a7",
-      "title": "Kalutara Police Inspector Held For Accepting Bribe From Businessman",
-      "sent_at": "2026-06-23T08:35:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/montreal-shooting-leaves-officer-civilian-and-suspect-dead",
-      "content_hash": "39c3d545c8e8d568fdfb14db768d95e359c84dbfb77ca00a80349a02768fe4be",
-      "title": "Montreal Shooting Leaves Officer, Civilian and Suspect Dead",
-      "sent_at": "2026-06-23T08:35:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/president-to-meet-agriculture-officials-over-yala-paddy-purchasing-program",
-      "content_hash": "832c9cd46a5cff398342c8dbcc05b156ae2e945655996e63dc029971333bcab5",
-      "title": "President To Meet Agriculture Officials Over Yala Paddy Purchasing Program",
-      "sent_at": "2026-06-23T08:35:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/suspects-break-into-bank-vault-in-moragahahena-and-steal-gold-jewelry-stock",
-      "content_hash": "ba23bf9c900556a9af3855fe85aca1bb018c6bdd06d6742f1f50d37aac3bdc4a",
-      "title": "Suspects Break Into Bank Vault In Moragahahena And Steal Gold Jewelry Stock",
-      "sent_at": "2026-06-23T08:35:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/veteran-sri-lankan-artist-motagedara-wanigarathna-passes-away-at-93",
-      "content_hash": "de9ee843d59792ee2cdb7a6f0fb5e42dc3bc96b3096ac9565e4b4ce98b4f05e9",
-      "title": "Veteran Sri Lankan Artist Motagedara Wanigarathna Passes Away at 93",
-      "sent_at": "2026-06-23T08:36:01Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/23/24-hour-water-cut-for-maharagama-and-homagama-from-tomorrow-evening-24",
       "content_hash": "748313df77deb09dac035c50d77b71a9016a6e8458bf26723a4c562d290fc55b",
       "title": "24-Hour Water Cut for Maharagama and Homagama From Tomorrow Evening (24)",
@@ -725,6 +689,60 @@
       "content_hash": "c3a37464503a40a1bc015d7fffada7989a5ea2c9c7cee9e56f4efd7a400cc31c",
       "title": "Sirasa Ruhunu Maya Poson Pooja And Poson Zones Open To Devotees Today",
       "sent_at": "2026-06-30T05:07:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/brazil-avoid-world-cup-shock-with-late-win-vs-japan-to-reach-round-of-16",
+      "content_hash": "19ac00b4027e17e78a1c434b05029c731436da333b5f0dd36c3319cc3b7bea8f",
+      "title": "Brazil Avoid World Cup Shock With Late Win vs Japan To Reach Round Of 16",
+      "sent_at": "2026-06-30T09:45:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/businessman-viraj-wickramanayake-arrested-over-alleged-assault-on-employee",
+      "content_hash": "f6856b945f984be0ae023450b1045e3600478513d3a3b5bc9b3d2ebdf37eb2a0",
+      "title": "Businessman Viraj Wickramanayake Arrested Over Alleged Assault on Employee",
+      "sent_at": "2026-06-30T09:45:18Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/four-killed-including-student-in-multiple-road-accidents",
+      "content_hash": "1409e1415713e466e3564943baa09246934e90d295837bbdc9002d841fc76010",
+      "title": "Four Killed, Including Student, In Multiple Road Accidents",
+      "sent_at": "2026-06-30T09:45:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/imf-urges-sri-lanka-to-continue-economic-reforms-amid-global-challenges-as-mission-concludes-sri-lanka-visit",
+      "content_hash": "82ad7aba653950e1c5693efaca6f74ba635c7f569a4da629a2113fb8bc3c61ef",
+      "title": "IMF Urges Sri Lanka to Continue Economic Reforms Amid Global Challenges As Mission Concludes Sri Lanka Visit",
+      "sent_at": "2026-06-30T09:45:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/morocco-beat-netherlands-in-dramatic-world-cup-shootout-to-reach-last-16",
+      "content_hash": "0c3ff433e22f91bd37c75cdff60e15eb259cd61eff49f0d89d8b4e0a65a423a4",
+      "title": "Morocco Beat Netherlands In Dramatic World Cup Shootout To Reach Last 16",
+      "sent_at": "2026-06-30T09:45:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/new-bus-fares-to-be-announced-following-cabinet-approval",
+      "content_hash": "b634cfee6cb3a5c8fd70459457c155f6508c1721b533108c2e5de0a9bcfca5d6",
+      "title": "New Bus Fares To Be Announced Following Cabinet Approval",
+      "sent_at": "2026-06-30T09:45:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/over-1-000-dengue-cases-reported-in-24-hours-as-risk-escalates",
+      "content_hash": "87d9feae71da6db1f83c31cd551dcc94f66561ed0dac2ef6f2f0634c22f1f309",
+      "title": "Over 1,000 Dengue Cases Reported In 24 Hours As Risk Escalates",
+      "sent_at": "2026-06-30T09:45:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets",
+      "content_hash": "c4313eea0f1840c56c549e67b03f7c7ff08cc2b9bb47f0bd7deb28576066196f",
+      "title": "Paraguay Shock Germany In shootout Win For One Of All-Time World Cup Upsets",
+      "sent_at": "2026-06-30T09:45:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/suspect-arrested-in-hokandara-with-five-high-powered-motorcycles-and-fake-number-plates",
+      "content_hash": "61e7d8e578b12c036757af6922991725e94f8878a19917157e4467984b387ae5",
+      "title": "Suspect Arrested in Hokandara with Five High-Powered Motorcycles and Fake Number Plates",
+      "sent_at": "2026-06-30T09:45:37Z"
     }
   ]
 }
