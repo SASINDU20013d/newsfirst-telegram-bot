@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/23/justice-ministry-moves-to-fast-track-child-related-court-cases",
-      "content_hash": "3ce5cf8fbbd4dc8164e233fc818d6006faf0cb2f4d84fe7612117414540f8156",
-      "title": "Justice Ministry Moves To Fast-Track Child-Related Court Cases",
-      "sent_at": "2026-06-23T05:04:49Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/national-human-elephant-conflict-action-plan-due-within-three-months",
-      "content_hash": "36c44423e87ca1bd630c9fc4f99e2f165fd849fe657e0685289ae404df324f38",
-      "title": "National Human-Elephant Conflict Action Plan Due Within Three Months",
-      "sent_at": "2026-06-23T05:04:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/special-program-prepared-to-tackle-el-ni%c3%b1o-impact",
-      "content_hash": "dcba7a7a92a1ea6a1f183eb2e332f7594542dbb22243d40d6f1d34b081bfa21e",
-      "title": "Special Program Prepared To Tackle El Niño Impact",
-      "sent_at": "2026-06-23T05:04:53Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/suspect-leads-police-to-hidden-pistol-and-ammunition-in-meetiyagoda",
-      "content_hash": "0da010b0cc0060bd7e98346d776b53a04aa5f223f7ac657cf065f9a602d3fa9b",
-      "title": "Suspect Leads Police To Hidden Pistol And Ammunition In Meetiyagoda",
-      "sent_at": "2026-06-23T05:04:55Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/tri-forces-led-dengue-monitoring-unit-to-be-established",
-      "content_hash": "c40a5e7c1d32e52168b16ad043e11ce76de9efabfb4ddda337f944d5cca0d081",
-      "title": "Tri-Forces-Led Dengue Monitoring Unit To Be Established",
-      "sent_at": "2026-06-23T05:04:57Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/23/high-court-dismisses-gnanasara-thero%e2%80%99s-appeal",
       "content_hash": "380f78461d3ad7ee5ab1a22385e0e4a8635bb287e4a2216e23aa8405a195a498",
       "title": "High Court Dismisses Gnanasara Thero’s Appeal",
@@ -719,6 +689,42 @@
       "content_hash": "2e51a4fd5a8cec81b054cbb385ac5175c4f6487782e3db64985ae5fdb4a0b355",
       "title": "CPC Announces Fuel Price Reduction Effective From Midnight Today",
       "sent_at": "2026-06-29T17:40:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/150-to-be-recruited-to-sri-lanka-administrative-service",
+      "content_hash": "447fc49178581266ef6b88b14db135268a2750f221458e5d60bf0a98d112eb48",
+      "title": "150 To Be Recruited To Sri Lanka Administrative Service",
+      "sent_at": "2026-06-30T05:07:28Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/dengue-cases-remain-high-despite-control-programs",
+      "content_hash": "1b9e25b051441a7460e647d0770dbf75498ebfcda351e7e69db414653ae45000",
+      "title": "Dengue Cases Remain High Despite Control Programs",
+      "sent_at": "2026-06-30T05:07:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/fuel-prices-reduced-from-midnight-yesterday",
+      "content_hash": "9537e1fd8cbbec59662b95fa4f222f2be1ff0ee52e37755c097c89e282d4d9dd",
+      "title": "Fuel Prices Reduced From Midnight Yesterday",
+      "sent_at": "2026-06-30T05:07:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/nearly-400-suspects-remanded-daily-amid-severe-prison-overcrowding",
+      "content_hash": "8553eabd0eedf95ac765a1a00700169092aa20ee71bdd4c2657f56e2f31aedaf",
+      "title": "Nearly 400 Suspects Remanded Daily Amid Severe Prison Overcrowding",
+      "sent_at": "2026-06-30T05:07:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/presidential-commission-to-begin-hearing-evidence-on-coal-transactions",
+      "content_hash": "5b333bec8f5c2cd4628301323fb5c69cfcbde29857e06aff7ef1e01e7600a666",
+      "title": "Presidential Commission To Begin Hearing Evidence On Coal Transactions",
+      "sent_at": "2026-06-30T05:07:38Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/sirasa-ruhunu-maya-poson-pooja-and-poson-zones-open-to-devotees-today",
+      "content_hash": "c3a37464503a40a1bc015d7fffada7989a5ea2c9c7cee9e56f4efd7a400cc31c",
+      "title": "Sirasa Ruhunu Maya Poson Pooja And Poson Zones Open To Devotees Today",
+      "sent_at": "2026-06-30T05:07:39Z"
     }
   ]
 }
