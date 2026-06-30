@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/23/24-hour-water-cut-for-maharagama-and-homagama-from-tomorrow-evening-24",
-      "content_hash": "748313df77deb09dac035c50d77b71a9016a6e8458bf26723a4c562d290fc55b",
-      "title": "24-Hour Water Cut for Maharagama and Homagama From Tomorrow Evening (24)",
-      "sent_at": "2026-06-23T12:09:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/imf-staff-delegation-to-arrive-in-sri-lanka-tomorrow-for-economic-review",
-      "content_hash": "339a73260c94d3f127fe165c7f7a8b559e918b929d57b103e491f469b0c23136",
-      "title": "IMF Staff Delegation to Arrive in Sri Lanka Tomorrow for Economic Review",
-      "sent_at": "2026-06-23T12:09:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/man-commits-suicide-after-setting-three-wheeler-on-fire",
-      "content_hash": "9343ac14e76178ea5c0ca06f870cdd731454b6e1c013288607fa9bbac44741e3",
-      "title": "Man Commits Suicide After Setting Three-Wheeler on Fire",
-      "sent_at": "2026-06-23T12:09:41Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/23/president-appoints-commission-to-address-public-sector-salary-and-pension-related-concerns",
-      "content_hash": "cf73fe5f8f5b0f794e11b698fb60b7c764734f41cf6ac42f6cfd5858b563e294",
-      "title": "President Appoints Commission to Address Public Sector Salary and Pension Related Concerns",
-      "sent_at": "2026-06-23T12:09:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/23/cabinet-approves-new-guidelines-for-grade-one-admissions-in-government-schools",
       "content_hash": "6ec3ab4dfd0e9c00bf038002c5cc1721d141e59b17c1772370d3678046e91b9d",
       "title": "Cabinet Approves New Guidelines for Grade One Admissions in Government Schools",
@@ -743,6 +719,24 @@
       "content_hash": "61e7d8e578b12c036757af6922991725e94f8878a19917157e4467984b387ae5",
       "title": "Suspect Arrested in Hokandara with Five High-Powered Motorcycles and Fake Number Plates",
       "sent_at": "2026-06-30T09:45:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/deadline-extended-for-public-officials-to-submit-asset-and-liability-declarations",
+      "content_hash": "dffa618bed18790b5633fc76b385cb46061023a309b8f86e3b1255da9c55431c",
+      "title": "Deadline Extended for Public Officials to Submit Asset and Liability Declarations",
+      "sent_at": "2026-06-30T12:12:26Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/pillayan-remanded-until-july-13-over-five-murder-cases",
+      "content_hash": "63ab85535f10333293489559f0d879d2f7d9786d482cda5f79d87169c3e1c9f8",
+      "title": "Pillayan Remanded Until July 13 Over Five Murder Cases",
+      "sent_at": "2026-06-30T12:12:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/06/30/vice-admiral-damian-fernando-appointed-as-sri-lanka%e2%80%99s-27th-navy-commander",
+      "content_hash": "f3f26deb740dc919ea0c3cd9078c6f635b3962fb47a63e8a35dad764e51dc768",
+      "title": "Vice Admiral Damian Fernando Appointed as Sri Lanka’s 27th Navy Commander",
+      "sent_at": "2026-06-30T12:12:37Z"
     }
   ]
 }
