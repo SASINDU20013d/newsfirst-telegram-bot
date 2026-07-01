@@ -1,78 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/24/dengue-cases-top-47-000-special-control-operation-starts-today",
-      "content_hash": "2642aadc015ab464184f1b5c8758d0eed1948fd38cbfcba97f069a6b8edc4506",
-      "title": "Dengue Cases Top 47,000; Special Control Operation Starts Today",
-      "sent_at": "2026-06-24T04:15:24Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/imf-staff-mission-in-sri-lanka-until-june-30",
-      "content_hash": "0af8086a8cef9bcc9d71abb887cbb1bca5263fb40fa2c5a3438214388efd00fa",
-      "title": "IMF Staff Mission in Sri Lanka Until June 30",
-      "sent_at": "2026-06-24T04:15:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/nearly-400-fined-for-violating-expressway-seatbelt-law",
-      "content_hash": "912e884c9741aae6ae841a44077a5d5b9ed6b0fb3b37fb5db452fea5f6a71a87",
-      "title": "Nearly 400 Fined For Violating Expressway Seatbelt Law",
-      "sent_at": "2026-06-24T04:15:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/tourist-police-bust-counterfeit-dollar-scam-in-unawatuna",
-      "content_hash": "ae2c59efaead1b846c9ee14ac2e7eb74f8c47871f3814bc9a3acc9d7ec6100c0",
-      "title": "Tourist Police Bust Counterfeit Dollar Scam in Unawatuna",
-      "sent_at": "2026-06-24T04:15:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/vat-to-be-imposed-on-digital-platform-services",
-      "content_hash": "aa07d456ed806c41ced97156d70e793b1c1cfb8be02761e82255e80c733e4500",
-      "title": "VAT To Be Imposed On Digital Platform Services",
-      "sent_at": "2026-06-24T04:15:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/congress-passes-war-powers-measure-for-first-time-rebuking-trump-s-war-with-iran",
-      "content_hash": "492cc8da4b3ea64af70a23127d6a68ef4ef346de095258dbef8a9cfa430c43a6",
-      "title": "Congress Passes War Powers Measure For First Time, Rebuking Trump's War With Iran",
-      "sent_at": "2026-06-24T08:24:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/dengue-cases-rise-to-48-287-islandwide",
-      "content_hash": "d27da63ea80eb5735c8f334db3194a502ce292736954afda770b09d2989b1b7f",
-      "title": "Dengue Cases Rise to 48,287 Islandwide",
-      "sent_at": "2026-06-24T08:24:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/minister-announces-restart-of-50-000-suspended-housing-units",
-      "content_hash": "33844bd6dc86a73eadfacf1680924bb658e7624e2755eef812ea2a16ea76e082",
-      "title": "Minister Announces Restart Of 50,000 Suspended Housing Units",
-      "sent_at": "2026-06-24T08:24:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/national-environment-bill-presented-in-parliament",
-      "content_hash": "520496a1e0eb570e5e287e8c648b2f80d33eb697475545bece3c6bcd9ddeab02",
-      "title": "National Environment Bill Presented in Parliament",
-      "sent_at": "2026-06-24T08:24:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/rohit-sharma-conferred-padma-shri-for-outstanding-contribution-to-indian-cricket",
-      "content_hash": "a8cae536462b7a86a061e217ba2878517491c2da075467fd971e399d9ad9485d",
-      "title": "Rohit Sharma Conferred Padma Shri for outstanding contribution to Indian Cricket",
-      "sent_at": "2026-06-24T08:24:39Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/sri-lanka-customs-narcotics-control-unit-intercepts-lkr-352-65-million-worth-of-hashish-at-bia",
-      "content_hash": "75eaf6cf245de85dc756529afa83280f3a7349192e7d928074748f59f25c11bc",
-      "title": "Sri Lanka Customs Narcotics Control Unit Intercepts LKR 352.65 Million Worth of Hashish at BIA",
-      "sent_at": "2026-06-24T08:24:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/suspect-arrested-in-jaffna-over-teldeniya-woman-s-murder",
-      "content_hash": "e0f3d78f711864f1c5253797f1bc3468ae3172f4f1a99f5dee3d9a4e808a9bad",
-      "title": "Suspect Arrested In Jaffna Over Teldeniya Woman's Murder",
-      "sent_at": "2026-06-24T08:24:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/24/32-year-jail-term-for-child-rape-convict-in-anuradhapura",
       "content_hash": "8fe63c46c7785682c7a867c40113dc1265f0f164952fc5add6dda99b310ec20a",
       "title": "32-Year Jail Term for Child Rape Convict in Anuradhapura",
@@ -737,6 +665,54 @@
       "content_hash": "ca049efda8afe058f41e48b243195fc2df5f83bfc7a2937938c903afdbdfb75c",
       "title": "Three-Day Dengue Prevention Drive Begins Tomorrow Amid Rising Cases",
       "sent_at": "2026-07-01T04:14:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/81-year-old-woman-arrested-with-728g-of-ice-in-kompanna-veediya-raid",
+      "content_hash": "2ab0f9de4b24066a293e7ce784b6fa6fcba846bfd8925c6883362d25d4bb5dc9",
+      "title": "81-Year-Old Woman Arrested With 728g of Ice In Kompanna Veediya Raid",
+      "sent_at": "2026-07-01T08:50:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/adb-approves-200-million-emergency-assistance-for-sri-lanka%e2%80%99s-post-cyclone-ditwah-recovery",
+      "content_hash": "aaf46a6bdbff5de45b5c2117c2645fd038eefe061c6496587e8033f3d348c7dc",
+      "title": "ADB Approves $200 Million Emergency Assistance for Sri Lanka’s Post-Cyclone Ditwah Recovery",
+      "sent_at": "2026-07-01T08:50:33Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/ird-opens-submission-of-2025-2026-tax-returns-income-above-rs-1-8-million-taxable",
+      "content_hash": "b96749356235272ad5aeaa7ba1f7f467879598f0e58828923d745b05b1562b2b",
+      "title": "IRD Opens Submission of 2025/2026 Tax Returns; Income Above Rs. 1.8 Million Taxable",
+      "sent_at": "2026-07-01T08:50:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/licensed-pistol-linked-to-ex-minister%e2%80%99s-son-in-law-found-with-drug-suspect",
+      "content_hash": "91c2e03d877bb8142b16c4aff46f2e89c60744dc13cb0313a61058aaf7389cdd",
+      "title": "Licensed Pistol Linked To Ex-Minister’s Son-In-Law Found With Drug Suspect",
+      "sent_at": "2026-07-01T08:50:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/original-%e2%80%98game-of-thrones%e2%80%99-dragon-eggs-head-to-auction-bidding-already-underway",
+      "content_hash": "62828553689d605256f8d4a4871172ccc176ae6e8675b3a202972d57bdbd908c",
+      "title": "Original ‘Game of Thrones’ Dragon Eggs Head to Auction; Bidding Already Underway",
+      "sent_at": "2026-07-01T08:50:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/sri-lankan-mountaineer-johann-peries-summits-north-america-s-highest-peak",
+      "content_hash": "9477580cab8a4ab747b33beb9e7b3515f8dc673845814d0e55e44adf940d6039",
+      "title": "Sri Lankan Mountaineer Johann Peries Summits North America's Highest Peak",
+      "sent_at": "2026-07-01T08:50:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/statement-recorded-from-former-minister-kumara-jayakody-over-coal-inquiry",
+      "content_hash": "14f05c38d0963c1185365fac0aadac38bc3af6809e7b479f027e6aaa91cd953c",
+      "title": "Statement Recorded From Former Minister Kumara Jayakody Over Coal Inquiry",
+      "sent_at": "2026-07-01T08:50:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/undefined",
+      "content_hash": "ac11c8b823abd3affd9aafa93c201e2c8d4c84f456d8b48ea0db270d4e3d8c38",
+      "title": "US Supreme Court Upholds Birthright Citizenship in Blow to Trump",
+      "sent_at": "2026-07-01T08:50:53Z"
     }
   ]
 }
