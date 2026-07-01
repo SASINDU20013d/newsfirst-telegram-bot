@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/24/gota-s-plea-in-easter-sunday-case-back-in-court",
-      "content_hash": "65513f76b5b0499b8ebd6b3d12b39eeab3eb84177d12e814aa05922a95ddec63",
-      "title": "Gota's Plea in Easter Sunday Case Back In Court",
-      "sent_at": "2026-06-24T14:39:22Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/wimal-s-ex-coordinator-remanded-again-over-vehicle-misuse-case",
-      "content_hash": "47fb69d483bfa2f67ac2974e5b745979a029cb34bc0ecfab8957939e7a3438ed",
-      "title": "Wimal's Ex-Coordinator Remanded Again Over Vehicle Misuse Case",
-      "sent_at": "2026-06-24T14:39:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/zaharan-group-spiritual-leader-naufer-maulavi%e2%80%99s-confession-deemed-voluntary",
-      "content_hash": "dc7c1432a226db799c76ebf603cde9f22a8e3398a82879abde2b8d5d764d34d8",
-      "title": "Zaharan Group Spiritual Leader Naufer Maulavi’s Confession Deemed Voluntary",
-      "sent_at": "2026-06-24T14:39:32Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/24/northern-province-governor-removes-vavuniya-mayor-and-chavakachcheri-vice-chair-via-gazette",
       "content_hash": "fa5cd62563d411b86525418add902c787dd39db1252f132b68db035a1c31313c",
       "title": "Northern Province Governor Removes Vavuniya Mayor and Chavakachcheri Vice Chair Via Gazette",
@@ -725,6 +707,12 @@
       "content_hash": "0cabcb018d2a4e298a51b77749b65347c2c2fa6953533137cb0d0c205e4d0109",
       "title": "Vice Admiral Damian Fernando Assumes Duties As 27th Navy Commander",
       "sent_at": "2026-07-01T12:10:44Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/state-of-public-emergency-not-to-be-extended",
+      "content_hash": "074440a04afa33a0ca47aea4ec2a29a956b97ee140aed09b7aeafeb81527e673",
+      "title": "State of Public Emergency Not To Be Extended",
+      "sent_at": "2026-07-01T15:45:32Z"
     }
   ]
 }
