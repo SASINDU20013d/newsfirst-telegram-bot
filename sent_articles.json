@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/24/32-year-jail-term-for-child-rape-convict-in-anuradhapura",
-      "content_hash": "8fe63c46c7785682c7a867c40113dc1265f0f164952fc5add6dda99b310ec20a",
-      "title": "32-Year Jail Term for Child Rape Convict in Anuradhapura",
-      "sent_at": "2026-06-24T11:46:56Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/over-4-300-poson-dansals-registered-across-sri-lanka",
-      "content_hash": "4c6e76de9e6d8520e6dd5456baea6a27d1f27a5bb8142c5bad5216ccf3b50d29",
-      "title": "Over 4,300 Poson Dansals Registered Across Sri Lanka",
-      "sent_at": "2026-06-24T11:47:07Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/24/presidential-secretariat-issues-circular-on-dengue-prevention-and-control-measures",
-      "content_hash": "1ed6d1b1a60b5c1fab575ad9bb4833b580aa207474979092f80ea615da115416",
-      "title": "Presidential Secretariat Issues Circular on Dengue Prevention and Control Measures",
-      "sent_at": "2026-06-24T11:47:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/24/gota-s-plea-in-easter-sunday-case-back-in-court",
       "content_hash": "65513f76b5b0499b8ebd6b3d12b39eeab3eb84177d12e814aa05922a95ddec63",
       "title": "Gota's Plea in Easter Sunday Case Back In Court",
@@ -713,6 +695,36 @@
       "content_hash": "ac11c8b823abd3affd9aafa93c201e2c8d4c84f456d8b48ea0db270d4e3d8c38",
       "title": "US Supreme Court Upholds Birthright Citizenship in Blow to Trump",
       "sent_at": "2026-07-01T08:50:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/1-217-dengue-cases-reported-in-24-hours-islandwide-control-program-to-begin",
+      "content_hash": "6f633ba50719df4c1a41618a4178c55383e241fe95280a7362aaafa6413bb21f",
+      "title": "1,217 Dengue Cases Reported In 24 Hours; Islandwide Control Program To Begin",
+      "sent_at": "2026-07-01T12:10:31Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/bus-fares-to-be-revised-from-july-06",
+      "content_hash": "729717d21437290a7eb24a05fc52b585ffa3608c5c7e030e01b011f1142780bb",
+      "title": "Bus Fares To Be Revised From July 06",
+      "sent_at": "2026-07-01T12:10:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/colombo-fort-magistrate-rules-against-suresh-salley-rejects-request-to-provide-stationary-and-writing-material",
+      "content_hash": "a7e786553d616581202a7f5082295f20c51c5bf046b62b5d335fc32174a7457c",
+      "title": "Colombo Fort Magistrate Rules Against Suresh Salley; Rejects Request to Provide Stationary and Writing Material",
+      "sent_at": "2026-07-01T12:10:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/sugeeshwara-bandara-further-remanded",
+      "content_hash": "3696d1afc066a8c3004996a230b6d148a2d86428c84e4e033d274b7047f1a85a",
+      "title": "Sugeeshwara Bandara Further Remanded",
+      "sent_at": "2026-07-01T12:10:42Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/vice-admiral-damian-fernando-assumes-duties-as-27th-navy-commander",
+      "content_hash": "0cabcb018d2a4e298a51b77749b65347c2c2fa6953533137cb0d0c205e4d0109",
+      "title": "Vice Admiral Damian Fernando Assumes Duties As 27th Navy Commander",
+      "sent_at": "2026-07-01T12:10:44Z"
     }
   ]
 }
