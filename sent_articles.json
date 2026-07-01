@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/24/northern-province-governor-removes-vavuniya-mayor-and-chavakachcheri-vice-chair-via-gazette",
-      "content_hash": "fa5cd62563d411b86525418add902c787dd39db1252f132b68db035a1c31313c",
-      "title": "Northern Province Governor Removes Vavuniya Mayor and Chavakachcheri Vice Chair Via Gazette",
-      "sent_at": "2026-06-24T17:07:43Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/25/104-metro-buses-due-in-august-600-other-buses-to-arrive-by-december",
       "content_hash": "80afef3bf62c8356fb79e2233c95caa11a84b665e5987df8d152158ab61feeaf",
       "title": "104 metro buses due In August; 600 Other buses to arrive by December",
@@ -713,6 +707,12 @@
       "content_hash": "074440a04afa33a0ca47aea4ec2a29a956b97ee140aed09b7aeafeb81527e673",
       "title": "State of Public Emergency Not To Be Extended",
       "sent_at": "2026-07-01T15:45:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/01/sri-lanka-upgraded-to-upper-middle-income-status-world-bank",
+      "content_hash": "d1ec2e427ed9e5660e091dd6e8a6852904ccb10865563a552e6128591ff32a92",
+      "title": "Sri Lanka Upgraded to Upper-Middle-Income Status - World Bank",
+      "sent_at": "2026-07-01T18:00:53Z"
     }
   ]
 }
