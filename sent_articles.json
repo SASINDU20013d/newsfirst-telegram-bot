@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/25/aggressive-dengue-crackdown-as-cases-surge-nationwide",
-      "content_hash": "e4ff8e00053877107cb0e2f9dd9229e1971189e300a1c0cb920015e8988be3cc",
-      "title": "Aggressive Dengue Crackdown as Cases Surge Nationwide",
-      "sent_at": "2026-06-25T07:49:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/rakitha-rajapakshe-and-two-others-arrested-for-bribery",
-      "content_hash": "c1ff4c97bf194f8961d11b238918985ccc4f91be432d14057b4d54129e7815d7",
-      "title": "Rakitha Rajapakshe and Two Others Arrested For Bribery",
-      "sent_at": "2026-06-25T07:49:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/rohitha-summoned-over-rs-19-mn-investment-probe",
-      "content_hash": "8347bc473e51bb600b9e7e80b20c9c273536e876ee5c86265157a64b11751755",
-      "title": "Rohitha Summoned Over Rs.19 Mn Investment Probe",
-      "sent_at": "2026-06-25T07:49:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/sri-lanka-to-scrap-decades-old-pta-in-a-few-months",
-      "content_hash": "0a1dd3c445ee197518bba739099a2fed73089c1004cb20e29401443bfa3115cd",
-      "title": "Sri Lanka To Scrap Decades-Old PTA In A Few Months",
-      "sent_at": "2026-06-25T07:49:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/strong-winds-damage-42-houses-in-moneragala",
-      "content_hash": "87fc8b8596605198e7567ec2cd299a97777c049450326b18f3d8f690d78bb8df",
-      "title": "Strong Winds Damage 42 Houses In Moneragala",
-      "sent_at": "2026-06-25T07:49:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/teldeniya-murder-main-suspect-and-wife-arrested",
-      "content_hash": "98bb1a13bb487a573564156afc98cb2aa7b5f68a9573d6e1caaa055ffde5736e",
-      "title": "Teldeniya Murder: Main Suspect and Wife Arrested",
-      "sent_at": "2026-06-25T07:49:46Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/wijeyadasa-at-ciaboc-after-son-s-arrest-in-harak-kata-case",
-      "content_hash": "1e21041619619d0e3f2166fba6510dc6c8049e35539e3dfb412a00042cbe96dd",
-      "title": "Wijeyadasa At CIABOC After Son's Arrest in Harak Kata Case",
-      "sent_at": "2026-06-25T07:49:47Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/25/20-year-trial-over-savage-motorcycle-attack-ends-in-death-sentence",
       "content_hash": "02589582e5f16bc819745cc399e3a00d1bf8d2abccbe28a83baa03ba46214318",
       "title": "20-Year Trial Over Savage Motorcycle Attack Ends in Death Sentence",
@@ -761,6 +719,18 @@
       "content_hash": "daf274fcdf1d9f03627384cf319f20ec9d5efb163b317241ab0f91eab1864cb7",
       "title": "University of the Visual and Performing Arts Temporarily Closed Over Dengue",
       "sent_at": "2026-07-02T07:36:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/health-authorities-urge-vigilance-as-accident-related-deaths-reach-30-per-day",
+      "content_hash": "6a75f7af229a6bce0042e3650d36310528b619d52e0e9810f0ad0c2ef3162145",
+      "title": "Health Authorities Urge Vigilance as Accident-Related Deaths Reach 30 Per Day",
+      "sent_at": "2026-07-02T10:44:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/sdig-varuna-jayasundara-leaves-cid-following-statement-in-kehelbaddara-padme-case",
+      "content_hash": "aba12e870398cc42f4084fed3efecfe469553369f7499ee9bb6b6cb3315b0d1a",
+      "title": "SDIG Varuna Jayasundara Leaves CID Following Statement in \"Kehelbaddara Padme\" Case",
+      "sent_at": "2026-07-02T10:44:13Z"
     }
   ]
 }
