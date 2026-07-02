@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/25/death-toll-from-twin-venezuela-earthquakes-rises-to-164-with-971-others-injured",
-      "content_hash": "eb27c57f25e73e8a5f21d74eec4f48e334b3c6448dc281cd645b9021e7657bac",
-      "title": "Death Toll From Twin Venezuela Earthquakes Rises To 164, With 971 Others Injured",
-      "sent_at": "2026-06-25T13:22:02Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/pay-or-die-president-reveals-dark-nexus-between-politics-and-organized-crime",
-      "content_hash": "a01c067e92f91270f361fd59788db9ffacfc67fc2d54fd1196e10a8af7fc54d7",
-      "title": "'Pay or Die': President Reveals Dark Nexus Between Politics and Organized Crime",
-      "sent_at": "2026-06-25T13:22:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/rohitha-questioned-for-5-hours-in-investment-probe",
-      "content_hash": "71fc4dd51212aa4dc86c9a697558f0b26afc6bca0b06da913b97acbc6b14e875",
-      "title": "Rohitha Questioned for 5 Hours in Investment Probe",
-      "sent_at": "2026-06-25T13:22:09Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/25/rakitha-charith-remanded-in-harak-kata-bribe-probe",
       "content_hash": "4d872de2a7583ba0261c7120c86d19a0b108aee2c015c966a15007e65bb79676",
       "title": "Rakitha, Charith Remanded In 'Harak Kata' Bribe Probe",
@@ -713,6 +695,24 @@
       "content_hash": "b0b77550910ec5a22c4ec0e56807b2c8c7d14e6b3801c2c10cd863019f0ebcdc",
       "title": "Narampanawe Ananda Thero Appointed Chancellor of Kelaniya University",
       "sent_at": "2026-07-02T12:59:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/all-relevant-institutions-must-act-in-line-with-a-national-plan-to-eradicate-the-drug-menace-president",
+      "content_hash": "8f34e10df3b99577411f8c010893118cee848a07e6b83eddb3326801af92b9b7",
+      "title": "All Relevant Institutions Must Act in Line with a National Plan to Eradicate the Drug Menace - President",
+      "sent_at": "2026-07-02T15:18:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/dengue-cases-surpass-56-000-amid-islandwide-control-efforts",
+      "content_hash": "1adaa414d02f076a5585f28be3e83821187537b8b18fcb73b39f5ad630869a45",
+      "title": "Dengue Cases Surpass 56,000 Amid Islandwide Control Efforts",
+      "sent_at": "2026-07-02T15:18:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/most-ven-narampanawe-ananda-thero-appointed-chancellor-of-kelaniya-university",
+      "content_hash": "a32870c05f425126380a34b1b7cf2ed525509254a4dac5eb043b6c5cc0f65d33",
+      "title": "Most Ven. Narampanawe Ananda Thero Appointed Chancellor of Kelaniya University",
+      "sent_at": "2026-07-02T15:18:55Z"
     }
   ]
 }
