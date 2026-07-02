@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/25/104-metro-buses-due-in-august-600-other-buses-to-arrive-by-december",
-      "content_hash": "80afef3bf62c8356fb79e2233c95caa11a84b665e5987df8d152158ab61feeaf",
-      "title": "104 metro buses due In August; 600 Other buses to arrive by December",
-      "sent_at": "2026-06-25T03:57:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/imf-finance-ministry-and-central-bank-meet-over-sri-lanka%e2%80%99s-recovery-plan",
-      "content_hash": "5e78fe2101cf79e6f6db797db3ed908118de9db6c312a316ed19f2b0de8556da",
-      "title": "IMF, Finance Ministry and Central Bank meet over Sri Lanka’s recovery plan",
-      "sent_at": "2026-06-25T03:57:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/new-village%e2%80%91level-strategy-aims-to-beat-dengue-fast",
-      "content_hash": "b0f9db88147d5794fde4be19e692e04ebec5dc995977f7cf7d8f367850e6ade3",
-      "title": "New village‑level strategy aims to beat dengue fast",
-      "sent_at": "2026-06-25T03:57:23Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/25/aggressive-dengue-crackdown-as-cases-surge-nationwide",
       "content_hash": "e4ff8e00053877107cb0e2f9dd9229e1971189e300a1c0cb920015e8988be3cc",
       "title": "Aggressive Dengue Crackdown as Cases Surge Nationwide",
@@ -743,6 +725,42 @@
       "content_hash": "37715d9471afb8de9fdf06fd5b715d68051db750e618ecdde0f8955d5b5ff054",
       "title": "How Sri Lanka Turned a Korea-Inspired Integrity Tool Into a Nationwide Anti-Corruption Drive",
       "sent_at": "2026-07-02T03:55:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/207-complaints-received-by-the-dengue-control-centre-in-one-week",
+      "content_hash": "bd2edf28b06a649e0a86b5768d0d2509fd6373c435673710b859a0e428da40a3",
+      "title": "207 Complaints Received By the Dengue Control Centre in One Week",
+      "sent_at": "2026-07-02T07:35:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/acrc-says-korea%e2%80%99s-anti-corruption-model-is-helping-sri-lanka-reform-its-public-sector",
+      "content_hash": "1bfd09401acf476050de0261665d8b870484634d03c27babc59d9351d2eae330",
+      "title": "ACRC Says Korea’s Anti-Corruption Model Is Helping Sri Lanka Reform Its Public Sector",
+      "sent_at": "2026-07-02T07:35:54Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/online-data-collection-for-non-agricultural-economic-census-begins-today",
+      "content_hash": "187467eb618ebc544acb16b670b68a2749d99859313e3958bf1bead40db60dae",
+      "title": "Online Data Collection for Non-Agricultural Economic Census Begins Today",
+      "sent_at": "2026-07-02T07:35:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/slaf-executes-urgent-casevac-in-am-dafok",
+      "content_hash": "a14491c6ee3de3a023eed117f392efccc229d6c58c3820cb6da3826ae8305185",
+      "title": "SLAF Executes Urgent CASEVAC In Am Dafok",
+      "sent_at": "2026-07-02T07:36:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/suspect-arrested-with-over-5kg-of-heroin-in-mattakkuliya",
+      "content_hash": "940f8ec552c7d192cc0030aec3da404ed66f89f68f7d8432063d321b1db76e8c",
+      "title": "Suspect Arrested with Over 5kg of Heroin in Mattakkuliya",
+      "sent_at": "2026-07-02T07:36:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/university-of-the-visual-and-performing-arts-temporarily-closed-over-dengue",
+      "content_hash": "daf274fcdf1d9f03627384cf319f20ec9d5efb163b317241ab0f91eab1864cb7",
+      "title": "University of the Visual and Performing Arts Temporarily Closed Over Dengue",
+      "sent_at": "2026-07-02T07:36:06Z"
     }
   ]
 }
