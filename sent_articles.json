@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/25/20-year-trial-over-savage-motorcycle-attack-ends-in-death-sentence",
-      "content_hash": "02589582e5f16bc819745cc399e3a00d1bf8d2abccbe28a83baa03ba46214318",
-      "title": "20-Year Trial Over Savage Motorcycle Attack Ends in Death Sentence",
-      "sent_at": "2026-06-25T10:46:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/36-companies-linked-to-rs-190-bn-money-trail-fake-imports-used-to-move-funds-abroad",
-      "content_hash": "5e00ef161e10303be5b50957412b721a4e2538cefa4a1df0a068978931350ccd",
-      "title": "36 Companies Linked to Rs 190 Bn Money Trail : Fake Imports Used to Move Funds Abroad",
-      "sent_at": "2026-06-25T10:46:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/court-orders-summons-for-indian-witnesses-in-namal-s-%e2%80%98krrish%e2%80%99-case",
-      "content_hash": "521cb35ff7ef3c4b4caefc0b5155b420e8ec05612d83f8742484b9b0e5d88bce",
-      "title": "Court Orders Summons for Indian Witnesses in Namal's ‘Krrish’ Case",
-      "sent_at": "2026-06-25T10:46:27Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/rehan-calls-out-sjb-over-%e2%80%98double-standards%e2%80%99",
-      "content_hash": "2d64ce6f7475a34140f84eab080e16b7bd6140dd83d0849a247cbacde2225f0b",
-      "title": "Rehan Calls Out SJB Over ‘Double Standards’",
-      "sent_at": "2026-06-25T10:46:29Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/25/sajith-s-right-hand-charith-and-ex-justice-minister-s-son-rakitha-arrested-in-massive-bribery-scandal",
-      "content_hash": "a9df2afada555ae78571b5bb388f0726241d98cda1a0fd718ddf4d23ad015ef1",
-      "title": "Sajith's Right Hand Charith and Ex-Justice Minister's Son Rakitha Arrested in Massive Bribery Scandal",
-      "sent_at": "2026-06-25T10:46:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/25/death-toll-from-twin-venezuela-earthquakes-rises-to-164-with-971-others-injured",
       "content_hash": "eb27c57f25e73e8a5f21d74eec4f48e334b3c6448dc281cd645b9021e7657bac",
       "title": "Death Toll From Twin Venezuela Earthquakes Rises To 164, With 971 Others Injured",
@@ -731,6 +701,18 @@
       "content_hash": "aba12e870398cc42f4084fed3efecfe469553369f7499ee9bb6b6cb3315b0d1a",
       "title": "SDIG Varuna Jayasundara Leaves CID Following Statement in \"Kehelbaddara Padme\" Case",
       "sent_at": "2026-07-02T10:44:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/%e2%80%9ccommando-salinda%e2%80%9d-further-remanded-till-16th",
+      "content_hash": "03c04f569cd6688b3240df01bbbecae7431069b79b0ff3960ae838fc484358dc",
+      "title": "“Commando Salinda” further Remanded Till 16th",
+      "sent_at": "2026-07-02T12:59:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/02/narampanawe-ananda-thero-appointed-chancellor-of-kelaniya-university",
+      "content_hash": "b0b77550910ec5a22c4ec0e56807b2c8c7d14e6b3801c2c10cd863019f0ebcdc",
+      "title": "Narampanawe Ananda Thero Appointed Chancellor of Kelaniya University",
+      "sent_at": "2026-07-02T12:59:53Z"
     }
   ]
 }
