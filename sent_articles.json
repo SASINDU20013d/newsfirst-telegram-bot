@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/26/adb-approves-57-4m-for-sri-lanka%e2%80%99s-solar-power-expansion",
-      "content_hash": "22cd5a809a67b82f166c4f17a252ffe0f71c4f2d9230b2b2c313f1f295cc4264",
-      "title": "ADB Approves $57.4M for Sri Lanka’s Solar Power Expansion",
-      "sent_at": "2026-06-26T07:59:51Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/bus-collision-in-matara-injures-nearly-40",
-      "content_hash": "f1875b08aae09e319f731a9eff90e84ac0c09aab4e615143e5d0a7dd94e739b9",
-      "title": "Bus Collision in Matara: Injures Nearly 40",
-      "sent_at": "2026-06-26T07:59:58Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/growth-and-stability-return-to-sri-lanka%e2%80%99s-economy",
-      "content_hash": "914b34d8cb23498ec8baa9f7b324d6ae0bef4756c9acd7e2a47653ad257c0e66",
-      "title": "Growth and Stability Return to Sri Lanka’s Economy",
-      "sent_at": "2026-06-26T08:00:05Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/national-poson-week-begins-today",
-      "content_hash": "ff385de85b463e0422d6fa95cc988293eb69abced6810e482c1e1fa8fa4b9dea",
-      "title": "National Poson Week Begins Today",
-      "sent_at": "2026-06-26T08:00:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/thailandsri-lanka-business-forum-charts-new-pathways-for-trade-investment-and-regional-growth",
-      "content_hash": "ded0496f599dda593aac89673722e35d7cc4629c7103bab8b8bf96ef8e9de41e",
-      "title": "Thailand–Sri Lanka Business Forum Charts New Pathways for Trade, Investment and Regional Growth",
-      "sent_at": "2026-06-26T08:00:21Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/underworld-shooter-matiya-deported-to-sri-lanka",
-      "content_hash": "079a8148faacea3da9677ef9e41c86de04aafcf98ae35f5b1c69266cfe7537b0",
-      "title": "Underworld Shooter 'Matiya' Deported To Sri Lanka",
-      "sent_at": "2026-06-26T08:00:25Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/26/revised-2026-a-l-exam-timetable-released",
       "content_hash": "315f418717332af67e48685400ef8c7d4363df0d552d5241e512b5daffdf38cf",
       "title": "Revised 2026 A/L Exam Timetable Released",
@@ -731,6 +695,18 @@
       "content_hash": "95a991a90f8370557c937617f20dc0de7b0c89f6ec960b9bf12b542aad7efd35",
       "title": "Former Navy Commander Wasantha Karannagoda Arrested",
       "sent_at": "2026-07-03T07:24:43Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/627-health-service-assistants-to-receive-appointments-in-western-province",
+      "content_hash": "91344cd16dc050735783011956647dc995470b6fed3dd8e42d9581193882ab42",
+      "title": "627 Health Service Assistants To Receive Appointments In Western Province",
+      "sent_at": "2026-07-03T10:39:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/suspect-arrested-for-defrauding-rs-4-386-million-via-online-business-scam",
+      "content_hash": "de517206fbf3898776eeda8961f057882fb828281578a7838410ba6b438b27b3",
+      "title": "Suspect Arrested for Defrauding Rs. 4.386 Million via Online Business Scam",
+      "sent_at": "2026-07-03T10:40:13Z"
     }
   ]
 }
