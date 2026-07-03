@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/26/body-found-in-poddala-identified-as-associate-of-organised-criminal",
-      "content_hash": "39ad5b19e04c4863f8a2f07efcc3a431c072cb60ba4dc45ea77c5f07c1bb15d0",
-      "title": "Body Found in Poddala Identified as Associate of Organised Criminal",
-      "sent_at": "2026-06-26T04:04:09Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/bus-fares-to-increase-from-july-1",
-      "content_hash": "6d86e347c71ed94b186027d49f2b19469daac6df2fa0012b0d6ef318c1ff1f0c",
-      "title": "Bus Fares to Increase from July 1",
-      "sent_at": "2026-06-26T04:04:13Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/imf-delegation-to-hold-key-economic-talks-with-sri-lankan-officials",
-      "content_hash": "49707e80ede03283fec70ba7e762b59ed0ae2870a3aebebe7dcce71b49417c45",
-      "title": "IMF Delegation to Hold Key Economic Talks with Sri Lankan Officials",
-      "sent_at": "2026-06-26T04:04:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/sharp-rise-in-drug-use-among-school-and-university-students",
-      "content_hash": "0115888beeb6c4f73594efb0a39a46debd574108809ee8145a0924d3648b6abb",
-      "title": "Sharp Rise in Drug Use Among School and University Students",
-      "sent_at": "2026-06-26T04:04:18Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/26/adb-approves-57-4m-for-sri-lanka%e2%80%99s-solar-power-expansion",
       "content_hash": "22cd5a809a67b82f166c4f17a252ffe0f71c4f2d9230b2b2c313f1f295cc4264",
       "title": "ADB Approves $57.4M for Sri Lanka’s Solar Power Expansion",
@@ -725,6 +701,36 @@
       "content_hash": "03bdf263d7b05871df57d9e5fbae281a94c979e726a6de6cb38fa1b154bb6cab",
       "title": "New Gazette Limits Sugar Content in Liquid Food Products, Says Health Minister",
       "sent_at": "2026-07-03T03:37:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/aswesuma-allowance-for-over-70-beneficiaries-credited-today",
+      "content_hash": "020718481d2fd0983d1b12e5901513d04bd6bf5a36b3a760afd0aae3869c1c44",
+      "title": "Aswesuma Allowance For Over-70 Beneficiaries Credited Today",
+      "sent_at": "2026-07-03T07:24:34Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/ciaboc-moves-to-seal-key-mou-with-korea-s-acrc-to-combat-corruption",
+      "content_hash": "10c433a95b21e4cd3855060c8834c8cfe2230e2611f1b98358e82566348e8ab6",
+      "title": "CIABOC Moves to Seal Key MoU with Korea's ACRC To Combat Corruption",
+      "sent_at": "2026-07-03T07:24:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/court-of-appeal-dismisses-yoshitha-rajapaksa%e2%80%99s-petition-to-drop-money-laundering-conspiracy-charge",
+      "content_hash": "f624a21e69a5f9be562ebfd22f1b59d4fc080668248644c3e4eafa6112131314",
+      "title": "Court of Appeal Dismisses Yoshitha Rajapaksa’s Petition to Drop Money Laundering \"Conspiracy\" Charge",
+      "sent_at": "2026-07-03T07:24:39Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/dengue-cases-rise-to-57-668-death-toll-reaches-36",
+      "content_hash": "25cc6d59c63fc4e6c7ac35458e6010977b70ff46de7853d5e628b84a85b9142f",
+      "title": "Dengue Cases Rise To 57,668; Death Toll Reaches 36",
+      "sent_at": "2026-07-03T07:24:41Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/former-navy-commander-wasantha-karannagoda-arrested",
+      "content_hash": "95a991a90f8370557c937617f20dc0de7b0c89f6ec960b9bf12b542aad7efd35",
+      "title": "Former Navy Commander Wasantha Karannagoda Arrested",
+      "sent_at": "2026-07-03T07:24:43Z"
     }
   ]
 }
