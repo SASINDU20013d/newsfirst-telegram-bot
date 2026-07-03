@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/26/1-132-strong-sri-lanka%e2%80%99s-largest-ever-un-peacekeeping-deployment",
-      "content_hash": "ac82d1ba87ff67016113c67fa74622b761df9a068a5aa1bb4f628af291bdc0b0",
-      "title": "1,132 Strong: Sri Lanka’s Largest Ever UN Peacekeeping Deployment",
-      "sent_at": "2026-06-26T13:14:15Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/dengue-cases-rise-to-over-49-000-in-sri-lanka",
-      "content_hash": "662148aef0d1e042f0aa6f008e9bbddf60f76a0037b373cdeb8e2adab8b6106e",
-      "title": "Dengue Cases Rise to Over 49,000 in Sri Lanka",
-      "sent_at": "2026-06-26T13:14:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/high-capacity-solar-systems-taken-offline",
-      "content_hash": "678fadc9991a50c789f4a5fe043efbbdb259349888842196c7fc1542d482b141",
-      "title": "High-Capacity Solar Systems Taken Offline",
-      "sent_at": "2026-06-26T13:14:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/rs-48mn-illegal-cream-smuggling-ring-6-fishermen-remanded",
-      "content_hash": "2f4486e1d61294963dc512dff41528b1d7643583d0b627b45591842990e4511c",
-      "title": "Rs. 48Mn Illegal Cream Smuggling Ring; 6 Fishermen Remanded",
-      "sent_at": "2026-06-26T13:14:36Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/26/sjb-suspends-charith-abeysinghe-over-rs-120-mn-bribe-scandal",
-      "content_hash": "3f2e2ad629522a19330a53c3b04d8f2f68d450f308813ac576c5f1392255a046",
-      "title": "SJB Suspends Charith Abeysinghe Over Rs. 120 Mn Bribe Scandal",
-      "sent_at": "2026-06-26T13:14:40Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/26/next-phase-of-bond-scam-trial-set-for-july-22",
       "content_hash": "edef8ee5e0ad340420f2e22a1e42fdc7a598b6f5b4dba0938f8946ee8189d656",
       "title": "Next Phase of Bond Scam Trial Set for July 22",
@@ -701,6 +671,18 @@
       "content_hash": "1373065383ce67b3108f7686510c1acf1a5f73895a65c2c7b038f0d9feb4d174",
       "title": "Sri Lanka Navy Names New Media Director",
       "sent_at": "2026-07-03T12:57:59Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/former-navy-commander-wasantha-karannagoda-granted-bail",
+      "content_hash": "055e312a53db5361c3eee3b99d29c6c66f985b6af03075f68bf8b8156f22b606",
+      "title": "Former Navy Commander Wasantha Karannagoda Granted Bail",
+      "sent_at": "2026-07-03T15:13:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/train-services-on-kelani-valley-line-to-resume-normal-schedule",
+      "content_hash": "025c5ad39c42e176b0af71f3bc234d310e0233ed362305f6f87d4179dea6bd83",
+      "title": "Train Services On Kelani Valley Line To Resume Normal Schedule",
+      "sent_at": "2026-07-03T15:13:36Z"
     }
   ]
 }
