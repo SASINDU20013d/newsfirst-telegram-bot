@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/26/next-phase-of-bond-scam-trial-set-for-july-22",
-      "content_hash": "edef8ee5e0ad340420f2e22a1e42fdc7a598b6f5b4dba0938f8946ee8189d656",
-      "title": "Next Phase of Bond Scam Trial Set for July 22",
-      "sent_at": "2026-06-26T16:20:02Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/27/1-000-archaeological-sites-to-be-conserved-under-new-initiative",
       "content_hash": "c8a91e9e25c7363083bbba39b991fdc8e82e66b56596dfaa5c925e6f92495592",
       "title": "1,000 Archaeological Sites To Be Conserved Under New Initiative",
@@ -683,6 +677,12 @@
       "content_hash": "025c5ad39c42e176b0af71f3bc234d310e0233ed362305f6f87d4179dea6bd83",
       "title": "Train Services On Kelani Valley Line To Resume Normal Schedule",
       "sent_at": "2026-07-03T15:13:36Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/03/litro-reduces-gas-prices-effective-midnight-today-03",
+      "content_hash": "3934cdc46ca3b8a7901f206ba16ac0095f3272c7118073946cfc099a70a9b5a8",
+      "title": "Litro Reduces Gas Prices Effective Midnight Today (03)",
+      "sent_at": "2026-07-03T17:36:18Z"
     }
   ]
 }
