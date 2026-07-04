@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/27/presidential-secretariat-official-remanded-over-passport-fraud-allegations",
-      "content_hash": "bcf3079b04074ee1fd9c0477a65372e6f5ad4ddbc39eeeb6319ff4217a146611",
-      "title": "Presidential Secretariat Official Remanded Over Passport Fraud Allegations",
-      "sent_at": "2026-06-27T12:10:24Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/28/51-049-dengue-cases-reported-in-2026-new-circular-prepared-to-strengthen-dengue-control-measures-across-sri-lanka",
       "content_hash": "82327952864da612e165cb8e275b502d1d0c9fc2c3c4b3c83a4eea25678957e3",
       "title": "51,049 Dengue Cases Reported in 2026 , New Circular Prepared To Strengthen Dengue Control Measures Across Sri Lanka",
@@ -677,6 +671,18 @@
       "content_hash": "a53a79cc08e1789676fe38cce44eb39ee8729df0e8726d2777e56c69f1141061",
       "title": "Police Recover Two T-56-type Rifles In Modara",
       "sent_at": "2026-07-04T11:35:45Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/04/dry-weather-conditions-expected-to-continue-due-to-el-ni%c3%b1o",
+      "content_hash": "84a8d7a5c7dc54a24e1189d4e77f772e5ae728fae656e12e16ff248ca0d0c72a",
+      "title": "Dry Weather Conditions Expected To Continue Due To El Niño",
+      "sent_at": "2026-07-04T13:41:23Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/04/special-dengue-eradication-drive-to-begin-tomorrow-5th",
+      "content_hash": "332095cc68d34635e85ccecccd4cb02736070cda7ad4464913315efc85f01db0",
+      "title": "Special Dengue Eradication Drive To Begin Tomorrow (5th)",
+      "sent_at": "2026-07-04T13:41:30Z"
     }
   ]
 }
