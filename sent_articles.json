@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/27/16-year-old-student-killed-in-motorcycle-collision-in-piliyandala",
-      "content_hash": "4c76eddd6c506d021705c6660a069b53ef0fd46bbfa38dc14671358d85712741",
-      "title": "16-Year-Old Student Killed In Motorcycle Collision In Piliyandala",
-      "sent_at": "2026-06-27T10:12:33Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/27/presidential-secretariat-official-remanded-over-passport-fraud-allegations",
       "content_hash": "bcf3079b04074ee1fd9c0477a65372e6f5ad4ddbc39eeeb6319ff4217a146611",
       "title": "Presidential Secretariat Official Remanded Over Passport Fraud Allegations",
@@ -671,6 +665,18 @@
       "content_hash": "9d6b3ba7d1fd767a2b5836d56f5075262246559393ceda5070e947999dc75880",
       "title": "TRC Reactivates Special Investigation Unit After Three-Year Hiatus",
       "sent_at": "2026-07-04T09:24:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/04/fisherman-goes-missing-after-boat-collision",
+      "content_hash": "ab0b850e83039cc1e6a3440d03da6f072e1af98a1bc2a79ad76b31d8684435a6",
+      "title": "Fisherman Goes Missing After Boat Collision",
+      "sent_at": "2026-07-04T11:35:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/04/police-recover-two-t-56-type-rifles-in-modara",
+      "content_hash": "a53a79cc08e1789676fe38cce44eb39ee8729df0e8726d2777e56c69f1141061",
+      "title": "Police Recover Two T-56-type Rifles In Modara",
+      "sent_at": "2026-07-04T11:35:45Z"
     }
   ]
 }
