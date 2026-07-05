@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/28/51-049-dengue-cases-reported-in-2026-new-circular-prepared-to-strengthen-dengue-control-measures-across-sri-lanka",
-      "content_hash": "82327952864da612e165cb8e275b502d1d0c9fc2c3c4b3c83a4eea25678957e3",
-      "title": "51,049 Dengue Cases Reported in 2026 , New Circular Prepared To Strengthen Dengue Control Measures Across Sri Lanka",
-      "sent_at": "2026-06-28T05:19:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/all-liquor-shops-to-be-closed-for-poson-for-3-days-from-today",
-      "content_hash": "8a23ac1d2b2717e69cd61731b3531c77a30d7f8a4332084c4d0b42ea3da331e5",
-      "title": "All Liquor Shops To Be Closed For Poson For 3 Days From Today",
-      "sent_at": "2026-06-28T05:19:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/island-wide-operations-to-identify-defective-vehicles-from-next-week",
-      "content_hash": "13ca50e306af8eb2b5eb90540ae638b6473192dabc01fd98bac2acf55a77a7c6",
-      "title": "Island-Wide Operations To Identify Defective Vehicles From Next Week",
-      "sent_at": "2026-06-28T05:19:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/man-killed-with-sharp-weapon-in-weeraketiya",
-      "content_hash": "3dfe349b1b53c16833538442cd75394845bd331b464ac1b4d61f96ae70a61e13",
-      "title": "Man Killed with Sharp-Weapon In Weeraketiya",
-      "sent_at": "2026-06-28T05:19:30Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/over-500-lifeguards-deployed-for-poson-pilgrims",
-      "content_hash": "5bc48b91a6cdd3944a0361a8fcd51aab719bd1f830b6153ea53468d0d5b76701",
-      "title": "Over 500 Lifeguards Deployed For Poson Pilgrims",
-      "sent_at": "2026-06-28T05:19:32Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/president-dissanayake-to-undertake-official-visit-to-france",
-      "content_hash": "e540d8c581cac5c9d2f76e6f0473fe38005ae2ae3f5c77d46d84a1979eb0f4e7",
-      "title": "President Dissanayake To Undertake Official Visit To France",
-      "sent_at": "2026-06-28T05:19:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/showers-expected-across-several-provinces-strong-winds-forecast-over-sea-areas",
-      "content_hash": "94dd5f7ada00843e29ee7369e720c561bc2c9b9475a999fe8729c95a9c4da572",
-      "title": "Showers Expected Across Several Provinces; Strong Winds Forecast Over Sea Areas",
-      "sent_at": "2026-06-28T05:19:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/sirasa-ruhunu-maya-poson-zone-continues-for-second-day",
-      "content_hash": "dbe26c206a266f80ef32ca99c90cf0db46edcacd024a4d1415b0f6a488b5650a",
-      "title": "Sirasa Ruhunu Maya Poson Zone Continues For Second Day",
-      "sent_at": "2026-06-28T05:19:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/28/coconut-export-revenue-up-21-amid-shipping-disruptions",
       "content_hash": "4f1e9ff4ad7271c3715c9fd595a544cd50a0939af2f5750e2ff6610eec0db589",
       "title": "Coconut Export Revenue Up 21% Amid Shipping Disruptions",
@@ -695,6 +647,42 @@
       "content_hash": "03ddee86ae2c0fe105a609992033b8f3de76886aa2fd7c97618e6ac7cef6cd0e",
       "title": "G.C.E. A/L Recorrection Results Released",
       "sent_at": "2026-07-05T03:48:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/%e2%80%98one-shot%e2%80%99-could-eliminate-remaining-leadership-trump-issues-fresh-iran-threat-in-axios-interview",
+      "content_hash": "e8bf04234ebf9d5fa22d3d0f665d9ccabb4a48128a04028eded1698107a02dab",
+      "title": "‘One Shot’ Could Eliminate Remaining Leadership: Trump Issues Fresh Iran Threat in Axios Interview",
+      "sent_at": "2026-07-05T07:30:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/75-drowning-incidents-reported-so-far-this-year",
+      "content_hash": "dd37008a98e546cb4a6c43a1cb19b5d60be2d161bd7ca6d9b6dfbe4ff0b93da6",
+      "title": "75 Drowning Incidents Reported So Far This Year",
+      "sent_at": "2026-07-05T07:30:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/akuregoda-double-murder-suspect-driver-brought-back-to-sri-lanka",
+      "content_hash": "bb2cd8f60831ee5c772cb983671072bc5216fa14b9b2273dd1908dd189e26631",
+      "title": "Akuregoda Double Murder: Suspect Driver Brought Back to Sri Lanka",
+      "sent_at": "2026-07-05T07:30:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/first-fuel-station-to-be-established-in-delft-island",
+      "content_hash": "bef66dc0f58f5fb1ddf488ef9af896c109928a9a0f2aaacd505325e8a9f839e0",
+      "title": "First Fuel Station to be Established in Delft Island",
+      "sent_at": "2026-07-05T07:30:15Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/man-killed-in-sharp-weapon-attack-in-kadawatha",
+      "content_hash": "708be31948bdb0298f153fdf4084edbd0ac44edbba197846434d5c06994e8f62",
+      "title": "Man Killed in Sharp Weapon Attack in Kadawatha",
+      "sent_at": "2026-07-05T07:30:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/over-1-000-police-officers-removed-from-service-over-drug-links-bribery-negligence",
+      "content_hash": "d07e83c1aaf56558a067ff86cca232305231d6fa8e4d794f8f1a28fa711327eb",
+      "title": "Over 1,000 Police Officers Removed From Service Over Drug Links, Bribery & Negligence",
+      "sent_at": "2026-07-05T07:30:20Z"
     }
   ]
 }
