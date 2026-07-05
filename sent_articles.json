@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/28/coconut-export-revenue-up-21-amid-shipping-disruptions",
-      "content_hash": "4f1e9ff4ad7271c3715c9fd595a544cd50a0939af2f5750e2ff6610eec0db589",
-      "title": "Coconut Export Revenue Up 21% Amid Shipping Disruptions",
-      "sent_at": "2026-06-28T09:16:03Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/four-arrested-at-bia-with-a-large-stock-of-kush-hashish",
-      "content_hash": "213ff74bf23e0e78bb2d14448d5c9b202afa015c61269d7e112b1c481aa4b277",
-      "title": "Four Arrested At BIA With A Large Stock of Kush & Hashish",
-      "sent_at": "2026-06-28T09:16:06Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/man-arrested-for-assaulting-%e2%80%98subramaniyam%e2%80%99",
-      "content_hash": "606970c14f1e7f052a331e0e90a3b0200c59e681a2a1bd51a96ba0b336102235",
-      "title": "Man Arrested For Assaulting ‘Subramaniyam’",
-      "sent_at": "2026-06-28T09:16:11Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/28/traffic-oic-arrested-over-unreturned-service-weapon",
-      "content_hash": "49962876aad80e8f361112a6962c1763437460c4616fc626273e2a7fb7038fac",
-      "title": "Traffic OIC Arrested Over Unreturned Service Weapon",
-      "sent_at": "2026-06-28T09:16:21Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/28/fast-track-id-drive-for-elderly-welfare-payments",
       "content_hash": "6c5fb5338c76d89806dc1c2ac8c71971c4783daf5bb05958f22d0ceb8e8d79a5",
       "title": "Fast-Track ID Drive for Elderly Welfare Payments",
@@ -683,6 +659,24 @@
       "content_hash": "d07e83c1aaf56558a067ff86cca232305231d6fa8e4d794f8f1a28fa711327eb",
       "title": "Over 1,000 Police Officers Removed From Service Over Drug Links, Bribery & Negligence",
       "sent_at": "2026-07-05T07:30:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/16-injured-in-negombo-prison-clash",
+      "content_hash": "7ed39880affc3cb788d09e4b747c69e99bffa32a20fd7ffe3ab8bcc11a0524d1",
+      "title": "16 Injured in Negombo Prison Clash",
+      "sent_at": "2026-07-05T10:18:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/fire-re-erupts-at-daragalapathana-reserve-in-kumbalwela",
+      "content_hash": "ac4530ae661ddf9d9c5116a62a07f712fbb2a7de48fa489a6968fe3553a8b160",
+      "title": "Fire Re-erupts At Daragalapathana Reserve in Kumbalwela",
+      "sent_at": "2026-07-05T10:18:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/05/rising-elderly-population-sees-increase-in-dementia-cases",
+      "content_hash": "0f73aeaa02be219d5c09bc49d123baa6f05cc3e7b9eeb929a3bc08dff37b7bd1",
+      "title": "Rising Elderly Population Sees Increase in Dementia Cases",
+      "sent_at": "2026-07-05T10:19:06Z"
     }
   ]
 }
