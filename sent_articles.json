@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/29/dengue-cases-reach-53-159-nationwide-so-far-this-year",
-      "content_hash": "00210a69092c065a5f45ce4cde07092cb12b712775c81f0c3486a26b9160033d",
-      "title": "Dengue Cases Reach 53,159 Nationwide So Far This Year",
-      "sent_at": "2026-06-29T14:07:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/dengue-cases-top-53-000-as-authorities-step-up-mosquito-control-measures",
-      "content_hash": "cdf678c6d15a95663d40b76164d5db0dfb5193d4d04379438e63733cfdfa7854",
-      "title": "Dengue Cases Top 53,000 As Authorities Step Up Mosquito Control Measures",
-      "sent_at": "2026-06-29T14:07:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/poson-celebrations-underway-as-over-1-5-million-devotees-expected-in-anuradhapura",
-      "content_hash": "0873332545eb2432f0ae588f9e50550f78ee98896b92c7aa63b0c47dab46aab1",
-      "title": "Poson Celebrations Underway As Over 1.5 Million Devotees Expected In Anuradhapura",
-      "sent_at": "2026-06-29T14:07:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/suspect-arrested-for-impersonating-inland-revenue-officer-in-financial-fraud-scheme",
-      "content_hash": "35103a7f332abf3104036fb4a615cb12b4bfbe096f5b820c08d63aa0aa7d9791",
-      "title": "Suspect Arrested For Impersonating Inland Revenue Officer In Financial Fraud Scheme",
-      "sent_at": "2026-06-29T14:07:50Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/29/cpc-announces-fuel-price-reduction-effective-from-midnight-today",
       "content_hash": "2e51a4fd5a8cec81b054cbb385ac5175c4f6487782e3db64985ae5fdb4a0b355",
       "title": "CPC Announces Fuel Price Reduction Effective From Midnight Today",
@@ -701,6 +677,24 @@
       "content_hash": "044bb85bf3fd41396c94dec07f8cc4bdf4e76e318f0dfd72fa7f0897f5e14843",
       "title": "Sri Lanka Lifts Ban on Using Rice and Paddy for Animal Feed",
       "sent_at": "2026-07-06T12:52:05Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/cabinet-orders-high-level-probe-into-deadly-negombo-prison-violence",
+      "content_hash": "af4281657bd9200b2536d55e5623d2acab6a59fa1c822ddd8f4445c8c7af5030",
+      "title": "Cabinet Orders High-Level Probe Into Deadly Negombo Prison Violence",
+      "sent_at": "2026-07-06T16:24:02Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/can-gota-be-arrested-ag-pushes-for-sc-review",
+      "content_hash": "26ec1dcc4db2da3de5ec80adbf6e6a9805e897eaf7f8fc5a0d2bdc599ac3faa4",
+      "title": "Can Gota Be Arrested? AG Pushes for SC Review",
+      "sent_at": "2026-07-06T16:24:04Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/drug-gang-war-turns-sri-lanka-s-negombo-prison-into-a-bloodbath",
+      "content_hash": "a700be05a8d94451291f854e524a57e6b33fef06e49711319a016adbf676f6b9",
+      "title": "Drug Gang War Turns Sri Lanka's Negombo Prison Into a Bloodbath",
+      "sent_at": "2026-07-06T16:24:06Z"
     }
   ]
 }
