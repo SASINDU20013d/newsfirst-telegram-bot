@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/29/canada-score-dramatic-late-winner-to-reach-world-cup-last-16",
-      "content_hash": "e89ddf968d0a8de591c94309fa1be7e8cba9ba13970a389ebdd78c8719625505",
-      "title": "Canada Score Dramatic Late Winner To Reach World Cup Last 16",
-      "sent_at": "2026-06-29T04:18:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/over-52-000-dengue-cases-reported-in-2026",
-      "content_hash": "ab149e399803b6c1165407ed5205d9d2819845f029de2ce11b3adb41f753ffd6",
-      "title": "Over 52,000 Dengue Cases Reported In 2026",
-      "sent_at": "2026-06-29T04:18:43Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/president-and-pm-highlight-values-of-discipline-and-compassion-on-poson-full-moon-poya-day",
-      "content_hash": "22f3c50cf295e26ac5b70bd684de3dcefc2093efd79058551fe97b8d4c578bfc",
-      "title": "President And PM Highlight Values Of Discipline and Compassion on Poson Full Moon Poya Day",
-      "sent_at": "2026-06-29T04:18:47Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/sirasa-ruhunu-maya-poson-pooja-in-ambalantota-mattala-and-ratnapura",
-      "content_hash": "6a2b6feb13820802c5de5d7ae44d4bc9118064278925d36825565ade2de1c248",
-      "title": "Sirasa Ruhunu Maya Poson Pooja in Ambalantota, Mattala And Ratnapura",
-      "sent_at": "2026-06-29T04:18:51Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/29/deadline-to-submit-asset-liability-declaration-ends-tomorrow",
       "content_hash": "481cfd473f65a5e4d38065efabebbe017cfff8071d86ba1f6303b49eead86cf3",
       "title": "Deadline To Submit Asset & Liability Declaration Ends Tomorrow",
@@ -689,6 +665,60 @@
       "content_hash": "326dd60c8adecee77154e55bf19d5e9c4690efccf9ecc64dd5c12eba57f4cbc5",
       "title": "Two Inmates Killed, 38 Others Injured in Negombo Prison Clash",
       "sent_at": "2026-07-06T03:56:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/breaking-drug-gangs-clash-in-sri-lanka-prison-leaving-dozens-dead",
+      "content_hash": "3f6bb614b951ab292477e3d286bc5391b5219c4272cbd0f42e64241e267ac857",
+      "title": "BREAKING: Drug Gangs Clash In Sri Lanka Prison, Leaving Dozens Dead",
+      "sent_at": "2026-07-06T08:24:46Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/drug-gang-feud-suspected-behind-deadly-negombo-prison-bloodshed",
+      "content_hash": "378a40b59fea2eae650d10f35c1bcc894c416af69a975748f8cb34f2a9d03027",
+      "title": "Drug Gang Feud Suspected Behind Deadly Negombo Prison Bloodshed",
+      "sent_at": "2026-07-06T08:24:48Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/national-accident-prevention-week-begins-today-06",
+      "content_hash": "1cc2538b70a4a910390ece54404cbe9319ce94270d357db481bf9e0f5d0e31d1",
+      "title": "National Accident Prevention Week Begins Today (06)",
+      "sent_at": "2026-07-06T08:24:51Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/negombo-prison-death-toll-rises-to-seven",
+      "content_hash": "6f3c49b89f9590e8f673005ce64349e3e5806d34ca0c614a4e8f87d78115e24c",
+      "title": "Negombo Prison Death Toll Rises to Seven",
+      "sent_at": "2026-07-06T08:24:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/negombo-prison-unrest-triggers-major-police-and-stf-response",
+      "content_hash": "46d5e74ec86952056462801e2f5c6f7829a8fa1ea10df0360cbfd4d5737bfe0d",
+      "title": "Negombo Prison Unrest Triggers Major Police and STF Response",
+      "sent_at": "2026-07-06T08:24:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/presidential-commission-to-investigate-coal-procurement-summons-secretary-to-the-ministry-of-energy",
+      "content_hash": "29a42965a00989bdff92631d22b1067ba90bdde3525a37898324dd3a46607940",
+      "title": "Presidential Commission to Investigate Coal Procurement Summons Secretary to the Ministry of Energy",
+      "sent_at": "2026-07-06T08:24:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/stop-dengue-now-news-1st-health-ministry-unite-for-massive-anti-dengue-campaign",
+      "content_hash": "de275f8bda356649db94d3c17027c556ccf01e04c01b8fdb9fbcd33cde091fe1",
+      "title": "'Stop Dengue Now': News 1st, Health Ministry Unite for Massive Anti-Dengue Campaign",
+      "sent_at": "2026-07-06T08:25:00Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/tax-power-2026-national-tax-week-begins-today-06",
+      "content_hash": "3f24b42d0c9485c17ba9150f6707159461bd72e2ffa622b424fbe1cd6a6d518b",
+      "title": "'Tax Power 2026' National Tax Week Begins Today (06)",
+      "sent_at": "2026-07-06T08:25:03Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/two-prison-officers-among-three-killed-in-fresh-negombo-prison-rioting",
+      "content_hash": "f3ed93cd704e27efd34cc4e5a9977ff6a525dd07ad0e5ee5d17d4e77c3a5f3d5",
+      "title": "Two Prison Officers Among Three Killed in Fresh Negombo Prison Rioting",
+      "sent_at": "2026-07-06T08:25:06Z"
     }
   ]
 }
