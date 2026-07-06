@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/29/deadline-to-submit-asset-liability-declaration-ends-tomorrow",
-      "content_hash": "481cfd473f65a5e4d38065efabebbe017cfff8071d86ba1f6303b49eead86cf3",
-      "title": "Deadline To Submit Asset & Liability Declaration Ends Tomorrow",
-      "sent_at": "2026-06-29T09:50:10Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/iran-and-us-agree-to-halt-attacks-and-renew-talks",
-      "content_hash": "23dacfed0ece6e5f9eebf1ccda1928ca4de33495899917b1162c03f34047bbe5",
-      "title": "Iran and US Agree to Halt Attacks and Renew Talks",
-      "sent_at": "2026-06-29T09:50:14Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/over-1-5-million-devotees-expected-in-anuradhapura-for-poson-security-lifesaving-and-special-measures-in-place",
-      "content_hash": "b3670e66a275dfb2e584e0bff88494db63dbc505019352815fb8ed195cbadf57",
-      "title": "Over 1.5 Million Devotees Expected In Anuradhapura for Poson: Security, Lifesaving And Special Measures In Place",
-      "sent_at": "2026-06-29T09:50:16Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/over-18-000-dansals-organized-for-poson",
-      "content_hash": "c3c9c1d19a0d566eb1a60f4dd0d62e8dd897e114c6a5ecd18c653a012d96a0f7",
-      "title": "Over 18,000 Dansals Organized for Poson",
-      "sent_at": "2026-06-29T09:50:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/popular-singer-rukman-asitha-passes-away",
-      "content_hash": "65b89dae3b8a6888234499051b5a6619043a10b2fd009deb2c74b450921efc1d",
-      "title": "Popular Singer Rukman Asitha Passes Away",
-      "sent_at": "2026-06-29T09:50:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/29/poson-poya-observed-across-sri-lanka-with-islandwide-religious-observances",
-      "content_hash": "988b93c28240f96c93f5e317792d1a296360ef5bef18f5453026b636d9e330a3",
-      "title": "Poson Poya Observed Across Sri Lanka with Islandwide Religious Observances",
-      "sent_at": "2026-06-29T09:50:29Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/29/dengue-cases-reach-53-159-nationwide-so-far-this-year",
       "content_hash": "00210a69092c065a5f45ce4cde07092cb12b712775c81f0c3486a26b9160033d",
       "title": "Dengue Cases Reach 53,159 Nationwide So Far This Year",
@@ -719,6 +683,24 @@
       "content_hash": "f3ed93cd704e27efd34cc4e5a9977ff6a525dd07ad0e5ee5d17d4e77c3a5f3d5",
       "title": "Two Prison Officers Among Three Killed in Fresh Negombo Prison Rioting",
       "sent_at": "2026-07-06T08:25:06Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/ag-wants-gotabaya-petition-moved-to-supreme-court",
+      "content_hash": "e1932f053fc9e8adb275660b29e95d9acc884dea5d9593c436e7ef6a07771998",
+      "title": "AG Wants Gotabaya Petition Moved to Supreme Court",
+      "sent_at": "2026-07-06T12:51:53Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/breaking-sri-lanka-deploys-stf-drones-as-negombo-prison-death-toll-surges",
+      "content_hash": "a91da70154cb209c81ee4d6f0060c16b1e4bbf773a4898d101d8a912ea92b58e",
+      "title": "BREAKING: Sri Lanka Deploys STF, Drones as Negombo Prison Death Toll Surges",
+      "sent_at": "2026-07-06T12:51:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/06/sri-lanka-lifts-ban-on-using-rice-and-paddy-for-animal-feed",
+      "content_hash": "044bb85bf3fd41396c94dec07f8cc4bdf4e76e318f0dfd72fa7f0897f5e14843",
+      "title": "Sri Lanka Lifts Ban on Using Rice and Paddy for Animal Feed",
+      "sent_at": "2026-07-06T12:52:05Z"
     }
   ]
 }
