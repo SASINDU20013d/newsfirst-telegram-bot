@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/30/deadline-extended-for-public-officials-to-submit-asset-and-liability-declarations",
-      "content_hash": "dffa618bed18790b5633fc76b385cb46061023a309b8f86e3b1255da9c55431c",
-      "title": "Deadline Extended for Public Officials to Submit Asset and Liability Declarations",
-      "sent_at": "2026-06-30T12:12:26Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/pillayan-remanded-until-july-13-over-five-murder-cases",
-      "content_hash": "63ab85535f10333293489559f0d879d2f7d9786d482cda5f79d87169c3e1c9f8",
-      "title": "Pillayan Remanded Until July 13 Over Five Murder Cases",
-      "sent_at": "2026-06-30T12:12:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/vice-admiral-damian-fernando-appointed-as-sri-lanka%e2%80%99s-27th-navy-commander",
-      "content_hash": "f3f26deb740dc919ea0c3cd9078c6f635b3962fb47a63e8a35dad764e51dc768",
-      "title": "Vice Admiral Damian Fernando Appointed as Sri Lanka’s 27th Navy Commander",
-      "sent_at": "2026-06-30T12:12:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/30/former-national-lotteries-board-chairperson-shyamila-perera-granted-bail-in-corruption-case",
       "content_hash": "1f9f5b97cf4d9c75eda007ca20448d5a4b2ccf086202bc2fcc399d317c86ac50",
       "title": "Former National Lotteries Board Chairperson Shyamila Perera Granted Bail in Corruption Case",
@@ -671,6 +653,36 @@
       "content_hash": "e1e359ef40cd7a46d8b567d7b3f56b1afd9e049ec9ac1b8dde1f19f68cb15cc4",
       "title": "Special Probe Into Sri Lanka's Deadliest Prison Violence",
       "sent_at": "2026-07-07T11:54:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/cid-launches-massive-investigation-into-sri-lanka-s-negombo-prison-carnage",
+      "content_hash": "967b8cd326d1aeea985d49584592d5dd292af1dec5784c0f70b6ba2345cd8354",
+      "title": "CID Launches Massive Investigation Into Sri Lanka's Negombo Prison Carnage",
+      "sent_at": "2026-07-07T14:44:32Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/cid-seeks-restricted-court-access-following-sri-lanka-s-prison-violence",
+      "content_hash": "602f964a802abaaf51f03072ea929863c76a28919a8c5b1c1d8dceb89fcbb7a4",
+      "title": "CID Seeks Restricted Court Access Following Sri Lanka's Prison Violence",
+      "sent_at": "2026-07-07T14:44:35Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/court-summons-foreign-witnesses-in-krrish-case-against-namal",
+      "content_hash": "eff42357670e0c774489b9671be1542d4ce777c6cf04d8ae3589e4c91b161a8b",
+      "title": "Court Summons Foreign Witnesses in Krrish Case Against Namal",
+      "sent_at": "2026-07-07T14:44:37Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/court-tightens-access-after-cid-reports-security-concern",
+      "content_hash": "379110607e8ac3bf781928297bc1fb977a2c80ff1c8d30863a06ce0fc467924d",
+      "title": "Court Tightens Access After CID Reports Security Concern",
+      "sent_at": "2026-07-07T14:44:40Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/sri-lanka-s-negombo-prison-riot-could-have-led-to-mass-escape",
+      "content_hash": "f5b3a0e4ce9e337f1c826c2dd849d4b3b5e94cec0ed7d5eaaf5ab51f0009c304",
+      "title": "Sri Lanka's Negombo Prison Riot Could Have Led to Mass Escape",
+      "sent_at": "2026-07-07T14:44:49Z"
     }
   ]
 }
