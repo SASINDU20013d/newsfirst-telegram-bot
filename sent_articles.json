@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/30/150-to-be-recruited-to-sri-lanka-administrative-service",
-      "content_hash": "447fc49178581266ef6b88b14db135268a2750f221458e5d60bf0a98d112eb48",
-      "title": "150 To Be Recruited To Sri Lanka Administrative Service",
-      "sent_at": "2026-06-30T05:07:28Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/dengue-cases-remain-high-despite-control-programs",
-      "content_hash": "1b9e25b051441a7460e647d0770dbf75498ebfcda351e7e69db414653ae45000",
-      "title": "Dengue Cases Remain High Despite Control Programs",
-      "sent_at": "2026-06-30T05:07:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/fuel-prices-reduced-from-midnight-yesterday",
-      "content_hash": "9537e1fd8cbbec59662b95fa4f222f2be1ff0ee52e37755c097c89e282d4d9dd",
-      "title": "Fuel Prices Reduced From Midnight Yesterday",
-      "sent_at": "2026-06-30T05:07:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/nearly-400-suspects-remanded-daily-amid-severe-prison-overcrowding",
-      "content_hash": "8553eabd0eedf95ac765a1a00700169092aa20ee71bdd4c2657f56e2f31aedaf",
-      "title": "Nearly 400 Suspects Remanded Daily Amid Severe Prison Overcrowding",
-      "sent_at": "2026-06-30T05:07:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/presidential-commission-to-begin-hearing-evidence-on-coal-transactions",
-      "content_hash": "5b333bec8f5c2cd4628301323fb5c69cfcbde29857e06aff7ef1e01e7600a666",
-      "title": "Presidential Commission To Begin Hearing Evidence On Coal Transactions",
-      "sent_at": "2026-06-30T05:07:38Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/sirasa-ruhunu-maya-poson-pooja-and-poson-zones-open-to-devotees-today",
-      "content_hash": "c3a37464503a40a1bc015d7fffada7989a5ea2c9c7cee9e56f4efd7a400cc31c",
-      "title": "Sirasa Ruhunu Maya Poson Pooja And Poson Zones Open To Devotees Today",
-      "sent_at": "2026-06-30T05:07:39Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/30/brazil-avoid-world-cup-shock-with-late-win-vs-japan-to-reach-round-of-16",
       "content_hash": "19ac00b4027e17e78a1c434b05029c731436da333b5f0dd36c3319cc3b7bea8f",
       "title": "Brazil Avoid World Cup Shock With Late Win vs Japan To Reach Round Of 16",
@@ -713,6 +677,36 @@
       "content_hash": "ef4f5c1e13c7938bbd1c2466fba19f421ab86453db576dbc97743ade3850b935",
       "title": "University Of Moratuwa Temporarily Closed Amid Dengue Concerns",
       "sent_at": "2026-07-07T04:55:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/overturn-this-belgium-s-brutal-post-after-us-defeat",
+      "content_hash": "3ba07cb92f217c90c9349067b9c591d15799696317847c95cbb5147e4ad4f966",
+      "title": "'Overturn This': Belgium's Brutal Post After US Defeat",
+      "sent_at": "2026-07-07T08:26:09Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/rs-850-mn-unsafe-sugar-haul-seized-in-peliyagoda",
+      "content_hash": "0350660029e21e7526121d99d2ffa6bd571736532b7623ef721ec0018b6f7ac8",
+      "title": "Rs. 850 Mn Unsafe Sugar Haul Seized In Peliyagoda",
+      "sent_at": "2026-07-07T08:26:11Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/shasheendra-faces-10-charges-in-corruption-trial",
+      "content_hash": "b483c3b592870d470830da7ff95a6d471eaeb4a84ea2b5aa408ef6bd44155731",
+      "title": "Shasheendra Faces 10 Charges In Corruption Trial",
+      "sent_at": "2026-07-07T08:26:13Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/sri-lanka-exports-surge-past-usd-7-3-bn-in-five-months",
+      "content_hash": "608bc77f70feab12536cd06dfb934109a4faa0e906fde9ba7a77d53b681cbbd7",
+      "title": "Sri Lanka Exports Surge Past USD 7.3 Bn In Five Months",
+      "sent_at": "2026-07-07T08:26:17Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/venezuela-quakes-death-toll-jumps-to-over-3-500",
+      "content_hash": "7d1e416a66120d9f75e5c02f5d822993a1be563d02fb7aa8a1a6caed1a518c33",
+      "title": "Venezuela Quakes Death Toll Jumps To Over 3,500",
+      "sent_at": "2026-07-07T08:26:20Z"
     }
   ]
 }
