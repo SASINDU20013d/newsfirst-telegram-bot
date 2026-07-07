@@ -1,60 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/06/30/brazil-avoid-world-cup-shock-with-late-win-vs-japan-to-reach-round-of-16",
-      "content_hash": "19ac00b4027e17e78a1c434b05029c731436da333b5f0dd36c3319cc3b7bea8f",
-      "title": "Brazil Avoid World Cup Shock With Late Win vs Japan To Reach Round Of 16",
-      "sent_at": "2026-06-30T09:45:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/businessman-viraj-wickramanayake-arrested-over-alleged-assault-on-employee",
-      "content_hash": "f6856b945f984be0ae023450b1045e3600478513d3a3b5bc9b3d2ebdf37eb2a0",
-      "title": "Businessman Viraj Wickramanayake Arrested Over Alleged Assault on Employee",
-      "sent_at": "2026-06-30T09:45:18Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/four-killed-including-student-in-multiple-road-accidents",
-      "content_hash": "1409e1415713e466e3564943baa09246934e90d295837bbdc9002d841fc76010",
-      "title": "Four Killed, Including Student, In Multiple Road Accidents",
-      "sent_at": "2026-06-30T09:45:20Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/imf-urges-sri-lanka-to-continue-economic-reforms-amid-global-challenges-as-mission-concludes-sri-lanka-visit",
-      "content_hash": "82ad7aba653950e1c5693efaca6f74ba635c7f569a4da629a2113fb8bc3c61ef",
-      "title": "IMF Urges Sri Lanka to Continue Economic Reforms Amid Global Challenges As Mission Concludes Sri Lanka Visit",
-      "sent_at": "2026-06-30T09:45:23Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/morocco-beat-netherlands-in-dramatic-world-cup-shootout-to-reach-last-16",
-      "content_hash": "0c3ff433e22f91bd37c75cdff60e15eb259cd61eff49f0d89d8b4e0a65a423a4",
-      "title": "Morocco Beat Netherlands In Dramatic World Cup Shootout To Reach Last 16",
-      "sent_at": "2026-06-30T09:45:25Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/new-bus-fares-to-be-announced-following-cabinet-approval",
-      "content_hash": "b634cfee6cb3a5c8fd70459457c155f6508c1721b533108c2e5de0a9bcfca5d6",
-      "title": "New Bus Fares To Be Announced Following Cabinet Approval",
-      "sent_at": "2026-06-30T09:45:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/over-1-000-dengue-cases-reported-in-24-hours-as-risk-escalates",
-      "content_hash": "87d9feae71da6db1f83c31cd551dcc94f66561ed0dac2ef6f2f0634c22f1f309",
-      "title": "Over 1,000 Dengue Cases Reported In 24 Hours As Risk Escalates",
-      "sent_at": "2026-06-30T09:45:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets",
-      "content_hash": "c4313eea0f1840c56c549e67b03f7c7ff08cc2b9bb47f0bd7deb28576066196f",
-      "title": "Paraguay Shock Germany In shootout Win For One Of All-Time World Cup Upsets",
-      "sent_at": "2026-06-30T09:45:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/06/30/suspect-arrested-in-hokandara-with-five-high-powered-motorcycles-and-fake-number-plates",
-      "content_hash": "61e7d8e578b12c036757af6922991725e94f8878a19917157e4467984b387ae5",
-      "title": "Suspect Arrested in Hokandara with Five High-Powered Motorcycles and Fake Number Plates",
-      "sent_at": "2026-06-30T09:45:37Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/06/30/deadline-extended-for-public-officials-to-submit-asset-and-liability-declarations",
       "content_hash": "dffa618bed18790b5633fc76b385cb46061023a309b8f86e3b1255da9c55431c",
       "title": "Deadline Extended for Public Officials to Submit Asset and Liability Declarations",
@@ -707,6 +653,24 @@
       "content_hash": "7d1e416a66120d9f75e5c02f5d822993a1be563d02fb7aa8a1a6caed1a518c33",
       "title": "Venezuela Quakes Death Toll Jumps To Over 3,500",
       "sent_at": "2026-07-07T08:26:20Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/ahmadinejad-back-from-the-dead-at-khamenei%e2%80%99s-funeral",
+      "content_hash": "29017ebe46842eca6e8cd9a11dfb4ddb6ea1efc2790990c69ce7fbcf67542db7",
+      "title": "Ahmadinejad back from the dead at Khamenei’s funeral",
+      "sent_at": "2026-07-07T11:53:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/over-1-400-killed-in-road-accidents-during-first-six-months-of-2026",
+      "content_hash": "e50e4bbdf6db10c39e45b0d913c83e3de8431911e4ff415f4aa271907b4aa526",
+      "title": "Over 1,400 Killed In Road Accidents During First Six Months of 2026",
+      "sent_at": "2026-07-07T11:54:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/07/special-probe-into-sri-lanka-s-deadliest-prison-violence",
+      "content_hash": "e1e359ef40cd7a46d8b567d7b3f56b1afd9e049ec9ac1b8dde1f19f68cb15cc4",
+      "title": "Special Probe Into Sri Lanka's Deadliest Prison Violence",
+      "sent_at": "2026-07-07T11:54:08Z"
     }
   ]
 }
