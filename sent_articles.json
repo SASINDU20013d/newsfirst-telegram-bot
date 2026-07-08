@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/07/01/1-217-dengue-cases-reported-in-24-hours-islandwide-control-program-to-begin",
-      "content_hash": "6f633ba50719df4c1a41618a4178c55383e241fe95280a7362aaafa6413bb21f",
-      "title": "1,217 Dengue Cases Reported In 24 Hours; Islandwide Control Program To Begin",
-      "sent_at": "2026-07-01T12:10:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/bus-fares-to-be-revised-from-july-06",
-      "content_hash": "729717d21437290a7eb24a05fc52b585ffa3608c5c7e030e01b011f1142780bb",
-      "title": "Bus Fares To Be Revised From July 06",
-      "sent_at": "2026-07-01T12:10:35Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/colombo-fort-magistrate-rules-against-suresh-salley-rejects-request-to-provide-stationary-and-writing-material",
-      "content_hash": "a7e786553d616581202a7f5082295f20c51c5bf046b62b5d335fc32174a7457c",
-      "title": "Colombo Fort Magistrate Rules Against Suresh Salley; Rejects Request to Provide Stationary and Writing Material",
-      "sent_at": "2026-07-01T12:10:37Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/sugeeshwara-bandara-further-remanded",
-      "content_hash": "3696d1afc066a8c3004996a230b6d148a2d86428c84e4e033d274b7047f1a85a",
-      "title": "Sugeeshwara Bandara Further Remanded",
-      "sent_at": "2026-07-01T12:10:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/vice-admiral-damian-fernando-assumes-duties-as-27th-navy-commander",
-      "content_hash": "0cabcb018d2a4e298a51b77749b65347c2c2fa6953533137cb0d0c205e4d0109",
-      "title": "Vice Admiral Damian Fernando Assumes Duties As 27th Navy Commander",
-      "sent_at": "2026-07-01T12:10:44Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/07/01/state-of-public-emergency-not-to-be-extended",
       "content_hash": "074440a04afa33a0ca47aea4ec2a29a956b97ee140aed09b7aeafeb81527e673",
       "title": "State of Public Emergency Not To Be Extended",
@@ -737,6 +707,42 @@
       "content_hash": "c05bf7c896442399e63546eca772ac93cb722bf2ef07e259bfe6d9bf0d8ea73e",
       "title": "Under-16 Social Media Controls Under Review in Sri Lanka",
       "sent_at": "2026-07-08T10:22:14Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/29-year-old-murder-case-ends-with-death-penalty-for-eight-convicts",
+      "content_hash": "579fd5c38d68689be774436f40e4d7529ec69ea8b15e940456dbb528a40bc71a",
+      "title": "29-Year-Old Murder Case Ends With Death Penalty for Eight Convicts",
+      "sent_at": "2026-07-08T12:22:21Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/cid-completes-probe-court-sets-date-for-ag%e2%80%99s-position-in-ranil-case",
+      "content_hash": "ded8e761a53b81909a4788d6d3057732627da0d46c2328f625d70cced5128e59",
+      "title": "CID Completes Probe, Court Sets Date for AG’s Position in Ranil Case",
+      "sent_at": "2026-07-08T12:22:25Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/eighth-prison-officer-dies-negombo-prison-death-toll-rises-to-28",
+      "content_hash": "fb4d5ba6228d146142af6dc889837b85d2da9df5c4f38399fce02ecaa4dbd8d6",
+      "title": "Eighth Prison Officer Dies; Negombo Prison Death Toll Rises to 28",
+      "sent_at": "2026-07-08T12:22:27Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/gota-s-ex-secretary-to-remain-behind-bars-until-july-22",
+      "content_hash": "0c2550c7a0b77cbb2cceefcbfbc170904833955b62176ad821895cb1e58916df",
+      "title": "Gota's Ex-Secretary to Remain Behind Bars Until July 22",
+      "sent_at": "2026-07-08T12:22:29Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/inmates-dropped-massive-stones-on-officers-heads-in-sri-lanka-s-negombo-prison-horror",
+      "content_hash": "350bedf903f178ba488a913fc5612f6099d04fca9e2d3cbc940b707c998e346b",
+      "title": "Inmates Dropped Massive Stones on Officers' Heads in Sri Lanka's Negombo Prison Horror",
+      "sent_at": "2026-07-08T12:22:30Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/posters-sarees-and-missing-relief-packs-charges-against-jagath-pushpakumara-revealed",
+      "content_hash": "cacea6e3369706c81e6523c23edefdfb34b50fa647d2b7cc5a4dbfb6ec1248f0",
+      "title": "Posters, Sarees and Missing Relief Packs: Charges Against Jagath Pushpakumara Revealed",
+      "sent_at": "2026-07-08T12:22:34Z"
     }
   ]
 }
