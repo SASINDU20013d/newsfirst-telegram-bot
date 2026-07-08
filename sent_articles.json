@@ -1,54 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://english.newsfirst.lk/2026/07/01/81-year-old-woman-arrested-with-728g-of-ice-in-kompanna-veediya-raid",
-      "content_hash": "2ab0f9de4b24066a293e7ce784b6fa6fcba846bfd8925c6883362d25d4bb5dc9",
-      "title": "81-Year-Old Woman Arrested With 728g of Ice In Kompanna Veediya Raid",
-      "sent_at": "2026-07-01T08:50:31Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/adb-approves-200-million-emergency-assistance-for-sri-lanka%e2%80%99s-post-cyclone-ditwah-recovery",
-      "content_hash": "aaf46a6bdbff5de45b5c2117c2645fd038eefe061c6496587e8033f3d348c7dc",
-      "title": "ADB Approves $200 Million Emergency Assistance for Sri Lanka’s Post-Cyclone Ditwah Recovery",
-      "sent_at": "2026-07-01T08:50:33Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/ird-opens-submission-of-2025-2026-tax-returns-income-above-rs-1-8-million-taxable",
-      "content_hash": "b96749356235272ad5aeaa7ba1f7f467879598f0e58828923d745b05b1562b2b",
-      "title": "IRD Opens Submission of 2025/2026 Tax Returns; Income Above Rs. 1.8 Million Taxable",
-      "sent_at": "2026-07-01T08:50:40Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/licensed-pistol-linked-to-ex-minister%e2%80%99s-son-in-law-found-with-drug-suspect",
-      "content_hash": "91c2e03d877bb8142b16c4aff46f2e89c60744dc13cb0313a61058aaf7389cdd",
-      "title": "Licensed Pistol Linked To Ex-Minister’s Son-In-Law Found With Drug Suspect",
-      "sent_at": "2026-07-01T08:50:42Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/original-%e2%80%98game-of-thrones%e2%80%99-dragon-eggs-head-to-auction-bidding-already-underway",
-      "content_hash": "62828553689d605256f8d4a4871172ccc176ae6e8675b3a202972d57bdbd908c",
-      "title": "Original ‘Game of Thrones’ Dragon Eggs Head to Auction; Bidding Already Underway",
-      "sent_at": "2026-07-01T08:50:45Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/sri-lankan-mountaineer-johann-peries-summits-north-america-s-highest-peak",
-      "content_hash": "9477580cab8a4ab747b33beb9e7b3515f8dc673845814d0e55e44adf940d6039",
-      "title": "Sri Lankan Mountaineer Johann Peries Summits North America's Highest Peak",
-      "sent_at": "2026-07-01T08:50:48Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/statement-recorded-from-former-minister-kumara-jayakody-over-coal-inquiry",
-      "content_hash": "14f05c38d0963c1185365fac0aadac38bc3af6809e7b479f027e6aaa91cd953c",
-      "title": "Statement Recorded From Former Minister Kumara Jayakody Over Coal Inquiry",
-      "sent_at": "2026-07-01T08:50:50Z"
-    },
-    {
-      "url": "https://english.newsfirst.lk/2026/07/01/undefined",
-      "content_hash": "ac11c8b823abd3affd9aafa93c201e2c8d4c84f456d8b48ea0db270d4e3d8c38",
-      "title": "US Supreme Court Upholds Birthright Citizenship in Blow to Trump",
-      "sent_at": "2026-07-01T08:50:53Z"
-    },
-    {
       "url": "https://english.newsfirst.lk/2026/07/01/1-217-dengue-cases-reported-in-24-hours-islandwide-control-program-to-begin",
       "content_hash": "6f633ba50719df4c1a41618a4178c55383e241fe95280a7362aaafa6413bb21f",
       "title": "1,217 Dengue Cases Reported In 24 Hours; Islandwide Control Program To Begin",
@@ -743,6 +695,48 @@
       "content_hash": "5bbc9537a8eec0ccd4263ad74fd66df8f287c55825cc34ed0d3fed842c0f1cef",
       "title": "UN Welcomes Independent Probe Into Deadly Negombo Prison Violence",
       "sent_at": "2026-07-08T07:30:52Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/act-now-could-cost-you-everything-warns-cbsl",
+      "content_hash": "5b9eba7a8d843ff721bb92158389ebe8ed64e617760364ce56f9b2a98845f056",
+      "title": "'Act Now' Could Cost You Everything, Warns CBSL",
+      "sent_at": "2026-07-08T10:21:50Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/colombo-land-registrar-arrested-over-alleged-involvement-in-organized-land-fraud",
+      "content_hash": "3f8883cea05a518a048dd0bef7ecb1a676df0360bfe8ab51125cd97b269a491b",
+      "title": "Colombo Land Registrar Arrested Over Alleged Involvement in Organized Land Fraud",
+      "sent_at": "2026-07-08T10:21:56Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/former-state-minister-jagath-pushpakumara-arrested",
+      "content_hash": "8ffad02b325d2688b7f9a0b83c9830ad48efdfd683301d4200a77e173582aa04",
+      "title": "Former State Minister Jagath Pushpakumara Arrested",
+      "sent_at": "2026-07-08T10:21:58Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/jagath-pushpakumara-released-on-bail-gets-travel-ban",
+      "content_hash": "38efa30e02849f0b8ea4b25624fcd79274fcdf12a1d4d8c0ce6c4036bcc38970",
+      "title": "Jagath Pushpakumara Released on Bail; Gets Travel Ban",
+      "sent_at": "2026-07-08T10:22:01Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/sri-lanka-vehicle-imports-drop-20-following-new-tax-hike",
+      "content_hash": "a069e4c21b6cad38454c6c834d323604e066d75e1b1caf73a3305d78d9272911",
+      "title": "Sri Lanka Vehicle Imports Drop 20% Following New Tax Hike",
+      "sent_at": "2026-07-08T10:22:08Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/un-report-shows-sri-lanka-rebounding-in-global-investment-race",
+      "content_hash": "163e1343431e694a89cbd1bdb101c519bcb585bf5c8dd870218969e99d1d5731",
+      "title": "UN Report Shows Sri Lanka Rebounding in Global Investment Race",
+      "sent_at": "2026-07-08T10:22:12Z"
+    },
+    {
+      "url": "https://english.newsfirst.lk/2026/07/08/under-16-social-media-controls-under-review-in-sri-lanka",
+      "content_hash": "c05bf7c896442399e63546eca772ac93cb722bf2ef07e259bfe6d9bf0d8ea73e",
+      "title": "Under-16 Social Media Controls Under Review in Sri Lanka",
+      "sent_at": "2026-07-08T10:22:14Z"
     }
   ]
 }
